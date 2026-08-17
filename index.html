@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>IRIS · 이라크 통상·통관 동향 모니터</title>
+<style>
+  :root{--ink:#14181f;--muted:#5b6672;--line:#dfe4ea;--bg:#f5f6f8;--card:#fff;
+    --steel:#2c5f8a;--steel-dk:#1d425f;--amber:#c47d17;--red:#b23b3b;--green:#2f7d55;--chip:#eef2f6}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Segoe UI','Malgun Gothic',sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1180px;margin:0 auto;padding:26px 22px 70px}
+  header.top{display:flex;align-items:center;gap:13px;flex-wrap:wrap;border-bottom:2px solid var(--steel-dk);padding-bottom:13px;margin-bottom:8px}
+  header.top h1{font-size:22px;font-weight:700;color:var(--steel-dk);letter-spacing:-.3px}
+  header.top .sub{font-size:13px;color:var(--muted)}
+  header.top .asof{margin-left:auto;font-size:12px;color:var(--muted);background:var(--chip);padding:5px 11px;border-radius:20px}
+  .note{font-size:12.5px;color:var(--muted);margin-bottom:18px;line-height:1.6}
+
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+  .tab{font-size:13.5px;font-weight:600;padding:9px 16px;border:1.5px solid var(--line);border-radius:9px;
+    background:#fff;color:var(--muted);cursor:pointer;font-family:inherit}
+  .tab.on{background:var(--steel);border-color:var(--steel);color:#fff}
+  .pane{display:none}.pane.on{display:block}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:14px;
+    box-shadow:0 1px 3px rgba(20,30,45,.05)}
+  .card h2{font-size:14.5px;font-weight:700;color:var(--steel-dk);margin-bottom:12px;display:flex;align-items:center;gap:8px}
+
+  .item{border-left:4px solid var(--line);padding:12px 0 12px 15px;margin-bottom:14px}
+  .item.critical{border-color:var(--red)} .item.warn{border-color:var(--amber)} .item.info{border-color:var(--steel)}
+  .item .tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:10px;margin-bottom:6px}
+  .critical .tag{background:#fdeaea;color:var(--red)} .warn .tag{background:#fdf6e7;color:var(--amber)} .info .tag{background:#eaf1f8;color:var(--steel)}
+  .item h3{font-size:14.5px;font-weight:700;margin-bottom:7px}
+  .item p{font-size:13.5px;line-height:1.72;color:#333;margin-bottom:8px}
+  .item .impact{background:#f7f9fb;border-radius:8px;padding:9px 12px;font-size:13px;line-height:1.65}
+  .item .impact b{color:var(--steel-dk)}
+  .item .links{margin-top:8px}
+  .item .links a{font-size:12px;color:var(--steel);text-decoration:none;margin-right:12px;border-bottom:1px dotted var(--steel)}
+  .item .links a:hover{color:var(--steel-dk)}
+  .item .links a .dt{color:var(--muted);font-weight:600;margin-left:5px;font-size:11.5px}
+  .item .asof-b{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:10px;
+    background:#eef2f6;color:var(--muted);margin-left:6px}
+  .item h3 .refresh{float:right;font-size:11.5px;font-weight:700;padding:4px 11px;border-radius:14px;
+    background:#eef4fa;color:var(--steel);text-decoration:none;border:1px solid #cfe0ee}
+  .item h3 .refresh:hover{background:var(--steel);color:#fff;border-color:var(--steel)}
+  td .upd{display:block;font-size:11px;color:var(--muted);font-weight:600;margin-top:2px}
+
+  table.src{width:100%;border-collapse:collapse;font-size:13px}
+  table.src th{text-align:left;padding:9px 11px;background:#f4f7fa;color:var(--steel-dk);font-size:12px;font-weight:700;border-bottom:1px solid var(--line)}
+  table.src td{padding:10px 11px;border-bottom:1px solid var(--line);vertical-align:top}
+  table.src tr:hover{background:#f8fafc}
+  table.src a{color:var(--steel-dk);font-weight:600;text-decoration:none}
+  table.src a:hover{text-decoration:underline}
+  .lang{font-size:11px;padding:2px 7px;border-radius:9px;background:var(--chip);color:var(--muted);font-weight:600;white-space:nowrap}
+  .freq{font-size:11px;padding:2px 8px;border-radius:9px;font-weight:700;white-space:nowrap}
+  .freq.일{background:#fdeaea;color:var(--red)} .freq.주{background:#fdf6e7;color:var(--amber)}
+  .freq.월{background:#eaf1f8;color:var(--steel)} .freq.분기,.freq.수시{background:#eef2f6;color:var(--muted)}
+
+  .chk{display:flex;align-items:flex-start;gap:9px;padding:8px 0;font-size:13.5px;border-bottom:1px solid #f0f2f5}
+  .chk input{margin-top:3px;width:16px;height:16px;cursor:pointer}
+  .chk label{cursor:pointer;line-height:1.5}
+  .chk input:checked + label{color:var(--muted);text-decoration:line-through}
+  .grp{margin-bottom:16px}
+  .grp .gh{font-size:12.5px;font-weight:700;color:#fff;background:var(--steel-dk);display:inline-block;padding:3px 12px;border-radius:12px;margin-bottom:8px}
+
+  .kw{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 4px}
+  .kw a{font-size:12.5px;padding:6px 12px;border:1px solid var(--line);border-radius:16px;background:#fff;
+    color:var(--steel-dk);text-decoration:none;font-weight:600}
+  .kw a:hover{background:var(--steel);color:#fff;border-color:var(--steel)}
+  .kwg{margin-bottom:14px}
+  .kwg .kt{font-size:12.5px;font-weight:700;color:var(--muted);margin-bottom:2px}
+  .foot{font-size:11.5px;color:var(--muted);text-align:center;margin-top:24px;line-height:1.75}
+  @media(max-width:720px){table.src{font-size:12px}header.top .asof{width:100%;margin:0}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>IRIS</h1>
+    <span class="sub">이라크 수출입·통관 제도 및 물류 동향 모니터</span>
+    <span class="asof">현황 조사 기준: 2026-08-17</span>
+  </header>
+  <div class="note">
+    이라크의 면세·관세·통관 제도와 수출입 여건 변화를 추적하는 공개 정보 모니터입니다.
+    <b>현황 브리핑</b>은 조사 시점의 정리이며, 이후 변동은 <b>정보원</b> 탭의 출처에서 직접 확인해야 합니다.
+  </div>
+
+  <div class="tabs">
+    <button class="tab on" data-p="brief">📌 현황 브리핑</button>
+    <button class="tab" data-p="src">🔗 정보원</button>
+    <button class="tab" data-p="chk">✅ 점검 체크리스트</button>
+    <button class="tab" data-p="kw">🔍 검색 키워드</button>
+  </div>
+
+  <div class="pane on" id="p-brief"><div class="card"><h2>📌 주요 변화 및 영향</h2><div style="font-size:12.5px;color:var(--muted);background:#f7f9fb;border-radius:8px;padding:10px 13px;margin-bottom:16px;line-height:1.6">각 항목의 <b>[최신 출처] 배지</b>와 하단 링크의 <b>발행일</b>로 정보의 신선도를 확인하실 수 있습니다. 날짜가 오래된 항목은 그 사이 상황이 바뀌었을 수 있으므로 원문에서 재확인하시기 바랍니다. 각 항목의 <b>🔄 최신 확인</b> 버튼을 누르면 해당 주제의 <b>최근 7일 뉴스 검색</b>이 새 창으로 열립니다. <b>조사 수행일: 2026-08-17</b></div><div class="item critical"><span class="tag">중요</span><span class="asof-b">최신 출처 2026-08-17</span>
+      <h3>호르무즈 해협 사실상 봉쇄 — 8월 17일 현재 지속<a class="refresh" href="https://news.google.com/search?q=Strait+of+Hormuz+shipping+status%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>2월 말 미국·이스라엘의 이란 공격 이후 이란이 해협 폐쇄를 선언, <b>반년 가까이 상업 운항이 사실상 중단</b>됐습니다. 8월 9일 통항 선박은 <b>단 1척</b>(평시 하루 약 73척). 이란-오만이 임시 항로를 협의 중이나 미-이란 협상은 교착 상태입니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 걸프 직항이 막혀 움카사르 입항 자체가 최대 변수입니다. 희망봉 우회 시 10~14일 추가되고, 선사들은 이라크행에 긴급 할증과 전쟁위험할증료(TEU당 $1,500 수준)를 부과했습니다. 발주 리드타임과 운임 예산의 전면 재점검이 필요합니다.</div>
+      <div class="links"><a href="https://straits.live/" target="_blank" rel="noopener">straits.live · 실시간<span class="dt">2026-08-17</span> ↗</a><a href="https://www.cnn.com/2026/08/13/world/live-news/iran-war-trump" target="_blank" rel="noopener">CNN<span class="dt">2026-08-13</span> ↗</a><a href="https://carraglobe.com/strait-of-hormuz-closure-2026/" target="_blank" rel="noopener">Carra Globe<span class="dt">2026-07 말</span> ↗</a></div></div><div class="item critical"><span class="tag">중요</span><span class="asof-b">최신 출처 2026-08-13</span>
+      <h3>신정부 출범 — 알자이디 총리 (5월 14일)<a class="refresh" href="https://news.google.com/search?q=Iraq+al-Zaidi+government+policy%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>수다니 총리가 물러나고 <b>알리 팔레 알자이디</b>(1986년생, 은행가·기업인 출신)가 취임했습니다. 8월 13일 내각이 <b>2026~2029 국정운영계획</b>을 승인 — 14개 분야 139개 우선과제로, <b>국경통관 일원화·규제, 국가 디지털전환, 최고투자위원회(Supreme Investment Council) 신설</b>이 포함됐습니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 통관·투자 제도가 다시 손질될 가능성이 큽니다. 특히 '국경통관 일원화'와 최고투자위 신설은 투자 프로젝트 면세 승인 절차에 영향을 줄 수 있어 추적이 필요합니다.</div>
+      <div class="links"><a href="https://www.iraq-businessnews.com/2026/08/13/iraqi-cabinet-approves-government-programme/" target="_blank" rel="noopener">Iraq Business News<span class="dt">2026-08-13</span> ↗</a><a href="https://www.atlanticcouncil.org/dispatches/iraqs-new-prime-minister-must-sell-iraq-to-a-skeptical-washington/" target="_blank" rel="noopener">Atlantic Council<span class="dt">2026-07-11</span> ↗</a></div></div><div class="item critical"><span class="tag">중요</span><span class="asof-b">최신 출처 2026-06-04</span>
+      <h3>석유 수출 70% 급감 — 재정 압박 심화<a class="refresh" href="https://news.google.com/search?q=Iraq+oil+exports+Basra%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>해협 봉쇄로 <b>바스라주 산유 대부분이 중단</b>됐습니다. 이라크 수출의 약 3분의 2에 해당하는 일 330만 배럴 규모입니다. 미국은 이라크에 대한 일부 달러 자산 이전을 2026년 초부터 보류 중입니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 재정 수입 급감은 비석유 세수 확보 압박으로 이어집니다. 관세 강화 기조가 계속될 가능성이 높고, 공공 발주처의 대금 지급 일정에도 영향을 줄 수 있습니다.</div>
+      <div class="links"><a href="https://thesoufancenter.org/intelbrief-2026-june-4/" target="_blank" rel="noopener">Soufan Center<span class="dt">2026-06-04</span> ↗</a></div></div><div class="item critical"><span class="tag">중요</span><span class="asof-b">최신 출처 2026-02-07</span>
+      <h3>내각결정 957호 — 관세 체계 전면 개편 (계속 시행 중)<a class="refresh" href="https://news.google.com/search?q=Iraq+customs+tariff+Decision+957%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>2026년 1월 시행. 컨테이너당 <b>정액 관세가 폐지</b>되고 품목별 HS Code 기준 종가세(0.5~30%)로 전환. 전체 <b>99개 장·약 16,400개 세번</b>에 적용되며 모든 국경통관소에 통일 적용됩니다. 산업 원자재 0.5~2%, 전기·가정용품 10~15% 수준.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 수입 자재는 품목별로 세율이 재산정됩니다. HS Code 분류가 통관 비용을 직접 결정하므로 인보이스·패킹리스트의 품목 기재 정확도가 이전보다 훨씬 중요해졌습니다.</div>
+      <div class="links"><a href="https://shafaq.com/en/Report/Explainer-Iraq-s-updated-customs-tariffs-legal-dispute-and-market-impact" target="_blank" rel="noopener">Shafaq News<span class="dt">2026-02-07</span> ↗</a><a href="https://www.iraq-businessnews.com/2026/01/08/new-customs-rules-in-force-at-umm-qasr-port/" target="_blank" rel="noopener">Iraq Business News<span class="dt">2026-01-08</span> ↗</a></div></div><div class="item critical"><span class="tag">중요</span><span class="asof-b">최신 출처 2026-07-15</span>
+      <h3>ASYCUDA 사전신고 의무 + 선급관세·달러배정 연동<a class="refresh" href="https://news.google.com/search?q=Iraq+ASYCUDA+pre-declaration+customs%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>선적 전 은행 시스템을 통한 <b>사전신고(HS Code·금액·원산지·인코텀즈)가 의무</b>이며 종이 신고서는 폐지. 나아가 <b>선급 관세를 납부하지 않으면 은행이 송금·L/C를 실행할 수 없습니다.</b> 사전신고를 하지 않은 화물은 ASYCUDA가 과거 통관 데이터로 가액을 추정하는데, 2022~2025년 환율 차익용으로 부풀려진 인보이스가 그 DB에 남아 있어 과다 과세 분쟁이 발생하고 있습니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 통관 절차가 곧 대금 지급의 전제조건입니다. 사전신고 내용과 실제 B/L·패킹리스트가 어긋나면 통관·송금이 함께 막힙니다.</div>
+      <div class="links"><a href="https://www.iraq-businessnews.com/2026/03/11/report-iraqs-2026-customs-reset/" target="_blank" rel="noopener">KAPITA / IBN<span class="dt">2026-03-11</span> ↗</a><a href="https://tendify.net/iraq-customs-clearance-2026-full-tariffs-taxes-document-checklist-for-oilfield-equipment-and-bulk-commodities/" target="_blank" rel="noopener">Tendify<span class="dt">2026-07-15</span> ↗</a></div></div><div class="item warn"><span class="tag">주의</span><span class="asof-b">최신 출처 2026-07-02</span>
+      <h3>움카사르 적체 — 완화됐으나 통관 예외조치 병행 중<a class="refresh" href="https://news.google.com/search?q=Umm+Qasr+port+congestion%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>연초 5만 개 이상 적체 후 보관료 인하로 일 2,500개까지 처리량 회복. 3월 5일 관세청이 <b>화물 흐름 촉진을 위한 임시 예외조치</b>를 발표했습니다(총리 지시 + 역내 특수상황 대응). 7월에는 <b>걸프타이너가 UAE~움카사르 전용 피더 서비스</b>를 개시했습니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 적체는 완화 국면이나 예외조치는 한시적입니다. 피더 서비스 신설은 해협 우회 시 대안 항로가 될 수 있어 검토 가치가 있습니다.</div>
+      <div class="links"><a href="https://www.iraq-businessnews.com/tag/ports/" target="_blank" rel="noopener">Iraq Business News<span class="dt">2026-07-02</span> ↗</a><a href="https://shafaq.com/en/Economy/Iraq-s-top-port-clears-50-000-container-backlog-after-tariff-rollout" target="_blank" rel="noopener">Shafaq News<span class="dt">2026-02-26</span> ↗</a></div></div><div class="item warn"><span class="tag">주의</span><span class="asof-b">최신 출처 2026-08-16</span>
+      <h3>환율 — 공식 1,300 / 병행시장 약 1,530 (프리미엄 16~17%)<a class="refresh" href="https://news.google.com/search?q=Iraq+dinar+parallel+market+rate%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>2026년 예산 공식환율 <b>USD 1 = 1,300 IQD</b>(2025년 1,320). 병행시장은 8월 16일 기준 100달러당 152,750~153,250 IQD로 <b>16~17% 프리미엄</b>이 지속. 미국의 달러 자산 이전 보류가 압박 요인입니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 현지 조달 및 현지 경비는 병행시장 환율의 영향을 받습니다. 공식환율 기준 예산과 실제 집행 간 괴리 점검이 필요합니다.</div>
+      <div class="links"><a href="https://www.iraqinews.com/iraq/dollar-exchange-rates-baghdad-erbil-basra-august-16-2026/" target="_blank" rel="noopener">Iraqi News<span class="dt">2026-08-16</span> ↗</a><a href="https://en.964media.com/44031/" target="_blank" rel="noopener">964 Media<span class="dt">2026-01-08</span> ↗</a></div></div><div class="item info"><span class="tag">참고</span><span class="asof-b">최신 출처 2026-08-12</span>
+      <h3>WTO 가입 추진 — HS2017 → HS2022 전환 (8월 12일)<a class="refresh" href="https://news.google.com/search?q=Iraq+WTO+accession+tariff%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>무역부가 WTO 가입을 위한 <b>상품양허안(Initial Goods Offer) 갱신</b>에 착수했습니다. 관세율표를 <b>HS2017에서 HS2022로 전환</b>하는 작업이 포함되며, 관세청장 주재로 KRG·민간까지 참여하는 위원회가 가동 중입니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — HS 코드 체계가 바뀌면 수입 품목의 세번과 세율도 재분류됩니다. 기존 HS 코드로 관리하던 자료의 갱신이 필요해질 수 있어 진행 상황을 봐야 합니다.</div>
+      <div class="links"><a href="https://www.iraq-businessnews.com/2026/08/12/iraqs-wto-accession-goods-offer-file-updated/" target="_blank" rel="noopener">Iraq Business News<span class="dt">2026-08-12</span> ↗</a></div></div><div class="item info"><span class="tag">참고</span><span class="asof-b">최신 출처 2026-02</span>
+      <h3>투자법 면세 근거 — 유지<a class="refresh" href="https://news.google.com/search?q=Iraq+investment+law+customs+exemption%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>투자법상 <b>투자 라이선스 취득 후 3년 내 반입 프로젝트 자산은 관세 면제</b>, 예비부품은 고정자산 가액 20% 이내면 기간 제한 없이 면제됩니다. 건설 단계 반입분 면세도 개정으로 명시됐습니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 프로젝트 자재 면세신청의 법적 근거 조항입니다. 반입 기한과 부품 비율 요건을 서류상 관리해야 합니다.</div>
+      <div class="links"><a href="https://investmentpolicy.unctad.org/investment-laws/laws/205/iraq-investment-law-" target="_blank" rel="noopener">UNCTAD<span class="dt">법령 원문</span> ↗</a><a href="https://investpromo.gov.iq/wp-content/uploads/2026/02/Investor-Guide2025.pdf" target="_blank" rel="noopener">NIC 투자자가이드<span class="dt">2026-02</span> ↗</a></div></div><div class="item info"><span class="tag">참고</span><span class="asof-b">최신 출처 2026-03</span>
+      <h3>제도 반발 — 상인 시위·의회 위헌 논쟁 진행 중<a class="refresh" href="https://news.google.com/search?q=Iraq+customs+tariff+protest+parliament%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>바그다드 상인들이 관세청 앞에서 시위했고 컨테이너당 300만 → 최대 1,400만 디나르 인상 주장이 제기됐습니다. 의원들은 <b>헌법 28조(조세법률주의)</b>를 근거로 과도내각의 결정 취소 서명을 모으고 있습니다. 정부는 '이미 법에 있는 세율을 자동화로 집행한 것'이라는 입장입니다.</p>
+      <div class="impact"><b>수입·조달 영향</b> — 제도 재조정 가능성이 남아 있습니다. 확정된 것으로 보고 장기 계획을 세우기보다 변동 여지를 감안하는 편이 안전합니다.</div>
+      <div class="links"><a href="https://shafaq.com/en/Report/Explainer-Iraq-s-updated-customs-tariffs-legal-dispute-and-market-impact" target="_blank" rel="noopener">Shafaq News<span class="dt">2026-02-07</span> ↗</a><a href="https://www.yahoo.com/news/articles/baghdad-traders-protest-customs-tariffs-114117863.html" target="_blank" rel="noopener">AP / Yahoo<span class="dt">2026-03</span> ↗</a></div></div></div></div>
+  <div class="pane" id="p-src"><div class="card"><h2>제도·관세</h2>
+      <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
+      <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
+      <tr><td><a href="https://customs.mof.gov.iq/" target="_blank" rel="noopener">이라크 관세청 (هيئة الكمارك العامة) ↗</a></td>
+      <td style="color:var(--muted)">관세율·통관 규정 원문 공고</td><td><span class="lang">AR</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://mof.gov.iq/" target="_blank" rel="noopener">이라크 재무부 ↗</a></td>
+      <td style="color:var(--muted)">예산·세제 정책</td><td><span class="lang">AR/EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://investpromo.gov.iq/" target="_blank" rel="noopener">국가투자위원회 NIC ↗</a></td>
+      <td style="color:var(--muted)">투자법 면세 규정·투자자 가이드</td><td><span class="lang">AR/EN</span></td>
+      <td><span class="freq 월">월</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://investpromo.gov.iq/wp-content/uploads/2026/02/Investor-Guide2025.pdf" target="_blank" rel="noopener">NIC 투자자 가이드 (PDF) ↗</a></td>
+      <td style="color:var(--muted)">면세 조건 상세 — 프로젝트 자산 면세 근거</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 분기">분기</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://moj.gov.iq/" target="_blank" rel="noopener">이라크 관보 (الوقائع العراقية) ↗</a></td>
+      <td style="color:var(--muted)">법령·내각결정 공식 게재</td><td><span class="lang">AR</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://investmentpolicy.unctad.org/investment-laws/laws/205/iraq-investment-law-" target="_blank" rel="noopener">UNCTAD 투자법 DB ↗</a></td>
+      <td style="color:var(--muted)">투자법 영문 전문</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 분기">분기</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr></table></div><div class="card"><h2>통관·항만 운영</h2>
+      <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
+      <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
+      <tr><td><a href="https://scp.gov.iq/" target="_blank" rel="noopener">이라크 항만공사 (الموانئ العراقية) ↗</a></td>
+      <td style="color:var(--muted)">움카사르 운영 공지·요율</td><td><span class="lang">AR/EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://straits.live/" target="_blank" rel="noopener">호르무즈 해협 실시간 트래커 ↗</a></td>
+      <td style="color:var(--muted)">통항 선박 수·유가 실시간 (5분 갱신) — 현 최우선 지표</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.seavantage.com/blog/strait-of-hormuz-crisis-2026-shipping-disruption-timeline" target="_blank" rel="noopener">Sea Vantage 해협 위기 타임라인 ↗</a></td>
+      <td style="color:var(--muted)">선사별 할증·항로 변경 이력</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.gac.com/hot-port-news/update-on-the-middle-east-situation" target="_blank" rel="noopener">GAC Hot Port News ↗</a></td>
+      <td style="color:var(--muted)">움카사르·코르주바이르 선석 운영 현황 (거의 실시간)</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.gocomet.com/real-time-port-congestion/iraq" target="_blank" rel="noopener">GoComet 항만 지연 ↗</a></td>
+      <td style="color:var(--muted)">이라크 항만 대기일수 지표</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.cma-cgm.com/ebusiness/schedules" target="_blank" rel="noopener">CMA CGM 움카사르 스케줄 ↗</a></td>
+      <td style="color:var(--muted)">선박 입항 스케줄</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 수시">수시</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://asycuda.org/" target="_blank" rel="noopener">ASYCUDA (UNCTAD) ↗</a></td>
+      <td style="color:var(--muted)">전자통관 시스템 공식</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 월">월</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr></table></div><div class="card"><h2>경제·환율</h2>
+      <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
+      <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
+      <tr><td><a href="https://cbi.iq/" target="_blank" rel="noopener">이라크 중앙은행 CBI ↗</a></td>
+      <td style="color:var(--muted)">공식환율·외환경매·통화정책</td><td><span class="lang">AR/EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://tradingeconomics.com/iraq/currency" target="_blank" rel="noopener">Trading Economics — Iraq ↗</a></td>
+      <td style="color:var(--muted)">USD/IQD·물가·금리 지표</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.iraqinews.com/" target="_blank" rel="noopener">Iraqi News — 환율 ↗</a></td>
+      <td style="color:var(--muted)">바그다드·바스라·아르빌 병행시장 시세 (일일)</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.imf.org/en/Countries/IRQ" target="_blank" rel="noopener">IMF Iraq ↗</a></td>
+      <td style="color:var(--muted)">국가보고서·경제전망</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 분기">분기</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.worldbank.org/en/country/iraq" target="_blank" rel="noopener">World Bank Iraq ↗</a></td>
+      <td style="color:var(--muted)">경제 모니터 보고서</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 분기">분기</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr></table></div><div class="card"><h2>원자재·해상운임</h2>
+      <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
+      <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
+      <tr><td><a href="https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry" target="_blank" rel="noopener">Drewry WCI 운임지수 ↗</a></td>
+      <td style="color:var(--muted)">주간 컨테이너 운임 (아시아→중동 참고)</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://terminal.freightos.com/freightos-baltic-index-global-container-pricing-index/" target="_blank" rel="noopener">Freightos FBX 지수 ↗</a></td>
+      <td style="color:var(--muted)">실시간 항로별 컨테이너 운임</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.lme.com/" target="_blank" rel="noopener">LME 금속 시세 ↗</a></td>
+      <td style="color:var(--muted)">알루미늄·구리 등 비철금속</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.steelorbis.com/steel-news/middle-east/" target="_blank" rel="noopener">SteelOrbis 중동 ↗</a></td>
+      <td style="color:var(--muted)">철강·철근 가격 동향</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://tradingeconomics.com/commodities" target="_blank" rel="noopener">Trading Economics 원자재 ↗</a></td>
+      <td style="color:var(--muted)">유가·금속·목재 종합</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr></table></div><div class="card"><h2>뉴스·분석</h2>
+      <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
+      <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
+      <tr><td><a href="https://www.iraq-businessnews.com/" target="_blank" rel="noopener">Iraq Business News ↗</a></td>
+      <td style="color:var(--muted)">통관·물류·건설 실무 뉴스 (최우선 추천)</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://shafaq.com/en/Economy" target="_blank" rel="noopener">Shafaq News — Economy ↗</a></td>
+      <td style="color:var(--muted)">관세·항만·예산 속보</td><td><span class="lang">EN/AR</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.iraqinews.com/" target="_blank" rel="noopener">Iraqi News ↗</a></td>
+      <td style="color:var(--muted)">정치·경제 종합</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://en.964media.com/" target="_blank" rel="noopener">964 Media ↗</a></td>
+      <td style="color:var(--muted)">현지 밀착 보도</td><td><span class="lang">EN/AR</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://research.kapita.iq/" target="_blank" rel="noopener">KAPITA Research ↗</a></td>
+      <td style="color:var(--muted)">이라크 시장 심층 리포트</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 월">월</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.rudaw.net/english/business" target="_blank" rel="noopener">Rudaw Business ↗</a></td>
+      <td style="color:var(--muted)">쿠르드 지역 포함 경제</td><td><span class="lang">EN</span></td>
+      <td><span class="freq 일">일</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr></table></div><div class="card"><h2>한국 측 정보</h2>
+      <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
+      <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
+      <tr><td><a href="https://dream.kotra.or.kr/" target="_blank" rel="noopener">KOTRA 해외시장뉴스 ↗</a></td>
+      <td style="color:var(--muted)">이라크 무역·통관 한글 리포트</td><td><span class="lang">KR</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.kita.net/" target="_blank" rel="noopener">한국무역협회 KITA ↗</a></td>
+      <td style="color:var(--muted)">수출입 통계·무역애로</td><td><span class="lang">KR</span></td>
+      <td><span class="freq 월">월</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://overseas.mofa.go.kr/iq-ko/index.do" target="_blank" rel="noopener">주이라크 대한민국대사관 ↗</a></td>
+      <td style="color:var(--muted)">공관 공지·안전정보</td><td><span class="lang">KR</span></td>
+      <td><span class="freq 주">주</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr><tr><td><a href="https://www.spidc.go.kr/" target="_blank" rel="noopener">해양수산부 해운항만물류정보 ↗</a></td>
+      <td style="color:var(--muted)">해상운임·물류 지수</td><td><span class="lang">KR</span></td>
+      <td><span class="freq 월">월</span></td>
+      <td style="font-size:11.5px;color:var(--muted);white-space:nowrap">2026-08-17</td></tr></table></div></div>
+  <div class="pane" id="p-chk"><div class="card"><h2>✅ 주기별 점검 항목</h2><div class="grp"><span class="gh">일간</span><div class="chk"><input type="checkbox" id="c1"><label for="c1">호르무즈 해협 통항 상태 (straits.live)</label></div><div class="chk"><input type="checkbox" id="c2"><label for="c2">GAC Hot Port News — 움카사르 선석 운영 상태</label></div><div class="chk"><input type="checkbox" id="c3"><label for="c3">병행시장 환율 (바그다드·바스라)</label></div><div class="chk"><input type="checkbox" id="c4"><label for="c4">Iraq Business News 헤드라인</label></div></div><div class="grp"><span class="gh">주간</span><div class="chk"><input type="checkbox" id="c5"><label for="c5">관세청 신규 공고 (세율·절차 변경)</label></div><div class="chk"><input type="checkbox" id="c6"><label for="c6">신정부 국정계획 이행 — 통관 일원화·최고투자위 동향</label></div><div class="chk"><input type="checkbox" id="c7"><label for="c7">항만공사 공지 (요율·보관료)</label></div><div class="chk"><input type="checkbox" id="c8"><label for="c8">Drewry / Freightos 운임지수</label></div><div class="chk"><input type="checkbox" id="c9"><label for="c9">철강·알루미늄 시세</label></div></div><div class="grp"><span class="gh">월간</span><div class="chk"><input type="checkbox" id="c10"><label for="c10">WTO 가입 협상 — HS2022 전환 진행 상황</label></div><div class="chk"><input type="checkbox" id="c11"><label for="c11">NIC 투자법·면세 규정 변경 여부</label></div><div class="chk"><input type="checkbox" id="c12"><label for="c12">CBI 통화정책·외환경매 동향</label></div><div class="chk"><input type="checkbox" id="c13"><label for="c13">KOTRA 이라크 시장뉴스</label></div></div><div class="grp"><span class="gh">분기</span><div class="chk"><input type="checkbox" id="c14"><label for="c14">IMF·World Bank 이라크 보고서</label></div><div class="chk"><input type="checkbox" id="c15"><label for="c15">예산·세제 개편 동향</label></div><div class="chk"><input type="checkbox" id="c16"><label for="c16">면세 적용 실적 및 거부 사례 정리</label></div></div></div></div>
+  <div class="pane" id="p-kw"><div class="card"><h2>🔍 언어별 검색 키워드</h2><div style="font-size:12.5px;color:var(--muted);margin-bottom:12px">클릭하면 구글 검색이 새 창으로 열립니다. 아랍어 검색이 현지 1차 정보에 가장 빠릅니다.</div><div class="kwg"><div class="kt">AR (아랍어)</div><div class="kw"><a href="https://www.google.com/search?q=الكمارك+العراقية&tbs=qdr:m" target="_blank" rel="noopener">الكمارك العراقية</a><a href="https://www.google.com/search?q=التعرفة+الكمركية&tbs=qdr:m" target="_blank" rel="noopener">التعرفة الكمركية</a><a href="https://www.google.com/search?q=قرار+957&tbs=qdr:m" target="_blank" rel="noopener">قرار 957</a><a href="https://www.google.com/search?q=الإعفاء+الكمركي&tbs=qdr:m" target="_blank" rel="noopener">الإعفاء الكمركي</a><a href="https://www.google.com/search?q=ميناء+أم+قصر&tbs=qdr:m" target="_blank" rel="noopener">ميناء أم قصر</a><a href="https://www.google.com/search?q=هيئة+الاستثمار+الوطنية&tbs=qdr:m" target="_blank" rel="noopener">هيئة الاستثمار الوطنية</a><a href="https://www.google.com/search?q=سعر+الصرف+الموازي&tbs=qdr:m" target="_blank" rel="noopener">سعر الصرف الموازي</a><a href="https://www.google.com/search?q=أسيكودا&tbs=qdr:m" target="_blank" rel="noopener">أسيكودا</a><a href="https://www.google.com/search?q=مضيق+هرمز&tbs=qdr:m" target="_blank" rel="noopener">مضيق هرمز</a><a href="https://www.google.com/search?q=حكومة+الزيدي&tbs=qdr:m" target="_blank" rel="noopener">حكومة الزيدي</a></div></div><div class="kwg"><div class="kt">EN (영어)</div><div class="kw"><a href="https://www.google.com/search?q=Iraq+customs+tariff&tbs=qdr:m" target="_blank" rel="noopener">Iraq customs tariff</a><a href="https://www.google.com/search?q=Decision+957&tbs=qdr:m" target="_blank" rel="noopener">Decision 957</a><a href="https://www.google.com/search?q=ASYCUDA+Iraq&tbs=qdr:m" target="_blank" rel="noopener">ASYCUDA Iraq</a><a href="https://www.google.com/search?q=Umm+Qasr+congestion&tbs=qdr:m" target="_blank" rel="noopener">Umm Qasr congestion</a><a href="https://www.google.com/search?q=Iraq+customs+exemption&tbs=qdr:m" target="_blank" rel="noopener">Iraq customs exemption</a><a href="https://www.google.com/search?q=NIC+investment+license&tbs=qdr:m" target="_blank" rel="noopener">NIC investment license</a><a href="https://www.google.com/search?q=IQD+parallel+market&tbs=qdr:m" target="_blank" rel="noopener">IQD parallel market</a><a href="https://www.google.com/search?q=Strait+of+Hormuz+shipping&tbs=qdr:m" target="_blank" rel="noopener">Strait of Hormuz shipping</a><a href="https://www.google.com/search?q=al-Zaidi+government+policy&tbs=qdr:m" target="_blank" rel="noopener">al-Zaidi government policy</a><a href="https://www.google.com/search?q=Iraq+WTO+accession+HS2022&tbs=qdr:m" target="_blank" rel="noopener">Iraq WTO accession HS2022</a></div></div><div class="kwg"><div class="kt">KR (한국어)</div><div class="kw"><a href="https://www.google.com/search?q=이라크+관세&tbs=qdr:m" target="_blank" rel="noopener">이라크 관세</a><a href="https://www.google.com/search?q=이라크+통관&tbs=qdr:m" target="_blank" rel="noopener">이라크 통관</a><a href="https://www.google.com/search?q=움카사르&tbs=qdr:m" target="_blank" rel="noopener">움카사르</a><a href="https://www.google.com/search?q=이라크+면세&tbs=qdr:m" target="_blank" rel="noopener">이라크 면세</a><a href="https://www.google.com/search?q=이라크+환율&tbs=qdr:m" target="_blank" rel="noopener">이라크 환율</a><a href="https://www.google.com/search?q=이라크+건설+자재&tbs=qdr:m" target="_blank" rel="noopener">이라크 건설 자재</a><a href="https://www.google.com/search?q=호르무즈+해협+물류&tbs=qdr:m" target="_blank" rel="noopener">호르무즈 해협 물류</a><a href="https://www.google.com/search?q=이라크+신정부&tbs=qdr:m" target="_blank" rel="noopener">이라크 신정부</a></div></div></div></div>
+
+  <div class="foot">
+    링크 클릭 시 해당 사이트로 이동합니다 · 체크리스트는 이 창에서만 유지됩니다<br>
+    제도·시세 정보는 변동되므로 중요한 의사결정 전에는 반드시 원문 출처에서 최신 내용을 확인하시기 바랍니다.
+  </div>
+</div>
+<script>
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+  document.querySelectorAll('.pane').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');
+  document.getElementById('p-'+b.dataset.p).classList.add('on');
+});
+</script>
+</body></html>
