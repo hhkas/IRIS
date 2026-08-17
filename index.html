@@ -70,6 +70,17 @@
   .kw a:hover{background:var(--steel);color:#fff;border-color:var(--steel)}
   .kwg{margin-bottom:14px}
   .kwg .kt{font-size:12.5px;font-weight:700;color:var(--muted);margin-bottom:2px}
+  .nrow{display:flex;gap:11px;align-items:flex-start;padding:10px 0;border-bottom:1px solid #f0f2f5}
+  .nrow .nd{font-size:11.5px;color:var(--muted);font-weight:700;white-space:nowrap;min-width:74px;padding-top:2px}
+  .nrow .nt{flex:1}
+  .nrow .nt a{color:var(--ink);text-decoration:none;font-size:13.5px;font-weight:600;line-height:1.5}
+  .nrow .nt a:hover{color:var(--steel);text-decoration:underline}
+  .nrow .nm{font-size:11.5px;color:var(--muted);margin-top:3px}
+  .nrow .nc{font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:10px;background:var(--chip);color:var(--steel-dk);white-space:nowrap}
+  .nf{font-size:12.5px;font-weight:600;padding:6px 13px;border:1.5px solid var(--line);border-radius:16px;
+    background:#fff;color:var(--muted);cursor:pointer;font-family:inherit}
+  .nf.on{background:var(--steel);border-color:var(--steel);color:#fff}
+  .nempty{padding:26px;text-align:center;color:var(--muted);font-size:13px;line-height:1.7}
   .foot{font-size:11.5px;color:var(--muted);text-align:center;margin-top:24px;line-height:1.75}
   @media(max-width:720px){table.src{font-size:12px}header.top .asof{width:100%;margin:0}}
 </style>
@@ -88,6 +99,7 @@
 
   <div class="tabs">
     <button class="tab on" data-p="brief">📌 현황 브리핑</button>
+    <button class="tab" data-p="news">📰 최근 뉴스 <span id="news-badge" style="font-size:10.5px;opacity:.75"></span></button>
     <button class="tab" data-p="src">🔗 정보원</button>
     <button class="tab" data-p="chk">✅ 점검 체크리스트</button>
     <button class="tab" data-p="kw">🔍 검색 키워드</button>
@@ -124,6 +136,17 @@
       <h3>제도 반발 — 상인 시위·의회 위헌 논쟁 진행 중<a class="refresh" href="https://news.google.com/search?q=Iraq+customs+tariff+protest+parliament%20when%3A7d&hl=ko" target="_blank" rel="noopener" title="최근 7일 뉴스 검색">🔄 최신 확인</a></h3><p>바그다드 상인들이 관세청 앞에서 시위했고 컨테이너당 300만 → 최대 1,400만 디나르 인상 주장이 제기됐습니다. 의원들은 <b>헌법 28조(조세법률주의)</b>를 근거로 과도내각의 결정 취소 서명을 모으고 있습니다. 정부는 '이미 법에 있는 세율을 자동화로 집행한 것'이라는 입장입니다.</p>
       <div class="impact"><b>수입·조달 영향</b> — 제도 재조정 가능성이 남아 있습니다. 확정된 것으로 보고 장기 계획을 세우기보다 변동 여지를 감안하는 편이 안전합니다.</div>
       <div class="links"><a href="https://shafaq.com/en/Report/Explainer-Iraq-s-updated-customs-tariffs-legal-dispute-and-market-impact" target="_blank" rel="noopener">Shafaq News<span class="dt">2026-02-07</span> ↗</a><a href="https://www.yahoo.com/news/articles/baghdad-traders-protest-customs-tariffs-114117863.html" target="_blank" rel="noopener">AP / Yahoo<span class="dt">2026-03</span> ↗</a></div></div></div></div>
+  <div class="pane" id="p-news">
+    <div class="card">
+      <h2>📰 자동 수집 뉴스 <span id="news-upd" style="font-size:11.5px;font-weight:600;color:var(--muted)"></span></h2>
+      <div style="font-size:12.5px;color:var(--muted);background:#f7f9fb;border-radius:8px;padding:10px 13px;margin-bottom:14px;line-height:1.6">
+        관세·통관·항만·환율·투자 관련 뉴스를 <b>하루 1회 자동 수집</b>합니다(최근 30일, 한국어·영어·아랍어).
+        제목과 링크만 모은 목록이므로, 내용 판단은 <b>현황 브리핑</b> 탭을 함께 보시기 바랍니다.
+      </div>
+      <div id="news-filter" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px"></div>
+      <div id="news-list"></div>
+    </div>
+  </div>
   <div class="pane" id="p-src"><div class="card"><h2>제도·관세</h2>
       <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
       <th style="width:58px">주기</th><th style="width:86px">최근 확인</th></tr>
@@ -251,6 +274,42 @@
   </div>
 </div>
 <script>
+// ── 자동 수집 뉴스 (news.json) ──
+let NEWS=[], NCAT='전체';
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function renderNews(){
+  const box=document.getElementById('news-list');
+  const rows=NEWS.filter(n=>NCAT==='전체'||n.cat===NCAT);
+  if(!rows.length){ box.innerHTML='<div class="nempty">표시할 뉴스가 없습니다.</div>'; return; }
+  box.innerHTML=rows.map(n=>`<div class="nrow">
+    <div class="nd">${esc(n.date||'—')}</div>
+    <div class="nt"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)} ↗</a>
+      <div class="nm">${esc(n.source||'')}</div></div>
+    <div><span class="nc">${esc(n.cat)}</span></div></div>`).join('');
+}
+function renderFilter(){
+  const cats=['전체',...[...new Set(NEWS.map(n=>n.cat))]];
+  const f=document.getElementById('news-filter');
+  f.innerHTML=cats.map(c=>`<button class="nf${c===NCAT?' on':''}" data-c="${esc(c)}">${esc(c)} ${c==='전체'?NEWS.length:NEWS.filter(n=>n.cat===c).length}</button>`).join('');
+  f.querySelectorAll('.nf').forEach(b=>b.onclick=()=>{NCAT=b.dataset.c;renderFilter();renderNews();});
+}
+(async()=>{
+  const box=document.getElementById('news-list');
+  try{
+    const res=await fetch('news.json?t='+Date.now(),{cache:'no-store'});
+    if(!res.ok) throw new Error('news.json 없음');
+    const j=await res.json();
+    NEWS=j.items||[];
+    document.getElementById('news-upd').textContent='· 최종 수집 '+(j.updated||'');
+    document.getElementById('news-badge').textContent=NEWS.length?'('+NEWS.length+')':'';
+    renderFilter(); renderNews();
+  }catch(e){
+    box.innerHTML='<div class="nempty"><b>자동 수집 뉴스를 불러오지 못했습니다.</b><br>'
+      +'이 기능은 GitHub Pages 등 웹 게시 환경에서 동작합니다.<br>'
+      +'파일을 직접 열어 보는 경우에는 표시되지 않으며, 현황 브리핑과 정보원 탭은 정상 이용 가능합니다.</div>';
+  }
+})();
+
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
   document.querySelectorAll('.pane').forEach(x=>x.classList.remove('on'));
