@@ -226,6 +226,30 @@
       <div id="news-filter" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px"></div>
       <div id="news-list"></div>
     </div>
+
+    <div class="card">
+      <h2>📋 브리핑 갱신 요청 만들기</h2>
+      <div style="font-size:12.5px;color:var(--muted);background:#f7f9fb;border-radius:8px;padding:10px 13px;margin-bottom:14px;line-height:1.7">
+        아래 버튼을 누르면, 수집된 뉴스 중 <b>기존 브리핑 항목과 일치하지 않는 최신 기사</b>를 추려
+        Claude에게 보낼 요청 문구를 만들어 드립니다. 문구를 복사해 대화창에 붙여넣으면
+        새 브리핑을 조사·작성해 드립니다. <b>이 과정은 비용이 들지 않으며</b>, 자동으로 전송되지 않고
+        복사해서 직접 붙여넣으셔야 합니다.
+      </div>
+      <button class="go alt" id="mkreq" style="font-size:13.5px;padding:10px 18px;border-color:var(--steel);color:var(--steel)">📋 갱신 요청 만들기</button>
+      <div id="reqbox" style="display:none;margin-top:14px">
+        <div style="font-size:12px;font-weight:700;color:var(--muted);margin-bottom:6px" id="reqcount"></div>
+        <textarea id="reqtext" readonly style="width:100%;min-height:220px;font-size:12.5px;line-height:1.6;
+          padding:12px;border:1.5px solid var(--line);border-radius:9px;font-family:inherit;color:#333;resize:vertical"></textarea>
+        <div class="btnrow" style="margin-top:10px">
+          <button class="go" id="reqcopy" style="font-size:13.5px;padding:9px 18px">📋 복사하기</button>
+          <span id="reqcopied" style="font-size:12.5px;color:var(--green);align-self:center;display:none">✓ 복사되었습니다</span>
+        </div>
+      </div>
+      <div class="panel-empty" id="reqempty" style="display:none;margin-top:14px">
+        새로운 주제의 뉴스가 감지되지 않았습니다. 기존 브리핑 항목들이 최신 상태로 보입니다.
+        (또는 아직 자동 수집이 실행되지 않았을 수 있습니다 — 정보원 탭에서 직접 확인해 보세요.)
+      </div>
+    </div>
   </div>
   <div class="pane" id="p-src"><div class="card"><h2>제도·관세</h2>
       <table class="src"><tr><th style="width:25%">출처</th><th>내용</th><th style="width:64px">언어</th>
@@ -475,6 +499,65 @@ function closePanel(){
   document.getElementById('panel').classList.remove('on');
   document.getElementById('scrim').classList.remove('on');
 }
+// ── 브리핑 갱신 요청 만들기 ──
+function allKnownKeywords(){
+  const kws=[];
+  document.querySelectorAll('.item[data-kw]').forEach(it=>{
+    try{ kws.push(...JSON.parse(it.dataset.kw||'[]')); }catch(e){}
+  });
+  return kws.map(k=>k.toLowerCase());
+}
+function buildRequest(){
+  const known = allKnownKeywords();
+  if(!NEWS.length){
+    document.getElementById('reqbox').style.display='none';
+    document.getElementById('reqempty').style.display='block';
+    document.getElementById('reqempty').textContent =
+      '자동 수집된 뉴스가 없습니다. GitHub Pages에 게시되고 자동 수집이 1회 이상 실행된 뒤 다시 시도해 주세요.';
+    return;
+  }
+  // 기존 브리핑 키워드와 하나도 안 겹치는 기사만 후보로
+  const candidates = NEWS.filter(n=>{
+    const t = n.title.toLowerCase();
+    return !known.some(k=>k && t.includes(k));
+  }).slice(0, 15);
+
+  if(!candidates.length){
+    document.getElementById('reqbox').style.display='none';
+    document.getElementById('reqempty').style.display='block';
+    document.getElementById('reqempty').textContent =
+      '새로운 주제의 뉴스가 감지되지 않았습니다. 기존 브리핑 항목들이 최신 상태로 보입니다.';
+    return;
+  }
+
+  const today = new Date();
+  const ds = today.getFullYear()+'-'+String(today.getMonth()+1).padStart(2,'0')+'-'+String(today.getDate()).padStart(2,'0');
+  let msg = 'IRIS(이라크 통상·통관 모니터) 현황 브리핑을 갱신해줘. 오늘은 '+ds+'이고, ';
+  msg += '자동 수집된 뉴스 중 아래 항목들이 기존 브리핑에 없는 주제로 보여. ';
+  msg += '각 항목을 직접 조사해서 사실관계를 확인한 뒤, 중요도에 따라 브리핑에 새로 추가하거나 기존 항목을 갱신해줘.\n\n';
+  candidates.forEach((n,i)=>{
+    msg += (i+1)+'. ['+ (n.date||'날짜미상') +'] '+n.title+' ('+ (n.source||'출처미상') +')\n   '+n.url+'\n';
+  });
+  msg += '\n확인 후 index.html을 다시 만들어줘.';
+
+  document.getElementById('reqempty').style.display='none';
+  document.getElementById('reqbox').style.display='block';
+  document.getElementById('reqcount').textContent = '후보 '+candidates.length+'건 반영됨';
+  document.getElementById('reqtext').value = msg;
+  document.getElementById('reqcopied').style.display='none';
+}
+document.getElementById('mkreq').onclick = buildRequest;
+document.getElementById('reqcopy').onclick = async ()=>{
+  const ta = document.getElementById('reqtext');
+  ta.select();
+  try{
+    await navigator.clipboard.writeText(ta.value);
+  }catch(e){
+    document.execCommand('copy');
+  }
+  document.getElementById('reqcopied').style.display='inline';
+};
+
 document.querySelectorAll('.item').forEach(it=>it.addEventListener('click', ()=>openPanel(it)));
 document.getElementById('panel-close').onclick = closePanel;
 document.getElementById('scrim').onclick = closePanel;
