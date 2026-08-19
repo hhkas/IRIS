@@ -15,6 +15,10 @@
   header.top h1{font-size:22px;font-weight:700;color:var(--steel-dk);letter-spacing:-.3px}
   header.top .sub{font-size:13px;color:var(--muted)}
   header.top .asof{margin-left:auto;font-size:12px;color:var(--muted);background:var(--chip);padding:5px 11px;border-radius:20px}
+  header.top .asof{margin-left:auto;cursor:help;border-bottom:1px dotted var(--muted)}
+  header.top .asof-live{font-size:12px;font-weight:700;color:#fff;background:var(--green);border:none;
+    padding:6px 13px;border-radius:20px;cursor:pointer;font-family:inherit;white-space:nowrap}
+  header.top .asof-live:hover{background:#256944}
   .note{font-size:12.5px;color:var(--muted);margin-bottom:18px;line-height:1.6}
 
   .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
@@ -116,7 +120,8 @@
   <header class="top">
     <h1>IRIS</h1>
     <span class="sub">Iraq Regulatory, Import &amp; Supply monitor — 이라크 규제·수입·조달시장 모니터링</span>
-    <span class="asof">현황 조사 기준: 2026-08-17</span>
+    <span class="asof" title="브리핑 분석·해설은 이 날짜 기준으로 작성되었습니다. 매일 새로 수집되는 기사는 오른쪽 버튼에서 확인하세요.">📌 브리핑 분석 작성일: 2026-08-17</span>
+    <button class="asof-live" id="gotoNews" title="자동 수집되는 최신 뉴스로 이동">📰 매일 갱신되는 최신 뉴스 보기 →</button>
   </header>
   <div class="note">
     이라크의 면세·관세·통관 제도와 수출입 여건 변화를 추적하는 공개 정보 모니터입니다.
@@ -132,11 +137,11 @@
     <button class="tab" data-p="kw">🔍 검색 키워드</button>
   </div>
 
-  <div class="pane on" id="p-brief"><div class="card"><h2>📌 주요 변화 및 영향</h2><div style="font-size:12.5px;color:var(--muted);background:#f7f9fb;border-radius:8px;padding:10px 13px;margin-bottom:16px;line-height:1.6">각 항목의 <b>[최신 출처] 배지</b>와 하단 링크의 <b>발행일</b>로 정보의 신선도를 확인하실 수 있습니다. 날짜가 오래된 항목은 그 사이 상황이 바뀌었을 수 있으므로 원문에서 재확인하시기 바랍니다. 항목을 <b>클릭하면 오른쪽에 관련 기사 패널</b>이 열립니다 — 자동 수집된 기사와 함께, 필요하면 최근 1주일 구글 뉴스 검색으로 바로 이동할 수 있습니다. <b>조사 수행일: 2026-08-17</b></div><div class="item critical" data-idx="0" data-kw='[&quot;hormuz&quot;, &quot;호르무즈&quot;]' data-q="Strait of Hormuz shipping status" data-title="호르무즈 해협 사실상 봉쇄 — 8월 17일 현재 지속">
-      <span class="tag">중요</span><span class="asof-b">최신 출처 2026-08-17</span><span class="openhint">관련기사 보기 ›</span>
-      <h3>호르무즈 해협 사실상 봉쇄 — 8월 17일 현재 지속</h3><p>2월 말 미국·이스라엘의 이란 공격 이후 이란이 해협 폐쇄를 선언, <b>반년 가까이 상업 운항이 사실상 중단</b>됐습니다. 8월 9일 통항 선박은 <b>단 1척</b>(평시 하루 약 73척). 이란-오만이 임시 항로를 협의 중이나 미-이란 협상은 교착 상태입니다.</p>
+  <div class="pane on" id="p-brief"><div class="card"><h2>📌 주요 변화 및 영향</h2><div style="font-size:12.5px;color:var(--muted);background:#f7f9fb;border-radius:8px;padding:10px 13px;margin-bottom:16px;line-height:1.6">아래 브리핑은 <b>2026-08-17에 사람이 직접 조사해 작성한 분석</b>입니다. 이 날짜 자체는 자동으로 바뀌지 않으며, 중대한 변화가 있으면 재조사 후 새로 갱신합니다(하단 📰 뉴스 탭에서 새 소식이 감지되면 갱신 요청을 만들 수 있습니다). 반면 <b>📰 최근 뉴스 탭은 매일 자동으로 최신 기사가 쌓입니다.</b> 각 항목을 <b>클릭하면 오른쪽에 관련 기사 패널</b>이 열려 자동 수집된 기사를 함께 볼 수 있습니다. 중요한 의사결정 전에는 반드시 원문 출처에서 최신 내용을 재확인하시기 바랍니다.</div><div class="item critical" data-idx="0" data-kw='[&quot;hormuz&quot;, &quot;호르무즈&quot;]' data-q="Strait of Hormuz shipping status" data-title="호르무즈 해협 사실상 봉쇄 — 통항량 평시 대비 10분의 1 이하">
+      <span class="tag">중요</span><span class="asof-b">최신 출처 2026-08-19</span><span class="openhint">관련기사 보기 ›</span>
+      <h3>호르무즈 해협 사실상 봉쇄 — 통항량 평시 대비 10분의 1 이하</h3><p>2월 말 미국·이스라엘의 이란 공격 이후 이란이 해협 폐쇄를 선언, <b>반년 가까이 상업 운항이 사실상 중단</b>된 상태가 이어지고 있습니다. 8월 19일 기준 통항 선박은 <b>하루 6척 수준</b>(평시 약 73척, 최근 10일 평균도 11척)으로 회복 조짐이 없습니다. 이란-오만이 임시 항로를 협의해왔으나 8월 중순에도 이렇다 할 진전은 없는 상태입니다.</p>
       <div class="impact"><b>수입·조달 영향</b> — 걸프 직항이 막혀 움카사르 입항 자체가 최대 변수입니다. 희망봉 우회 시 10~14일 추가되고, 선사들은 이라크행에 긴급 할증과 전쟁위험할증료(TEU당 $1,500 수준)를 부과했습니다. 발주 리드타임과 운임 예산의 전면 재점검이 필요합니다.</div>
-      <div class="links"><a href="https://straits.live/" target="_blank" rel="noopener" onclick="event.stopPropagation()">straits.live · 실시간<span class="dt">2026-08-17</span> ↗</a><a href="https://www.cnn.com/2026/08/13/world/live-news/iran-war-trump" target="_blank" rel="noopener" onclick="event.stopPropagation()">CNN<span class="dt">2026-08-13</span> ↗</a><a href="https://carraglobe.com/strait-of-hormuz-closure-2026/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Carra Globe<span class="dt">2026-07 말</span> ↗</a></div></div><div class="item critical" data-idx="1" data-kw='[&quot;al-zaidi&quot;, &quot;zaidi&quot;, &quot;알자이디&quot;, &quot;신정부&quot;, &quot;cabinet&quot;, &quot;내각&quot;]' data-q="Iraq al-Zaidi government policy" data-title="신정부 출범 — 알자이디 총리 (5월 14일)">
+      <div class="links"><a href="https://straits.live/" target="_blank" rel="noopener" onclick="event.stopPropagation()">straits.live · 실시간<span class="dt">2026-08-17</span> ↗</a><a href="https://www.usnews.com/news/world/articles/2026-08-18/hormuz-traffic-slows-as-uncertainty-over-waterway-persists" target="_blank" rel="noopener" onclick="event.stopPropagation()">Reuters via US News<span class="dt">2026-08-19</span> ↗</a><a href="https://carraglobe.com/strait-of-hormuz-closure-2026/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Carra Globe<span class="dt">2026-07 말</span> ↗</a></div></div><div class="item critical" data-idx="1" data-kw='[&quot;al-zaidi&quot;, &quot;zaidi&quot;, &quot;알자이디&quot;, &quot;신정부&quot;, &quot;cabinet&quot;, &quot;내각&quot;]' data-q="Iraq al-Zaidi government policy" data-title="신정부 출범 — 알자이디 총리 (5월 14일)">
       <span class="tag">중요</span><span class="asof-b">최신 출처 2026-08-13</span><span class="openhint">관련기사 보기 ›</span>
       <h3>신정부 출범 — 알자이디 총리 (5월 14일)</h3><p>수다니 총리가 물러나고 <b>알리 팔레 알자이디</b>(1986년생, 은행가·기업인 출신)가 취임했습니다. 8월 13일 내각이 <b>2026~2029 국정운영계획</b>을 승인 — 14개 분야 139개 우선과제로, <b>국경통관 일원화·규제, 국가 디지털전환, 최고투자위원회(Supreme Investment Council) 신설</b>이 포함됐습니다.</p>
       <div class="impact"><b>수입·조달 영향</b> — 통관·투자 제도가 다시 손질될 가능성이 큽니다. 특히 '국경통관 일원화'와 최고투자위 신설은 투자 프로젝트 면세 승인 절차에 영향을 줄 수 있어 추적이 필요합니다.</div>
@@ -160,9 +165,9 @@
       <span class="tag">주의</span><span class="asof-b">최신 출처 2026-08-16</span><span class="openhint">관련기사 보기 ›</span>
       <h3>환율 — 공식 1,300 / 병행시장 약 1,530 (프리미엄 16~17%)</h3><p>2026년 예산 공식환율 <b>USD 1 = 1,300 IQD</b>(2025년 1,320). 병행시장은 8월 16일 기준 100달러당 152,750~153,250 IQD로 <b>16~17% 프리미엄</b>이 지속. 미국의 달러 자산 이전 보류가 압박 요인입니다.</p>
       <div class="impact"><b>수입·조달 영향</b> — 현지 조달 및 현지 경비는 병행시장 환율의 영향을 받습니다. 공식환율 기준 예산과 실제 집행 간 괴리 점검이 필요합니다.</div>
-      <div class="links"><a href="https://www.iraqinews.com/iraq/dollar-exchange-rates-baghdad-erbil-basra-august-16-2026/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Iraqi News<span class="dt">2026-08-16</span> ↗</a><a href="https://en.964media.com/44031/" target="_blank" rel="noopener" onclick="event.stopPropagation()">964 Media<span class="dt">2026-01-08</span> ↗</a></div></div><div class="item info" data-idx="7" data-kw='[&quot;wto&quot;, &quot;hs2022&quot;, &quot;다자간무역기구&quot;]' data-q="Iraq WTO accession tariff" data-title="WTO 가입 추진 — HS2017 → HS2022 전환 (8월 12일)">
+      <div class="links"><a href="https://www.iraqinews.com/iraq/dollar-exchange-rates-baghdad-erbil-basra-august-16-2026/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Iraqi News<span class="dt">2026-08-16</span> ↗</a><a href="https://en.964media.com/44031/" target="_blank" rel="noopener" onclick="event.stopPropagation()">964 Media<span class="dt">2026-01-08</span> ↗</a></div></div><div class="item info" data-idx="7" data-kw='[&quot;wto&quot;, &quot;hs2022&quot;, &quot;다자간무역기구&quot;]' data-q="Iraq WTO accession tariff" data-title="WTO 가입 추진 — HS2017 → HS2022 전환 착수">
       <span class="tag">참고</span><span class="asof-b">최신 출처 2026-08-12</span><span class="openhint">관련기사 보기 ›</span>
-      <h3>WTO 가입 추진 — HS2017 → HS2022 전환 (8월 12일)</h3><p>무역부가 WTO 가입을 위한 <b>상품양허안(Initial Goods Offer) 갱신</b>에 착수했습니다. 관세율표를 <b>HS2017에서 HS2022로 전환</b>하는 작업이 포함되며, 관세청장 주재로 KRG·민간까지 참여하는 위원회가 가동 중입니다.</p>
+      <h3>WTO 가입 추진 — HS2017 → HS2022 전환 착수</h3><p>무역부가 WTO 가입을 위한 <b>상품양허안(Initial Goods Offer) 갱신</b>에 착수했습니다. 관세율표를 <b>HS2017에서 HS2022로 전환</b>하는 작업이 포함되며, 관세청장 주재로 KRG·민간까지 참여하는 위원회가 가동 중입니다.</p>
       <div class="impact"><b>수입·조달 영향</b> — HS 코드 체계가 바뀌면 수입 품목의 세번과 세율도 재분류됩니다. 기존 HS 코드로 관리하던 자료의 갱신이 필요해질 수 있어 진행 상황을 봐야 합니다.</div>
       <div class="links"><a href="https://www.iraq-businessnews.com/2026/08/12/iraqs-wto-accession-goods-offer-file-updated/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Iraq Business News<span class="dt">2026-08-12</span> ↗</a></div></div><div class="item info" data-idx="8" data-kw='[&quot;investment law&quot;, &quot;면세&quot;, &quot;nic&quot;, &quot;exemption&quot;]' data-q="Iraq investment law customs exemption" data-title="투자법 면세 근거 — 유지">
       <span class="tag">참고</span><span class="asof-b">최신 출처 2026-02</span><span class="openhint">관련기사 보기 ›</span>
@@ -264,8 +269,8 @@
     <div class="card">
       <h2>📰 자동 수집 뉴스 <span id="news-upd" style="font-size:11.5px;font-weight:600;color:var(--muted)"></span></h2>
       <div style="font-size:12.5px;color:var(--muted);background:#f7f9fb;border-radius:8px;padding:10px 13px;margin-bottom:14px;line-height:1.6">
-        관세·통관·항만·환율·투자 관련 뉴스를 <b>하루 1회 자동 수집</b>합니다(최근 30일, 한국어·영어·아랍어).
-        제목과 링크만 모은 목록이므로, 내용 판단은 <b>현황 브리핑</b> 탭을 함께 보시기 바랍니다.
+        관세·통관·항만·환율·투자 관련 뉴스를 <b>하루 1회 자동 수집</b>합니다(최근 30일, 한국어·영어·아랍어) — 이 목록은 매일 최신 상태로 유지됩니다.
+        제목과 링크만 모은 목록이므로, 배경 분석은 <b>📌 현황 브리핑</b> 탭(특정 시점 조사본)을 함께 보시기 바랍니다.
       </div>
       <div id="news-filter" style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px"></div>
       <div id="news-list"></div>
@@ -631,7 +636,7 @@ function buildRequest(){
 
   const today = new Date();
   const ds = today.getFullYear()+'-'+String(today.getMonth()+1).padStart(2,'0')+'-'+String(today.getDate()).padStart(2,'0');
-  let msg = 'IRIS(이라크 규제·수입·조달시장 모니터) 현황 브리핑을 갱신해줘. 오늘은 '+ds+'이고, ';
+  let msg = 'IRIS(이라크 규제·수입·조달시장 모니터) 현황 브리핑을 갱신해줘. 현재 브리핑은 2026-08-17 작성본이고 오늘은 '+ds+'이야. ';
   msg += '자동 수집된 뉴스 중 아래 항목들이 기존 브리핑에 없는 주제로 보여. ';
   msg += '각 항목을 직접 조사해서 사실관계를 확인한 뒤, 중요도에 따라 브리핑에 새로 추가하거나 기존 항목을 갱신해줘.\n\n';
   candidates.forEach((n,i)=>{
@@ -662,6 +667,9 @@ document.getElementById('panel-close').onclick = closePanel;
 document.getElementById('scrim').onclick = closePanel;
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closePanel(); });
 
+document.getElementById('gotoNews').onclick=()=>{
+  document.querySelector('.tab[data-p="news"]').click();
+};
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
   document.querySelectorAll('.pane').forEach(x=>x.classList.remove('on'));
