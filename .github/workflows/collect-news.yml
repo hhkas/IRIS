@@ -12,6 +12,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -21,6 +22,8 @@ jobs:
 
       - name: Collect news
         run: python collect_news.py
+        env:
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
 
       - name: Commit if changed
         run: |
