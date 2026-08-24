@@ -577,7 +577,7 @@ function matchNews(kws){
   if(!kws || !kws.length || !NEWS.length) return [];
   const low = t => t.toLowerCase();
   return NEWS.filter(n=>{
-    const hay = low(n.title+' '+(n.source||''));
+    const hay = low(n.title+' '+(n.title_ko||'')+' '+(n.source||''));
     return kws.some(k=>hay.includes(low(k)));
   }).slice(0,25);
 }
