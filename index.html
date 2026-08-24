@@ -535,11 +535,19 @@ function renderNews(){
   const box=document.getElementById('news-list');
   const rows=NEWS.filter(n=>NCAT==='전체'||n.cat===NCAT);
   if(!rows.length){ box.innerHTML='<div class="nempty">표시할 뉴스가 없습니다.</div>'; return; }
-  box.innerHTML=rows.map(n=>`<div class="nrow">
-    <div class="nd">${esc(n.date||'—')}</div>
-    <div class="nt"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)} ↗</a>
-      <div class="nm">${esc(n.source||'')}</div></div>
-    <div><span class="nc">${esc(n.cat)}</span></div></div>`).join('');
+  box.innerHTML=rows.map(n=>{
+    const ko = (n.title_ko||'').trim();
+    const hasKo = ko && ko.toLowerCase() !== (n.title||'').toLowerCase();
+    const mainText = hasKo ? ko : n.title;
+    const origLine = hasKo
+      ? `<div class="nm" style="opacity:.75">${esc(n.title)} · ${esc(n.source||'')}</div>`
+      : `<div class="nm">${esc(n.source||'')}</div>`;
+    return `<div class="nrow">
+      <div class="nd">${esc(n.date||'—')}</div>
+      <div class="nt"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(mainText)} ↗</a>
+        ${origLine}</div>
+      <div><span class="nc">${esc(n.cat)}</span></div></div>`;
+  }).join('');
 }
 function renderFilter(){
   const cats=['전체',...[...new Set(NEWS.map(n=>n.cat))]];
