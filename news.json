@@ -1,29 +1,109 @@
 {
- "updated": "2026-09-04 07:52 UTC",
+ "updated": "2026-09-05 07:32 UTC",
  "count": 120,
  "errors": [],
  "translated": {
-  "new": 63,
-  "chars": 4449,
-  "stopped": "budget",
+  "new": 0,
+  "chars": 3994,
+  "stopped": "",
   "mode": "anonymous"
  },
  "items": [
+  {
+   "cat": "관세·통관",
+   "title": "Iraq customs revenues expected to top $2.2 billion by year-end: Official",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qeUVsUkNMUXpoZzBIaXRqWFAwdHdjQlY3cG1td0dzNHpyN1dISzdkeXF6N3RUb0p4TUNkRVFBX0V6V0R1LWFBUlNRRmEzRUNZNEFvbkZoR1RVbUdpbmFxTEx1cmRrYjBC?oc=5",
+   "date": "2026-09-05",
+   "source": "Rudaw",
+   "title_ko": "Iraq customs revenues expected to top $2.2 billion by year-end: Official"
+  },
+  {
+   "cat": "관세·통관",
+   "title": "الكمارك : الخطوات العملية لتنفيذ نظام \"اسيكودا\" في اقليم كردستان تبدأ الشهر المقبل",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hZW41dXhzamRsLV9tdXRwenhyTUo5VXNCeEN3UGRuR01tTnFJdi1HZzAzSzE4VHBqRWN0S2NPMmdFS0hEM0FIRHBVZ3JlWFdMZEFmUW5YbWtyOUN0WjVIcTBDTQ?oc=5",
+   "date": "2026-09-05",
+   "source": "الوكالة الوطنية العراقية للأنباء| نينا",
+   "title_ko": "الكمارك : الخطوات العملية لتنفيذ نظام \"اسيكودا\" في اقليم كردستان تبدأ الشهر المقبل"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Janggeum Maritime's 8 Trillion Won Bet Fuels Tanker Empire",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjk2T0VLSnQ3VVloWWl2VFRrU0ozZ2FmSy11eHZwSEhRWjBmSm16cHZ5emFyS3JSMFk3Z0FJeUN3NjE1OHEwT2xGdHZiSVRCcnUtWnk1cGZQMi1pTUNwOGd5X25adWliZnV6a2YwQmgxR0dac3o5c3RseW5ZUW9JT1VhVzFzb3Mt?oc=5",
+   "date": "2026-09-05",
+   "source": "조선일보",
+   "title_ko": "Janggeum Maritime's 8 Trillion Won Bet Fuels Tanker Empire"
+  },
+  {
+   "cat": "종합",
+   "title": "Tabaqchali: Oil Exports Recover to 60% of Pre-war Levels",
+   "url": "https://www.iraq-businessnews.com/2026/09/05/tabaqchali-oil-exports-recover-to-60-of-pre-war-levels/",
+   "date": "2026-09-05",
+   "source": "iraq-businessnews.com",
+   "title_ko": "Tabaqchali: Oil Exports Recover to 60% of Pre-war Levels"
+  },
+  {
+   "cat": "종합",
+   "title": "Iraq \"Hikes Oil Exports via Hormuz\"",
+   "url": "https://www.iraq-businessnews.com/2026/09/05/iraq-hikes-oil-exports-via-hormuz/",
+   "date": "2026-09-05",
+   "source": "iraq-businessnews.com",
+   "title_ko": "Iraq \"Hikes Oil Exports via Hormuz\""
+  },
+  {
+   "cat": "종합",
+   "title": "GE in Talks over Mansuriya Power Station Expansion",
+   "url": "https://www.iraq-businessnews.com/2026/09/05/ge-in-talks-over-mansuriya-power-station-expansion/",
+   "date": "2026-09-05",
+   "source": "iraq-businessnews.com",
+   "title_ko": "GE in Talks over Mansuriya Power Station Expansion"
+  },
+  {
+   "cat": "종합",
+   "title": "Social Dialogue Forum Launched in Kurdistan Region",
+   "url": "https://www.iraq-businessnews.com/2026/09/05/social-dialogue-forum-launched-in-kurdistan-region/",
+   "date": "2026-09-05",
+   "source": "iraq-businessnews.com",
+   "title_ko": "Social Dialogue Forum Launched in Kurdistan Region"
+  },
   {
    "cat": "항만·물류",
    "title": "Gulf shipping traffic via Hormuz keeps below 10-day average, data shows",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmJxV2JuVVpNSWV4QTRZZktncFBvaUQtcXZVaDZHdkJfV1JkZFhoeU0ybFRIU19qYmZKUkt1VXZZaFlaR2FKY2dxZFN0U2NkRjZYZWt1dlh2N21aN092aEpVdmZ2MmlvMVNDeThDZ1p4aHJpR0x6NV9MREtJb3dFeXY3ZktVbTFJZVZXNzd1ZkFaTWg0TWtQM1dzRlVVeHlUcTYtSFA3UEFPTEQ4ckc0TFRTcEUtQUpzTUFRWWVHd09ZUQ?oc=5",
    "date": "2026-09-04",
-   "source": "Reuters",
+   "source": "reuters.com",
    "title_ko": "호르무즈를 통한 걸프 해운 트래픽은 10일 평균 이하로 유지됩니다. 데이터에 따르면"
   },
   {
    "cat": "항만·물류",
-   "title": "Korea weighs Strait of Hormuz deployment amid U.S. pressure",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlhiSGhLZW1nM1JrQ0ctNlJESVBjU2VXNmN6SnVuVmNiVEVNdDJqTGN6czFWZ2FIVHVEV0s2eS0tNVoxQWdnYW5NQ18xbGp4UlY1SjhCcEZMWElDeEMxVjk0bjBtR2U5aWN5VFFRREJWenpaaFV6VF9oUWdBNmktdHZ5SHdUb2RMSjJ5ellTY0V0QzRMb3ZXT1dtakF4MV9DNmtkQ3RieGpVV2s?oc=5",
+   "title": "Strait of Hormuz shipping traffic remains low as fuel prices rise",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkJraHdlYXVYZ1lBS1M2R0xHcmZ5QUJGWXVWRGx0UjlkdGczUlhua0JPcm5BcUhWNWxJU2RxTHE1c2cyTnZiWWpVcDBSVGNmYkFsWDdkclpjcm5BMGx4cnVnU2NGdTdWamF4SVB4MG5aNFpfdTlkWVU2WkpEa1RyRkptU1ZHQTN1MUZEWnU0WXVWVWJES0Rvczdtd3BORFdGelpfeDJzNTlCa2phYmtobg?oc=5",
    "date": "2026-09-04",
-   "source": "Korea JoongAng Daily",
-   "title_ko": "한국, 미국의 압박 속에서 호르무즈 해협 배치에 무게"
+   "source": "The Times of Israel",
+   "title_ko": "Strait of Hormuz shipping traffic remains low as fuel prices rise"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEFuNElnbjhtTEJFTFhiclBTVnVSdFRqWmhlZTRrVVp6Zmk2S1AwLTZmNmRZWGdnTTllaVd0TjFQWlhaV0ZjQ2RKYngxX1VZWldON3VhNzZIX3lMM3h6QzdtZnIwU2NfQnRaeUNuRy1VM21CRHJ1R3pfUVRKQTFaUmZmcmc0RFRpX2k2MlhnX0JMYXFDR3dYaXFoZmlUSWtyWlFaN1Fjdlpjdw?oc=5",
+   "date": "2026-09-04",
+   "source": "USNI News",
+   "title_ko": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "How Much Oil Is Really Getting Through the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamZPYm9sZVhJdS1kcUZWRk9NdU5RbDlfSG5xLTU3VXh2Z1VhVzhXTTdZWkoxdDc1cm02UTVzdTRlWTBuTTR1UTg5YndBMVpEVThoMmdzYWVJTXBRd3I4dGdReE9Vd2ZDLXNRa185bXduaXU1eEpOb0t3UnFNS05JSTh4UG0tNTBXd29DYzFiWWY1QkNiVjFqUzIyOEhrUzFGNlkycExULWJJSWfSAbABQVVfeXFMTlZFNmxtQjJTUk5MQ1JWelpZUmhPYm9UaktDYmNhdENUc1puZzFXY2xYRHlWcWU2RnBfRDc3VUd3UzVKekw5UEh0M1hxX1NGR21MSS1xM1hfcnVoRlJ4WVQ0ZXdVNmd0d3B4RndmVWRFYUI1UVlDNW9UME9mdUFvMk12WUJGRnpvajAzeDVvNWRUcmpGRDQ5QWtXVi0xTVFNQXEySHZyUWJucXhRWGhHR1I?oc=5",
+   "date": "2026-09-04",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "title_ko": "How Much Oil Is Really Getting Through the Strait of Hormuz"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGNKSndEUXU1NmZJeVJ5b1B2Tk94VnJkS1F3aGpIbExRRTFmOWlvazk0MzJYY25DNjVCNEpIM2tRd2JhSHcxSTNHVDBLdkJPZHNLcEFyNDcxOUdYMDQwLURJa1M2RWg5UFU2NGdaVVlZaXl1c21LN3FFdzhIVFZNbGlqdG5mb3RYTGpLRktYSk9SVmFxYVHSAZsBQVVfeXFMTk1iMTJFa2pKY2VFZTdUTU4zeDMzTTZ5ck1xRFdsUnIxTnFxRy1hT0xqNEFHcHBITjlPRG1USlhQUklfWmd6aklSZlVHY0U0WjdFSEd3ZWxfTjQycXN4am5QcWRuTDVqYjdpM2wxdnY0TzIwQVZiWFR4MHNUTVQ4dnJsUUxmdVVDcTBpTzBKR1k1bWJrNk1ub3Q1VVE?oc=5",
+   "date": "2026-09-04",
+   "source": "Al Jazeera",
+   "title_ko": "South Korea mulls ‘contributions’ in Strait of Hormuz"
   },
   {
    "cat": "항만·물류",
@@ -35,91 +115,179 @@
   },
   {
    "cat": "항만·물류",
-   "title": "South Korea Reviews Military Role in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMEg2MGpBQmNwTmdVNkhkdmhLU1RoMWdKZGZGMS1paDd2ZmR6b0l0dHhTeUwtNVY0VjFUSkR2dzdtTFp5WnZacTR0MWFXTGxuM2tHWUtFVUR1ZTJuYVBCb0FyLXhVRVRtR1dqWGkteHQtREdNcVB3Vk5wdC1OUnRVNDBJRkVTSUNjdXJBckZzcVpTV1c5MTRQUHc0bFUwQQ?oc=5",
+   "title": "South Korea considers 'military contributions' in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHZFZnNqdjk5THRDOC1yUG0wTTJoV25EWkJQenNzQ0JsdU1UaXltVzYzV3d0aXgydnl2aW9zMHJ0a3ZXY3BNREl4UnRsOGFESHpaNGpvTU1fR1VHVWZaSDMwSFdnZTA2TnRsYnVqcks4VlJiMEZjTmh5d0FEbWFnT2w2VWpUeXlWVXpuSDV6aUhXQ3Z1OENnMkc1VjdVdWszV2lUUHMtWjhWSlluVVpndTVLaC01S1Q2MTlTQzh3?oc=5",
    "date": "2026-09-04",
-   "source": "Kurdistan24",
-   "title_ko": "한국, 호르무즈 해협에서 군사적 역할 검토"
+   "source": "Nikkei Asia",
+   "title_ko": "South Korea considers 'military contributions' in Strait of Hormuz"
   },
   {
    "cat": "항만·물류",
-   "title": "The price of diesel hits a record high",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mRE41N0E1NzZmLUN1X2ZaM09CRzB3dWx4Uk1EbmRiS3E2c2VxU3hUY2xacDd0eG5qT0VCS0RjTEdqdUJFRkdEejZ4TXpfUEw3WE1yUnRIcHIwUm9SN0t0TkZXdlFySEJGVG5tY19PVmxOQktwbFlPZg?oc=5",
+   "title": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc29HdXRqNmFLdk4xWEdUeHJBbG5sRi11QlB2OEdDVEx6c3hIbjhHV1V5RU12TWJzTkVxeUpCU3FJVFlsX2U0WWxFXzN4VkZ0SHN5QzdjQWpvSmlGdEZCaGVmLWNXR2lmWlYtVmM5LVVTTm93OVVyb2Z0eFR2dkkxbQ?oc=5",
    "date": "2026-09-04",
-   "source": "NPR",
-   "title_ko": "디젤 가격이 사상 최고치를 기록했습니다."
+   "source": "gCaptain",
+   "title_ko": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight"
   },
   {
    "cat": "항만·물류",
-   "title": "South Korea preparing for Strait of Hormuz deployment: Report",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWpsX3AtSE5Uell0NmxzWE5QZ28tbElRQWhqV3Rud3l4SUJ4Rk5EVmxQa2lzLW5nTV9aVjA1Sy1TSnlEWWpJaWlvTEN6amg3U0Z4U01sMjF3MWpXV3UwNzhILXhSVVFhWHpjRDR5Sm1Bc0F6cUY1V08wV1hINDc3VW8wMnhJd29Hc1hiVkR3UnZRc21oOG5WSi0wazJlLXZnbTUwYlZsa01DUQ?oc=5",
+   "title": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
    "date": "2026-09-04",
-   "source": "Anadolu Ajansı",
-   "title_ko": "호르무즈 해협 파병 준비 중인 한국: 보고서"
+   "source": "cbsnews.com",
+   "title_ko": "Vance \"extremely skeptical\" U.S. strike hit Iran wedding party, says he wouldn't call conflict a war"
   },
   {
    "cat": "항만·물류",
-   "title": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment",
+   "title": "World’s 5th most powerful military prepares for possible Strait of Hormuz mission with US, UK and France after attacks on African-flagged vessels",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMm5GMUFvTHVIQVlfQ3FHaUFOb2lyT1pzZzFGR3BUenA2S21VYXNiMWZjaFpEQ05xM003Z2VpZ3FtYUlxQm9Xckx1Qk53V1FYcGtuVzRUNWZMYVU3LTV5d3MtNm1QeFZ6YW9HaElOaFZHZ0kzRnNVam9tWHRvQW5hZEp1M1VBdFYxN2kzV2ROTy1hSC1NZ2k2ZkZkTWc2dThJMG5WSTZCX3ZuUXBWeTBwaEhjZlh3eUZQcFlyZTUzc3RacXJWaW9oRmgxZFdxbldpcUtlTFVOM0w5Zw?oc=5",
+   "date": "2026-09-04",
+   "source": "Business Insider Africa",
+   "title_ko": "World’s 5th most powerful military prepares for possible Strait of Hormuz mission with US, UK and France after attacks on African-flagged vessels"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Shipping through the Strait of Hormuz remains below the 10-day average",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fc3VaTV9YOTgwQXlWOVhrRHRQVjlReUZkTS1sVmFUUHhfWllsNEVWalR3VmFobE9sY0x5SDJsSjV5eDBibGw2bW9XMzQ1WnpfTGFjWWFxX3ozdzBUN0NoR1ROVEFYZ2xjWV9aZ25aaw?oc=5",
+   "date": "2026-09-04",
+   "source": "صحيفة مال",
+   "title_ko": "Shipping through the Strait of Hormuz remains below the 10-day average"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Tanker Attacks in Strait of Hormuz, SMM 2026 Highlights, and Supercycle Speculation - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc05WN1hLamNtVG8xZE5JaWlHUmxaR3plVTlKUnpkRUlPU2diemM4bUw0Zmo5c1Y3eWh2U0pkQmRSZkNib3FDdzYzVm9PQlBKc3psTkphOVduZlQ5SzFaYlBnNHE1cmVCUzVFNlVveGlQY2pYbVU0NWdHMGRLRHNzQkJKaXVVYXZ0MThuNjVINWdSaGJ1ZmpyLUk5Mjd0NlFGb0J2aWV1RUNpUlk?oc=5",
+   "date": "2026-09-04",
+   "source": "IndexBox",
+   "title_ko": "Tanker Attacks in Strait of Hormuz, SMM 2026 Highlights, and Supercycle Speculation - News and Statistics"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Korea weighs Strait of Hormuz deployment amid U.S. pressure",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlhiSGhLZW1nM1JrQ0ctNlJESVBjU2VXNmN6SnVuVmNiVEVNdDJqTGN6czFWZ2FIVHVEV0s2eS0tNVoxQWdnYW5NQ18xbGp4UlY1SjhCcEZMWElDeEMxVjk0bjBtR2U5aWN5VFFRREJWenpaaFV6VF9oUWdBNmktdHZ5SHdUb2RMSjJ5ellTY0V0QzRMb3ZXT1dtakF4MV9DNmtkQ3RieGpVV2s?oc=5",
+   "date": "2026-09-04",
+   "source": "Korea JoongAng Daily",
+   "title_ko": "한국, 미국의 압박 속에서 호르무즈 해협 배치에 무게"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Korea Paving Way to Send Naval Ship to Hormuz, Reports Say",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUdDbDcxNFV4ZnY5N3NBY2F2eXRULU5zRlRDc0lvaWJUdWNheFo5c09RWWJBV3JoNHltYlhXTFZZSE1neXJ1RFJqeUkyNHBEd0FIVGNQRmphUUxWSHZIeXB1UHFxWllySjE0OXJzSTQzSVp4VWY4Y19jbTRhd09aWlFlRWVVdw?oc=5",
+   "date": "2026-09-04",
+   "source": "gCaptain",
+   "title_ko": "Korea Paving Way to Send Naval Ship to Hormuz, Reports Say"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "U.S. strikes Iranian oil tankers in new \"tanker for tanker\" retaliation policy",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ud1RxOFVBeHhCUVlRdm1QMW5jcUVXZ0Rwc215VHd5cXd2MFpPSWpkTDdoQUliMkRrNmo5N0wySXZzRG1FREJIOVFmc1p5NlNLc1gzNEx1WUx1cFJPVFVoNE1tdWQxZ3Nz?oc=5",
+   "date": "2026-09-04",
+   "source": "eciks.org",
+   "title_ko": "U.S. strikes Iranian oil tankers in new \"tanker for tanker\" retaliation policy"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Israel releases more 4 more prisoners, a shipping slowdown and other Mideast news",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnJJZFdONFBQVTRma2NFbndtOVRpWE1XRnZhV1NnM2RXWWJXV1pfVkxGajlxaHBRaWl3aVEyT3R3ZWQyUlNkcjEwcGt4QzBRZnZuS0N3eEFIb0gtY3BlbWtrazV1ZzNuRUJOU1Bodk50dzhDM2V6bHBMdVhGc3lmSURyRlJhV0ZvSVlPaHU1YmY5LXF2WUhvZG0tdFdzMnU4cFI1cHlfNU1GUVpUYTU2Sjh4dktSRUxqcVFrNEIyRFAyNC1iaU1jbVFoTTZLaDdkYnVsN2pMS3pwRHZTb1lUQ19KbzdheEEzZnVEakdCTGRrdlhnbUhmR0xxdGhJekZWaUU5WlRR?oc=5",
+   "date": "2026-09-04",
+   "source": "Oskaloosa Herald",
+   "title_ko": "Israel releases more 4 more prisoners, a shipping slowdown and other Mideast news"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran's seven islands strengthen Hormuz control",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UWZKNTcwRm1CUlBqZDhoMXVTVy14WElDX1RQZkw1NHZUaFhiQzdwTEpiRC1vMFVkZ2NZTE5iY0tISjYzYXFteGJYQzY1VVo1U0gzbjZNcXE5bkFRMmJ0cXltLS1pcmRaMGZnNVc1TG1KUFFPdnlUQnd3UEdHQjjSAYQBQVVfeXFMUHdRcEdONGNPMUdRN0FOY2dNV3hnT3lVMjMycHZzdmRyNng4RTVIb0tmM2tCLVp4dHVSUFRyNWpkLUQtc1ZpTXF5LTE4cHkxWGphaHBIby1uWFlXT1o3RlVTWnR1MEYzc3hBNG9NXzhBWnhQeWdWMk1fa0RWSEVwQTN6STB0?oc=5",
+   "date": "2026-09-04",
+   "source": "The New Arab",
+   "title_ko": "Iran's seven islands strengthen Hormuz control"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX2J4YmRsQjhNWG93RGdSR0dsUlBxeDZNWkNteDhGSVJQenpxTWlVemUtVFdVNzk4RTBJa2lpaFhRdnk5QlNBUlByN3c1N1pYam9yTE83cHJhX1k1cFVNVUdpWlFiVHliQmd3Nzl4cUVlaGxMTzJjcVd6TC1DUHp5blZMRGEwdDZEbkVYa2JNc05rNVRsam1ZTGg5VVlkd0tGNlFMTmVQdDJxOGvSAbABQVVfeXFMUFF4OWRySnJuRWh1aTRFZ09OQlY3R2k5UzNuRGhjcWQwODZYWnctS0FlRzlIaVVMQVU5dHQwQk94c2prVTF2UXM0ZHhPRkdkanhkV0c1Sy1pZUtZdWRTVXBqYmpPMC1LQ0t2T1pRLWpHZmRQYmJackJyS0tHbTB6bHZCS1JUZWZ5T09uQV8zWl9acmxIaXA4RHNYYmJrcHVpX2lBT3VPVFVNNHpvQlVFUV8?oc=5",
    "date": "2026-09-04",
    "source": "CNBC",
-   "title_ko": "EU, 한국이 호르무즈 파병에 무게를 두면서 이란에 대한 미국의 제재 압박에 동참"
+   "title_ko": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing"
   },
   {
    "cat": "항만·물류",
-   "title": "South Korea Paving Way to Send Troops to Hormuz, Reports Say",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQk9JaV9uYUFvOUh2ZTlZS2tpbVRxcmt0WTBTY3JQaHU2NEhEVGk1SGJLS3FoSEc4V0FMb0RUR3VfYXgteGpkR3ZXVEh0N2lqYlZjdElJQW51SVVXYklHQnJ4Mmh1LTJRU1lidGN0Wk5RUW5icFZHbVoxbFBEWDNESXRBTFpiaTZvVm1ia2hFN0F0VXdHVHBJM0VkbU92SmpISDEybXZFYVZBUmNkYW9N?oc=5",
+   "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUc0cjdVckExYkdoN3ItekctYjdHeG9kVHhpWXlibGVSOXJqRHV6QTl4WEZMWWpFS25UcVZHWjR2M1RtQ2lpOS1qbUdTSDJJSzRjNlNmWlU2STBXckN5b3dwby1oa19tUVlYdWxYVGNubzVJNmpKM1hOLVZjdHhST3pTN2JrYU80MmxOSFVTdThZRW9fN2tRTXdBcTFVWkwza1BYQ0JEaGtvUnM?oc=5",
    "date": "2026-09-04",
-   "source": "Bloomberg.com",
-   "title_ko": "보고서에 따르면 한국은 호르무즈에 군대를 파견할 길을 닦고 있다."
+   "source": "The Guardian",
+   "title_ko": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure"
   },
   {
    "cat": "항만·물류",
-   "title": "South Korea Considers Sending Naval Ship and Troops to Strait of Hormuz | Reports - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalFSVnBtdVpSRUxFVUpPU2ZqSVdTOS16blhXSFl4dUtia0RSdWlsbmp4WFYwV19nU3hfaWVEbHRhbWFmM283SGs2aG1MNVBwRW5vdEkxRC1WcnZuZTFUNE5tTHBNenpWWTdxdmw0ekpPNlY0bzFzZ0tneFdsMUF0YmZPTUxIb2Y2WFJJc1ZmbmE1bW9KOXdDaFFncmVBVG9MUkZ5MQ?oc=5",
+   "title": "US and Iran Exchange Strikes as Pressure Rises Around Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEaE5vM1VhZ0gyVHJneXZLdEZod2VOcm01V3FacDdPNmJoRUg4d2F1dm9CbkdKVk84QmRsRUZCbkRpU2R0QXIzZFFDbmIzUmpBODZHQThPQnFlTm1H?oc=5",
    "date": "2026-09-04",
-   "source": "IndexBox",
-   "title_ko": "한국, 호르무즈 해협에 해군 함선 및 부대 파견 고려 | 보고서 - 뉴스 및 통계"
+   "source": "Межа. Новини України.",
+   "title_ko": "US and Iran Exchange Strikes as Pressure Rises Around Strait of Hormuz"
   },
   {
    "cat": "항만·물류",
-   "title": "Video shows ships near Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GUlRmX2N5S1g2UzZ6QXJHcWFWM3QxYWtKZVVWMjVzVFNWWm12Z0piTlhVZmJ3bU9fVExZb05fclhXSXpJU05zcUdENHphOVlSV3htbno2S1c1LWJJVVJzbzhHem54SmExTkJjSmVZV1V5c1ZDU1ZpSTZn?oc=5",
+   "title": "Iraq’s shadow trade networks help Iran evade US eonomic pressure",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16dXZBQW1xYkFBam1uamdPS1dMS0ZGNEZNZmtvTGtXY3I2Y0RFV3N3cVpPTmlzekdYTHh3eFRyWVNORV9lNk1ScXBvTmR1OVhheDVsU3ZYNXRsN2gx?oc=5",
    "date": "2026-09-04",
-   "source": "Yahoo News Canada",
-   "title_ko": "동영상은 호르무즈 해협 근처의 선박을 보여줍니다"
+   "source": "The Jerusalem Post",
+   "title_ko": "Iraq’s shadow trade networks help Iran evade US eonomic pressure"
   },
   {
    "cat": "항만·물류",
-   "title": "Goldman Sachs Warns of Surge in 'Dark Ship' Traffic Through Strait of Hormuz — 5 Million Barrel Daily Gap Between Actual Oil Flows and Official Data",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HZ3k5RWdTYkk0eU9MM3luWS1DTWxxZG0xbjFXMkF6Tm4tX3RtZURVWHBuOGFTYXJjV19Nc2hMZV9QakNnTlI5bzdtYmdVb05SYnl2UjEtUXhXSTRCaWVDQTFzelo0Q3RyNEtsb0J2c0RGdjlvYnc?oc=5",
+   "title": "Shafaq News..Energy transit drives recovery in Syria-Iraq trade",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOREptcjNpWXZBUHdSVTlFVHRzb0hBOXJ3ZEJXaW1GczNTSVdmSE9WemluNHFzMmx3TDNNeXh5Z25UTVotZ0RiZy1DNlhnQk5yVUthYU4wVTNYdmhWVUx3cnZQQ3VzaXpjX0tnOHdxcm13Q2JrM1V1QnJvUDVZaEMzS05yOGN3QTlrMXhycA?oc=5",
    "date": "2026-09-04",
-   "source": "finance.biggo.com",
-   "title_ko": "골드만 삭스, 호르무즈 해협을 통한 '암흑선' 수송량 급증 경고 — 실제 석유 흐름과 공식 데이터 사이의 일일 격차 500만 배럴"
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News..Energy transit drives recovery in Syria-Iraq trade"
   },
   {
-   "cat": "항만·물류",
-   "title": "Iran fires missiles and drones at Kuwait as strikes resume in war with U.S.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOallJNTBESkZZUGJPSldNM2tCZFlGcHc2UkdOX3hPYjN6NzI0WXVidGJNbHpaRjhKWTRBWGxoZEg2WXp3em55QUpOVVh4RFpleEVYd0ZvcGF4OWp1dFNqVnYxU29Nc3ZJbkVEMUd1QWhKaGRNSi1UempFVHo1Z0FiM29GeVEtUlRweUNYWFFCcnlXX3RkNlkyWGt2UThVT1Nkemp1N2lVOA?oc=5",
+   "cat": "경제·환율",
+   "title": "Iraq retains role as economic channel for Iran amid US sanctions — Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVZuZEtaLTB4RHM1LTl3bkVfM1RPWGVKOTJ3NUZYajJLZ2tTOFY3VG8zWk5uVUtSdzBUbTVIOXc5a0hfQ3NrQ3o5aFA1X3FJeTllREJfODI4RkJzaENBRnZtYzVMQ1FYcUQ4VE1ONDhNWmk4ZDFsUmZzMjFBbC01Z25sTXpKaGdsaW1ydVNIS2MzdGViODNOUUIxQnBEcTg3RExxdk1XaUdtd1JpalIwRg?oc=5",
    "date": "2026-09-04",
-   "source": "The Washington Post",
-   "title_ko": "이란은 미국과의 전쟁에서 공격이 재개됨에 따라 쿠웨이트에 미사일과 드론을 발사합니다."
+   "source": "UA.NEWS",
+   "title_ko": "Iraq retains role as economic channel for Iran amid US sanctions — Jerusalem Post"
   },
   {
-   "cat": "항만·물류",
-   "title": "Blue House Reviews Hormuz Deployment Within Readiness Scope",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnlzOThrOVdFV3pCQTZiOWdZSmpUczJuTnVYUUhVX2tmUWVFUmZnd3h3ZElDSUR4SUhGT2dnWnhGcDdnSDZmdk4yOXhJNWNmb25sWDZiUUJpaGRUbUI0ZEdIYl8zbmhUcWFGX2U0MW5SYndGY2czZksxRmU0RUhrX3hYeF91VVk1?oc=5",
+   "cat": "에너지·전력",
+   "title": "Iraq planning to boost gas import from Iran",
+   "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcnFyWmdEZzZrd0xSUG84WVdQa2dMY1hBZnFQd2hiTHh6YWM0aXFoZXRobzV2STJfa1hJOWFwOEhzUndoOHpUN2hhMnkwQk1vMldZZ1luNUxfR0pTWnQ2ZXdCVDVDNHBVdWJGSGRkS0RsbGZsbk81dk9jVmVxZ2tzTDdIQUJQdXRGVGxGYXJDZTRqaXBENzEtUWI0WTFoOGlqd2tRelB5OHdEMHZDeC1aNV92VlN4d01OSVp1YlNndk1tS2lwc1RGRzRtRjd2ZjBoNWg4QW5vM2dDMXJXTG9idFBVVFNRV1VMQVk1UURaOXlhUlotTjN3aDVJbkpyWDY2eXZrZWg1cHB4VG5nUlBWRDl1UWtPT2VTS05lVjhqOXJmWFVJbFR4TkhDMDRjdFBQZHI2RjBPQXliQmVLT0phZE00VlpHZlE5VVZSSTlBYzVKamxNX0dmNkpCRXQ2OTBtUzFrdTgzLVVhTXgxVHhhR0ZTczBPOVktN2FaMDFHMXdieS1NWFZzVnl0cTNjUG1BZ3lIaQ?oc=5",
    "date": "2026-09-04",
-   "source": "조선일보",
-   "title_ko": "청와대 검토 Hormuz 준비 범위 내 배치"
+   "source": "کردپرس",
+   "title_ko": "Iraq planning to boost gas import from Iran"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq proposes new 6+2 Gulf security framework",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HVjhIYkJUeDBrTjNVY0tWUVFEYzlxd1F3QkQwamtHUnExTWstX3k0aXhfdlNVamtCdXdNUzllWjdMNHAzN0dZX1p3UDZzRE1GWHF4TDlFeWxpT2I4bVRiNkxhcUFLQkduYThseDNuREdEck4xTFV1NkM5dmZSQdIBgwFBVV95cUxNdEpqQ0daNjVvWW0xTnhfc2lBVkRJZDY4MHFobTZKeHJZMzZ5U3M2bF9ZLWZpLUdIclRnLVVxQ1ZNMVhyRk1RbmJ1SWE2UlcxbjYxZzlTM20tV0txN2ZybDdKOHhvYm9Bak1YQ2dVU2pHS2Z0X0JEVk5wMl9KRWhmVzBsWQ?oc=5",
+   "date": "2026-09-04",
+   "source": "The New Arab",
+   "title_ko": "Iraq proposes new 6+2 Gulf security framework"
   },
   {
    "cat": "정세·보안",
    "title": "Can Baghdad enforce disarmament without Coordination Framework consensus?",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVFhN01nYzh5VDg0MXh5bW5pU09WM3EtU0k0ZFhJd1FaZlFWeUktOTVwdk8zR1d2MDBzenhXNXZXa2lWZ0pnWm5MY1FnVlRZV05yRGpPLXFjaGwtU1lpeDRYaF9ud3pXeUIzdGZ6cFMwcVNpek5UeFdLZ2x0eml2ZnBRWTU4YUR5b25RbnpxdF8xVTA5UVJyYThkZHNyNVY2RWJwNHFB?oc=5",
    "date": "2026-09-04",
-   "source": "amwaj.media",
+   "source": "Amwaj.media",
    "title_ko": "바그다드는 조정 프레임워크의 합의 없이 군축을 시행할 수 있습니까?"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq’s Maliki Joins Chorus Rejecting Militia Disarmament",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekVsZGZ3SzN0eC1PaU9pWnNmZ21vd2JhTW9uQUtEcldReU9oVlp2ZFcwME5hYmFMdU1BeEVDd1NKZXdBMGhWUjhleTFpQ0NiSm84M3ZnUTlBZkRBcFFmUFpEZUlrM2QtMHVKSUItQ0NsSWFhNkdYQUpDZWxIVkxDemFHeUlYa1RiaWlpZlNZdE43RlpoNW10ZVhzUG01UnZ6UllMMVVlcjREOHdoLTg4?oc=5",
+   "date": "2026-09-04",
+   "source": "ASHARQ AL-AWSAT English",
+   "title_ko": "Iraq’s Maliki Joins Chorus Rejecting Militia Disarmament"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Saudi-US bombings emerge as new proxy for intra-Shiite contest in Iraq",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFlLWWdyM2xSY2E0SXFoclRuRjJHV3l5VXdoNHpzZWwwZmNySzRWbVV4eGp5RlN5a3FjNmNGMF9CUnllX2lEbDc3NEU3NDBrdVQ3c1JfWmlXMVpNSlg3SmlEMXpyOGNfR2cybkdHUGNvSW43ZnhIMi1aRlQwaVl4TDlfM2FsQ2NXVU5pcHlXTlFhU0k4bFNZRGZPcUswdkVEYlVZalBJVzlTWGc?oc=5",
+   "date": "2026-09-04",
+   "source": "Amwaj.media",
+   "title_ko": "Saudi-US bombings emerge as new proxy for intra-Shiite contest in Iraq"
   },
   {
    "cat": "정세·보안",
@@ -131,11 +299,27 @@
   },
   {
    "cat": "정세·보안",
+   "title": "Iraq repatriates controversial political critic after arrest in Syria",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43Q3U3RGRiczNSRXJNaFdhRF94X0hEY2hicEV3dm1aSF8taFpQX3BTSHd2UGpxLWZsTnRuZ0Fqb09nSnRnQUY4cURhZw?oc=5",
+   "date": "2026-09-04",
+   "source": "The New Region",
+   "title_ko": "Iraq repatriates controversial political critic after arrest in Syria"
+  },
+  {
+   "cat": "정세·보안",
    "title": "SMC: Iraq has reached advanced stages in security diplomacy » Iraqi News Agency",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmNySjFVOHpQWWl0d1RHd18yMUEwMnlvWldVTmUxdTlSX2lnRWxzNzZNM0FZcElERF9VQVluTVBTMlExZS01SE5Ea3lvLTVudF8xUTFxYkJJNDlsV0dwR1FQdWNmeUlaWnN2QS01NzVIbmtXdFM0c1NOY016YjE3SGU3SFl4SWNqZllvczZvRjlCVVljUkVZbmNKbVk?oc=5",
    "date": "2026-09-04",
    "source": "وكالة الانباء العراقية (واع)",
    "title_ko": "SMC: 이라크가 안보 외교의 선진 단계에 도달했습니다 »이라크 통신사"
+  },
+  {
+   "cat": "종합",
+   "title": "DNO Withdraws Takeover Bid for Genel Energy",
+   "url": "https://www.iraq-businessnews.com/2026/09/04/dno-withdraws-takeover-bid-for-genel-energy/",
+   "date": "2026-09-04",
+   "source": "iraq-businessnews.com",
+   "title_ko": "DNO Withdraws Takeover Bid for Genel Energy"
   },
   {
    "cat": "종합",
@@ -179,19 +363,19 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Shipping stocks at a crossroads amid their best rally in decades",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0E3cUVJRGdsd3Z6NUE1Q1FoeW1UUFcyT1pOcEloS3ZfQ1hfSzFjT2haYmVIbUJwOFF4eFBuSFRtVUtXNmhtaGp0OTByakM5bDB1a3ExTDM2Mzk2MF9BWm5reXRpbEx4UC1zMTE0STUzQW94TmNZZjVXMWVVdUdqdGh2a1ZPcWktaU9UZFIxZFkwcW9zcEJaODVzWExYMlQ5Q05hYnIzbFdYVVZ3R3A3bVlzZ9IBuAFBVV95cUxQR3Mwek1KZVVUeXY4azNROThoUUI2RTNoVkVSZm9zLXJQWGoyZkVjSVNSM3dONkl6Q25BRXgwTk1hUnB2U0RCa0E4T3pqRlhDVUdrR3VnellTZGxRYUhRS1VOdURFaWpzcmkwamFaZFRETHFNSVhtZGxaRThoZzNOeGdKUlJrbC1NVjdFVWRfMFZmaDBqWE94Sk5WOW02M0o3OWRFN0U5bHBzQkN5Nmk3bDJOVExIa2lw?oc=5",
-   "date": "2026-09-03",
-   "source": "CNBC",
-   "title_ko": "수십 년 만에 최고의 랠리 속에서 갈림길에 선적된 재고"
-  },
-  {
-   "cat": "항만·물류",
    "title": "Japan’s Mitsui OSK Sees Risk to Hormuz Shipping Through Year-End",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlNYbXpmc0NPUXo0OHdLUVNNeHN3Y2o0STNDYnRNdGYzZEEtSDZmcFlPYUdLOHIxaTN3V2F3VzBscFNseUotbW0tRDNFUVJ1LWdXUU1taUtLT3FpTXVrdm9WdU1kUTRfSFF5V0hIaFBJRFRqM09ZZ2t6RVFqTW5HTUNqUUdwVGpzdExTdktB?oc=5",
    "date": "2026-09-03",
    "source": "gCaptain",
    "title_ko": "일본의 Mitsui OSK는 연말까지 Hormuz 배송에 대한 위험을 고려합니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Shipping stocks at a crossroads amid their best rally in decades",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0E3cUVJRGdsd3Z6NUE1Q1FoeW1UUFcyT1pOcEloS3ZfQ1hfSzFjT2haYmVIbUJwOFF4eFBuSFRtVUtXNmhtaGp0OTByakM5bDB1a3ExTDM2Mzk2MF9BWm5reXRpbEx4UC1zMTE0STUzQW94TmNZZjVXMWVVdUdqdGh2a1ZPcWktaU9UZFIxZFkwcW9zcEJaODVzWExYMlQ5Q05hYnIzbFdYVVZ3R3A3bVlzZ9IBuAFBVV95cUxQR3Mwek1KZVVUeXY4azNROThoUUI2RTNoVkVSZm9zLXJQWGoyZkVjSVNSM3dONkl6Q25BRXgwTk1hUnB2U0RCa0E4T3pqRlhDVUdrR3VnellTZGxRYUhRS1VOdURFaWpzcmkwamFaZFRETHFNSVhtZGxaRThoZzNOeGdKUlJrbC1NVjdFVWRfMFZmaDBqWE94Sk5WOW02M0o3OWRFN0U5bHBzQkN5Nmk3bDJOVExIa2lw?oc=5",
+   "date": "2026-09-03",
+   "source": "CNBC",
+   "title_ko": "수십 년 만에 최고의 랠리 속에서 갈림길에 선적된 재고"
   },
   {
    "cat": "항만·물류",
@@ -203,11 +387,11 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Gulf shipping traffic via Hormuz below 10-day average, data shows",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEc3T3QtY1gyanNSTmJNc1FhS3lGRGNyTTVXX1RobkFIRjFJdXZwZFluOWdGWm9TNFFaUWR1YkJSWl8xa2N0NGhUUVRsbDU0dE9IeW9RWm0yZWNPVEdZWFM1WHBENUhhWXhXRkg1UVo2VFFVWWo4cThlVnBEQzlkT1VaRHB1NVVkMzNuSHJyS0lZLURPby1YY1NNZ01mazBJMnkyU29STWNoWTFLVmc?oc=5",
+   "title": "Iran Shipping Update – September 3, 2026",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTklPajV0VjhMcE9YUVY0dkZidTVfVWh5VnNjOWVyUjF5djhvdzhpRjdTSVIxdzRZQi0waS04Rkk0NlEyVWNXZXR5THJ0cGdMckZRZ3lUMkg2a1dpNkVEcWQweXRpOFlqTU9aMnhmcnY3aHlQR0VoZXpEN2N5Wk9QOW8xUGxCWEtkSW1Tc2pzRjM?oc=5",
    "date": "2026-09-03",
-   "source": "Arab News",
-   "title_ko": "10일 평균 이하의 호르무즈를 통한 걸프 해운 트래픽, 데이터에 따르면"
+   "source": "United Against Nuclear Iran | UANI",
+   "title_ko": "Iran Shipping Update – September 3, 2026"
   },
   {
    "cat": "항만·물류",
@@ -222,7 +406,7 @@
    "title": "Iran Says Citizens Are Helping Identify ‘Non-Compliant’ Ships in Strait of Hormuz",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkdmemlBYmQ2QWhsWWdvcE9WR0xtc1ZvVGtrcHNaSzlwVHR6eVBaWTNWQVhLQU95cGFnX3BzZE1PMUVKNVp2RVk3dmtDRzYwY3JNZUQwMm85RFlPbWQ4b2ZsdElqT0VHRzNzc2ZyblROVEFQajBaWXNXTlktbnZIWlRLTktlUU5NaWJaS2d6RG5nRm41cjB6Z0JhY0tzUWNtNTNWV2xYOFhpUVZJZkJ5V1NkUENPMDg?oc=5",
    "date": "2026-09-03",
-   "source": "iranwire.com",
+   "source": "IranWire",
    "title_ko": "이란은 시민들이 호르무즈 해협에서 ‘비준수‘ 선박을 식별하는 데 도움을 주고 있다고 말했습니다."
   },
   {
@@ -235,6 +419,22 @@
   },
   {
    "cat": "항만·물류",
+   "title": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
+   "date": "2026-09-03",
+   "source": "France 24",
+   "title_ko": "이란이 로켓 시스템을 개조하여 호르무즈 해협에 지뢰를 발사했습니까?"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
+   "date": "2026-09-03",
+   "source": "Al Jazeera",
+   "title_ko": "트럼프는 이란 전쟁 중 호르무즈 해협을 트럼프 해협으로 개명할 것을 제안한다."
+  },
+  {
+   "cat": "항만·물류",
    "title": "US strikes degrade Iran’s Strait of Hormuz capabilities, ISW says",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRcWM0TTc3OUVSZmFZcW54SldHQld5NDVkaTBscHJOOHFYR0Y2ZlFRSFlJQmlGMHltV09DVmExN01qUW01eFZkR2NQWHNiVUw4SW1NXzRpSWF4RUZKbGFKRUdQbW1lZFZZaWc?oc=5",
    "date": "2026-09-03",
@@ -243,10 +443,50 @@
   },
   {
    "cat": "항만·물류",
+   "title": "Rubio: Iran Has Lost Control of the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdEcyNU5NVDVRVnJKYzViUjZyaFFra1VOZFF6NHJkdUw5VEhCN0pmaks5Q1hQOFFOdWtEN21QbnAwV3Vjb3I0a2tkb3p0RDlZV3F1c2pNMkZ0SmpMVURaWDdCY0FVZEJ3anJrc0JSdGRQOXBRRWNjb1g1ZGphcVJRaUhhNDhXak1abXRNRVRzZTFXdw?oc=5",
+   "date": "2026-09-03",
+   "source": "IranWire",
+   "title_ko": "루비오: 이란이 호르무즈 해협을 장악하지 못함"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Trump Says US Has 'Total Control' of Strait of Hormuz — But Shipping Data Tells a Different Story",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZUZJSHk3QnVzVEpDZFpOR21qdmRFay04RFFaWjZnQTI2SzZuV0JqeTdFZUZCU1lwbkVyVDI5ZzJJSzlmSVlxYUhFN3JhX1IwSjFrQWp0b2NxWXBobFQ2RV8wMzFCZi1LVGFDMnJCcWQ1Sk1jOGlmbGlra20tc1pKZmtDczhYOFE1YmQzWG8wS1VzREdpTWQ1NnY3TkozekpCWVRBSUJaTlBPZ1IxQUlEMHFaOVFQcG1WbUV2QzN1bWZENG9aM082Rk11Y1Y2Y0ZLU2FPZU5yNFZ3cDZYU0MyMg?oc=5",
+   "date": "2026-09-03",
+   "source": "Benzinga",
+   "title_ko": "Trump Says US Has 'Total Control' of Strait of Hormuz — But Shipping Data Tells a Different Story"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Strait of Hormuz sees visible ship transits slide to just six",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2JhQTgzaWNjR2hQYmEtOEVwZ2QyWFZmUWZHMUVCaHloV0VwYVlNRU8tNlpGSVNFZEZIZEl0WEVaa2IzMnNiNkF6S1lZeE55ZEo0azVWMVpiRzVWOUpSb1BQR0xPMC05Wmg2MlBuWW85dFd3bmlaNk1RN0xaT3J6cTBKbFM1VFNnT0FZeDBRZkVaSFYyQmlzamt3cEpBYnYxWUHSAa8BQVVfeXFMUDJ6Y1hZV1duNm42ckhwaEJ6a2ZuWlo5TnFFT3RHMElDdTZEV2R3cmhwTVVZTWRyeXFTX2lScS1MamNSOENJZ2VrdVd5OHVfdlJQSkxJbkRXWXBpUFI0LXFCd1p0V1pNcFR0eWdRYm9xYV9BdXVLQTM4WG0wTDlqMXk3QllaQ2ZKd3pnZ2xWbmpkZVR6V3l2MkVjZ3hFS1V4cUg5SFpWdmVvdnlEWXlxcw?oc=5",
+   "date": "2026-09-03",
+   "source": "Baird Maritime",
+   "title_ko": "호르무즈 해협은 가시적인 선박 운송이 단지 6척으로 미끄러지는 것을 본다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Hormuz Shipping Remains in Limbo Six Months into Middle East Conflict",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnM3TmZDenFxdE9tWm8ydThUVmxYcGJTM1FPUzAyQWFzdy05dDB5Q0tkLXpyelEzYXlLNm1pckVIcW83d01qY0xJOWJldVhVZDdNY1Uxc0xJYkpyekxnejFVbUNlSHdyNkdIbDdoTU9OM2xJQWJZYkVEMDRxc2hSNU85YXpBQ3Q5VENZZS16VkVuWEpQVDlpY3FqZ21SM3FLODhiQlZZdVFPM1dOcGc?oc=5",
+   "date": "2026-09-03",
+   "source": "czapp.com",
+   "title_ko": "호르무즈 해운, 림보에서 중동 분쟁까지 6개월 남음"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Mitsui OSK sees disruption of Hormuz shipping extending beyond 2026",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVielV3TTZkd1RCQTNEdzJfQ0drTmROb1RtQWVaY0wteEFjSWN1WTZDZlNidEhSSFNLZkJVVHgzYUhwU3JnWlpNZXpCVzJlS292N3dQZDZLaGVpTk92aEdRTnFpVm9Xa2VfbVUzU3VwTGh0VXdwc0tUVWdxQmxvTEJaN1lYU3lKU1M5WU5lNlNVS3lGV3c?oc=5",
+   "date": "2026-09-03",
+   "source": "The Japan Times",
+   "title_ko": "Mitsui OSK는 2026년 이후로 Hormuz 배송이 중단될 것으로 보고 있습니다."
+  },
+  {
+   "cat": "항만·물류",
    "title": "South Korea reviewing military options for Hormuz, no decision made, official says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWViay1UelBGa2N2MVRMeTBDRUFURDhZblFPbFcwLXc1VG92Y3ZTeE1ZZHU3b1JicEYxOHBEdWQzSEQ1aXZiNmNCZjBVcUl0Y19yOGRQZE5wZjRkdHFYbzJxZTE3QTZDdlRVUGtFSTRyR0JSNkxRU0dBZGRTT1BWalZjdGpKV1BCRjFQV0dXTzZwZEw4aElNSXhJVy1ldVRZV2VqTlYzejVUdzZ3bUhoMlRpbFFsV2FWUjNYUg?oc=5",
    "date": "2026-09-03",
-   "source": "Reuters",
+   "source": "reuters.com",
    "title_ko": "한국이 호르무즈에 대한 군사적 옵션을 검토하고 있지만 아무런 결정이 내려지지 않았다고 관계자가 밝혔습니다."
   },
   {
@@ -259,6 +499,14 @@
   },
   {
    "cat": "항만·물류",
+   "title": "Trump suggests renaming Strait of Hormuz after himself",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTNuZkRzZElqQVFHTkRDV2tYdW9fSlRHaGtkenF6RUhrbFVTcWVqSHZqSmZaZVZrRGRxZF9URkRnVUVLa3lhbzJKMnFpNTRUeDJmbW92TkRqUlBNWXI3VHZxak5MODcwY1dqaEZvOXd4d1BRc0hpSjhZY2MwQ3E2MVl3QXpaSy02WFNoWVJOaW94TU1FZlRR?oc=5",
+   "date": "2026-09-03",
+   "source": "Jefferson City News Tribune",
+   "title_ko": "트럼프는 자신의 이름을 따서 호르무즈 해협의 이름을 바꾸자고 제안한다."
+  },
+  {
+   "cat": "항만·물류",
    "title": "Conflict branded a war of losers as US launches new round of strikes in Strait of Hormuz",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXlDZU82U0hka05LakNnQUVPbF9KY1dZVmp0emtydkxJbFFwbmNKMkpuS2dWTW9hY1htX1NRZEFzS1ByLUFUaHU2RHh1SllyY3JPZVFBaG9FS0pZeUlmend6M1ZnTGNZZHFNMU95Zm0wenVyVkp4bmdtYVpWOXc1TVZNLXdfQU9JWktmcjV2eWpFcGxxTTVFTTh4eE9iZw?oc=5",
    "date": "2026-09-03",
@@ -267,75 +515,19 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Strait of Hormuz sees visible ship transits slide to just six",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2JhQTgzaWNjR2hQYmEtOEVwZ2QyWFZmUWZHMUVCaHloV0VwYVlNRU8tNlpGSVNFZEZIZEl0WEVaa2IzMnNiNkF6S1lZeE55ZEo0azVWMVpiRzVWOUpSb1BQR0xPMC05Wmg2MlBuWW85dFd3bmlaNk1RN0xaT3J6cTBKbFM1VFNnT0FZeDBRZkVaSFYyQmlzamt3cEpBYnYxWUHSAa8BQVVfeXFMUDJ6Y1hZV1duNm42ckhwaEJ6a2ZuWlo5TnFFT3RHMElDdTZEV2R3cmhwTVVZTWRyeXFTX2lScS1MamNSOENJZ2VrdVd5OHVfdlJQSkxJbkRXWXBpUFI0LXFCd1p0V1pNcFR0eWdRYm9xYV9BdXVLQTM4WG0wTDlqMXk3QllaQ2ZKd3pnZ2xWbmpkZVR6V3l2MkVjZ3hFS1V4cUg5SFpWdmVvdnlEWXlxcw?oc=5",
+   "title": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp?oc=5",
    "date": "2026-09-03",
-   "source": "Baird Maritime",
-   "title_ko": "호르무즈 해협은 가시적인 선박 운송이 단지 6척으로 미끄러지는 것을 본다."
+   "source": "reuters.com",
+   "title_ko": "Oil prices mixed as investors weigh Middle East escalation, chance of Russia-Ukraine peace deal"
   },
   {
    "cat": "항만·물류",
-   "title": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONkdfTWVQTVdSZUV0WExHNEpESWZaMm1MMGVTRTVaZHRJalZhcmhSMlZkcTF2TkVlc25MV210cUNBelFNSFZtdWZ4R1FyaXV2VER5NU8zRVFHQU1QaFlJSDRSaW9jcG1QUUdhOGQ1dUlqUzlxUVNxb0xvX3VBQ1c5eUsta1VHdFZtREowWUlGYW5yWi1Tam9wcmstQ3Y4NXJvOHVSWlloYndhZm81SUl2RHVVRVh5R1ZfRDVXanRFT1Vibnc?oc=5",
+   "title": "Hormuz shipping slumps as U.S.-Iran strikes rattle oil markets",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVBFU0JtWllpNjhzbU5Ya3FvRmMtYU5MLTlOUFh5dklLZm1QUEk3bnhUOE9yYjZBWlpTNWlCUDlqNFRqQ3o2cXFBZGx4bTg5Y3VEWGluWDlmNk9ORzNnZU9RWUVkeWRLQzVUeW4wQVFQcFc3Mno1bXB6U3d1UVJSUlVUMHBFM21LZnhEREtGd3VFUGs4WTBHVQ?oc=5",
    "date": "2026-09-03",
-   "source": "France 24",
-   "title_ko": "이란이 로켓 시스템을 개조하여 호르무즈 해협에 지뢰를 발사했습니까?"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
-   "date": "2026-09-03",
-   "source": "Reuters",
-   "title_ko": "밴스는 이란 분쟁은 전쟁이 아니라고 말하며, 종전 일정 제공을 거부합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Rubio: Iran Has Lost Control of the Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdEcyNU5NVDVRVnJKYzViUjZyaFFra1VOZFF6NHJkdUw5VEhCN0pmaks5Q1hQOFFOdWtEN21QbnAwV3Vjb3I0a2tkb3p0RDlZV3F1c2pNMkZ0SmpMVURaWDdCY0FVZEJ3anJrc0JSdGRQOXBRRWNjb1g1ZGphcVJRaUhhNDhXak1abXRNRVRzZTFXdw?oc=5",
-   "date": "2026-09-03",
-   "source": "iranwire.com",
-   "title_ko": "루비오: 이란이 호르무즈 해협을 장악하지 못함"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "US forces escort 18M barrels of oil through Strait of Hormuz: Report",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEJWOEU1SXdla2F6dVU0ZEt4ZEJmYW1GbnBRR0lRcm1aRHphY0V6R1plLWY2V3hsd0FBYjlUTXA5N2xmNDhtbkU5TlBNU0dTdkdnMG5NNlRqQk5ScmpUMmhEQlRjcExocXloX01LQ0lwT0JwbkU4T3I2R1FYZ2g1Q1lCdUs1R3R5MXVvR0JFSy1COEh3bnd2YVI3VmVINVZ3Ung3LTV1T2FIcy01TFExSkNUSDNrSmpHNlN3?oc=5",
-   "date": "2026-09-03",
-   "source": "Anadolu Ajansı",
-   "title_ko": "미군이 호르무즈 해협을 통해 18M 배럴의 석유를 호위: 보고서"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDlfWEl2RDE0UlJZVDBlVWNZazYxdEFOOFZkSEdxR21YeDFLN1dHdHR2VjNnd1lQczI0OVRHSFI4Zk52Z1pURzk2ZnVpdzdCTmdnenFJcnlnVGlKNmt1YXBCOERVU3YydFJOMEYySWJkX0Q1MlhsWnBIZldMeU80VzRGQ2VjcDE0SXVhZzF0bGxwc0xXSzQ2OG9UNzVaTHZVeDZzVmxSRHdsQdIBrwFBVV95cUxQeVctNkhETFhMR29mNDR5cThZSWRpeEVrM25oQi1oaHAxRTRHTU1ydDhfZ0FiOU1GWkQxMjk5M0lzSWFWbnRidXRzSTJwNkQtcThPcEpTYWdnUUNGYlhkUExIWUd6ekJkNXBtUVJGZ281MmFzNTJQSnlKSXZ6dk92Yll6UHF2U00zbEZPV3lxWEluQ1NwSC1uV1FCV3E2X0gxU2x2U2gzX1FUdlVobWgw?oc=5",
-   "date": "2026-09-03",
-   "source": "Al Jazeera",
-   "title_ko": "트럼프는 이란 전쟁 중 호르무즈 해협을 트럼프 해협으로 개명할 것을 제안한다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "South Korea Prepares To Deploy Troops To Strait Of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTRMZzRvaVdteGh0emlRNktRNWVpVDVRS2swMjZpOTNGT1JmYUV6MmQwc2xDRXRlWlM2X2N5andEZmZRNm44Y3F3d3VjblNqVWtJQVRybnR4MGJpMS12c0hRb0Uzcnh5aEk2SUxnU092LXp6c3ZWZ1ozQUdPQUdSaGpvQUdXbkhQN2Q5S2JXSWc1bjQtVWtnSUJnTldmQktmSy1rNjFnZVYtZVJSdE5fR092anFHRHF2RnV6aQ?oc=5",
-   "date": "2026-09-03",
-   "source": "i24NEWS",
-   "title_ko": "한국, 호르무즈 해협에 군대 파병 준비"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHZ2TlZDTEp2dUtveVNQM1NRZG1ZLW9pYVdOQkZxbWlQY0wtREtRZXJzcTdrTlVkLUlzX0lhUlN5VXhOSlpNY1VHLUdZZEVPVndpVHlPazF1N0pXb1lDY2EyVXE4X1hMRjZ4b1JaSVBuRm5mc2dyLVZUcE5XTGx1c19FQnZwSDN6YU9hUDZ6WjhCTXlBWVBGNHhXcTFvWXpySWJXSkZmd015YVJuajFZUTVZMjVWd9IBuwFBVV95cUxPa0VnQlRtSHI3UHJJTFBNOXBwbHhrb2JLaWJOM0prQzEzZzBPU1pOOHdHejdERWNDUUpKYlpVR3NrRmVieEt1bUM0WU1TWEx4ZmxTSzNBRXhHMUpWakNhcWE1Rzk4bEpUdGxjTlZhYm9TOEliandVRUExWmdPVDRwS2VueE1RN1pKU0RoWHVfdF92cmlrYmVvQy0tbDE1eDFqRlpCRzBDNEJaeldxZHJRaEt2VjJnNDJwbHA0?oc=5",
-   "date": "2026-09-03",
-   "source": "Al Jazeera",
-   "title_ko": "아시아는 호르무즈 해협 사태 이후 석유, 가스를 집 가까이에 저장하려고 합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Mitsui OSK sees disruption of Hormuz shipping extending beyond 2026",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjVielV3TTZkd1RCQTNEdzJfQ0drTmROb1RtQWVaY0wteEFjSWN1WTZDZlNidEhSSFNLZkJVVHgzYUhwU3JnWlpNZXpCVzJlS292N3dQZDZLaGVpTk92aEdRTnFpVm9Xa2VfbVUzU3VwTGh0VXdwc0tUVWdxQmxvTEJaN1lYU3lKU1M5WU5lNlNVS3lGV3c?oc=5",
-   "date": "2026-09-03",
-   "source": "japantimes.co.jp",
-   "title_ko": "Mitsui OSK는 2026년 이후로 Hormuz 배송이 중단될 것으로 보고 있습니다."
+   "source": "Oil & Gas 360",
+   "title_ko": "Hormuz shipping slumps as U.S.-Iran strikes rattle oil markets"
   },
   {
    "cat": "항만·물류",
@@ -346,76 +538,12 @@
    "title_ko": "아프리카가 연료 압력에 직면함에 따라 호르무즈 해협에서 알려지지 않은 발사체 3발에 200만 배럴의 사우디 원유를 실은 라이베리아 국적 유조선"
   },
   {
-   "cat": "항만·물류",
-   "title": "Hormuz Shipping Remains in Limbo Six Months into Middle East Conflict",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnM3TmZDenFxdE9tWm8ydThUVmxYcGJTM1FPUzAyQWFzdy05dDB5Q0tkLXpyelEzYXlLNm1pckVIcW83d01qY0xJOWJldVhVZDdNY1Uxc0xJYkpyekxnejFVbUNlSHdyNkdIbDdoTU9OM2xJQWJZYkVEMDRxc2hSNU85YXpBQ3Q5VENZZS16VkVuWEpQVDlpY3FqZ21SM3FLODhiQlZZdVFPM1dOcGc?oc=5",
-   "date": "2026-09-03",
-   "source": "czapp.com",
-   "title_ko": "호르무즈 해운, 림보에서 중동 분쟁까지 6개월 남음"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Trump suggests renaming Strait of Hormuz after himself",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTNuZkRzZElqQVFHTkRDV2tYdW9fSlRHaGtkenF6RUhrbFVTcWVqSHZqSmZaZVZrRGRxZF9URkRnVUVLa3lhbzJKMnFpNTRUeDJmbW92TkRqUlBNWXI3VHZxak5MODcwY1dqaEZvOXd4d1BRc0hpSjhZY2MwQ3E2MVl3QXpaSy02WFNoWVJOaW94TU1FZlRR?oc=5",
-   "date": "2026-09-03",
-   "source": "Jefferson City News Tribune",
-   "title_ko": "트럼프는 자신의 이름을 따서 호르무즈 해협의 이름을 바꾸자고 제안한다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "2 Filipino seafarers killed in oil tanker attack near Strait of Hormuz—DMW",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnVMY1B0UjBYRGEtcjZhbGVydUptSzFuc1hnQ2IycGYxRzBuV3V6N2JJZWg4QVlzQlVMQTB6WnA0bklKaGM4MUxTOGQ5dlgwWm13cTFFQndtbHV4eXM3V2Y5bTYyYTdvWGNWMEdkcFZQRmViLU5rdUFtb1BxcXdXOGY4bG0yZzk3Z0M3eG5OU1dlckhFQkZ3Y01Oc3NTLVFmeXVUY2pTMHpKSDByeUpTY0dNWmdFTWd2VTdoUnR4azQ?oc=5",
-   "date": "2026-09-03",
-   "source": "ABS-CBN",
-   "title_ko": "호르무즈 해협 인근 유조선 공격으로 사망한 필리핀 선원 2명-DMW"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Trump: Syria presents itself as alternative to Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdHVaajRaWWlRX2ZxeHIzczZhbW1QWWhFODJIUW1xVDE4dGFheDdLNEtXaVA1LXNPbTFYYVViSEg3a21zUXlfWTN6Skg3MS00WUd4X3JQZzdDdDF1VkpOczRWMWtaVEN6MGRHRTliR0U5YmJab3pCY0ZjNS1IZlNMaFZnc19tTVBySkFrR0dxaFQ?oc=5",
-   "date": "2026-09-03",
-   "source": "ANHA",
-   "title_ko": "트럼프: 시리아가 호르무즈 해협의 대안으로 제시"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "From “Trump Strait” to a “Ship-for-Ship” Strategy: America’s New Gamble in the Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTngwSWQteElPbTZhbV8tRVEyNXJxOWpHZ0tmTzJReFUyTEhESHRVWU0xRU0tQmVlODZEMjktczh3MVVDWUUyOEZndnN1cVgwajR6VWktNzE1UFJtT282VUxPWXZma3duUjgwUFR2MFZoaEd5RUF0SDExcmJncnBaWUQtM19QQ0xnM2xhMDZUTnRTa0VUZERMa09uMW00b0NRaTJ0UHVNLVhvY0JuLVVLU0dWNTBydjFYMmRONXFuZDdadw?oc=5",
-   "date": "2026-09-03",
-   "source": "اسلام تايمز",
-   "title_ko": "\"트럼프 해협\" 에서 \"선박용\" 전략으로: 호르무즈 해협에서 미국의 새로운 도박"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iraq’s Shadow Trade Gives Iran a Lifeline",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcS0weHJUeEUzVlF1MkJCamw3eE9MQndMUmxqTjBOc3owX0M3dE8wUTVBczAzR3BiYUdYeHJMZ0JOSWpVTnVYYkN2RW9fWHZ2alhVTVFqU0dMbTJpMUt2VmVvYjViLTVBRW5keDBOX1hBRFJQZHVHSl9TaHZsNl9sSnBWckM?oc=5",
-   "date": "2026-09-03",
-   "source": "The Media Line",
-   "title_ko": "이라크의 그림자 무역, 이란에 생명줄 제공"
-  },
-  {
    "cat": "경제·환율",
    "title": "US dollar exchange rate rises in Baghdad, remain stable in Erbil",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHZia2dzcjFPV2RWQ3NKS1VIU0dzb3g5Zi10VDZBODgteVd2d1ozcWg3cm9YNEN2LWdvc1drcjBUSzNtWnRjLWFqMWtNSmw0dWl0cG15cTV5LW81dDF6SUtMOGk0RWYtTmwzWWViOFZqWE1sYy1Bd1hCbFo0UDNaYV9EZDgzdEZib2JhWmpWU2hmOWV0VlV1SEVLQQ?oc=5",
    "date": "2026-09-03",
    "source": "IraqiNews",
    "title_ko": "바그다드에서 미국 달러 환율 상승, 에르빌에서 안정 유지"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iranian-backed militia Badr admits it killed, wounded thousands of protesters in Iraq in 2019",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xV2pjYlk4ZXNrUHp3Qmx1RnhaSzBsOWZLSXd6ODdKYUNVYzEyR2JRcmNkOXhNMUN2dEkwZlFvUlJxVHVkQVpxQy1CMTFldF9NVjEzTXZSU0cyYzJB?oc=5",
-   "date": "2026-09-03",
-   "source": "The Jerusalem Post",
-   "title_ko": "이란의 지원을 받는 바드르 민병대는 2019년 이라크에서 수천 명의 시위대가 사망하고 부상당했다고 인정합니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Stripped There, Held Here: Iraq’s Burden in the Global Failure to Repatriate ISIS Foreign Terrorist Fighters",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM0Q2bUtmWHpaV2RrY2JsdTd6UW5XRm16dUdjMEc1RUxkTVNibUNLRVNqNUd3RlZTZV9VQWUyOEpWSTE2dld4NlNGb2d1VnY2QTA2bXhVdkF4ZE5Za0ptTU83RXBsczhwcnlYa1ZjV1UxMVpLVXlzcTJDd1RYTGdfRVFjSE9RS3owVDNsOHlxTUNzRUk4bExQVWFMM2UtdzRRWmRkOGhSMVN6M2dFb1ozVEtLSGtBOEhyLTg3RDZHeUpHTEJLWloyazVqUEJlSnM4TnVsdnJXQQ?oc=5",
-   "date": "2026-09-03",
-   "source": "Opinio Juris",
-   "title_ko": "그곳에서 벗어난 이라크: ISIS 외국 테러리스트 전사 송환 실패로 인한 이라크의 부담"
   },
   {
    "cat": "정세·보안",
@@ -435,6 +563,14 @@
   },
   {
    "cat": "정세·보안",
+   "title": "Iranian-backed militia Badr admits it killed, wounded thousands of protesters in Iraq in 2019",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUxBOTF4cFByQTcwOHJMdHgtUkJDZEIybEN6dGk3QV9yYmxSYmVfVHFLMEdrNkI5UW40Y1VrWmVIMXhRenl0YmNPcVl1OUR4LTA0ZkRkOG5jaUJqLV9LcWYzYmtQeEdGUDFuN1B0YW1fRHF2SVNXYk9FejBLLUNyLU5PTWlIbzNzSHFfZDF1R0hQS2M3d2c?oc=5",
+   "date": "2026-09-03",
+   "source": "Yahoo",
+   "title_ko": "이란의 지원을 받는 바드르 민병대는 2019년 이라크에서 수천 명의 시위대가 사망하고 부상당했다고 인정합니다."
+  },
+  {
+   "cat": "정세·보안",
    "title": "Iraqi judiciary completes interrogation of 5,700 ISIS suspects",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTRJNGtXUlBja3R2WHRNaVpQYWxxWURFLWN5cnVNTTNhUndyZjdpc2F0Qlc5UVpxcTU5blJhRlNlck56M3o3V29IVElEcTAyLXNaWDVRYVFnMk10eGVrS0hMYjZGR0U0cmVRckx3eUFkcDdnZ1hKcE5nSzN6SDVNT3A0by1xY0NkeUpRWHY5bWJQaHpnUTZDbA?oc=5",
    "date": "2026-09-03",
@@ -448,14 +584,6 @@
    "date": "2026-09-03",
    "source": "The New Region",
    "title_ko": "자이디 정부 하에서 ‘수년 내 최저 수준’ 의 이라크 범죄: 내무부"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Speicher massacre suspect brought from Germany to Iraq",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEQxdGR0RndFODV2djk3bl9VM05EMzNUZXBteEJ0NWNpYUhpWE9QUXZDcUxycm9RYjY4clBBQWI5TGNLdlVJd21ZSFhXNE5KTzUxc0p3cUZIamdCczFrUUd6YWZTYUx3LWZzTTByMkxYQ2tNT2kwSHAtTnQzSUVNa1ZoX3JfNnhrM1VnSVZn?oc=5",
-   "date": "2026-09-03",
-   "source": "شفق نيوز",
-   "title_ko": "샤파크 뉴스.. 독일에서 이라크로 끌려온 스피처 학살 용의자"
   },
   {
    "cat": "정세·보안",
@@ -475,27 +603,11 @@
   },
   {
    "cat": "정세·보안",
-   "title": "Shafaq News..Three sentenced to 15 years for Katyusha attack on Iraq's K1 base",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0Y4U3NiOVJ3YmdYaGNmR2pCbHFXcjZEUjVseV92MXJ5MWdzenhfakpfN0hiN1M4T253ZFViTHhZZGdKMENSRkEwcFh0QmhvcXBrTERUaXpGRDNRZEFHcFlWVXFuOEpsTTlNYmRSeElQLTh6NUdlN2NjTVR2bTNlRkMzOFBTSlZ4ckk2WGR1M2FpQjJVamd6WU9KVWU?oc=5",
-   "date": "2026-09-03",
-   "source": "شفق نيوز",
-   "title_ko": "샤파크 뉴스.. 이라크 K1 기지에 대한 카튜샤 공격으로 15년형을 선고받은 3명"
-  },
-  {
-   "cat": "정세·보안",
    "title": "Shafaq News..Narcotics bust nets 3kg of hallucinogens in Iraq’s Al-Sulaymaniyah",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSENtUDFBbHFSRDV0MlpvY2Z5bjl3ZlBXVUNldW9pWWI2bXB6dEpJVGYySjgtNTExaF9lVU9wdURNVm44LTBobEp2MEc5b3FIbnpKNXhXYlp5YUd6d2ZrYU9Va3JZR0FHWThCSUxMS0JxbGJvcS0xRV8xZ2xpRkVpVGNRRTdLWWtPZzAwd2dIMEkyYnA5WjhOOF82V0g1dw?oc=5",
    "date": "2026-09-03",
    "source": "شفق نيوز",
    "title_ko": "Shafaq News.. 마약 흉상 이라크의 Al-Sulaymaniyah에서 3kg의 환각제 그물"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq reports first 'magic mushroom' drug bust in Sulaimani",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvdFA1aFI1aHJualJ2VzVtQ3FhVkdhckVkUGFxd1VVeEU4T3g5OE5Id3otMDdGay1sSXY0WUgtSHptQ2FMeUZCOGF3d2U1clpjcUdUd21yWVd4aVpxQmc?oc=5",
-   "date": "2026-09-03",
-   "source": "Rudaw",
-   "title_ko": "이라크, 술라이마니에서 첫 '마법 버섯' 마약 단속 보고"
   },
   {
    "cat": "종합",
@@ -566,7 +678,7 @@
    "title": "Shipping traffic via Strait of Hormuz stays below 10-day average, data shows",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOExoX0FqRU1vRmZyblhFbW9XVXQzMTl1NUFqazhWc1pIeWo4UGZSZ1JjdVVwQjJaSktlYURpMVZWc2pwVUloblNGWG5WSldfd3NFNGhNOWZsVnFGdzF3R0s4RHpOTF9LWHNGTnpBZ3d3UjVEWTJybWE4OW91ODJwV2hITWhxMlpnLVRJYnBjMFduNlFfOE0zMzZQUzhPdWVJNnFjS1AzX29IbzVQdjI5NkNjNUNMMjI3RmlUc25CaHFadw?oc=5",
    "date": "2026-09-02",
-   "source": "Reuters",
+   "source": "reuters.com",
    "title_ko": "호르무즈 해협을 통한 배송 트래픽은 10일 평균 이하로 유지됩니다. 데이터에 따르면"
   },
   {
@@ -587,51 +699,19 @@
   },
   {
    "cat": "항만·물류",
+   "title": "The Strait of Hormuz: A U.S.-Iran Maritime Flash Point",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wMmpMcGZWOE1zR3kwUHQzQWxQMlBfOFlnQ09TVE14UTNFcEpzYm9GUllwYVRUOGZUY1FQRkQ1Znl2dnNPVnpFVTVOUzNtNWxhX0tOYmw4cGtQb1dyaEZWTExPZjZqcVdLZXRxODQ0NkV0VW9DZlZQZkwyNA?oc=5",
+   "date": "2026-09-02",
+   "source": "Council on Foreign Relations",
+   "title_ko": "The Strait of Hormuz: A U.S.-Iran Maritime Flash Point"
+  },
+  {
+   "cat": "항만·물류",
    "title": "Divide between energy trackers and the White House deepens over how much oil is getting through the Strait of Hormuz",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcUhTTk5JNHNST0pGcWpHVnZzcm1QS1ZoNkQtdTV1WlhzbVM0bklEZDg3b1AxSi1ta1VlZ0JDbU0yMHhwa0JKekxWby1UbGJ2VFRLd3VDTF85cUUxc2Utb3BBTXppa0VrOVJFTV9EdWJCekJRRXdSdXFsLUVCUF9jbTJrUXYtNmJkOHhOeFdhX3E4X2ZBa0t4ZVZ3dXlCMzBEMGx3NWtJNUFlaTdBbmZETXBzWEpwLUVIMmdvWFlTeGROa19fRUktMW5qdGd1OXo2dmxTXzlxbHNBYnp0TFBHTUlFUUE3TkxjeUpWSlZwZGYwSFdhOENCWTQ1LWdxREpndHpB?oc=5",
    "date": "2026-09-02",
    "source": "Yahoo Finance",
    "title_ko": "에너지 트래커와 백악관 사이의 분열은 호르무즈 해협을 통과하는 석유의 양을 심화시킵니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUwtV0h5MmswU1oxM2hYa2RNajQtaF9pQ3lEdlBDOWk5dHp2MG1VcVBpZFo2LWh6aENSREtsTDQwREhSejNLV2dKZnU0dzdLOUU5VjdjX3hidnU4OWl2bWZMd29VZUwteUpDZU04MEhiNHdfRS1NdHQtZDVYYzVpRkFjbW9KU2QtdUkyWm1YU1d6aXFJRGwxamRBM3pHb1FIOVFOV0hqdkN3TjFpWUh0aElxTzBRRENJa0h1SlZ5VzY0VW1EbWctLVVPdUNhMU9LM3BVYWVISzJGMEFBVVHSAeMBQVVfeXFMUGtrejFHdVByeXdWNXNWSTRBa1d4Zmo5NHM2d0txbi0xcno0eXpJNEF0T2djT05HRC10dGpBSjVsemNQTFh1UkhLZzJ3TlJ0cGdCR0tiNWQ3Ym9TdmVmbjNLRnoydFNMSWJGYUR3UUhZLW5BTlpXdzNXaFVjRElRTWhYWjh5VE9CSXRBN0pnZHFoZjhYaVVQVXlMS1paTHpGNnQ1emtqNWJYMVhmbU5tdGdPc2FLOVhVNWxkV2JrYkxnMzN2X0FxMy1FalZVQTdFTzJ6ZGZSWGxWVjN6WHA3eUNJVFU?oc=5",
-   "date": "2026-09-02",
-   "source": "CNBC",
-   "title_ko": "크리스 라이트 에너지부 장관은 월요일 CNBC에 1700만 배럴 이상의 석유 운송 호르무즈"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran blacklists more ships trying to sail through Hormuz, govt website shows",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmhMd2p2Z3VsWGROU3BobXFXeEV3ZVZwZ3JLbzNUWUtIY1pwUTljaEFMWHBOV0RJamJuNXlrd0dRNnJQY3I3S1ZTenZtSzhoYm11WTBKUkhsTkJUb3hkVVNVUXdsTTZxYkk5c2VsS3ZBeDVNTjFPTnlsQ0RXb0N1ZHFJQnV2VnZPSk5ua2ZUMG9qajVYZF9rUFhEZWlZZGV0bFFPVS1Ud09DZlpRYl8xWnNVYTk3ZmtCaHRSbnY3Mm1pQQ?oc=5",
-   "date": "2026-09-02",
-   "source": "Reuters",
-   "title_ko": "이란은 호르무즈를 항해하려는 더 많은 선박을 블랙리스트에 올렸으며, 정부 웹사이트는"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWNZNEl1T053MU40MzNHT1cxYjdxQmxrTnk0LVZxSS05QjBXbW14VHBaNzNCT04xMHdNOENSQUdsM0xVVWp4eFBSN0tGUklDa0ZNLXhWNDMyVmVSZDlOdUFFZl9STm43dF85aS1mMkFGNWZSOFlZUzdBdHp0X0w5RzVPNlBBazItU2h4OUpZZXNGbXNsdUZ6UmlWZVhHenVUOWN5ekNaRTVlVFk0VzR6d1doSdIBuAFBVV95cUxNaDR3dzN5TlY0ZHdjckxjandwejNzcXZsNFBvUEttUXpGSHhwMFJOaEpELVEzS0gyV2pOWW12YzlnZm1YOFNIaURlWlZBYnFrQWhPblhMTXlmMWFmQi1jZ1FERV9PWkVhaVk2Wk5lVVRPZXJqNGpSNWdPc0NySFBmT0Y3ZnYtUFlIWm5raXZrbzM4UHhEWlVXUGNZWW9kWm9qWkFjX1UyVjBxMHhtVWtRUTE5QTFXR2ZR?oc=5",
-   "date": "2026-09-02",
-   "source": "Al Jazeera",
-   "title_ko": "사우디아라비아, 호르무즈 해협 유조선에 대한 이란의 치명적인 공격 규탄"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
-   "date": "2026-09-02",
-   "source": "Reuters",
-   "title_ko": "카타르, UAE 호르무즈 해협 외부에서 선박 대 선박을 통해 운송되는 LNG 화물"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "US military strikes Iranian tankers in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cmRPX0w1ZUJzcmZDNEp5eEtGdDJqd0I3Z1NvQUNIajUzV0t5Ujh0dDhCakVBOEpWRW5KSjQwNVhkWkhtLW1KcmRGdmlWbGlSMERBR285dG14SlJsNGg3TGZ2R3l3ZzU4aVE?oc=5",
-   "date": "2026-09-02",
-   "source": "The Jerusalem Post",
-   "title_ko": "미군, 호르무즈 해협에서 이란 유조선 공격"
   },
   {
    "cat": "항만·물류",
@@ -643,43 +723,27 @@
   },
   {
    "cat": "항만·물류",
-   "title": "U.S. military launches fresh strikes in the Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14emhLdERqMDNXajliUVR1S29GSEZOUUhkTjBzNXR2TG91aWk0M2F4YnB5U0d1UzRMQ2RnM1pYd1Jlc3VLUDdpNlctejloOVN4aC12NndlbFBjWjdQYkg3QThxZW9PQW9ZdlZJWjk0WG51OUww?oc=5",
+   "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWNZNEl1T053MU40MzNHT1cxYjdxQmxrTnk0LVZxSS05QjBXbW14VHBaNzNCT04xMHdNOENSQUdsM0xVVWp4eFBSN0tGUklDa0ZNLXhWNDMyVmVSZDlOdUFFZl9STm43dF85aS1mMkFGNWZSOFlZUzdBdHp0X0w5RzVPNlBBazItU2h4OUpZZXNGbXNsdUZ6UmlWZVhHenVUOWN5ekNaRTVlVFk0VzR6d1doSdIBuAFBVV95cUxNaDR3dzN5TlY0ZHdjckxjandwejNzcXZsNFBvUEttUXpGSHhwMFJOaEpELVEzS0gyV2pOWW12YzlnZm1YOFNIaURlWlZBYnFrQWhPblhMTXlmMWFmQi1jZ1FERV9PWkVhaVk2Wk5lVVRPZXJqNGpSNWdPc0NySFBmT0Y3ZnYtUFlIWm5raXZrbzM4UHhEWlVXUGNZWW9kWm9qWkFjX1UyVjBxMHhtVWtRUTE5QTFXR2ZR?oc=5",
    "date": "2026-09-02",
-   "source": "Axios",
-   "title_ko": "미군이 호르무즈 해협에서 새로운 공격을 개시하다"
+   "source": "Al Jazeera",
+   "title_ko": "사우디아라비아, 호르무즈 해협 유조선에 대한 이란의 치명적인 공격 규탄"
   },
   {
    "cat": "항만·물류",
-   "title": "Filipino sailors killed in Iranian Hormuz attack, Saudi Arabia says",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhaUVIbXpzcjJFdVJ0YVVlUW9Vbm1iX3hjOEh6TlNiWkcyN2R5WUNGNFFNN19VQWVDbXE3X1JHQ0xJdlZsQS1aRld4SjBiZGxOSTBQUkZpeEZ6RlpW?oc=5",
+   "title": "Iran blacklists more ships trying to sail through Hormuz, govt website shows",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmhMd2p2Z3VsWGROU3BobXFXeEV3ZVZwZ3JLbzNUWUtIY1pwUTljaEFMWHBOV0RJamJuNXlrd0dRNnJQY3I3S1ZTenZtSzhoYm11WTBKUkhsTkJUb3hkVVNVUXdsTTZxYkk5c2VsS3ZBeDVNTjFPTnlsQ0RXb0N1ZHFJQnV2VnZPSk5ua2ZUMG9qajVYZF9rUFhEZWlZZGV0bFFPVS1Ud09DZlpRYl8xWnNVYTk3ZmtCaHRSbnY3Mm1pQQ?oc=5",
    "date": "2026-09-02",
-   "source": "The Jerusalem Post",
-   "title_ko": "사우디아라비아는 이란의 호르무즈 공격으로 사망한 필리핀 선원들이"
+   "source": "reuters.com",
+   "title_ko": "이란은 호르무즈를 항해하려는 더 많은 선박을 블랙리스트에 올렸으며, 정부 웹사이트는"
   },
   {
    "cat": "항만·물류",
-   "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ETHRCRWFjMm04endYR2xHNmlwWHhGUGUtalljVkRZVXp6aTZaa0J4TlBrb0JHQzA1d2h3ZWI5MnZIelBDbnAya2x1MGZLSlZRT0QwY3RKc2dCQQ?oc=5",
+   "title": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
    "date": "2026-09-02",
-   "source": "BBC",
-   "title_ko": "사우디아라비아는 사우디 유조선에 대한 이란의 공격으로 필리핀 선원 2명이 사망했다고 밝혔습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Trump administration says more oil left Hormuz this week than before war, but data says otherwise",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWIxUWdjc3JUcnV1bHp3cTlSUGpMcGZpMmtYcWxKclNQdzVNcnY1YkdMUWJqSU5qSDZZUVBEdm1pT0hqankwVW55RU5mWXQ2Vi03STVpaDVrMFNzOG93cVZpWlVPaXR0UjhtcjVwUEFZN0VIc0JLUEluZS1tN0Qxb0hOaHFadmF4YWYtaTdZdEI1ak15Vmc?oc=5",
-   "date": "2026-09-02",
-   "source": "Fortune",
-   "title_ko": "트럼프 행정부는 이번 주에 전쟁 이전보다 더 많은 석유가 호르무즈를 떠났다고 말하지만 데이터는 그렇지 않다고 말합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5",
-   "date": "2026-09-02",
-   "source": "Axios",
-   "title_ko": "미국, 새로운 \"유조선용 유조선\" 정책에 따라 이란 유조선 공격"
+   "source": "reuters.com",
+   "title_ko": "카타르, UAE 호르무즈 해협 외부에서 선박 대 선박을 통해 운송되는 LNG 화물"
   },
   {
    "cat": "항만·물류",
@@ -691,11 +755,11 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Trump warns of bigger response if Iran keeps targeting US forces and shipping",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSXVyVVZYZDJpajQzYlRFZmhPS1AwZTZaZFhPWG91MjZSdXM1VlU1cExZc2pjRnh2TlFiTXc2QnA4bElObi01UEZKMnFTWGROc295RFhoTUhFeVgwcjh2OTY5aWdHZm0yU3ZBbW50Slg2VVVFOGpPNlh1QVJZRExhcHNaeXVpbU1NeTJiZ0tUWklwYUlXU2s2bWpYYkVUSGdYeEN4OGdTeldSR3VTMl9MVWlKUTVnMjlEVGNWQkphbUdYV1hYR2x5blRNZkQ5NG9IUk4zc3VHcWxVNXFwSDJ6UUVJNVdGNFk3elZKTzBCOHNndGYwMmZ0UGJ4VWVyUmVSZUhua3BLa0p3QmdCLXhpaEEtOFlYZ0FleTRLYmhDX1AyZlpzVWxFekdUb1lNdDBabXVR?oc=5",
+   "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5",
    "date": "2026-09-02",
-   "source": "WPEC",
-   "title_ko": "트럼프는 이란이 미군과 해운을 계속 겨냥할 경우 더 큰 대응을 경고한다."
+   "source": "Axios",
+   "title_ko": "미국, 새로운 \"유조선용 유조선\" 정책에 따라 이란 유조선 공격"
   },
   {
    "cat": "항만·물류",
@@ -707,35 +771,11 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Pentagon outlines targets hit in Iran operation",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3JjVHo3RHdRbW95VHU4VkZNT0RMODl5emMzMzVLYkx3NzdsbUo5cndzSlEwNnpRRkxVVEc3ZjhYcVpxdjdkQnh3bzhxcTdrRXNzRmU3RDlfLVJQNXlLc0RsdHRaMU5ENzlEMGxfZTloejBQbXQzVVpQdnBEX2pLWNIBhgFBVV95cUxPRkFRMWRxRHBPTUJXa3RmSDJ6MTJUaTBfMWRLRHFyeWotOFdyWHlWWHByM1FPZXBCblptc2NBTy1SSnJKRHBlcVdvZTdIdklYSTlLZXBTRno0N1BpcGZ6ZVJkQ0VURFJkbnU3akhHZmJjMVI2WGxFVnM0aWRzak5CVm5xcDdrZw?oc=5",
+   "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43OVI4c2VSUGlEY214Y0VQQlB0ZnFsdjN2WG54LWtUTW02SGRsdkt4d1U4LU52UzFWb3lZWGlfZTctVE13SDNJRkhWVnpxRldOcjNTZWtncXlqejgtR213QlBOU2g?oc=5",
    "date": "2026-09-02",
-   "source": "NewsNation",
-   "title_ko": "펜타곤, 이란 작전에서 타격받은 목표물 설명"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "2 Filipino seafarers dead in Strait of Hormuz security incident",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcl9Rb01rcnhOVVlxR19Da0FIWVZHUkRkNHFNWlNhLVVYVW8wRTFCUTJibVpMdUNSUVBoNVRWc0Uxd0RqWGdrS0JQNFZwWnhRdEh4LS1kekd1ZmZsRXZpVkphdXZON3NMREtXMDFUNlhhYzZKSVdBVFM1dUs5VW1selJZamp6bVRKSjczRXczaEE1N25RcEUxbllVWmIxazVwaktZX1ZGb9IBrAFBVV95cUxOaVhlRGN3R05uQndpN0JjVGhGblowUXNxbmZlYVlTdDBuaFNRR29wdjFFR0VyUUFkeFNWYlhvRHlXaG1KVDljVWJ6Um1uZ2E3MnRMWXlDZFdic1J6dzFWN1RkbDVQc3lvNC1VU0FnZVRDYmhrc19TRGVweUc5RHdYQU54eUpmZU10S2NES2xGOG1kVlBma1dpWUN4c3hPZ3B1V0V2bTgtNUlhVjBX?oc=5",
-   "date": "2026-09-02",
-   "source": "Inquirer.net",
-   "title_ko": "호르무즈 해협 보안 사고로 필리핀 선원 2명 사망"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Trump floats renaming Strait of Hormuz after himself",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1gzdGp4Uk81V0ZRT0xGMGZDYkZtekJ6cWl1R1pkU3dsSkFlcUxmNEstM3huMnBtSzJ1RWt5c0QtdXZqN053aVJkT1ByNVhSYWQ3WFgtaC1QMExUdWpaMHNla1F5UXVxWFZmRFlRRWNaMzl2dkZZUkNtM0VjMzI2ZkhzcDBUXzTSAYwBQVVfeXFMT29ud19VdDl1N0VJcXFjTWV5MF8tLUtuNnRNU2hHWjlEOGRBN0hjdW1POTl2V3VjTVhaNlA5VU11VHp3MkNlUGU4ZTB0Vlg4SkJ1U05GMFhJRGtXV28zVGRBa3Uxd2IzT1hBZFRkcGQ0bVc3VTV5c2xQVEFEMW55dy1hejdxMmZ4d3o5WU4?oc=5",
-   "date": "2026-09-02",
-   "source": "The Hill",
-   "title_ko": "Trump floats renaming Strait of Hormuz after himself"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Two crew casualties in Hormuz attack, Iran blacklists more ships",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHU5UzA2X2VFa1drMXYwb3ZXUWRaX2thak9tajNJNFFMbllXMFpadG9Ld1RXblJ1dEtxdEl3QmprWG9fWFNLYWJ3b1dwR2NQUkxLMExienBjU05iTDRjRzU1d2FXcUp3NmFZcWNLd1FnMWt2emRwc1B5VEpDdzdoMHVJN2p5R3NfZVdLbWZxVEU4OS02S2ttYVNBOEZ0YjNuVkNNOS1qRlNBQQ?oc=5",
-   "date": "2026-09-02",
-   "source": "Seatrade Maritime News",
-   "title_ko": "Two crew casualties in Hormuz attack, Iran blacklists more ships"
+   "source": "NPR",
+   "title_ko": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation"
   },
   {
    "cat": "항만·물류",
@@ -747,27 +787,19 @@
   },
   {
    "cat": "항만·물류",
+   "title": "40 ships: CentCom escorts record 18 million barrels of oil through Hormuz as US-Iran strikes flare: report",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONGdpeDdod2FmRjBJUmxFbUIzUlRkVU1QX1RMd1lwSzNEVDZKZmd6ZGsyUGw4bDRhODNMZWFRUjZIenRYV1BTTnV1YnNodTkydVpHSXhWalh5SGUxRjlobE9UMkxUWnBLd1JwUFF0MDdudFpIcUtNQm00MXd1Y3dVUkNfdVFSTFdoakNSY0FtUHdGOWI3b1VyNHJwZ3VZcUVyR1dLYm1CdXRWZHNMN2lFaGR0VzBOZURlamxZSlNTRlVsSjl1MDFHbGNpb2VZaGRRZ3h0eThOVmHSAesBQVVfeXFMTXliU0lkdkNVcXdmaWhGSlVmWHU3cDdGWTdKSEpPcmRPRFgzTk1kdzh4dUJwT3VEVWR0WVoxMGw5TW4xdVotY0ZHdDBPbEx2ZG5lbEt6dEN6dDdvUnJBemNDNG9XS1dCM1lqQ3JhdGRLenlucy1aQmEtbFA3LVF0UkVEd0lWQ2M2VVA3TEJyWWtWblE3UVlxRlM5Xy1uR2xXMWdwblRMX210amlCc3dGMkduNEw2TVFZNVR1TFI3TklFOFlkYVduSnFBNVhDeDFOTmdKMkxHazJmTWM0a2dpdVR4cUd2UVdkdjRjcw?oc=5",
+   "date": "2026-09-02",
+   "source": "Gulf News",
+   "title_ko": "40 ships: CentCom escorts record 18 million barrels of oil through Hormuz as US-Iran strikes flare: report"
+  },
+  {
+   "cat": "항만·물류",
    "title": "New pipelines will not make Strait of Hormuz ‘worthless’",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUE5SR1I3N2ptODJMVGFTTUVJWGVacDJJaXNNaDN2NzJrdkdvN2dXZ2FWVDU0NE8wa1ltc3Bic2FTb1FPcnZ5V24xSG5jMHN4SUJSY0Jhc0pOQ0IwWXRQaGFlYkwtd1VwcGVXaFRlV0VDV1RaNkxLT1RkQUxiVWpjZmdxUmdudFlDWlZKLUhPSUZITmdNemt5dmpQcml6QXpCNVpGN09SbnV4dFV2MXhBbWQwbnpjS1U?oc=5",
    "date": "2026-09-02",
    "source": "thenationalnews.com",
    "title_ko": "새로운 파이프라인은 호르무즈 해협을 ‘무가치한‘ 것으로 만들지 않을 것입니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "U.S. Launches Intense New Wave of Attacks in Iran",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkJhNDBNOW00TjJ1ZjdIQ3BmSHJpSEVEVTVKMkNaRksxaDByenc5V2pRZVd1WENGVFA3WVgwbXhfNHd6UWxxZTRzZnp2amJ0cHBZWEY5d2k1TkNabjEzbVM5RVQwQVU2TUUzQjA0OXdub2NmNG1iTHhMcUFFY3Q0VElYZ0hxZzg?oc=5",
-   "date": "2026-09-02",
-   "source": "The New York Times",
-   "title_ko": "U.S. Launches Intense New Wave of Attacks in Iran"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
-   "date": "2026-09-02",
-   "source": "BBC",
-   "title_ko": "이란은 미국이 민간인을 겨냥한 공격을 부인하면서 '전쟁 범죄' 로 결혼식에서 4명을 살해했다고 말한다."
   },
   {
    "cat": "항만·물류",
@@ -778,20 +810,20 @@
    "title_ko": "이라크, 터키 쿠르디스탄 지역의 주요 국경 관문을 우회하는 선진 교역로"
   },
   {
-   "cat": "경제·환율",
-   "title": "US dollar exchange rates in Baghdad, Erbil, and Basra",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVhmc2xKN0Yxc053MTZ6OXNqMGtSUE5uWFB2WEczZlExaUhWTUhGQVN4X19DRlNWbEE2dDFXR0JQZ2xBbm10NTEzdkt4YXNZZEhwV0VZUjVBclN4b0pUc0FLakh3OC1tdWhnY3RxcVFrVF84c09iU2JBUS1pYTd1Wmsya2Vpb1V0U2xmOXNxcTlDc3NxUDY5Q2xhVWZ3R2M?oc=5",
-   "date": "2026-09-02",
-   "source": "IraqiNews",
-   "title_ko": "US dollar exchange rates in Baghdad, Erbil, and Basra"
-  },
-  {
    "cat": "에너지·전력",
    "title": "US agrees to extend waiver for Iraq to import Iran energy",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWRMLUQ2YS13aTItR0ZzbVFTS3N2Z1doQkpjQ3JCZEpLd1kyNzNGZTVGNFVGU040MmEzQXIyOWk0TGwtNm0yQ3ZHaVNyY2d2V0lHWjZhdEV1MnhXUW81SFkxQnhMZGF2TTRsWDMzX0tUbFdQNkl6YVAwaC1vMFRaYUZBVl9lSklPQ3dzcm1KQXEwbllFdDlfVnd0WDBTZw?oc=5",
    "date": "2026-09-02",
    "source": "کردپرس",
    "title_ko": "US agrees to extend waiver for Iraq to import Iran energy"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "GIEWS Country Brief: The Republic of Iraq 01-September-2026",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUlXODNsbTg0eUVETk5pZU9URnNydm96bUNEX2x3dXlSMi1yaHBIX1NweXMza3R2WER0eUZHdUpiSFROLW1PNVo1eWwwRThXRUZWTGFNVXZFQjMwLTlISWNpTWNLeTE5UTVYTnV4TjllYnhiZDg3aEN4dTh5WFZNVUxxNVRHS0FZT09sNXl3?oc=5",
+   "date": "2026-09-02",
+   "source": "ReliefWeb",
+   "title_ko": "GIEWS Country Brief: The Republic of Iraq 01-September-2026"
   },
   {
    "cat": "정세·보안",
@@ -806,7 +838,7 @@
    "title": "Iraqi 'resistance' faction's conditions for disarming muddy the waters of heated debate",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUsxN0RKU1lHNG00eHNSVkdKVG9jVjBZN3BfcWg4aTJIaUVpa0M1RnpkN3JZSllzOERPZXNMNUY3TTFaaGdIN0lBS3NYZWFfSXpuQjQyczdXU0Jwam0xbkxESmh4emxPWWhaMW50eUlwMlhUWGV0b2VUemFwVkRucndNM2E2ZGNQY1kyUzRKX25VcGRhNzRDTXRHbGpSMkZ4NGVfd1E5QUd2R2s?oc=5",
    "date": "2026-09-02",
-   "source": "amwaj.media",
+   "source": "Amwaj.media",
    "title_ko": "Iraqi 'resistance' faction's conditions for disarming muddy the waters of heated debate"
   },
   {
@@ -819,11 +851,19 @@
   },
   {
    "cat": "정세·보안",
-   "title": "US to replace Baghdad chargé d’affaires as Iraq faces security challenges",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mVHBWYTNyVFM4SUVJRWxzUlI5c0xnbmtPd0U0TFdGQ0JkSDNzVWllRThDUUZHNUFPVUU0M3V1YTJEeE5kZ1VWYnoyRTdpU29Wc2xEakRZck03RUpT?oc=5",
+   "title": "Iranian-backed militias try to prevent disarmament with new conditions",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kYWdOUm1PTkVpcUNqMFRJVFR6TWM0NVZzRlNweksyaXNBU3Y4Vk9mYUFLTE9GcGw1Q3hUcE1SWFRDMEhQSGFlazB6R1JrZUFkdE9tbUVWNXVCWEF0?oc=5",
    "date": "2026-09-02",
    "source": "The Jerusalem Post",
-   "title_ko": "US to replace Baghdad chargé d’affaires as Iraq faces security challenges"
+   "title_ko": "Iranian-backed militias try to prevent disarmament with new conditions"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Shafaq News..Iraq security forces seize 160K Captagon pills, free kidnapped engineer",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnNxX1V3b3B2ckk5eWpHR3hCQkJlQzNXOXlGdnVWODVtbC1NN0RFS1BOUXM5cmU1QjVEbmNRWHdDdGxjOVdybnNsRDF2R1NjQnVlcGZrWnN5WjQ0SlF0a19nSTBaVGhmeWtLZUltX3lSV0lXaExvTUVpbkE5ZFdKeGh2eXdNVzZ5YkxNSUMzRzBHZDR5OXdFcjJ6RHNwd1c3UTJB?oc=5",
+   "date": "2026-09-02",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News..Iraq security forces seize 160K Captagon pills, free kidnapped engineer"
   },
   {
    "cat": "정세·보안",
@@ -840,54 +880,6 @@
    "date": "2026-09-02",
    "source": "IraqiNews",
    "title_ko": "US Embassy in Iraq urges citizens exercise caution"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Steven Fagin returns to lead US diplomatic mission in Iraq",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWp4di1RV2RqS1cxYWlvbjN6SjFtVkpWcFpwbHlLcDZlclgwd2FfbW1oWk52OUp5aDUtcWxhQW5pczVwYlNMck1sOWp0MzdQUlRfZDZZU2NyUjYyWHpoQXFxeWFxb3lxX3NnTHcwTE1BcU5DeWxueFp1aGs4Y1oybjJhODQ5NjFkVjZYaHZn?oc=5",
-   "date": "2026-09-02",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News..Steven Fagin returns to lead US diplomatic mission in Iraq"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "MOFA discusses with the new US Chargé d'Affaires the tightened sanctions on Iran and their potential repercussions on Iraq » Iraqi News Agency",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVAwSy1ETUpjV0gwNGV4STNfOTBPZ3EyR3Ryamp5NFhvMTVxWHRSSHFVMlhYelk0STBiWFF6SE9NUllyMWJTUDd1THdSdVBsSEtwWWtSVzZQRlVFRkRscVF4enNXUkhzYTNTWDZJYTQ0aDI1QnJCbzFkZVgyTVktcHNPYVY5WkFDWXZEWmU2Vnh6bG9pNXNDQ1BWNVhsZTh5cWxtLUtWYUxYUFVRRVF4OUFsY3dDTTdKODE5Qm4xc2loRW5KU1pac3cxTUNaR0lRbWV6LUpMVllVTnR6WjF6cjJ5ZFUzcjBfMEh3czhlaXI?oc=5",
-   "date": "2026-09-02",
-   "source": "وكالة الانباء العراقية (واع)",
-   "title_ko": "MOFA discusses with the new US Chargé d'Affaires the tightened sanctions on Iran and their potential repercussions on Iraq » Iraqi News Agency"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Interior Ministry dismisses 210+ over graft in Iraq",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbl9hUDViUjgxZlhvTTVXRkZyTUtsUlcyeVNaTFlpTy04TmtYb2ZEZ3ZBWjNYbmkwT0V6bTFVekN4Z2kxRVpLd2VFMU41WUZoMTdpU0hMSHhjWWhQNy12TFY4WlRCMmVvcnI5bG1OVmNOTWVZcWZtV0VRcmVBVUJWQV9BWjlDMDZK?oc=5",
-   "date": "2026-09-02",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News..Interior Ministry dismisses 210+ over graft in Iraq"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "American Report Reveals Hidden Funds and Gold by ISIS in Iraq and Syria",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbGp5LTcyb2tZRGs2Sm05enEyZDl5c2hadERFV0Zma2NsWXFhMUdUeGRMdDQ2WXYxeFZES2J4MDIyR1BScnYwb0NGelhoTTVld0draDVsYUVBS2hOOGNmOEwwN1BocGIyWDRLNy1CRlEzQzJURkJmb3lsazdPMjMtcm5CdVh4aGhUNE4tdURBSlN2eGlwbWpyZ0lYZTVVb1BhV254eWRrSDJXYXhZc2NNa21sSXBkVjZTczF4RzdXdW0xMDQ?oc=5",
-   "date": "2026-09-02",
-   "source": "ShiaWaves",
-   "title_ko": "American Report Reveals Hidden Funds and Gold by ISIS in Iraq and Syria"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "US Erbil consulate welcomes Steven Fagin’s return as Iraq ambassador",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XZGVZWjhleUpSanlXYjJWV1hBTDh4ZG9QbUxvTF9TVTNuWGhmd2VtNmVzaHdzS1dmWFJpLWlxQ1EzemJzazlCOTBMSDNoUnF1alN2cUNQRkI4eW4wTGxqN2RwNA?oc=5",
-   "date": "2026-09-02",
-   "source": "Rudaw",
-   "title_ko": "US Erbil consulate welcomes Steven Fagin’s return as Iraq ambassador"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "INTERTANKO: Hormuz Mine Clearance ‘Not Sufficient’ to Restore Normal Shipping",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTlaUXhfNWVnMEVBbVpFeUNZSjUyYUJxWm5fbE1rNEtCcGZ0ejNXVjR0Y1ZJel9GNi1HYW5PdW9yMFJQNmRQbDV6VlBmTVQ1SEZydFpPenkzUnE2QnFMbHc3SFdpQm9yTEdhclpvUVNlQnR2OHEydVhMRXJyRFpSbHY2TV9INl9nZ1M2X3hIX2VXZ1JUaFNIZUVnNXY?oc=5",
-   "date": "2026-09-01",
-   "source": "gCaptain",
-   "title_ko": "INTERTANKO: Hormuz Mine Clearance ‘Not Sufficient’ to Restore Normal Shipping"
   },
   {
    "cat": "항만·물류",
@@ -907,22 +899,6 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Trump Claims 30 Ships Daily Transit Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR09RSjBVZVVUUGo2Vy1BY2xyWW5BQWJ2bkJ1QWJUdkxBQWZubUt6bnNmZml4YkY0dWhEOFFuaFRXQnNBZlFfYjFNdUtBWmk2NkdmZ0YzX1l3NTdCZVNNQ2NHV0pXaWNqZVVpTkxTUTFFalR3a2ZFQTF1Si13SThvdUJySTRRNW1IdEV4NkdJSkpaUnc?oc=5",
-   "date": "2026-09-01",
-   "source": "iranwire.com",
-   "title_ko": "Trump Claims 30 Ships Daily Transit Strait of Hormuz"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Two Tankers Attacked on Midnight Run Through Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU216RVctUnZQZ1dYaGNlcC1VU0VITlNZNHRhWE5HcUo3ZDZLaFBpNHQwdWNBVS10c2R6ekV6QzlQR0RkYWdoTFhCdGE1TnpZaUs0VHJuOE52WXZlU1pxT2RsX181Z05Kd0ljY08yME55b2pDQkt5SEZoWEV2R2FaN1BkNWxTOWdoYzdNNC1VQ296SHpxUnFxRHBnZHh3dTQ?oc=5",
-   "date": "2026-09-01",
-   "source": "WSJ",
-   "title_ko": "Two Tankers Attacked on Midnight Run Through Hormuz"
-  },
-  {
-   "cat": "항만·물류",
    "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjUwUGpOMFFlalYxaTlwbnhqbVdOZzh3RDAwWjVaX1FuUEZmMS1tN0tsa1h2MGxLQ19PSkJ4SE9EUE5Ga2J3UWFnTWNCbF80SmRyS3h0SHVKRDh2MlYwUjd2cGtTUHhUeXVoYzBsV0F1Y2FqdXJuQTl5dWVkaGlEa2wtLTB3ZUk2dExwZmhScUJ5MTRvWVF5eHBiRzFtbl9KUTBF0gGoAUFVX3lxTFBRTGtWUGhNNDUxdDhxRWlBSEtfVC1YelBjbGw0S2R3dWI1ekJGUHgxUHJIOXhvOTVZSFBld0p2czZWUnZLcVNkZHROQUpoSFNFYWlUN0Q4ekN5SGwxanIzU3lkWXd1YnN0S2NDZHI1Sk1GZkQtWVh6bGhlNUhlWnA1MnZoNTFxVWF0NmZaNThQd1B1MGtVeVV2cHBGdFF0ODVRSG12dGtxMA?oc=5",
    "date": "2026-09-01",
@@ -939,27 +915,11 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Iranian Misrepresentations Over the Strait of Hormuz Addressed by Oman",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVDJaNTBCUmlwUjdyUW5JdWExMndLNDNqVE1PanJEVTFOZENqT3FNZlJLOFdUUm0wOFF4MmU2YWhOZlF5d2VmNTFpUGZ3Uzh1MDRsTHY2X1VrMHp0d3pPZUd3YldnaVBEekk5NWtGOEtlRTVJaW12czJ6djB4RTVpUlB6TDZacnhzbWozMmItOVVUNmpUd1RXVEhSYjVLRHE0WkJkeDl6NUlwdzlfNXc?oc=5",
-   "date": "2026-09-01",
-   "source": "The Maritime Executive",
-   "title_ko": "Iranian Misrepresentations Over the Strait of Hormuz Addressed by Oman"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Two ships carrying Saudi oil attacked in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YakVTSXU5SlZ1YU5WNmVzS3htT0JFbnRLN0hiR0Y1Y2c5X1EwMmZUUUtYZ19CVVlFdTNfamdfWjAtbFQ5YVVFSzMxWGYzZEdSMkM1M3EtMFpyU1BPVWFQN2VJc21mOHhaNHc?oc=5",
-   "date": "2026-09-01",
-   "source": "The Jerusalem Post",
-   "title_ko": "Two ships carrying Saudi oil attacked in Strait of Hormuz"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1ZUNHo0c1RXbkJhdlRFNVd5YzBhSXM5T0JCR25sRHdONHppYUk0UmxEVDNaem0yRFpCcXJqSl90d0tXb1piMDhFZEU3M041NHFBcllYVzRtb01PakhPV3p1RjF5ZEJvOWhXVmV4bm9XYll3bWVBZHozMm1pMzF6YXRubjkyY2R3Wm9wQl8tMnkzZnd2RXIyNEJ6NnJKaU04WUlGT1RYR2F4NmJMX0ZLOWpoaVpmVEFGUDdB0gHAAUFVX3lxTE9Mcnl4OWo5dk4tTnNYRkZrSGJ2S3BkdjhzUkdGcDQ2NU9qdl91VFpmVlFvVnFjMkp3RFU0Qm4zRmdhQ1hDWDVuZ0NtUklvcW5uSW1SQjU0ck5iWXE4VGdkTHNpZTN5RzdZazNjY0tCcnVRQ0xvNmVkMjFySWZDVFVhUFFFeWFBQ0NIWDk0cHlfYjB1Y1JTc2VQc0x2MjRITzRRczJQVVNQbzluWkszTVFVYU5wS00taFNwbTFxbUZmUg?oc=5",
+   "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3RzZy14ZVBNU1RLNGFVVVc0bnVQemR5VXJtTnVqRjJPcXo1TEMwWnVTdWZKQkJoaUxBQTVTYkhRZm1BT1drVU9qenlHUlkxMjlSODIyeDh4LWZhVThsS192YnFMSS1JSWVQYjE1QlJSUGt1bmh1aGsyVFpueWc1S2ZUWGRTTTUzN3BxUWpRVE9xZjgzVHU1N1I4a0tzSl9NRHBCSG54M2dESXVDU0xJT9IBtgFBVV95cUxNOFYzMDhaVV9FRlFlYTJsTHdueUw2OXFMZC1JLWtqdHM4bjUzdDRkaDFlcXcxcElUblp1TFRFU3R4SEpJdTFSNWFyanZmVUhCQmNMYUYtc096X0NBZUNwakVjTUdoRHFObzMzT2w2TTU0dnphdlBoa3VNcmxCbjMyLXotVVNWWGVoejlSb2kwOW16SmQydUw2R0w1UjU3MWdtVmlNYzVDRWE0U0l1ZTJ2eExxQ2NZUQ?oc=5",
    "date": "2026-09-01",
    "source": "Crude Oil Prices Today | OilPrice.com",
-   "title_ko": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz"
+   "title_ko": "Bessent Says Strait of Hormuz Obsolete Within Two Years"
   },
   {
    "cat": "경제·환율",
@@ -968,6 +928,46 @@
    "date": "2026-09-01",
    "source": "The Jerusalem Post",
    "title_ko": "Iran's Central Bank chief says regime has enough foreign currency despite US sanctions, blockade"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iranian-backed militia in Iraq sets ‘conditions’ for disarmament",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0ZQSVdnY1pfRHE0Y3NWMXV2MklQdlRFTl9hdFFWNmVaMlozTFZGOWFJb0N0MzZWcXJWM2pubFIyNk1QVDJJdWxEWDcxVWFJcXNXX2F5Uk51ZW94WGx3dUFTZEN6cG9ITm8zSDNTZVNjS1ZhZmZ4bjh0czkzdk9xSHlSSExFU1Z4dUhBZ3pIZ2RRYnV0VVJDclBqbWxoSWkxc3dFcHQ0UjhmWmNjdUt6UjFwOV8?oc=5",
+   "date": "2026-09-01",
+   "source": "FDD's Long War Journal",
+   "title_ko": "Iranian-backed militia in Iraq sets ‘conditions’ for disarmament"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Shafaq News..US clears $800M helicopter sale to Iraq",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUnZwWXZQeEJHZWpOWG84a3B3M0R2VFBoWmZaTTE2REh0SDlLOHBMMU9adV9acWxWZ0dySEkwOVZOaHJ1REl1am01YUgxUWg0eVUzaG1iNmFDcU9Fa203dG5HeDVmWG1LY1o1VThlOE1DQ3RVV0o2WQ?oc=5",
+   "date": "2026-09-01",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News..US clears $800M helicopter sale to Iraq"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "US authorizes potential $800 million helicopter package for Iraq",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlJYZGJfQkFQQUluSjNxOG13c3ZjaENLNGl1Tl9iLUw4MmROX2Jpc0hLYl9sNXdCV2xZOU51SlJIbTVJSXpNWW5xX2hDRU9GWklvYkx1VXRsYWFPOENPQ1VjLXp5WmI5VXNoQXc0NDhITjA3cDNVR1FiX1Q1dm1QcVo5bElORkNDY0dBeQ?oc=5",
+   "date": "2026-09-01",
+   "source": "Latest news from Azerbaijan",
+   "title_ko": "US authorizes potential $800 million helicopter package for Iraq"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Shafaq News..US backs Iraq’s “new path” under al-Zaidi",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sT1ZvMTBxYkZ0S1VjbllfWEZtQmRFb2JfazZkc1FnUDczOUFETDB1UWpvZm5vRzhDcEdOcUFpMjc1Vk9XckpNd1UyLW16QUViQXBTZmFtVFBkVzBManhBenBhREhCMjZnRWl1eGR4Z3Q3Ty11?oc=5",
+   "date": "2026-09-01",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News..US backs Iraq’s “new path” under al-Zaidi"
+  },
+  {
+   "cat": "종합",
+   "title": "Mercedes-Benz Signs MoU with Erbil Chamber of Commerce",
+   "url": "https://www.iraq-businessnews.com/2026/09/01/mercedes-benz-signs-mou-with-erbil-chamber-of-commerce/",
+   "date": "2026-09-01",
+   "source": "iraq-businessnews.com",
+   "title_ko": "Mercedes-Benz Signs MoU with Erbil Chamber of Commerce"
   }
  ]
 }
