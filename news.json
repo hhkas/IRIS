@@ -1,101 +1,405 @@
 {
- "updated": "2026-09-12 07:49 UTC",
+ "updated": "2026-09-13 08:10 UTC",
  "count": 120,
  "errors": [],
  "translated": {
-  "new": 62,
-  "chars": 4434,
+  "new": 38,
+  "chars": 4433,
   "stopped": "budget",
   "mode": "anonymous"
  },
  "items": [
   {
    "cat": "항만·물류",
-   "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZW1oRU43TWZHOUU5T3dGZlNMSGV4NWZTLVpKbnRrU3JzTzllNFlUdFdYX3hGN0JCdEJrV2NrcUZJQk1GeHRXaTR3SUFFMU1XNVpxZFlib0xtbVZFQUp4b21zSUlNYVR6d19Pa0hpMkdNRVBGeEVYSUlNcmRaci04T2hJSUduR3c?oc=5",
-   "date": "2026-09-12",
-   "source": "NPR",
-   "title_ko": "예멘의 후티족이 해운을 위협하는 홍해 섬을 점령하다"
+   "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGctZFpGTW5Zd0h2OFl3V0FMR3o0MHVxNW5uSmN6cHpfNWRYRS1Sd0dibnUwUDRCY3VHejJlbUdNVkx6VmN3WTJQVGYtRjRHX1dWQllyQWl3TzEyWWoxY0JRaU45U0RMUTd0SHBvYmRLZmN4bjl3VF82emtKY1JiQzlsN3NqLThWcDk0UEdmaTlHWjJWd0k1b1VtVmVVUFpSZnFhSEZPUk9oeFlTeU5ZcTJKUlJUZjd6d3d2QWJiYmR2UQ?oc=5",
+   "date": "2026-09-13",
+   "source": "Reuters",
+   "title_ko": "호르무즈 해협에 대한 새로운 공격 보고서 선적 팬들은 석유 공급에 대한 위협을 두려워합니다."
   },
   {
    "cat": "항만·물류",
-   "title": "US limits air defence time slots for tankers sailing through Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSlZ4a2p0SHpURGQ0cXRYTEF5aW1jYWJjRXJIc0E2T2NDb05IbnlRRThDcDBBbDVjTUZfbDlUZ3kxVUN6b1hTcDBMNTNSRDJ1SWdRVFZJLWRkMklWUUNOVnF4SjZxMmRlTURkVlVUN0FLUjdiei1EemhObXFLOU13NUxlZlo?oc=5",
-   "date": "2026-09-12",
-   "source": "Financial Times",
-   "title_ko": "미국, 호르무즈를 항해하는 유조선에 대한 방공 시간 슬롯 제한"
+   "title": "An Iranian commercial ship is struck near Strait of Hormuz, 1 person killed, Iran's state media say",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
+   "date": "2026-09-13",
+   "source": "AP News",
+   "title_ko": "이란 국영 언론은 이란의 상업선이 호르무즈 해협 근처에서 타격을 입어 1명이 사망했다고 보도했다."
   },
   {
    "cat": "항만·물류",
-   "title": "Live - Iran ties Hormuz reopening to end of blockade as Washington vows to fight on",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWUkFCaXFNOVJFN2ZucUJZTEIyTW1YS2owX21jVGhhS2V4VFlLVXRvdkR5aURSZmlTX0hSRFRQeGlrNlZqWGRnb0hMb2JJdklBQzIzdlctdERIc2RPSUE?oc=5",
-   "date": "2026-09-12",
-   "source": "iranintl.com",
-   "title_ko": "라이브 - 이란은 워싱턴이 싸우겠다고 맹세함에 따라 호르무즈를 봉쇄의 끝으로 재개한다."
+   "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say - ABC News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0pCWW9XSXdwYWZBOUtnUFNfMDZOV1o5MmM5S3ZyWkl1eWVQRDBtUTdpWEZSWHNPdWtkQlMybngtV0lDN1lyNk5UaldDSjdYZWhuTm5BQlkyb0VxZVcxU0VQNXZWUFNGRHJ6VDgzUkNFdlNkOEZPNzIyRDB6amtlbVNHQ3BCLVBuYzdpcWJkMzZ4b1E1bGVyZ1R30gGfAUFVX3lxTE5jckwyX2ZaLTkzbG5Yem41RnNxbXdHYkpWVTh1TjVjdFB5MmRnNU54UjZ4aHRlVVBGMjJpMWJHQXRaeUNtWmc3Qk9reXZQbWZyWmIxUkNxWXJlSjBJeXg3cGJPRzJOcFdjc2o3UVhzdkRMNm5xRkN1dE5MdTNGT21YTTNhM2QwM19xWHRZN0d0OE16NGV3RXo4U3NqS3JMaw?oc=5",
+   "date": "2026-09-13",
+   "source": "ABC News - Breaking News, Latest News an",
+   "title_ko": "이란 언론들은 이란 상선이 호르무즈 해협 근처에서 1명이 사망한 채 타격을 입었다고 보도했다. - ABC 뉴스"
   },
   {
    "cat": "항만·물류",
-   "title": "Iran, Houthis block 2 key global shipping routes, straining the global economy",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjExU0xwZnQ5a2lXS2tSTHBqOTE1NE40WHhfbGVJM0ViSFVTLWRTdTFhRlU1aVV5bi02VlZKQ1o4YnMzWFc2U3h5bURwaTdNTmV5NEFKeEtoV0Nqak5nVEpYdzNJb2RnXzFnQ09QdnhfMkMwcW4wci1BZENlVkRJd3lDUWo0d3A2LWJ5ck5ZbmJ4OU5qNjlJQVJDUi15b3hVdllkRTY0MVJRaGQ1Y2pRQlpjM0FNc2tIYW9v?oc=5",
-   "date": "2026-09-12",
-   "source": "USA Today",
-   "title_ko": "이란, 후티스는 세계 경제를 긴장시키는 2가지 주요 글로벌 배송 경로를 차단합니다."
+   "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmhTckg4cl9rN0hMVC1yZXdBRUFzbWtSRXRZUVpBV2dfZXFYUDJmYTdMaGVXVUR2Y2FVX3JPLWd2X3RqSnlqZ25lVVNaWXRfYWxuMU1NZUpxRlEtV0RIM0pGRFp6Smh4b3E3ekhkdlhKem5BNlZxQ3V1RDBhbWVFcUpEbl9NOHd0ZHpTT1Y1aE5Da0t3RkVEbUhhQTYtQW11cG1xOUx0Tzc0UTN0cjRjVEhRR2MxZ2Rt?oc=5",
+   "date": "2026-09-13",
+   "source": "WBAL News Radio",
+   "title_ko": "이란 언론은 호르무즈 해협에서 선박 공격으로 1명 사망, 기타 중동 개발"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "One person killed after ship struck in the Strait of Hormuz Iranian authorities say",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVklNZUowcXpQaGRlb3hpVnpVSFpMc3lhNy11dnFybnAxRENzLWdZaGdNak90bmZpeU9IZmgydUZJWTVQUWVJUXREMFFIWnl1cjBHYnZGVDlrWlowTUtzbmNtNzk2R3lDMGkyNG1QemFCX3JZckU0cXNoS0Z4dExwdDB3U2ZkSVdEOTU4cHhoRVcyUDdtWWE0WFcyS0Z4TjJoWUdzS0dZeWJvQjczVXUwTFpxd3BhcG9Xb3Nn?oc=5",
+   "date": "2026-09-13",
+   "source": "Euronews.com",
+   "title_ko": "호르무즈 해협에서 선박이 충돌한 후 사망한 한 사람이 이란 당국에 말했다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "An Iranian commercial ship was struck near the Strait of Hormuz, with 1 person killed, Iran's state media say",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMDdieDd2SFpDMEZ1a19KM1B3dUJaNWl0YkFoNzJtUkJZaGljZlc2d1pnTy1TZWV2bVg0SlM3R3J2VlJQb2U2OTJYTFByQnZjNEFwQjRsUGw2bFNFQ2syTi1FLWJiekJGS3NGaGNGcFFKSl9NckxmVDdXdEx2TWJZZTdRNVc1YlNtaS1YQnpnN0tDamVrNU9SZ3U1ZGYzem9qTDlKaDN3dTBnUHRqQ3RyLURuVlJUWVVkMF9QS3NtR0Qzd1EyWmhEM0FEZjZld1FjWFRLMHU2UWpkdnlXdjctbmxJT0RndmpzVmJWSUppZC11QXkzbEhWMHZqSFplNWV2UTZoMXpUV0tRUDNrRHlZaEJxUWsyVFZ6dXltUU5hVlJpdzRCSTJkT2VIcVVscDg?oc=5",
+   "date": "2026-09-13",
+   "source": "kare11.com",
+   "title_ko": "이란 국영 언론에 따르면 호르무즈 해협 근처에서 이란 상선이 공격을 받아 1명이 사망했다고 한다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Vessel struck by unidentified munition in Strait of Hormuz: UK maritime authority",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFYtMnF5T0Z1am5IT0lvTFFIUmtrU3RKNXhLX1g0MTJ5YjA1TG5NN2NNMjdYOFJ6X2RJMjVBUjJfQThhNzkxZnMwY01VOFo5dUk5UFUyUlIxb1FOdk4wV19qOHNobFlidldSWEsxMHJEN2xLV2xRczJaYkR1aUNXaG5oTENNS2UtSDlTSTBSa1NCdVZsTVhwbTh3aEJzMFFSSXB2T1VkUHc4SENsOHN1QVkzOFZpU1ZwZzJNLTRPY0h2ckE?oc=5",
+   "date": "2026-09-13",
+   "source": "Anadolu Ajansı",
+   "title_ko": "호르무즈 해협에서 미확인 탄약에 맞은 선박: 영국 해사 당국"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran says one dead, three injured after ship struck in Strait of Hormuz | World News",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWRtdUt3WXZYNEdQcTE0ZUw0WVRTOTZ3TV9wX3Bkd2xuTkJEY0FjQ3BTXzFEbkplX0xMcTRxTFJtRnBuN0ozZ040T1M5UWFwNG1VZFpfY1pMSjRNU1Q2UHhSM1Y3cEdyc3NFa2FWdUpyUFhtQXVsNVVBY2RTTnlGSkpuYVRxTnhiaXhWdXN4ckNZa2ZVZFNISUU3TFpPMkszRi04VTM4Z1hmLWNvQkQ3SmZGRlU5aGlyY183bDlNeDRlVDRzV2x4NUdxWGVYQdIB0wFBVV95cUxQb0dGRDdleEZibHpSQnVfZnRtQWwtTDZ2bEhLZmtKdXppUUJDUVctekFObklsTEtnS0wwRXBMcm1NeVA5aXVTcUdrS0NLTFdhcHlmUV9yQnZqQnVLU3JJTFNTLUNRTTJPMjR0a3NOb3EtRUVFeWtxbzViSnYyQnNTQ1lQSlJUNFRrSC1sbS1Sb193M24xU2pReXo5cngzNEdtMDd0eHI1SmgyME9kNDJadllabXlzRmJkejJnVUlLSVM0UDhONEVkZTZLRXA0RDBFWXNv?oc=5",
+   "date": "2026-09-13",
+   "source": "Hindustan Times",
+   "title_ko": "이란, 호르무즈 해협에서 선박 충돌 후 1명 사망, 3명 부상 | 세계일보"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "An Iranian commercial ship is struck near Strait of Hormuz, one person killed, Iran's state media say",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdkx5dGFGQkg1c1FLVG9jV0tZOTV4VF96M2ZsUlZRX01DUDhJU044S0Nkem5lV2xKSlBGUDhUQkxXUTUtLW1wQlFCck9sbnh3ZjB1eHZTMmpEXzJqNnA5X2JEZ1VIYk1uZzVkV3lFVUJrNmV3MVRUak1wTVVadURGSEdwM1pwOHdmTkE2S2FYNF9vcXZ6cV9WQU9UYjFMTWpjYUt4RVlvb0dyU1lLX3ItRjFfNjNsLU4xVjlwYUx5SzBaSUo5bVlYTE1WUTFzS19xaVI0LS1KNFB4VVg4LXBiVVRvV0rSAesBQVVfeXFMTjJtLVdycDlGSUIzRXlZWTY0U0ZjRVh1YmdvYVVOMVpxemw4RVFsOWFWWGFqaFZFZzF0elpxbWI5ZlhhaE5uQ1B5NVFqZXNGMTlGemkxOGViS1JoMFk0YUJDMjVYY1d6d1JtVnpfZ2RKbjh3aXFueFFtOHhmaVpuUnZia3FpdW56TTFmVmZpY2JIS1NXbnVWNGhFZ2tsTm5kTmQ2R0VzdjJ2eDluYmxvaUxWZEcwS1NUY01Vb1NwRUlKMzNlRm1hT0F4UVB6Z1Z4ZlF2UkEyVXR5UDF4QVhFSmYtY1JUUkpMNjY5aw?oc=5",
+   "date": "2026-09-13",
+   "source": "The Hindu",
+   "title_ko": "이란 국영 언론은 이란의 상업선이 호르무즈 해협 근처에서 타격을 입어 1명이 사망했다고 보도했다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iranian commercial ship struck near Strait of Hormuz, 1 killed",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWJSOXFnMm4xeENsVy1ZY3NXQno2ZU9BRm55VnJoMmluSmRDVVAzbTB1WXFvcUxaVnpOZVA5aXcyT0ZjYXg5c3o5OVJoZlVaZnZ3Ri15WThPRzZOYTdTTFFOZ1JXM0tFaUpCTkFSb0JMSzBoTHhGR1Y1X012S3p1S0lJR2hYUzY1SXlqME9XUGhLX3l4S3VHTk43VnMwM3R4bllvNtIBqAFBVV95cUxOZHpJZWo3VmZ6aUtFT1g5MmQ3aHgwTldIRFBsRzNQemxFdENpdzh5U3ltbFp4U2NRQTExRmpqMFl3M3NXSkVHN2lDSV9qNVVMQS1UalJybzI3MFNYclRpdFRxTGs3ekcyYTk2S3VVOUNUTEZBVl9tZ2s2RzY5MzVTT0pYMXl2dEpfeG1WeUFPcGJDUF9TdHB3ZmpiRHpfLWhjTlBJR0hEb3c?oc=5",
+   "date": "2026-09-13",
+   "source": "The Tribune",
+   "title_ko": "호르무즈 해협 근처에서 이란 상선 타격, 1명 사망"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iranian cargo ship hit near Qeshm before Strait of Hormuz shipping talks",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFhPckFLUmxUb3VfVFJWV3d1Q1Q2ZlhuMlN1ZXl0Q1QwbVUzZFFsSVVzaVdRbEJxMXpmb3M5b2VtMk5pYzRzZGJqVlprNVlkSmZvNFVSWjFOdTE4aEd4S1NmektXdFdDSC1NbG5EOWFnZlBpeFVwMTFiSUlLcG5Hc0tQWWR1OEF3NnNsRXFsSTVUTnRQMHBPNmVGYnBMVy1fLTduMkw0VU5ybjFfWmNqNlR1MnJUM0JBaXMxTG9PdEc4UmFPcERpSk5QTFFuZW1BdGM40gHYAUFVX3lxTE12MGt4dlpuU29OSHBoMFdmZy1DanhsY2U4SG1md2dDeXlpSTRrZTJEcUF2R0N3SHRNakh4X3V0LWV3OGdPX0NsOUgyWTNFeTdhQWZad2s2aTQ5RHdJNmxlRXUyVUU1Q2ZHXzIteVVHU2dyREYtcWNmM0RaQXRwS3d3Nk9uanNibXkxcDNRNHBsbUY4RURJX2pacnMzM1E5eGIxaUhFX2NzQlJsczlDYzMyaXBCSE1NS3JrdzgxRWRRdGdqQU9xejl3cGxZaUFJZHRiZzNWVno3NQ?oc=5",
+   "date": "2026-09-13",
+   "source": "India Today",
+   "title_ko": "이란 화물선이 호르무즈 해협 해상 회담 전에 Qeshm 근처에서 충돌했습니다."
   },
   {
    "cat": "항만·물류",
    "title": "Live view of Strait of Hormuz shipping traffic",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCMm1sNHoyeG1WMFlVb2lvTmE4Q2k0VWpkRUo5czMzZHRQbGxWdjZVTDNuTHkwYjVMTXZHdHIwamtNZmJQb0ZzY25Zc3BrcjJHWjNYU2lEa3Y3a2syZWdocNIBXEFVX3lxTE1YVXVMd2dzcUw3Y09PS1FmVTREZTdSTHVRTlM1WlB3NFZMOFA0eEppY0poQjd6ZmtxdXhvb0RZeG9qX3YxaG9wZnBDRGZsV0FkMHZjT2ljNlhYZVUz?oc=5",
-   "date": "2026-09-12",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JY3VSN2lrWS1lX0Y2NmwxWm1Md2RYX2p4RE83OVJzMDJwcm9uakZQcXFpdE0tM2VzYWowenV6VkZGdm1SQUQ2Tm5HNUdJYkJkV1pXaTVxMTBWMUFvdnY0R9IBXEFVX3lxTE9qTS1MMHRRdUZlNVJIUXdkVWNqVlNZeGZHbzUxSXNPZ1NYWU02ZjhYUHFtRnBrUENEZTlUb2F3eVVTVjdQWTk2alNRaTF3eE9hSUF4WWJ4MjJHZWQt?oc=5",
+   "date": "2026-09-13",
    "source": "Modern Ghana",
    "title_ko": "호르무즈 해협 해운 교통의 라이브 뷰"
   },
   {
    "cat": "항만·물류",
-   "title": "Houthi offensive along Yemen’s Red Sea coast raises concerns about key shipping choke point",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmt6VVlrY0d5R3RyVzZNM3FCUmYxX0VjMUJZdTQ0SGx2U0lSRjgzSFkyRXlqcTFuQU1BUUJpZksxSF9aSkdsYXRCdExURmo1cEJxUkVJcmdWVl9BUHVYY1lBSER6YVZYdjUtNW5xSlUxNzdaem1mazF5U0dlUHluRmk0NUw2eE9jb0psTnE0WHpPQ011VnJUSG40blFFZVZXbGZYeTgtMU5yanJrRm5RUWhXQ2Y2QTJCWFltVTVn0gHDAUFVX3lxTE9INVU2aXQyWHBsNXc2dlItTkJtdG9CQkxtLUd4VWpOc0NJSWdWMjlFSnRCbDgyRm5FM0g4dTdqeUtQQ2FWamxIN25LWHdHVVdHWXNZVHAxMk9nMHhtV1BTYTN6WE9ma1phcUg0UEoyZFVNY1lsSXJhNG5mZTVOcWc1Z1V6aUZkSmxSRkFXVHBvX1JaSUl1bjgxSGpTSE4zdFBrWGlLNjBJb1o1blF5QlVNdDBjdVVtYnVDVXF2RHRlV2FaQQ?oc=5",
-   "date": "2026-09-12",
-   "source": "The Times of Israel",
-   "title_ko": "예멘 홍해 연안을 따라 후티의 공세로 주요 해운 초크 포인트에 대한 우려가 제기됨"
+   "title": "New global oil shock: Iran warns Strait of Hormuz will remain unsafe despite Oman shipping deal? | Videos",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMGtkMWd2Z0U4NE1GSk12cWttY3Bjc0liMUdPUm9RdS1YNi11eGtWSlZVOEtkdDRoYW0tdnpCUlFITlNhWmhjaHJ1Y0lQY2JvWFBSRmY3eTEyUE0xa0NBUmV0bDJOcm9oa1dzMnBXbjNjcEtFTnh0eENFLWV6cmhkZTU5QWlrQjQ0R3pXOG0xN25PMGZIQ0loRTNkVGZWSW9xMHZ1bWQ5T3pxTmJTMjA5R0pMSFRKei1mbVFvbFlwVVV6Z0JsSk96cFZrZEFYeHczYU5KR2k2ZUdjSHB0bndLbTlrWmpvNXNr0gHuAUFVX3lxTFBRTUViZGNreWV6QmtDMXBnZmt2ajBJcDdkbHNKdVRpbHVnV1B6a2xrRHR5dGNuaU81cXY4emVvRF9jcnB1eEVCcUZwVFRvMmZ0c2F0T3N0bTlwampQbzJBNG1OVml1NDFheHY5c3dqTGRIZUU0VFJJWDZaOHhabTZUUGt0U1hjUjhHVkRvWERtWjlrT1FYamlxVTlvTF9uN1VfRmJkUmNSYi1aUHo0ZTZLUWpDUG5hNjNoTGRDaHVJYzh1ckxEemhqQzN3QlNueGxQXy1BYWh1bDRkRzN5VDUyT0FMR0pTVEUxdURYTnc?oc=5",
+   "date": "2026-09-13",
+   "source": "Hindustan Times",
+   "title_ko": "새로운 글로벌 오일 쇼크: 이란, 오만 해운 거래에도 불구하고 호르무즈 해협이 안전하지 않을 것이라고 경고? | 동영상"
   },
   {
    "cat": "항만·물류",
-   "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
+   "title": "Iranian media: Iranian merchant ship hit near Strait of Hormuz, one person killed",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1FtZHVhWThiU3NtRXVfcUdOQWJROFZnX1Q1ZHNjNzhDbk51c1RqbXBVcXlmR3lnak1UYVp0YkRVMG1mWVRBNFFhdXFFRFQ0a0pPem1QSzNrQk0zeHZSb2t4LTZRZlh6UXBVVXY5Wkt3SzhQRVdncXdOZW0zWHFOR2RnUGhpNjhjdGM1b2w0VlNtWWhhUWcyQlN0YkIyeW4zb09TNGpBdXgzUGdPSG5QdXhXdlJMbm9JZ1kxTm5hR05uSFRIWXfSAbcBQVVfeXFMT0NNTnd0bHcxbVlpa0dqTFRzX054SVJFNkcyd1VOYmN2ajhEb2RsNWFEcEtUYUFnY1g3alBlOTUyQ3ZrOTkzWEZZLS1YeHBGN082NDl1TUxfLVlNa0hZbkZhNXl2ZjZoZVR5MUwyeUhfVWdzVlU0YW1aMkxVZDZ0WlEzNDZ4TGJNTm9XMFZ4S1FhbEVjRDA1SVl3Qk05VnEwZTdxbnVrUkxNbTVneEVDUW1iODlzS2Fj?oc=5",
+   "date": "2026-09-13",
+   "source": "vijesti.me",
+   "title_ko": "이란 언론: 이란 상선이 호르무즈 해협 근처에서 충돌, 1명 사망"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Attack on Strait of Hormuz shipping fans more oil fears",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlRiRlJaMjMtcnpaa1lJVWVmQWhReEVXYTY4b3R5Z3c0LVNHVVZwLWNDOVN0bFd3VERLOWdCSTRDWnJ1TS14cHpjYUFZUHdVX2xxdk5kRzZGczZQRkZmeS1NSW1HR1hSWUxDV1J6c3E4bFpqaXlyR25acE5KcGFwUVFhSmplRng4M2ZqTUZWZkNkbW1kQ0FJX2tDQjg5T3BrMzFGR193?oc=5",
+   "date": "2026-09-13",
+   "source": "The Canberra Times",
+   "title_ko": "호르무즈 해협 공격 선적 팬들에게 더 많은 석유 공포"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Vessel struck by unidentified munition in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWV94V0phRmhoekFSVFFmeDN5QUhyTlVBb0MzVmZ5UzJOc1hjSi0xNHdJZUdUTmVDVktESXFTZmROWlJVbkQ4LXdSdHgtNUN0S0pLZzBuSlZNSENZYjl5T2NCMFVCSFZZS3l5MVJZNDNGdkFwc3NOOE40dE1yV1J5dHRsbnF0T3BZUEpZZHc1TXNJU0dkQ1hwNENZYlJ5VjFR?oc=5",
+   "date": "2026-09-13",
+   "source": "Hürriyet Daily News",
+   "title_ko": "호르무즈 해협에서 미확인 군수품에 맞은 선박"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Strait of Hormuz shipping attacks fuel oil supply fears",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGl3TExtNDhYaVRWTWlhS1RmS25qYkxzb0lWc1d1d0RwaURqMkJGOFJYWm44Rnk1Uzl1YUlKVjVITVhjS0ZYbmpDRmtkVlJMMUhXWjg4UkVDT3NNVVFoMHpqLWtld19sdENHWFNVSldhNjY5OWlUN1BkX3RTNTR1eTFWMTlIRm1Tc1dlYlplaC13ZUN3RTd0LXR6UjJ4dE5RQnNtemlR?oc=5",
+   "date": "2026-09-13",
+   "source": "The Canberra Times",
+   "title_ko": "호르무즈 해협 선적 공격 연료 석유 공급 두려움"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "New Strait of Hormuz ship attack raises oil supply fears as Iran war widens",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjVRLWZNQmlfc1JOdWdUYlpaWDVSRUJhNC1LeTFNZVdkNVMwNW9lMlpEbnZWeEpuOFprTk9RRTUtbFBNOWZsZWJnMkFsN1VpV2JpWkdpU2NOd2Fsei1hV0ZnRHhnYUcxeE8zMGxyMm1rbzFhUk1xaEZkaTFkSDdQWTNWb1JpNnU2cTc3QnFzUEhQZGFWV3oyQW54Qy1yWGI1RVltQUdDNl96VzJSNzFuel9BVTA3T0h2RFNYQktVWWgwOXZv?oc=5",
+   "date": "2026-09-13",
+   "source": "Investing.com India",
+   "title_ko": "새로운 호르무즈 해협 선박 공격으로 이란 전쟁이 확대됨에 따라 석유 공급에 대한 우려가 높아짐"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "One Dead, 3 Injured After Merchant Ship Struck In Strait Of Hormuz, Says Iran | World News",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUppWmR2RWZSOFVFSlJIVzNXbGtsSFpBTWwxMTc1cFJSc0gwaXRvX0FEbVI0S19Td2RnQ1o3eTlJWHJaXzVmdUExX0xEM0UzVkRfaGtQYlBWcjdXQ0dFOHFvT1ZUN3EwVjdSc0FfVkR4bXI5Wk94THRjOXVqZjN0TjhFUGdubXRNai1UOXpTUXhMck4zcG83aWpSWjNPd3h5VmZUSDNzYUlMVHRwZmlqSDcyUGJkcjJaSjNJMG5mSnE?oc=5",
+   "date": "2026-09-13",
+   "source": "News18",
+   "title_ko": "호르무즈 해협에서 상선이 충돌한 후 사망자 1명, 부상자 3명이 발생했다고 이란이 밝혔습니다 | 세계 뉴스"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iranian Commercial Ship Struck Near Strait of Hormuz, One Killed, Three Injured",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckEtbzgydFlKRmNKd29EUnVLV1NkTmdVZjNpODFNUEpTMlFfVlpTN1lITWxnMF9NeGE0b0swYXJ4aXRZV2FySDlWVEpzTEpmOTI1UTVJUG5DWllVSHNlUW5BSnpHb0EzTFY4Zmc4dXk0ZjN4TENwa2s1OHE3RS1UUkdUTEdsdHJSSm54UXlVX3J0MVJ2V2tEc1NjN2oxUUU?oc=5",
+   "date": "2026-09-13",
+   "source": "10net.in",
+   "title_ko": "호르무즈 해협 근처에서 이란 상업선 충돌, 1명 사망, 3명 부상"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran authorities say one dead after ship struck in Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14X3l6Y3g0czN1cUQwcENYd2dKV24zM1F2WmxOam9lYzFBMThIY1JQWVZRMFZpTWtDU2V0MTRrWjRWVkVQNU03RjM5YmlIZmIyTzBUMndtM09hU3ByeDlVMw?oc=5",
+   "date": "2026-09-13",
+   "source": "RTE.ie",
+   "title_ko": "이란 당국은 호르무즈에서 선박이 충돌한 후 1명이 사망했다고 밝혔습니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Ship Struck By Unknown Projectile While Transiting Strait Of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1YyUjVGdHlocGVhNUZtbFRKTWR6dzk2Uk5yaW81X0ZPQjhFbnR0LUdTa200bndjN0JYeElZVHcyWHNENHdkYWZwTHo3cmM4YWV4Wjh0Vkh5Rk1YdG1rVmFxNXBtd3A3VGRBTDhQd1FDNk5PWVNER0tYTkg3T3hQRThyY3I5eWtLSll0M2ZoWFdtOHNMaHhsQ2hWLUMtZHRhdTB4NWFqdWFWWFhyRWRLNGdVYXJuUQ?oc=5",
+   "date": "2026-09-13",
+   "source": "News18",
+   "title_ko": "호르무즈 해협을 통과하던 중 알 수 없는 발사체에 부딪힌 함선"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "British Maritime Security: Vessel struck with unidentified projectile in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa0NLbHZQQzJqY0t1WHlRLTVMRnZaQ2U3VGVYZFpXRGpFdVVQNzZSNEE4cXlDa3ZDS0d5RUhGalBJQUkxUHpmSVhJMVRRMENQRlB5c0ZSMmNZMDVrdnVOLTh1TDk1VVFzWVpMVm9GTjAtUUlpbHhmZFUxWFo0cWI5TDZEVjBYTkNhc1BWR2VHS3haRVFqbnhyMURjXzdJcGlyLWxwNHdzcFdfakl3OXBXUnRtOTRLcDNaa2JDaWtaZDJtYTNWN3AtdXlRV2RndGFEYmFZ?oc=5",
+   "date": "2026-09-13",
+   "source": "The Peninsula Qatar",
+   "title_ko": "영국 해상 보안: 호르무즈 해협에서 미확인 발사체로 공격받은 선박"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "War, latest news. Houthis: ‘Saudi military base hit by missiles and drones’. Ship attacked in the Strait of Hormuz: one dead",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcmRFSXEtRG8zUzVST21uZzA1c0tzSG0zSjcxbnRrR0xkV2lyOFZqanZRcmF5amtnbHBRNWN5VzhfQ1BGaFdxUFZwMURpNmJKV2NWcXBiMDlEdnRQUS1sdEs3dmdQckN5T0hnZXJqZFdRaWVTQXNTTHh0ZlVyZlJvX0piVjJ6RzVBLWFGZmYzenAzNEVTQkVWdV81Nzg1MURtR2RBRTVGM2lrQ2tsdWZaTGZlVUFPdUJUNW9mSG5hdmM1Q2lhMmZ6b3ZRU0RUMUo2TFJyM2RoZ21ZUlU?oc=5",
+   "date": "2026-09-13",
+   "source": "Il Sole 24 ORE",
+   "title_ko": "전쟁, 최신 뉴스. Houthis: ‘미사일과 드론에 맞은 사우디 군사 기지’. 호르무즈 해협에서 함선 공격: 1명 사망"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iranian Merchant Ship Attacked in Strait of Hormuz: 1 Dead, 3 Injured",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NR3lXMGlsSDZ4anV1c19vTDFGdXdlUlRKRDhnSWhBYlhNOXNsZ3VkNU1DazF0X1lJbW5fbms3NjJTUnFKdUpEbzlzUFgxd0l5dW9paUVPZWw3SUdoZDNpdDhDbjc?oc=5",
+   "date": "2026-09-13",
+   "source": "asiae.co.kr",
+   "title_ko": "호르무즈 해협에서 공격받은 이란 상선: 1명 사망, 3명 부상"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "A ship is hit by a projectile in the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObG5RWGo3dWVza2VtMHh4SUhfUU5rVzdBZXVRRXJ1bEtNeVRPM0MzOGhfTnpDcTdFcldUZm1oU0t1LXdGcXJENUxOaWhVaXFLN3lubWN6UXhEdGJhWVZGNXNGSmJFa3BtT3BabXNFN3N6WXBNLTV5MVpTZXZoSTV0TFZrNXdFZWI1RzVSVDFkTmlienFZZE9JSHlTaDXSAaIBQVVfeXFMTUFnUmdPWDVGbWpqeXFvcEhKVllXdzNaZjZDSEFkQVpCVkwwaHg4b0JQM3ZSQTFjN1lzY2oydXFWN2hwWHhFcmJNNk5oUk9JZjRMS0pDVFdBT21CSWFNTm9XOHUxU01GRWplOXhJQkExbHZveWRmb2lCSG1veTN4Ukc2LTlCTG4yNDFWYjJ2RjBPdnkyOW45d1AyM3hmZFlxTDJB?oc=5",
+   "date": "2026-09-13",
+   "source": "Demócrata",
+   "title_ko": "호르무즈 해협에서 함선이 발사체에 부딪힘"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "1 killed, 3 injured after commercial ship struck in Strait of Hormuz: Iran | 'Hormuz deal with Oman to be signed on Monday' | Inshorts",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSzdGSTRGX0g1S3p1WHFuTkRGY0FQUGVsR194VjI0UjEtVDdzNnZJT3YzY3REbGtpb3EzUFhaRWtNc1hEX1RQMURvWjZRdm13aW1FY0QyVFpuc2NwYUpuMVE4ZUM4Tnh2WllkUlNmeHo2bzlUalU2ZEJvZnU2YmU4cHROSXRLOGRZVXBoTnpwdTQxQTlGSGNUQ0Y4ZjR1aFAwR2FKTzd5Y2JRTVFmWngydGpwaWhfMmd00gG-AUFVX3lxTE8tZWVSaE1QZEh1OXlVTEc3Tk9vbmJmNnNJQzdfaUhRbTRuRUk3NVFxN19ULWxPY1cwVDNfdFJfUEJYMG9LLVloZjlIWU5KU044WElsQzJYY1M5b1BVU2lMdnJCeWY0XzhkM0JwOWRNYmdYeWxsRDd4dGN3elM1V0tqVTMtRFRaWElqNjdQc0paU3pMUkRuY1B3TWNZUzZ1MVM4MzkzYmloQVJwMm5LbDIydjFFU1FkY3lrUDB6Umc?oc=5",
+   "date": "2026-09-13",
+   "source": "Inshorts",
+   "title_ko": "호르무즈 해협에서 상선이 충돌한 후 1명 사망, 3명 부상: 이란 | 'Hormuz deal with Oman to be signed on Monday' | Inshorts"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iraq Resumes Travel and Trade via Three Iran Border Crossings...",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWhMUTVNVVNiaEYxVVFjSUtKYkwtODRHVmZwOTNSODJtMk83Rnp0OGxNTUJUT2QxWVg1cXBlN09GVUtMOGhiV0N4bE5kZGM2S2hReGpnNmN6MlMwbXk0b3lCcnVqX2RTN2UzX1p2UVFUOUxLTUd0UWp6TUFiUVE0LTBxU3FzZ0J0VEdla2ZvRzZwbHV6SlVGRlIwZFhPMzBwY3FnX3RaN3hXeXpMcGZPOUR6ZGdLMFk?oc=5",
+   "date": "2026-09-13",
+   "source": "jordannews.jo",
+   "title_ko": "이라크는 세 개의 이란 국경 통과선을 통해 여행과 무역을 재개합니다..."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iraq to reopen Iran crossings after drone attack",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVhOUXlRbTdXWS10OC1vckNoV3dMSGkxeFd1WTF3MEVZUHMyN3BJaFRrWlZqd3RaQl9ETGRjY1RVZllocHBWLUg1aEgwWTJyUmlQRlhHRmNyc2I4Y0ltM2RMWXhKZFdCYUxSUU1SMUpUeW9fNlZFR3kwZ0ZyR0hoRHVKcHhtQWJfMDJTOXZGTjBoblB2ZFBHTER4dmotOG5f0gGuAUFVX3lxTE9Rdk02RFp3eGQyLV8xVXVRRFlWR0dobnRnU2Y0LWg2T3RiZjU5QlFWX0QwWVBra2VvU3lqZW1mVWJIZEVnd1Fpd2tkNkhRN293MjZzS2w2UG84dEVzMDFpYUs5Nm1yNWM3R1B4c2gwZE5ncS1ZVnBmN1k1OU5RQmJxS0t0LWpJWlNZT204enlualg0bzlOU1JsRm8wRVBDZVJxbk5rcVFIQ1V3dFR4QQ?oc=5",
+   "date": "2026-09-13",
+   "source": "The New Indian Express",
+   "title_ko": "이라크, 드론 공격 후 이란 횡단보도 재개"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3dkdlNjMkp4Y1JfVkR4NUNzOEhxdUhNX0FXRFdDT2ZQVDRvRjNENFF3Q3ZQcks1aE90WEZOelhaZkVDTUdHbkhpanFLMndzQnV4UG1qZDdiRXZsbEx1YkQxVE1IQ2ltMWJGLWF3bHRsVWYtMnU2Vm9OR2VfWDk5VUJWX2FTVUhYZ0RLcmcxc0pSQjjSAZMBQVVfeXFMTXk3MjZrd3d3YThwUzNhbmJhTDZ5VlpDaml6MUtZWF9QaWNhYy15OW5CemoyYzgzN0VxOTdBYkg5emYzOHNkLVM5MVBScmVabldKeklsak1BMU1FLUtOZ0lmSU82VmtJUlUyeGg2dG94YnhkaTZEdV9TWk5UaFlBRkhwMjV4dzJlNGdGMHk0cWxPalc4?oc=5",
+   "date": "2026-09-13",
+   "source": "DW.com",
+   "title_ko": "바그다드, 사우디 파이프라인 공격이 이라크에서 왔다고 확인"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnBidlRhOC02Y0Nja3gwRGVsak14Q0FvVm1MSUNDaTJlUkR2MVdDQi1UYnBBUkZqLXlWTGxiRGQyTlRrbklxcDB6Vno1d2VNdVd5SE1uckRkZllQTWt2V19Ub1pvN2ZLQmxuV3J6SXc3RTdzT3h6TDg2OWh2aEhIeVQyc0o4U1JpUTFrVVl0b1JlajdTcm5fQThRSlJjdVNDX3lLVkhOWGpjNWhMRjJlSW9QRWVad9IBuwFBVV95cUxOamctS0hMdVZQMDh2Tk1HRjEtbG9hUldhN2s5eUtmLTFYOWdnb1JJVTBGTXRKbDlnSnBiSXpSUHdUWldkanRVWDhpNU02ZmFrTzY0eUg0R3I5LWcybDRXcE1BTzUxSmt3Z2NfV0JTSEFteDdTLTZvOUVtWUJKejVVS19md3YyRGhfbXQtRjRRMzB5QWlXQ1BYMUFfNnZ5b1ZURDhmYnRJZWJaWkpaZFZGbzgtZ2RUdUdCRmtJ?oc=5",
+   "date": "2026-09-13",
+   "source": "Al Jazeera",
+   "title_ko": "이라크, 사우디 송유관 공략에 사용되는 드론 발사 플랫폼 압수"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq Seizes Drones, Projectiles in Western Desert",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGktSWNpWlZDUFZraDJBRlBwSEVVZ3FjNkU5MlRqWm1ETkFJaFBycUhxTi1mTW5EVjQtdTNvek5hT3lPRDdNSE5PMzlKMFhGYUtzLXRzcTVZM01tamRESnZSSzNCZFUwOS1HLWNGWlpGQ0NYdmhwNU9Vb0YtTzJmVTRxQ2tRWnU4Wk5abG05eG5SX2lST2c?oc=5",
+   "date": "2026-09-13",
+   "source": "ASHARQ AL-AWSAT English",
+   "title_ko": "이라크가 서부 사막에서 드론과 발사체를 점령하다"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq begins phased reopening of border crossings with Iran",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemdhN01FU0MyUTZJVHZIZ1lUNHAzNlJPRzVRLVdhWXBTVE9QS1BlbTRqdG5EeXRGOHVzeC1CUTdxU1R0c1JTdWRnR0xuYzVrOEd0b28wakdNS1Y2WkxLRUU1a0pLQ2hlWG90dGhvTUUzcndLcTB4a25scTNFaW1PcThPSzNrUWQ3WnZPS1ZGUWdjQW5BX2NzYW9qdEdDTHNiNlpTRWxn?oc=5",
+   "date": "2026-09-13",
+   "source": "UA.NEWS",
+   "title_ko": "이라크가 이란과의 국경 통과를 단계적으로 재개하기 시작함"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Analyst: regulating arms, strengthening institutions support Iraq’s path toward stability",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa21PRnRtMVp2eWZHTEZDZ0Flemh3UU5iVkV3bmNRV0hKUUxOOU5CUUpWYkNaRWRHMThPaU5CT1NVUWFONXJHRG5OaElHYXVNdE5tRHRBZVdOOHo4VUpSRk1RN3FXdUUzUEhGSzV4dUdKMzVXbmRoWkFja2J2a2pnZjhPS2J0S1NNMGlVYVdCLURnSWZmNEN1bW9HM1ptRFVuVVgwZHdOVWdJbi1BZFR0bQ?oc=5",
+   "date": "2026-09-13",
+   "source": "ANHA",
+   "title_ko": "애널리스트: 무기를 규제하고, 기관을 강화하는 것은 이라크의 안정을 향한 길을 지원합니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq Seizes 15 Drone Launch Platforms...",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmhyX3dsNWVwZjRjZkFvT2x5alpJRnlSZUVxRzFyUEpxOHY5TWxTMHdDUG1DRWJKRFJmVkF0b3JTdmd4dDNBYVJTRnUyb1REay1NdU0xTzRwalMyRjdaalE5Y0g0ajFTM3BGVkxWVXZ5TkxBSVlrRjBHV0d6VHRIZlhERldaZXZLMVdPQjkwak5FRFh4X0VJ?oc=5",
+   "date": "2026-09-13",
+   "source": "jordannews.jo",
+   "title_ko": "이라크가 15개의 드론 발사 플랫폼을 점령했습니다..."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iran, Iraq FMs discuss border security, stability",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzlDUklvZ3l3YnNIbjZQa28yQXJuY3dpc2lfQmtnbG9LN3pzT3YzZDV1NDFEQ2t1TUs0RUdHdmxtSkRGT0JJNFE2UW16VG55Vi0xYzdCRUd2LS12WnVnZlRiQWJBV25HUk9lMDc3V3N2SGtxUzJJQ0ktYWNxVHFISjRfVUZsSHlvcHU0?oc=5",
+   "date": "2026-09-13",
+   "source": "Mehr News Agency",
+   "title_ko": "국경 보안, 안정성에 대해 논의하는 이란, 이라크 FM"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq seizes drone platform used to target Saudi oil pipeline",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0ZMNGlRRFAzWklHSHRqcEJCMHBWUzdiZFZrVDlCREE1QnFqMzVuMUJNOThkSklicEVoZG82dkVJdlU0MGRnRS1wcVVGMWlDODlzRmZlZzFpWGs4aEtUUzJoeVJkMU4zcTdPUkpKbHlBYWl1LWgtbktoNDBjWHdFMmpoWHdUZzRNV2pqNTdnaXlwcHhJaXFHZXZUd3VFSXc0YnRz?oc=5",
+   "date": "2026-09-13",
+   "source": "Hürriyet Daily News",
+   "title_ko": "이라크, 사우디 송유관 공략에 사용되는 드론 플랫폼 압수"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Shafaq News..Iraq begins phased reopening of Iran border crossings",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazhsZi1iMFFBaG40Z0ZRcDVpQ1Q5SWczajBub2o2NlRxcnJ6TFZsaHo1VHlLMERjWmk3aEY1QVB3RUlnSmRGRWl5V0R1UEVJdmduSEFpQmxNeDZMOU9Dd0lPaXBMS2JfamZ4ODloazlYZFVSTXBTaktuUmdqRjA1Vk1fQzV5ZGg3SURV?oc=5",
+   "date": "2026-09-13",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News.. 이라크, 이란 국경 통과 단계적 재개"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq sets schedule to reopen Iran border crossings",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uck9sTG1uRTZoSTZQVDZlNEVUWnN3eTJsRW40ZUlFaWtfbVhKeklHdVBzckZzMWY3YXdvVTV3RVh1TzJGeUVZaE5FWQ?oc=5",
+   "date": "2026-09-13",
+   "source": "The New Region",
+   "title_ko": "이라크, 이란 국경 통과 재개 일정 설정"
+  },
+  {
+   "cat": "종합",
+   "title": "SalamAir to Launch Baghdad-Copenhagen Route",
+   "url": "https://www.iraq-businessnews.com/2026/09/13/salamair-to-launch-baghdad-copenhagen-route/",
+   "date": "2026-09-13",
+   "source": "iraq-businessnews.com",
+   "title_ko": "SalamAir to Launch Baghdad-Copenhagen Route"
+  },
+  {
+   "cat": "종합",
+   "title": "Iraq \"Drains $16bn from Reserves after Oil Revenues Slump\"",
+   "url": "https://www.iraq-businessnews.com/2026/09/13/iraq-drains-16bn-from-reserves-after-oil-revenues-slump/",
+   "date": "2026-09-13",
+   "source": "iraq-businessnews.com",
+   "title_ko": "Iraq \"Drains $16bn from Reserves after Oil Revenues Slump\""
+  },
+  {
+   "cat": "종합",
+   "title": "New Egyptian Ambassador to Iraq",
+   "url": "https://www.iraq-businessnews.com/2026/09/13/new-egyptian-ambassador-to-iraq/",
+   "date": "2026-09-13",
+   "source": "iraq-businessnews.com",
+   "title_ko": "New Egyptian Ambassador to Iraq"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenZrdVZPOWNmS1hoSTVLS3VhT2JBYTF6V3FLV0lrMl9Ua1pRNktYQ1BKbU01aWhkMDVVQmJlM2dQN240TjZqNzVXQm9xV25KYTNUSUhPTkdZYXpmR0JLNTBsSGV0bG9LNW5zMzRZLWpnYmZpaGQ2NWF2d2plc19jU01pSTJqb2FlZFRFZXBKM2h6Y2RBWTNqYnNKNzljR2ZBZGptNkZYNmd2ckhrdkw40gG0AUFVX3lxTFBETmp2czJZVkpwMEdTNnQyRUZPT1RyRHFRRlRZMHUtVGdHbFI1bGpPWm10THZkXzd1X2l0VTkwbkZCMDBHM08zSHBoQ2xUeDZEQlhSN0t1NXdLX054NGFVVXFUZkk3a0lxWFNFSVN0QmZzajVac0hMSW1PRzB3Sk5ObEhBMmdLWDI3N1FpZWhYcFo3cHVtZmprYW1KSnRtRWFWSjBoNjJtVlJ4ZmNyUTlJajZyNg?oc=5",
+   "date": "2026-09-12",
+   "source": "Al Jazeera",
+   "title_ko": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran, Oman reach final agreement on Strait of Hormuz shipping route",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tYXhUMEpuSHI5NS1tZ0Z0SWpjWVI4QTQ0U1M2amlxdWF3NGkwN19lU0pNNHZaeHU1MlFIQllfcjJnY1Z6eXFfaExuVVRoOU9zNXk5cA?oc=5",
+   "date": "2026-09-12",
+   "source": "AzerNews",
+   "title_ko": "Iran, Oman reach final agreement on Strait of Hormuz shipping route"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "No signed Hormuz deal expected yet from Oman meeting on Monday, Iranian official says",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXF6bE9PTlU2N3Q2TTc1VEkzbUdNRXlDNVJTVTNhX2ZHRmJuSEx2OHI5MEhGVUs1Mjc4TElRZXdFRlplRlF3WDBoMjhSQXdHN3RYOWpvb25SRE14OUEtMXhTOVhVMWJLeTdpNmNsT0NIR0pPOGxFZnVwMEFMQ2tubTJxUTdpQXdaVkNna2JrLWFCODA2cGxhaktEOUtVQ1lxVXM1YnFnUjhxUFFKbGVYV3h3WVlIVHZlZVBxcnoyVTVUSFR0bTIwd193?oc=5",
    "date": "2026-09-12",
    "source": "Reuters",
-   "title_ko": "Houthis가 홍해 운송에 대한 그립을 강화함에 따라 사우디는 석유 파이프라인을 폐쇄했습니다."
+   "title_ko": "No signed Hormuz deal expected yet from Oman meeting on Monday, Iranian official says"
   },
   {
    "cat": "항만·물류",
-   "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JRmxKMlhUT0VtZm9GdHlTektkVGF1REJXTW84eW1Kb3JKd1dLVE94bUVlcEtzcE1PSHhNQ0RkNGVfZnY3aVpUWVItb3hBM3FTZGxlMU1kVjIxbHBnbl9YS1NzcXhfWmRvWXFwMWgxTlVHVTYwWmVZbkRweEpXMkk?oc=5",
+   "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGt3bmM5Z3hRbkRTZlVJbUhxRnY2YmdMNUVJVHRaNTNJeXlYYzNNdFNZcW9qdjBta0Q5cDNTUWxfZjZVUzdNRUV1U0VVNERzeERvUE5VS3p0VTk3V3JkN3JjV01tOU1va2Z1djJxbU1LbHlPVkFBZzRsb054Z1dhOXcwOGV4LWVBaElIa1U2bnE0akJJZTlwMms5MUU?oc=5",
    "date": "2026-09-12",
-   "source": "The Jerusalem Post",
-   "title_ko": "실시간 업데이트: 이스라엘, 이란, 중동의 최신 소식"
+   "source": "The New York Times",
+   "title_ko": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S."
   },
   {
    "cat": "항만·물류",
-   "title": "Morning Briefing: Sept. 12, 2026",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WRm9UdmNNU2VCTk9qaE5ER29MN2x0R0ZOTDY5dDdmVF82UHEwN2I1T1pjQ21USXpXREgxT1F1eTZVS0g3NkpFcEFBbDFiWVd0MWE3enY5WGVsQlhFd3Y0akhNRlotNWJwYldmSko3bXVHdw?oc=5",
+   "title": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXdCWFdsRlcxeS1kT1h5cE9zNWN4eVBSM0dYTlltcElqdUxEMDhVR3lMNC1nU18tc3NUZG9KN2VIbVB1MnZ5aVlKd0F0SXd5UnRSZmwzRGtTRTlObkVtNUltcWdpMHZCWHVLd0V5OWhQNEpXRTB4Qll3dlo1azlQa3RNZ0NGTVpsTFlSMWQwMmx0WXlDN1h2OHlaRHJQNUJhNlUtb2t0NWttUdIBrwFBVV95cUxQTFJfa0hfYzJjcWozZ2tCbTUtVkkxRE9majVfSVpkU3pFZnBxR25hTnFNWkxjOS1ESHpZWC1STFkzb1NnVkcwOU9scFowRUlwdi1rclR6ZjJUbkRmS0F2LVdQclhyWUZYR0tiYlo5QnNXSEphSnh5U3BIZ3lLTzBoNVdNVWN5UXJ0T1E0dnN0b3hrNFlsR3ZEdFkzZ1lZcjBDc1FlaDVXYVlaZkdmeFlj?oc=5",
    "date": "2026-09-12",
-   "source": "Anadolu Ajansı",
-   "title_ko": "아침 브리핑: 2026년 9월 12일"
+   "source": "Al Jazeera",
+   "title_ko": "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?"
   },
   {
-   "cat": "항만·물류",
-   "title": "Plans Underway for Regional Meeting of Persian Gulf States: Iranian Spokesman",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOanRiLWZFZWpGb2dhTVBvX1lZWjlobWtraE9Wby1WLXpVV2dpVnJJNU95WlBIa09NY1hJU0s4LXVGSVhVVVFZUHV1TUVYN2h0NmFxemVmQUJScHNQa0JXZHpWbEpFbUJrNkwzLXFuTWctdTZxZTZmYmNWNDV0Mks1VHdFLXlQdXNfTlJLRHlDVTVxSnNELTlJMHRYQjBtQk9RcVB3Y0xhc1VVd2VpdEgtd2phNmt0WGlFb0UydDk5OW5rY2EtTjN0RNIBzgFBVV95cUxQeUU0NmRWSzBQLXdGcF9Sb0s5U1k1V0gzcmFGR05hb1AtNGRFWUlPZWtmazNKTG4zenNtajYtYkVZeFdoWGtDdmExaEJJM1EwV043amN5SmpVZzFKYkRTd2l3QndaektSQXBCcE5kLURwVzlwUEpReWJVbGdjTzVCSVc1bDlqT2ZZMnZVd1ZEVURILWE2TkRVV1NoSUdpazJjVTRGeW8wbkh6R0xvZmQ4NGR3Q0FsUy1YRndxMHM3WGlhVklEVVJDNXRNSlpxQQ?oc=5",
+   "cat": "경제·환율",
+   "title": "US dollar climbs in Baghdad and Erbil to 157,000",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDdwMG9wMUNHRlhOdGx0aS1HeHhzM2Y3c1p2UFpjLTZXSEJQZTBVNHN5dXpwc1c5V3lTNmNuanVmVWZEdzBjY3VJMWRhNzJkUGxHSjd0RGI0U1FzSE9qUjZPandYOUJKZG5DNlJMUlRUQ3p3TU9PUWhxU2xaT0lMNHZiUFJvS0RZcHphbUtQc201eUYtMkcxYzdwSzhuek1Db1E?oc=5",
    "date": "2026-09-12",
-   "source": "تسنیم",
-   "title_ko": "페르시아만 지역 회의 계획 진행 중: 이란 대변인"
+   "source": "IraqiNews",
+   "title_ko": "US dollar climbs in Baghdad and Erbil to 157,000"
   },
   {
-   "cat": "항만·물류",
-   "title": "Houthis seize strategic port in Red Sea",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNFV4NlczXzBiQmFSTW9Ja2VOUkpuQk9DT1YzV1JhdWUteHJNY0tDNEp5VWY2c0U2RFgwN0pscUtBUGRfaUw5LXlNMXQyTWR6NEFhVmJkWFBhSTUybWlvWkxNQWZVUVhVUklJQUJkX01WcTBXN0Nyc20yXzBfWDIzdFNB?oc=5",
+   "cat": "투자·면세",
+   "title": "Kurdistan Is a Leading Investment Destination",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTE0Y1NWOElhbVhtRUZoYTc4WVBrZnJSZE9hd25sXzJZUURnQmtCVnAtNmE3OWFvUmJya0liZHlkS3pYZUgxXzJMYzg4eThCX2NyWXpkQVRHdklkb09BVGpiLTJocVY1MmJwVTZZTTV6VmdtbWxMc1BpbWJTU1NvWmdLVFYxZFZCNW5QdzRuUTBRVFk?oc=5",
    "date": "2026-09-12",
-   "source": "China Daily Global Edition",
-   "title_ko": "후티족, 홍해에서 전략적 항구 점령"
+   "source": "Kurdistan24",
+   "title_ko": "Kurdistan Is a Leading Investment Destination"
   },
   {
    "cat": "자재·건설",
@@ -107,11 +411,195 @@
   },
   {
    "cat": "정세·보안",
+   "title": "Why Sanctions on Iraq Will Be Necessary to Force Iraqi Militia Disarmament",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZl83TjM2dllnVWJJaVFzQ3FSZUExdlBOLVlBN1ItRTNPamZuTWV2YlJMSnRKRktWYzJySF84ZlZveTFER1Ayd3hwTER2Sm10VDlzNnhCaWVldm81eEh5VHBURVlrYmxLdEltYThmR0tTalQ5dHhZTmw0V1lYb1ZDekQyYkU5Z3EwbUd4NV85aGlWWG81U0xaWU41VDdOUHJjZzBuT3otMTFIZnFQbGU5Vw?oc=5",
+   "date": "2026-09-12",
+   "source": "Middle East Forum",
+   "title_ko": "Why Sanctions on Iraq Will Be Necessary to Force Iraqi Militia Disarmament"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WNXU1YlBQczI2QVFIcHNROFU1d0w5TUlNRGtEWWtOWHRjcFhTaXhDODdqa3ZESGNMM0xBWUtZVFY1UXV5cGhmaWZhaldjdjA2a3VaRUdSdmc3NVFFZHpqNmtQdjhLOE8xZURn?oc=5",
+   "date": "2026-09-12",
+   "source": "CBC",
+   "title_ko": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq says PKK-linked Yazidi militia in Sinjar will hand weapons over to the state",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmxERkJ2eGM3emhTc1RGem1tT3dxSWtYX0M1MjI1M3pXRXhxeU1mMEs4QVdHX3hwMzRTSXd3S0N5RGItNmlEUzI3czk5MXJSaGx6Tlk1dEdiaGJRRjVWU2lxY0pFam01c3cyVkJmdnU3Wlo4UTV3UXpaZkhNY19oOGl2TGwwcjNuTjdYbU9scm9iVUttY0hoa3hoaElUb0ZqcTF4aDhGYmh5bGExNUpGR3JGQ3dkUG0ybXFrcTk5RnPSAcYBQVVfeXFMT21PVG94UWZSNjYxdlpydjktc2F5eGwweklPVnVGMV9UT0hSaXJ2TWZPUWt6WXhERWJ0cUQ3RDdxZ3R3NUI2UzUwdXI0YlVXMnpERE5Qd0hkeEk5emhmcUIwQWgxU2RfVlJIVWZNMi0wQThDRWN4ZXNKSlFfZndlOTBxODhNT2tvN2JYam9pRTFON1NXa0p6eVJEMFVRRW1JX1ZiOFFkSXpFLUtNVlhpanV2NWo4WG1mbllqS2xXQXUzczZsdUlR?oc=5",
+   "date": "2026-09-12",
+   "source": "Turkish Minute",
+   "title_ko": "Iraq says PKK-linked Yazidi militia in Sinjar will hand weapons over to the state"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WYkFDZzd0RXNwRTVPRHhYcTlPRG12WmJXWU9fYVZ6YjBjOUFUMXNoZEhYMjRpcEF4WGNhNmVnQzZ4eDl5Y0d3dDZQTVZnd0xNWExUY2JvSWhxdw?oc=5",
+   "date": "2026-09-12",
+   "source": "BBC",
+   "title_ko": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTC03WDZUbThhOTA2TnJYZ1QwR2pxdDUzMmJQeERyY1diQWE0bGFJc3hWRFRMUWhJWndJWVdudU5Ydng2NGh3ZFVMeElLSnNsSTZIRmJ4U3pZRm5zN2NCYjZXeEYzTnlhbk1CZ1Jvdi1kZHgtb2Nobmh6OG1pUUQ1WVMxR0hYbFV1WnJ4bWR3YlA4UVdoelQ2cmgxb2N6MWFzdTRqRlRlRXFDb0NJMkpwTHZEZw?oc=5",
+   "date": "2026-09-12",
+   "source": "WISH-TV",
+   "title_ko": "Attack on key Saudi pipeline is blamed on Iran-backed militias in Iraq"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq seizes drone launch platform used in Saudi oil pipeline attack",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnSWsyb2k5QnQwSHZPSGhkSTRNWHpVRWpkdkRMT2I3aVVKNnlrMm9HSVFqY0dPSnVDMGpyOHkyMmh4WEJQQW1OOFpyQXdiS04yMER1MWZOamY?oc=5",
+   "date": "2026-09-12",
+   "source": "TRT World",
+   "title_ko": "Iraq seizes drone launch platform used in Saudi oil pipeline attack"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq Approves Joint Iran Probe Into Drone Launch Platforms Near Iraq-Iran Border: 20 outlets compared",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzZSbGRKemUzTDczbHEwMms4SU4zQUg4cERhZVNUN3loUHRkc0RYZmU1eDVJX0ZXTEwySTFkemE0YTM3U2Y3TzBGVmJQNk9aaTc1ZDRxQTBlV1VEMkVpS1M5TTNCTHdaOTZ3NTNrRlpSanhCN0JxaWk2SnpMQkp2bmdjMTRGRnZGVWFvRE8wd19OTUdXeEJsNFptbUozZlVzbEdldDhRamx2dXRxVUN3Rm44blFEbzB4c1pmOVhfTXAtNVNYSFNJR3JkOUpxdm8?oc=5",
+   "date": "2026-09-12",
+   "source": "NewsCord",
+   "title_ko": "Iraq Approves Joint Iran Probe Into Drone Launch Platforms Near Iraq-Iran Border: 20 outlets compared"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq Temporarily Closes Shalamcheh Border Crossing With Iran",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnBwMEZCX2tCaFpaRndOZ2FKTWRqbGNtQUE3aDJwQ0EzQ2trZjJmcko0M1VmcDJ3Y2Q0M3oza05sUWtjTHYybkhPMU4xS3hQZmJrdWlVRm00YUw5MUhIV0hXR2dlOTFaYUlvcEdrUWhrVy03aElHaEx1LW1BLUxwY1ZSMDRRdDM1ZDVYcV9tVnhjU0hUNUlYdWh2dnRqZWE2WmRHSndyZw?oc=5",
+   "date": "2026-09-12",
+   "source": "Kurdistan24",
+   "title_ko": "Iraq Temporarily Closes Shalamcheh Border Crossing With Iran"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq entangled in attack on Saudi pipeline as Houthis move on Red Sea",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUhFNkRWeDY3ckliVXhxb0oyck1rbHp5SFFjMWNZa1lFdzVnWlRXcVl4MnhKcXFJMGVBcHhFQ2F3NVlSSVlNVGdxdzlqX2V2aHZjcTlVdGYzbzdoQmZTWms1OGp2S3hOQjZUdTA4UGliWkkwZ1lDZlFiNDhpWXFzOEE4YmRsNG1SbGNR?oc=5",
+   "date": "2026-09-12",
+   "source": "The Arab Weekly",
+   "title_ko": "Iraq entangled in attack on Saudi pipeline as Houthis move on Red Sea"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq agrees to Iran request for joint probe into drone launch sites",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS05XWE5nOWZZenNVX2NXeXhDeEQyZFQtTHAtenpMal9xNUdTQWs2TkVfcXJrbzROcWg0Q3QwWU1IUE8wZTdic085VjBRSU1acnlyNTRGamtFamxBMkoyRHE2YlFPVnpNZzJxZk41TGtaa2dZR2F4c0lqdnNlRFFPb2pOS0NuS0dXWFZDalpUMVNZak9FaG5HdXVteU14LW5ZZXRDazF0SEotZWdCeFkwUVQ2dHl2d9IBuwFBVV95cUxQdDRPVWF4SmctRGNVM0RXWnRLNXBQaFRDLUc0Snd2VHRRc3FxUkVDdjFnWWtYS1hJTkQ5YlE2SzBWbXdldThlMU1LREc1NWhudlhZdFBMWGk4RFlpZWZnYW12c0dXVEZ0ejRrUkt5RW9TYjZfQnRtS0ozcWdtNllsWkFlOWpOdmJCV0h5YzJIQklRSy0xTnEwaXAxYmw4Z25JN3JmMFhaSGQwemN6WVhGalZRcFZTc1FUUVQ4?oc=5",
+   "date": "2026-09-12",
+   "source": "A News",
+   "title_ko": "Iraq agrees to Iran request for joint probe into drone launch sites"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq finds suspected drone launch sites near Iran border after Saudi pipeline strike",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4taTB1clBtY0N6REJSMEV1bWdmY1o2Zl9hMnVURDk3aGZock1Md0ExWnNUNUJQMmJWbUV0TVJVM1MwVi1OUm5ITG5tZkZMdXVaYXc?oc=5",
+   "date": "2026-09-12",
+   "source": "Iran International",
+   "title_ko": "Iraq finds suspected drone launch sites near Iran border after Saudi pipeline strike"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq closes three Iran crossings as hunt begins for Saudi pipeline attackers",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHVDbWU0M1cyendZNUdPNV9CeU9pNlFIREZQeldzQU1ULWQwQ2dJNlBoZGtMSGp6X2NQbGlNS2FmSlRTN2NtcnNIcV82blVTaGhDcnA1WU43RVdSQkZUMEZkaEFKTnBYQ3Ytb0FkX3dYX2hET2dBaXYyVFlfclo1d0RIc1NUcEl0SEwwUVdKZUczbnRrTWZEMkpiWkxadmR4SkRiZjktSmpzbG5M?oc=5",
+   "date": "2026-09-12",
+   "source": "IraqiNews",
+   "title_ko": "Iraq closes three Iran crossings as hunt begins for Saudi pipeline attackers"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq says it seized drone-launching platform used to attack Saudi oil pipeline",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdlNmVGFIdzVKSHkxRDdMNEFjX0NLWmdlR2xfSHEybFNkakFEYW5nNlgtNm9rWFF6US1yN3VwUUlDakVxOEpWUzJTWnh2ck5zb2haX0lXeWwyNkg1V2RjRXFDOW11MDNGb1M3QzNnd001WFJpUmJoR1VjRjBhbGZoOEo2Zm5rbzJDblpoWk9MVlhYalNybWh0QUpaSk1qLTBZVm5IcWxKUVJ4TFptRjI3czQ4eHBNTGwxTmREeFRlSTBxOU1PZEV0M0dsdnA4ZGRHTGRBeGJaRGF4V3c?oc=5",
+   "date": "2026-09-12",
+   "source": "UA.NEWS",
+   "title_ko": "Iraq says it seized drone-launching platform used to attack Saudi oil pipeline"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraqi Presidency: 'We strongly condemn the attacks targeting the Kingdom of Saudi Arabia, and we reiterate that Iraq does not accept the use of our territory or airspace as a launc",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kc0tiblVnamp3eUNDYVlPQUxjVldoN3M3WVNTVGRPbUpTTkFMVURvamVEQ0I5Ti1PQXFmU3RMTHRDNktDbmN5bXJXS1hBOG9oSloxdmdCUmhfby1jMWNRSUZfSEFWbVJmUUxUdmZn?oc=5",
+   "date": "2026-09-12",
+   "source": "news.cgtn.com",
+   "title_ko": "Iraqi Presidency: 'We strongly condemn the attacks targeting the Kingdom of Saudi Arabia, and we reiterate that Iraq does not accept the use of our territory or airspace as a launc"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq finds drone launchers near Iran border: security sources",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjVjQjZRX1NFV1plVDkzemRGd1owNzNLYTN6M0VGeE93SHhTUW9pcFNpOHp0ZTRobXpQMzBLNEZLa0lDbmVRWDdWOEMwQzNoVTNKU0tUcEk2clFZdEppM2xiRkJZWU9saThuSVlGaEVqVUxRYl9NNlFuNnptWTNYWlBZX1Vwa3dmcTlTblpLX2paWDI1WnQzb1lYUmdaYk0wUkZtNWZKRFI?oc=5",
+   "date": "2026-09-12",
+   "source": "Arab News",
+   "title_ko": "Iraq finds drone launchers near Iran border: security sources"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iran says BRICS cooperation can help ease sanctions pressure",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTnU1MUtwVEgtME5PV3ZXSHlyemhWbnBpaUoySUI0dWNMeW5Vb09rTFE4UTlIWXI1WXpzbHpVaFB6dXQtRG1rdmpSem95VUhsM1E?oc=5",
+   "date": "2026-09-12",
+   "source": "Iran International",
+   "title_ko": "Iran says BRICS cooperation can help ease sanctions pressure"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq PM Al Zaidi to meet Macron in Paris for energy and security talks",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFhtMDM1TzFFRzdFSzltUkE4bEx5TmlRUU5JelZ4eDJDUVNwYTFuOTI3dGM3Yy02UXZvVWp5NVdGUl9vci1zbG81YXpGNUgwRjVJMkJ4UVlna3JWYVR1N2w1NzN2V0dzdW85OE4wd2Fnd3hUbTVLZEdhSUExUmxRYUdvZlpySWduMWNIVmpRd0RYZUZtMzVr?oc=5",
+   "date": "2026-09-12",
+   "source": "IraqiNews",
+   "title_ko": "Iraq PM Al Zaidi to meet Macron in Paris for energy and security talks"
+  },
+  {
+   "cat": "정세·보안",
    "title": "PKK-linked elements in Sinjar to disarm: Iraq PM",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUgtSnZtRlZVUHBrdktYR1JmMVVfUkRpQldfV09oNjVWWGtjN3BhcGhKRWwycUNWNWNaalUxSkI2UjRNZVlmdXdOeGxFeFI5cHZwVjUyMG9Ebl8zRVdVSDZ2dWJsVUFnNmQ3aTc1OTBqcnNPOTc4UlNGZ05od0JOUm5qUDYzWHJVMDlEeVRwSEdYRkRNM2c?oc=5",
    "date": "2026-09-12",
    "source": "Türkiye Today",
    "title_ko": "무장해제를 위한 신자르의 PKK 연계 요소: 이라크 PM"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq investigates attacks on Saudi oil pipeline launched from its territory",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZYklYNWFQMTc2cW8wWFF0Zm9UMC0tSklmMnU0QTlOSmNDelVISkdrekp6YWc3YnBXNG9RUk1jMG5uRWpqZVZkLWJhYmZLNGVJUGhV?oc=5",
+   "date": "2026-09-12",
+   "source": "سانا",
+   "title_ko": "Iraq investigates attacks on Saudi oil pipeline launched from its territory"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Saudi Arabia Attacked From Iraq: Baghdad Fires Senior Security Commander",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0xPWE9lRGpZeFlhNG5aWFRodjh6Y2hmOVJNVFdfTU12d1FBcHFTTzdWVEpsem1DV05SRWFKRm9PTC1sSHcwZXVEZ1hYT2VZRllrRnQ2NU5Uc2NkQ2hKUlNLcUl3S2lUcVR1YTdzenRCZ3hBN0U0OUJLV0tISHhPVjBMUm9nUkpqeXNkNzQ3RXJuM0tnV3VhVTlubG9PemxkaE9xR2dhRnNSSFYxTVA1dw?oc=5",
+   "date": "2026-09-12",
+   "source": "Eurasia Review",
+   "title_ko": "사우디아라비아, 이라크에서 공격받다: 바그다드에서 선임 보안 사령관 발포"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq Closes Three Iran Crossings, Pursues Those Behind Attacks on Saudi Arabia",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUllRXNOWVNNNVJSSVRWTnlrUVk4dExSOEgyeDlKVVRZNDZCNHBlTDI0OFFWSDVkVlY3VlN0SEc3VHdoZlZ2MS1YTjlnbHZZS0s5a29SUFlTRC0xWjVfS3hVdVRlMzlMWmNwUS1vNEpGTXQ5LUZYbHNNUndtaXNBTml5VjBUU3lPQ2RuSG93Yng1dElOOGs4ODJ5WHNISDFtT0d5ZlBlR2EyQXpUbjF1VUR1bUozTm5sS2gtSA?oc=5",
+   "date": "2026-09-12",
+   "source": "ASHARQ AL-AWSAT English",
+   "title_ko": "Iraq Closes Three Iran Crossings, Pursues Those Behind Attacks on Saudi Arabia"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Saudi Foreign Minister Faisal bin Farhan Al Saud and Iraqi Foreign Minister Fuad Hussein held a phone call to discuss a drone launched from Iraq toward Saudi Arabia. Al Jazeera rep",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcTQ2UGY4SDVHaGlMb20xbFZ6RkIxTVNUcThKX0Q4MDFVdVhFdGxoQk13d3d2Vko4MzZ3eGVsM01SWm1jR0xJTENGbjBHTFpCckxPZjh5OW9DWkFXRzQ4eVZ4bmRmVWdpeS0wazY1N1p4UEdvQ1hXSDZNRnExV1F0cFZxaDNhSl9reDVVVVdscmZMOGF0T3MybnFZT2tCV19MU3RNYlBPYUVmRU9EM0ZSUmhuakhmQThKSW9Uc1VqUHJidl9jRkJCWnEtNkZMekt2Z1hRMDJR?oc=5",
+   "date": "2026-09-12",
+   "source": "facebook.com",
+   "title_ko": "Saudi Foreign Minister Faisal bin Farhan Al Saud and Iraqi Foreign Minister Fuad Hussein held a phone call to discuss a drone launched from Iraq toward Saudi Arabia. Al Jazeera rep"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iran-aligned militias again put Iraq-Saudi ties at risk",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMW1DWHFCYVREZkozcUlPb2pSdFlzallocDRrc0Q1ekVmbzZSekw3cnpMQ2d4RnZaamJwUWVXNDlwR3lLc1BJVnBORTFzSUFnV2tUTkJMYTJXYnF4Q0ZMcGE3ajc5cVJMZTNVNEMyTVZJQmlRaE9TSnZOblFEMnhKbnNGRW11SkdKOFJNZEFLSy0?oc=5",
+   "date": "2026-09-12",
+   "source": "IraqiNews",
+   "title_ko": "이란과 동맹을 맺은 민병대는 다시 이라크-사우디 관계를 위험에 빠뜨렸다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq closes multiple border crossings, citing administrative and security concern",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjVrSFZnaFdqUjdabXgxUmFDbVRvY2dxV2VpcXhmRUZYa2xEazJOeFVONERlZzVyT2tVc2pvVkJValJNczBXVVBvY3hCRlVxbHV4aGhiRGpmVVVTWFlFcHBiUkJiMzN2cUNsZWgzTVVkdi1tYmJ0Um1JeGwwTXdzV2swV3F3NTR6dEFmQ1BsbTVsOGlUZlhJQVZaT1U2UEUyaDlHV2FHQlVaOTNkTlpWblRsUlJKU0xzeXI5VkFMb9IBxAFBVV95cUxPRVItRE5rbFRZMU4wLTJqOFF2UTRxaUJQMUYtRUthZzZvU0RMMDhrSDhlTFVCUDhvUWZPemhJT09hUTl5OFdJM0gxVVl4MXpPM1JLUWdYQUZORHJBM1NfTEFhaTA0OG9VYmNUeW1BVFdtOHNqNnpUQm9DaElmV1o3Z214TFJiMW1XWlMybHJkNFphLWNMXzFQTEtWZ3JpYllfc1E2Y1haVGNDczZLb2dmTXhaQWhDOXVJdFRoOUR4UVhCbUZo?oc=5",
+   "date": "2026-09-12",
+   "source": "Free Press Kashmir",
+   "title_ko": "Iraq closes multiple border crossings, citing administrative and security concern"
   },
   {
    "cat": "정세·보안",
@@ -131,19 +619,11 @@
   },
   {
    "cat": "정세·보안",
-   "title": "Saudi Arabia Attacked From Iraq: Baghdad Fires Senior Security Commander",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0xPWE9lRGpZeFlhNG5aWFRodjh6Y2hmOVJNVFdfTU12d1FBcHFTTzdWVEpsem1DV05SRWFKRm9PTC1sSHcwZXVEZ1hYT2VZRllrRnQ2NU5Uc2NkQ2hKUlNLcUl3S2lUcVR1YTdzenRCZ3hBN0U0OUJLV0tISHhPVjBMUm9nUkpqeXNkNzQ3RXJuM0tnV3VhVTlubG9PemxkaE9xR2dhRnNSSFYxTVA1dw?oc=5",
+   "title": "Iraq closes border crossings with Iran to investigate ‘breaches and violations’",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BSzVObTFKZVBxR2pVVjFMWUhJMmhCSUkyUzZpSi0tZDlCWERhMUFGYk1lNWEwMmk4emFEWUtWbU9nMXV0QzBEenJyWQ?oc=5",
    "date": "2026-09-12",
-   "source": "Eurasia Review",
-   "title_ko": "사우디아라비아, 이라크에서 공격받다: 바그다드에서 선임 보안 사령관 발포"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iran-aligned militias again put Iraq-Saudi ties at risk",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMW1DWHFCYVREZkozcUlPb2pSdFlzallocDRrc0Q1ekVmbzZSekw3cnpMQ2d4RnZaamJwUWVXNDlwR3lLc1BJVnBORTFzSUFnV2tUTkJMYTJXYnF4Q0ZMcGE3ajc5cVJMZTNVNEMyTVZJQmlRaE9TSnZOblFEMnhKbnNGRW11SkdKOFJNZEFLSy0?oc=5",
-   "date": "2026-09-12",
-   "source": "IraqiNews",
-   "title_ko": "이란과 동맹을 맺은 민병대는 다시 이라크-사우디 관계를 위험에 빠뜨렸다."
+   "source": "The New Region",
+   "title_ko": "Iraq closes border crossings with Iran to investigate ‘breaches and violations’"
   },
   {
    "cat": "정세·보안",
@@ -155,43 +635,115 @@
   },
   {
    "cat": "정세·보안",
+   "title": "Iraq shuts several border crossings after drone attacks on Saudi Arabia",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFl3dE9GV3ZjSm5qZkRjQzBRMHVUaHdTWlpXNWtXUTQ3NlR4YWdjd2lyVkVVLUtwTWhKd2VpdFZ3d0RDTnRyaF84d3dkaGNwSmJ3cDBQckY2VElRampJQlFselV5OGJxaUdnNlljWjNoZWNJekpfRXdzOVZPcjNKUFFWak9vR1NQRzk1czdRQzhrSGpKUm1B?oc=5",
+   "date": "2026-09-12",
+   "source": "Latest news from Azerbaijan",
+   "title_ko": "Iraq shuts several border crossings after drone attacks on Saudi Arabia"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq orders closure of Shalamcheh border crossing with Iran",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzZiaGZleDFuZFFldmI5YWw0Z2tLaV93SHAwUU16TFRjSDU5cVBqTWZQdWpGblplYkxvSnR3WEVMSWpsTEFFQlgyVjNCYmd3ejQ0WnRoR3UwV1RsMzUxWl9aRnBUdGkzYXNNVjdSWnpESktoaXZjOTlQXzM4cG5NeDB1ZGtpZEZ1eGtLQUJ3?oc=5",
+   "date": "2026-09-12",
+   "source": "middle-east-online.com",
+   "title_ko": "Iraq orders closure of Shalamcheh border crossing with Iran"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq closes several border crossings after drone strikes on Saudi pipeline",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVA3UmRWOG5TaFR1Sno1b19mSVNHV2Ftc3lmWnVYNlpwenU4NGEzbU9DNWFXNHpkWElJRGFNSDQyaDBwN2lsd0VCLW9yV05vSWNtb1BZTUd4REN3WVVjZnBwcEVMbFBCbXEtNnRaYkdxMlk1c2NQbVZGdjBDaXZtX2JRNkFPZk9rMVlaNEItb0pOaFZqYzBBcmFQdWk5TDMzTThmTklGWEhJbkJxbkJr?oc=5",
+   "date": "2026-09-12",
+   "source": "Azərtac",
+   "title_ko": "Iraq closes several border crossings after drone strikes on Saudi pipeline"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "SMC: Reshuffling security commanders indicates Iraq will not permit any act of aggression » Iraqi News Agency",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0J4OEQ3UEZSQjI3MFJiTVlMQUpSbDBEWnB0dmdmcWg5LUh0Smp1NTc3cS1MZEIyTHljR3oyckNlUF9JM1pRQ3NnSXBLRmswdkNxbHhvcmpuNG5TWXNZdHp6QlloUWJGTEt3ajkyMkNRclI1Qzc5S01DUHlXWEZoXzI5RDB0QmFGWUh4Vi1SVW1uWFJPaXpsWk9uejdpal9DbVpMZVBRdUZJM1VocUdUR1BIZzA1MmhRLVRKTmctdmx3X2Ff?oc=5",
+   "date": "2026-09-12",
+   "source": "وكالة الانباء العراقية (واع)",
+   "title_ko": "SMC: Reshuffling security commanders indicates Iraq will not permit any act of aggression » Iraqi News Agency"
+  },
+  {
+   "cat": "정세·보안",
    "title": "Qatar, GCC, Jordan and Iraq condemn attack on Saudi oil pipeline",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QdlZwek9XUDFFeGs0MldEYnFSRm9FNzNuV1ozemFPUERIeFNHRWpxS0dIZ09tWUxVblhQaGstZ2t2X3lKYU85RTlXQTRPZG5Q?oc=5",
    "date": "2026-09-12",
-   "source": "sana.sy",
+   "source": "سانا",
    "title_ko": "카타르, GCC, 요르단, 이라크, 사우디 송유관 공격 규탄"
   },
   {
    "cat": "정세·보안",
-   "title": "Saudi Arabia condemns drone attack on East-West Pipeline launched from Iraq",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0tKYlVZSGkxUE5SZElnbDlCdy05djlIYl8ySXhUczFZR1V0bUtQLW5oVUx3ZmRyMXJ3MTE5b2hLcTc1MFMyRE0wdGxhV1ROVmc3UlpubHRrX3JFZFg1U1I1UTZ1M3BsUGcyNWtzcXZERW9SVzNOMjlTMkZ0dng3SzhMRk9ONXpCTU8wQ05zUG9tckc1NEZqZDk0UmY5QjNqRHlOUDExTEkyV0N2R2s3NGx2a1dsaDVzeXZ5QUw3akh4S2ZIeEE?oc=5",
+   "title": "Iraq dismisses commander over drone attacks on Saudi Arabia",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ25EYjBRQmlZa0NzNVNvb3VpcUl3ekVTT0RVczhZdi00cERqOUoyWDdsMFBXY0l2YjVadkJkdVRTUldXUXp4WEtkYlNyU3pTeGJXWjFUNHlUczhIMVJrQkxnOFc2N3ZVczZKQ24zd3F0WnFUSTJHSmJGbC1GTFNzRnY0aXhUVGs?oc=5",
    "date": "2026-09-12",
-   "source": "巴士的報",
-   "title_ko": "사우디아라비아, 이라크에서 발사된 동서 송유관에 대한 드론 공격 규탄"
+   "source": "Latest news from Azerbaijan",
+   "title_ko": "Iraq dismisses commander over drone attacks on Saudi Arabia"
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq closes Shalamcheh border crossing with Iran after Saudi drone attacks",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVXprTE9iRWFsN08tY1pFaGo1T3UxdlY4eHdfdVBSaGhRbTZCUWZpNGs5Qm1wTXgyRzRXelZhSENaZ0tXRWNucVZxYUlTMnZPWUtJa1IySjBaTVBMVU5GR09Wc3Q5ZGtnWDQ4ajFaQVFnOXd0dTJWaFd6NkpjRHRVV3FkQkFRWHdMcnpOaHRzeVNyVkVuT0NHNmxONUw2eFJRcEo4N1JlR25qVVhNRnpzMTZR?oc=5",
+   "title": "Iraq closes three border crossings with Iran after drone launch",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnNoRGZqZXFtYmJCVEtVUVBpS24tSDFzcmN5MDBvZkEyOXBiYU1uTFFCSEk2UUU1WlA0OTdLZ05KR1BPcTFERWdLbkdwbEhsYnN4dFVIQ3o0NzhFbDNTSllFWEFqS2FoeWt3S2tzZm9kYWZOSU9XT0p3NHpFbEVIeDdUeDlzZk9WMXBZcFIyazh3MC1lclNUTThxeDNxR0pLdnfSAacBQVVfeXFMTnd0OE8tRDNBY2VoNmtCMGVJRVpQNzBGWmNVQVlFYWhmV2hPV2gyMklaSmVrNFM2ODJTZk9Cc2gwSkxLM3JYUU9CeHo3LTl4UDlPNkg2Mm95Zmo4cUZpaEJzTTdoS1A4aGM2V2NkSlpXUGdOWUlBcHVGeTZNTlJGckQzYzQ0QUk2WU1lb25jajZ0MjB3eWh5LWpkSkZLVkV4NEJiWjljUUk?oc=5",
    "date": "2026-09-12",
-   "source": "arabtimesonline.com",
-   "title_ko": "이라크, 사우디 드론 공격 이후 이란과 샬람체 국경 폐쇄"
+   "source": "Vanguard News",
+   "title_ko": "Iraq closes three border crossings with Iran after drone launch"
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq shuts Iran border crossing after drone attack on Saudi Arabia",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUJEV2R6c3d6YUREcFRjYWNpTUVoUlZXdHU5eU5ySkZvazRkRGxJUk84SmNGbGZydjBDZ0w4X1VJNWo2VHhRU2g0U2JVRmYtYVdXSnRNdUM3WE5RQTZYVm53WkRWYjNwQjFySUp2ZHRlbUZvYUZGal9yQWdfcmUtMndma1llVlZSRHNLeWhVM1picm10cEFsRmI5eUp4VEhJ?oc=5",
+   "title": "Iraq decries drone attacks on Saudi oil pipeline - The Jordan News Agency",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVUU5VUVFaG1FNkVkUl9wUGFObFZURmUxQ1UyaHRQSVFYMm0xRGc0RExZUXFyU09yYW1SYmNOMVpwQnA2UFJMbWQ3Q21mdW9abkVSbGtSeTZQUEZfYlQwN29HcG43blBETDEzLUltT2F3Ni1NTllUNVVURW8wc25mOVp1MA?oc=5",
    "date": "2026-09-12",
-   "source": "Daily Post Nigeria",
-   "title_ko": "이라크, 사우디아라비아에 드론 공격 후 이란 국경 통과 중단"
+   "source": "وكالة الانباء الاردنية",
+   "title_ko": "Iraq decries drone attacks on Saudi oil pipeline - The Jordan News Agency"
   },
   {
-   "cat": "항만·물류",
-   "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEtFdVJWek16LXpWeFV3THNjRzhQd2VxOG5wUHdOdGs0ZE0ybVEzX2ZvSVNFcWRKeXR1VDRrcUR6TWVieWZKa2s1UzdENHVtNHNyTTJmLWVnbS03UE9kaGVKcTJJTmJLTmlxLW4wQ0lhWWpCWTdFSW0zamhpOVgwTHF1SUEyWThFWXdDWWFwREpjVE5oUExwa2RDTHhySHBIMkYxZlkxRlk0SFXSAbABQVVfeXFMTmhTWG1zaTVKa1hmckEtcHViQTFoaDgzM052SmgyZGQ2aUpoR21Sc1NTT091Tm1kamtWeENhOE80MUszOXYyT0lJQUxRUGVST29kNmdSWVZIQjZjNXlPQXp6LUVTeTVRNEwwSHVuVU9RR3dOSERBZ2xhaERjWnhMcEdKOThKcXkyVlhEcnhVSEdMcVlQYVA4VVZEUkxyZDNob1p5eTMxcFh0NGF1SXNaUXY?oc=5",
-   "date": "2026-09-11",
-   "source": "Al Jazeera",
-   "title_ko": "이란은 월요일에 걸프 국가들과 호르무즈 해협에 대해 논의할 것이라고 밝혔습니다."
+   "cat": "정세·보안",
+   "title": "Iraqi President: We reject use of our territory to attack neighbouring countries - The Jordan News Agency",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmxxd3haUjdoR2FyNmItQVBPcGJBX2xZcW1PazRscGxYUmk3R3FteWtxY2NlcUszd2JGSEQ4bnZicGU3clR4MGRrcmdsT3B4RV9zbFVjYkZ6QWlpZzlfRmJNUGpsV1dvRWRjN1R0dFdRWUZiYnBoS2NGaU9jU2o1VlF3Wlo2QzJDZ2IyVTR0cjdEbXZLZmh2QVEwS2dwYVN4RDB1Wk1jMHVqMzhS?oc=5",
+   "date": "2026-09-12",
+   "source": "وكالة الانباء الاردنية",
+   "title_ko": "Iraqi President: We reject use of our territory to attack neighbouring countries - The Jordan News Agency"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq Closes Key Iran Border Crossing",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTEZlWVJFSGNjVHBkT0t5S25ELXJUN3F1WDhpQmx1Sm12cGh3amxuNi1nUnMzTFQ4WWVDR0pFb25aSnRSNU9mNHRSSlQyenFiMTdaSmtJc1Q3VV9lVmJzMTFhZkFnUUd2Vy1fQ2hsMnZ1M2YzR3VsYmpIc0pWT1Y2TFJZdm1wQQ?oc=5",
+   "date": "2026-09-12",
+   "source": "اسلام تايمز",
+   "title_ko": "Iraq Closes Key Iran Border Crossing"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Shafaq News..Gulf drug bust nets 150kg in Iraq",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yYWZWM2JRRHBZYU00UDI0RnRfYWFPbXhQNnJUdTVzZUN5Vk9UQlp0Qlg5dXdGOTZLVW9MTzBzZ3FVcHdUZENpME9hTUtQQkRWbXBlNWxKbW0tVzlCeEI1al9VUkJCOWMtQ3VYcjhhSDRWZw?oc=5",
+   "date": "2026-09-12",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News..Gulf drug bust nets 150kg in Iraq"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraqi President Condemns Attacks Targeting Saudi Arabia",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGtIdEIxUUk4ZFBldWlsdTVTNzdKa05zcmtDWldlT1dmUk5uTFVkbmZEampVRTkwTXJvc1lzYktGR2R6d094T1lMNmliakl4b1l1N1JyOEdhTG4xOXlkVnk1NTZHQXRYbmU5c3lpbnd5eVd0MU9MZzFTeVFORFkxeHhpMjFsaHYzTUxyY1ZKNzFESTRoM3dIZGpMcG9UTmRQZ0EyMw?oc=5",
+   "date": "2026-09-12",
+   "source": "Qatar news agency",
+   "title_ko": "Iraqi President Condemns Attacks Targeting Saudi Arabia"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq agrees to the disarmament of the Yazidi militia YBS linked to the PKK",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHR5VUlpaV9nd2FhVWRlQTQ0MmFpVVdVWmRsWm8tck16Tlpmc0pwdy02UzVmMUkyYXlvLWpJNEhiNkxHYUM0TktXNUhYWEdaYi1jVUpHSGJ5VHdnWW50Wjk5SnFselNXbExhZGxjbWtiTTNfNVZkNHczU0Q0U1Q2SmVsQTNlTzJ0Z0t5WExtRnI1cURDNUpIVDV5VEt3eVlkbmJOVXVENzdWT2Yyc0hpSFBiNy1vVTBY0gG-AUFVX3lxTE1INEQ1Q0lTZ2tnV2xkeXg1dFN1ZTF1a2NiejJmUGlzQlNHZTNBYUdDV1dpdFRwdFg1QV9CNTJaTlhXZzA5amszQWFLV1ZUUmFYczJqNlRQM1N2MmN4MjkteE0tZ19pZmExRVBiUE11ZUNBeVZZZmFVWThTMWdrUzBVMWM1NWhJWjJnX3hVZVFqczJ5QnFrWl9fSFZsRDNmV3hpa3F4NG9HdnI0ZGJraUNXMFZwc09mbkJIV3ZGaVE?oc=5",
+   "date": "2026-09-12",
+   "source": "Demócrata",
+   "title_ko": "Iraq agrees to the disarmament of the Yazidi militia YBS linked to the PKK"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq dismisses Maysan police chief, closes border crossings after Saudi pipeline attacks",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WUlNZelZuTXVxQTN1ZWFJeFA1YjNLRmtoWElwLXJyenBIb2pFQWFCQUcya2dqWG5ZWkcxUTU2S0h0Sll5ODlBdEUyczh6Z1VzOTBRVQ?oc=5",
+   "date": "2026-09-12",
+   "source": "Saudi Gazette",
+   "title_ko": "Iraq dismisses Maysan police chief, closes border crossings after Saudi pipeline attacks"
   },
   {
    "cat": "항만·물류",
@@ -203,379 +755,35 @@
   },
   {
    "cat": "항만·물류",
-   "title": "Iran Is Losing Leverage Over Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vbElRYzFZdzBFbU93ZHdPZWRDbFJvZ0lweWxWd2hrczZLTlpmbmk4RmZtNUtDQzJLVHpOVlRyemlndw?oc=5",
+   "title": "Hormuz Shipping Traffic Falls to Single Digits, Data Shows",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWRCQUZJdnY5N2VpS1R4a0xsVXdDTFBydzFQTTFGNHd0YkJqSG9SQm1GTnZiWHB0d0tYQm9zWDlyblFWU0wyUVJGbi1tS1plUDBvUUREZ1pPd3JMYWttWktDWmxPNy15c3pVMUVBbDdHWnpNXzBBRGVETjhDSWNkUTU5Ylp0QQ?oc=5",
    "date": "2026-09-11",
-   "source": "الحرة",
-   "title_ko": "이란이 호르무즈 해협에 대한 영향력을 잃고 있다"
+   "source": "gCaptain",
+   "title_ko": "Hormuz Shipping Traffic Falls to Single Digits, Data Shows"
   },
   {
    "cat": "항만·물류",
-   "title": "Two vessels struck in Strait of Hormuz off Oman",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZzAteGp4VHRIUWtQTkp1Q1RwY1ZpVThPRGZQUWZKMUpWdXpKd0ZQLVZGMFBudEtzdzA3TXNsV3RQd2ZDaG9lWS1XSVdnUktVcGZpVi12WXVISmhqYnB1anc3NkhyNW5CUmxEb2x5STk4dWx4ekFhNEpBVUpJSTczTUNLeXRqY0VvOF9tY1FjZGRtMXVu?oc=5",
+   "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEtFdVJWek16LXpWeFV3THNjRzhQd2VxOG5wUHdOdGs0ZE0ybVEzX2ZvSVNFcWRKeXR1VDRrcUR6TWVieWZKa2s1UzdENHVtNHNyTTJmLWVnbS03UE9kaGVKcTJJTmJLTmlxLW4wQ0lhWWpCWTdFSW0zamhpOVgwTHF1SUEyWThFWXdDWWFwREpjVE5oUExwa2RDTHhySHBIMkYxZlkxRlk0SFXSAbABQVVfeXFMTmhTWG1zaTVKa1hmckEtcHViQTFoaDgzM052SmgyZGQ2aUpoR21Sc1NTT091Tm1kamtWeENhOE80MUszOXYyT0lJQUxRUGVST29kNmdSWVZIQjZjNXlPQXp6LUVTeTVRNEwwSHVuVU9RR3dOSERBZ2xhaERjWnhMcEdKOThKcXkyVlhEcnhVSEdMcVlQYVA4VVZEUkxyZDNob1p5eTMxcFh0NGF1SXNaUXY?oc=5",
    "date": "2026-09-11",
-   "source": "Seatrade Maritime News",
-   "title_ko": "오만 호르무즈 해협에서 두 척의 선박이 충돌했습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Gulf foreign ministers to meet with Iranian FM in push to secure deal for Strait of Hormuz - report",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NcVEySDVkVjNONGYxeDV3d1Y5S1l6QmlvNDlWak5DU3NaYUs5UUQ4UjdFMWJPaExtd0Q4Z2Y0OEFFQ0h1NUgtTm02NE53dnRYQmZPUzQwVmNLaEFsbDJreWJHTk5zNW1Oa3c?oc=5",
-   "date": "2026-09-11",
-   "source": "The Jerusalem Post",
-   "title_ko": "걸프만 외무장관, 이란 FM과 만나 호르무즈 해협에 대한 협상 확보 추진 - 보고서"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran says Oman to host regional meeting on Hormuz shipping on Monday",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3NrRzg2SlhncWtnVHdhTlA4WTIwUHlTWi1xakZLMlRQSXdzRzlwYUo3emxFcUZPSEthZEVvLW9JeUtHc0RoWmw3MmNJMndqeWFnYkF1ZFpMNWFyVFpiZThfZjdUQWRmYS1pVFR6SkVScVdxdlhRR0FFYVBvVk9JRmpOLUdZczc4MHpTZEo1Q2xWb01XSVZEZFdOV19zYUtJaGF4Y3FsMm9LMEE4eWlUTVdtdw?oc=5",
-   "date": "2026-09-11",
-   "source": "Anadolu Ajansı",
-   "title_ko": "이란은 오만이 월요일에 호르무즈 배송에 대한 지역 회의를 주최할 것이라고 말했습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Strait of Hormuz Ship Transits Fall to Seven Vessels on Thursday: 13 outlets compared",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbjdURHMzQUtGQjlST016ZHI2VG5VUzJUSWM4SjNLeFRfQVV1V2FmdmRFVlhBZzNXMHRtb3RlZ0FzbmgxY3lEa0ktZzE4TmxUVVpMU1ZudC1FUTQtMG5HMmxWUENTbkJ2d0VfNVUwWjNBLUw5a2d4RlJuVkJES2pkQTl6WVMyb0xES04xY09aSUZRRTBHblVtNFZhS3NzVFlVX2kwSG9qNzZzUVdzQWk4QkYtY2o5cC00U0tIalUtcFduVHN6N1FlSXEwSVFRRTJISnc5Uw?oc=5",
-   "date": "2026-09-11",
-   "source": "NewsCord",
-   "title_ko": "호르무즈 해협 선박 수송, 목요일에 7척의 선박으로 추락: 13척의 선착장 비교"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "The US has made progress in reopening the Strait of Hormuz, but the Iran war is far from over",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkRFZzA4VW9Ub1dpSFN3X3lqSW5MdWhfTDQyLWxGeUFMZDNMa2dVYVVTLWxIVjFBQkp4ams0N3ZyMjhjelFQUjZ2S29MWk01WDZJUUNGRmFjYmtUcWdBV0JkVHFkSzg0MXFaTmtlcmlydUdWQXlvbFU1Q0xvdFJwTndJTVBkRTBSWnlvZ0k1V2FHRG02blZNZ2NldWphUWc?oc=5",
-   "date": "2026-09-11",
-   "source": "AP News",
-   "title_ko": "미국은 호르무즈 해협 재개에 진전을 이루었지만 이란 전쟁은 아직 끝나지 않았다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Hormuz shipping traffic falls to single digits, data shows",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXNiYVFqaWhNQW1zamxmTm9HMEtQSFZhUDAzX3pEVzk2NnJleHYwNDFXT1YyeWRUS3ZGOHhIbmRGd0NoNVVIenZhUTVrWnd6VzdFbWs2RnVKTi16Zk94TDkzRU9qcDhuY0UtU293SDAwUVk5Wm40UVpzWEFFZm1JZUxuOE5fUkg1Q2VfeEdOX2hNeEVsRjdCTWZXS1lRdGVsZm1sa2RQUC1GYjNG?oc=5",
-   "date": "2026-09-11",
-   "source": "Reuters",
-   "title_ko": "Hormuz 배송 트래픽이 한 자릿수로 떨어지면 데이터가 표시됩니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran and Gulf states to meet in push for Hormuz deal",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTm1oWks3YmRRUlYzX0NFSHNHcURubUVVQnUtWHpVclFBQTFpRkExV2VxejlqZVdVZ3h2cURIMjBmUHlkcnl5Zjk4ZzdFcHhGTUdvbTNXaDVtN2FZYjNsTzhSbEZ0ejdOeDYtUlFPNE5KYVJrLU84eF90ZE11bDJDLVl4MjM?oc=5",
-   "date": "2026-09-11",
-   "source": "Financial Times",
-   "title_ko": "이란과 걸프 주, 호르무즈 거래 추진을 위한 회담 예정"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Gulf states, Iran weigh talks on reopening Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWUgteWRRVUVYbFhqYWw4b2FlX3RuWlhUcmhQbHQ2VEVmUWlzREg1eVNoNnJOdWtySWFxUlBFSXFfOVZucDZXUEY2SWVUbGtWRndwX0xWLWFNTDRvZVFxUGt1VUtEbWhwQ0RrMHUxZU8xV3hIcTlVUFZISW9rNWpsQ3pIVWgxRGgyUFhOWC1tZktCaUMtdkJpTVF3YUlLNElO?oc=5",
-   "date": "2026-09-11",
-   "source": "World Oil",
-   "title_ko": "걸프만 주, 이란은 호르무즈 해협 재개에 대한 회담에 무게를 두고 있다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Shafaq News..Strait of Hormuz shipping traffic falls sharply",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOek56NG9lS09NRjB3NnBGeEx2VDU2akE1NlloMGUwVTIybDM5UmoxNVhJSHF0dXdjSTlfT09TeDc1SkhkVEZtQVc5dm9vR2VBUzNUUW5KNHpSSkN0cjhwb1pGU0k5eFpHbkNtLURSOGlzSmpCNkZMUWg0NG5wWmEyMQ?oc=5",
-   "date": "2026-09-11",
-   "source": "شفق نيوز",
-   "title_ko": "샤파크 뉴스.. 호르무즈 해협 해운 교통량 급감"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran Says Oman Hosts Gulf Foreign Ministers Meeting on Strait of Hormuz Security Monday: who 36 outlets blamed",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUjZkQWJSYkoyY214ZXlTRUtFcGJHS0REOWlXd3JqVHUtdUY1bktCZGpfcnVYc3NDS0Q4cWdVQi0zV2o3bGxxMjAzT1Z0c2FpUFBWaDU5a293MjNhTzJEcGU4S1FNSVRvTE5zQ3VhdTEwcTB5OFVZcHpRUmRfUERaMkVybmN4WFVUcmpDODlMbHczcFItSHVVcFNQZGl5NEM3WFgtQXlKYkt1N1VsYlZHUmNGNEl6R29UbkNhNFNTTUpnSC1JNzNlZDJfLTBYVlZwLVBXeVVTY2N5RWZjRjlmYWFrdFltYWtwMEE?oc=5",
-   "date": "2026-09-11",
-   "source": "NewsCord",
-   "title_ko": "이란, 오만, 호르무즈 해협에서 걸프 외무장관 회의 개최 월요일: WHO 36개 매장 비난"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Gulf oil threatened anew as Houthis reach key island and pipeline is shut down",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk9oUjNYejhGeW1YblJUVWdfQ0JaZU52dHNPZUZVdnpMSkxYS3pKTWhLdjU0REdNUGdubUhnRl9KUXZabHRfbEQyOUJZeXUxQzZfcGFlbFV5V1BlSTVmRkhzdGJaNkpQa3p3OG9LZUt3Q3VXYkdrc2ZRWW9fcWQ4TkYxNFgxNFI0dlhIV0UyUU5Dbk44blJMempZVFVqVm5XbUlfV2dqSlN3YXBNUDlUQmVxS3JQMUxQ?oc=5",
-   "date": "2026-09-11",
-   "source": "Reuters",
-   "title_ko": "Houthis가 주요 섬에 도달하고 파이프라인이 폐쇄됨에 따라 걸프유가 새로운 위협을 받았습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Houthis Make Moves On Red Sea, U.S., Iran Go Tanker for Warship",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzJ2WDYzczh2eVdxUWxlRkFsUnNKOEl5Z2EtRk5ZRTR2cTRyNngyUG51czVpLWQzampXWEhyWm9SMW5vVzhKMXVwYlNqVzBpMzNfR0FQQmNLS0lNUF9TOW85Z3d3YVhfZUJJMTA2TENObDRnczFMa1A5Y3ZuTGNXdTF2X0lfSHhiQ2xRRzZlZW5ROVlJLXppVg?oc=5",
-   "date": "2026-09-11",
-   "source": "USNI News",
-   "title_ko": "Houthis, 홍해에서 움직이다, 미국, 이란 군함용 고 유조선"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Saudi Arabia shuts down damaged key pipeline bypassing the Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjFCRXdqMGZES0pkVWNZTVBuMkpIa0NxVlRNNndKVkd6OElqZnYwbC02T0RGQVIxcjl5aWhIZ2t2ZDFsajQta2NpcGJxMmRuSXQ5cEN1T3V6a1hSMFp2dkZsZ2ZQWWpkdnhMa05obUV5RElBTWlzNVdwSlI2bTB2UG5JZmtweXEweEhhaHB1a3J1ZHQ5S2R6UE1qRWhPS3lUTHFCUDNIdUpMaFoyU2o5UzJreExuRzIxdEdocnFDN0FpY2lG?oc=5",
-   "date": "2026-09-11",
-   "source": "TradeWinds News",
-   "title_ko": "사우디아라비아는 호르무즈 해협을 우회하여 손상된 주요 파이프라인을 폐쇄합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil tanker rates hit record highs following Iran, US shipping attacks",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
-   "date": "2026-09-11",
-   "source": "Reuters",
-   "title_ko": "유조선 요금이 이란, 미국 해운 공격에 이어 사상 최고치를 기록했습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByYjJ4ZE5yM1dTaDdycGR4bHBPV2U1NG1zWnlJeTQ4d0I2dk5WNTVXWnhXUEhId1JjMy1UYUo0cUZZMzZFUHRYSThQdXdTSndpRFVsaEhreV9nLVQzdjJwa1U0ZHNCLXNkOC1tRzBYajV0bFAwWkQ2ZFZKc0k?oc=5",
-   "date": "2026-09-11",
-   "source": "The New York Times",
-   "title_ko": "사우디아라비아 석유 수출, 파이프라인 공격 이후 고조된 위협에 직면"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Yemen’s Houthis Reach Strategic Island in Key Shipping Route",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1BnbUFSTWtiRFNSVmdPdFVLWjFwNTc1ekFYN0dZcmo4RVZrYmliRWxUMk1IakdCNlB4cUhYVW1NUDFTQS01QzBmTHVIN2U1bVFEQ1o5blRZcWpRZnZNLVZyVy11eTdMczBTMDVwOXAwUVV4c3RqVWItU0dpcVVYTXdoMkdBRDZzNUdpSWVxeENOYVk?oc=5",
-   "date": "2026-09-11",
-   "source": "Time Magazine",
-   "title_ko": "예멘의 후티스, 주요 해운선로에서 전략적 섬에 도달하다"
+   "source": "Al Jazeera",
+   "title_ko": "이란은 월요일에 걸프 국가들과 호르무즈 해협에 대해 논의할 것이라고 밝혔습니다."
   },
   {
    "cat": "항만·물류",
    "title": "Strait of Hormuz traffic drops to seven ships as shipping disruptions persist",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JZEpXSHBPcXF6dFBiclBUb3hDbnRtSnRZUmVMZl9teFVMeVFvazFLWHhuMHdPdUhFYWhmQWhyejRzTnJlZkMzMG9UcjYxX0xMNUhj?oc=5",
    "date": "2026-09-11",
-   "source": "sana.sy",
+   "source": "سانا",
    "title_ko": "운송 중단이 지속됨에 따라 호르무즈 해협의 교통량이 7척으로 감소했습니다."
   },
   {
    "cat": "항만·물류",
-   "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2lLRlNUMnEtRnREVzJ3MkpoMFIzS2RkSS1Gc29HYV90cS1SRGZBNHhMUHhKUy1YWTdtNkZYclNZclhUTG05NFo0ekhSTWp2X2dGbU5QdkFRak1KcFU5ZE1obkp4SE5FejRGYWhQVmhvUEJGRkpYY2RRaGo4amNfYy00R0JXSEpVN2RZY2dEU210dnNYM0J0bi1DVXpSXzZ6UWl2YUdkTdIBrAFBVV95cUxNdld1R2Jibno1S2hhNGtGZVE2QkcwVjhBN2NGd1VuSW8yaXJMOWpCeTRETHFsZjVrTGJGeXV0c25Ed3Y3UEdGWDdncDczR3NOMXJpdkhEWU5HbVlTOVBDOUx1VHowTEtQUVJCSUQ4MnQ5TjFTRGZaSW5vc3JfOHN2M0thR0lZTXRRRUhJN2V5akZsR0Zrb3BGcWxzdTV3WngtcFRmNDdac01uNFdx?oc=5",
+   "title": "The Houthi advance in Yemen raises concerns about a key shipping choke point",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSTQ4eEh4Ui1PRmFORGwzYWw0SkVpOVBOZFF3YV9IUzAxT1hMLWpZSm5heGdyelJxZ3hGRVhEeUgyUUJrMEpSLUw0UTFsNlphRjlzTnRvVHBZTGJFblJaeXhkRlotOWswcEhYYk5FQjl0a1VFOGVIdUYyckVucklRQ3ZXQ0lFY0M3TDYweXFDa2tBTzdqSVFLdGJhTWhuaGxGUkE?oc=5",
    "date": "2026-09-11",
-   "source": "Al Jazeera",
-   "title_ko": "예멘 홍해 연안을 따라 이동한 후 주요 운송 경로를 통제하는 후티스"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Saudi Arabia shuts down major oil pipeline, citing attacks amid fighting in Yemen, as prices rise",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1pUVU0yX2s5WWZjQkVNZ0lNYnVFZ3JyLU5RNDkxSjVuYUo0cnpQa3RSZTJDUU00X0wzNHphVW5FTnJ1MG1oS3FMUlhlRGdUcHBVbXZTcUQySjNCM0o2N1cxby1OUElFaTJNSTJDOHRUNllqVS1zdG9mZTBCd2EyYzAzNEg0el9QYzBSZXZRU1dDMVpiT1ZwQ0RhR0JfUXh3WkE4ZzBHdDNBQWNZTU5vSG5sNmRWeVNIUkRxeVlrLWJZQ2l2RGNN0gHMAUFVX3lxTE9hc3B5WV9wbVpGOWFESkVPbkZ1YmpOWTEwQlhaa0FaT24yS3l4NDV0eEFhZTZiaDR3QWR0YXdya2o4MEsza2lPRGd4bDVZYkM0WHlVY1F4MjFNUmgwT0htdU91SFZ2VVB2VnEzcURhZnZHZFV6X21MTVZWMHVPbndKSkVabGxGYVdpZ2s2THlTTEg3c2lIWFpCUUtIVkhZc3kxYldRUExyRmtCX21tbWFYb1FqeEc4R243VnRDSlAzWlBMbzRjVW51Mk1pQg?oc=5",
-   "date": "2026-09-11",
-   "source": "ABC7 Chicago",
-   "title_ko": "사우디 아라비아는 가격이 상승함에 따라 예멘에서 싸우는 동안 공격을 인용하여 주요 석유 파이프 라인을 폐쇄합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil Prices Surge Toward $110 a Barrel as More Ships Are Struck Near Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGlPSUdWWnpyXzFRZlJfamI4bWJTSVVNc0pyamxGQzFDOHZfeHhCS2lJWmlUYzlhNnhESEVwVng4RmUxcXpaLWUxTVhRUWExTTdIM0NWZFlISkdpTlE2eTMxeE1HSGNQMzAwWTBxQXdDSjZady03bFlPcGNqTFZRVlVIVVc3cUVoU3lwNGlaRjVybEpCbUhCTVJUZVZGUE1vSklYVzROLTliSHpEc3ktX0lMZV9PX292SHF5eXRoRnVkZUozQW9UTkJVeWc?oc=5",
-   "date": "2026-09-11",
-   "source": "Democracy Now!",
-   "title_ko": "호르무즈 해협 근처에서 더 많은 선박이 타격을 받으면서 배럴당 $ 110의 유가 급등"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTM0ejFrX29LNHdadU9TNDktR3pta1E2SmRUb3pSMndHT3FOZ3B6ZDR4N1BKOC1FQXNGMEgwRW5wVnBtUUc5WDJzZ2p0QXZ4cUpWWmxpLXlEM2s5ZnhjQVpPOGR4b1dCSno2NEJfR1A3MmdaRGJjWUs4ZnBXRzJ1WDMzR2FaTHBqVUFLdTk2Qk42aFhhVEtFQTFYZGctVDlUR29ZS01ncFViT2lIU1ZiT0dGVnhPczRvZnJwdUJ0czV4QQ?oc=5",
-   "date": "2026-09-11",
-   "source": "France 24",
-   "title_ko": "이란의 지원을 받는 후티족이 중요한 Bab el-Mandeb 선적로를 거의 장악합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREtMT2VSSC1lYklMdzV1UHJXZWxZdGFjc1VLSkZDSVJFR2F5V05jTUU4aVNwYVY4Qm5hTF81a1hPOG1rb0tlOGp6aVl1amhQQURpQ1N0VWtzLTN2OTROcTMtVmR5OG9QYVY2a3hDa1FoUElLbTdRcXM3Z3ZWb3ZQMGswY204dURSOHBUcGdZakZBOUdfWFltTnJXWjdnWGtsZ3lTWFVTSdIBrAFBVV95cUxQNU5JWVZ0TzIyN2xmeG1DaWFrVXZDQnJYSXFJSHY4MzcxRkVFal9HWXFSVHJLTnVUOGM4U1NkRGtQMlVKM21FblNDQ2JPWWw1RWpvZnJ1b2x3SUd4VmNCclBrMkZoMExVblVzV0g2dWhnUjlCMjBpMlhNdFQ4bzMyOVpVcnlXZERvSG1DeEpCV0RsVW5YNnNtVFc0Q0huak9wNHJ5VHU2aTlRSUtP?oc=5",
-   "date": "2026-09-11",
-   "source": "Al Jazeera",
-   "title_ko": "후티 족이 예멘 해안을 점령한 후 홍해를 폐쇄할 수 있을까요?"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Yemen’s Houthis Reach Strategic Island at Mouth of Vital Shipping Lane",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1pOc3VkdDdFZkJLOVlPN005Q1l0YUkwSHlrU1lMTUJEMXdtQllFd2V3V3B1a2I2ZlJER3YtWURkcFFmTDJvZVdDMGRUVG4xc3BBcHlFVmQ1RTV4U2d0SUlrT1R6UEQ3a2hCSk1ubGZ3X0pyeGdVQ1dnajMyS1Q4bnNvQ0tSNUFlUXhxOGo0RjhyVGk3Y21zQzJ4M3g5S1k0NHc?oc=5",
-   "date": "2026-09-11",
-   "source": "EnergyNow.com",
-   "title_ko": "활력 넘치는 해운선의 입구에 위치한 예멘의 후티스 (Houthis) 가 전략적 섬에 도착하다"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Houthis reach strategic island in key Red Sea shipping route",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEdNR1Via0FjSmUzOXZUcGNpM3JMSVUtNmxmYjZ3emdXRHZ6ZUJ6UUszWUpXQ1pVeTNnVk9ybURkemI1STlXMERMVWZTV25kX2h3WG1MOFhmTjVlU2JlVHV2RkdyS1RXdHZMb3ZUZUdrWk40RlF1Y010cno1eGRodFFiakNXSVM2RXVvZNIBkgFBVV95cUxPWGR5N0hsaFo2bVczdlpYOUxRMVlTdzlrVUZlZzVzeGVZTDVsdkg1aC1oZjdNQWRXQjNzbEpsbVVGeElLWEJHMGNteTNiaDJHbW1YRHozYXBkVHREQjhtMjY3WmEyUFRMbTVtR2VTSjhERUtKVFhFblhRM0g4U2VmRm50ZXNpRmJOLXFaR3VtUkFfZw?oc=5",
-   "date": "2026-09-11",
-   "source": "NewsNation",
-   "title_ko": "후티 족은 홍해의 주요 해운 루트에서 전략적 섬에 도달합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Hormuz shipping traffic falls to seven vessels on Thursday - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zZ1Iyd1lIY01JS3BwcU5CQ2E2WlRSV0JWVWVlM2Z1QTZxa0U4V0R0cFFlcXA3SEFadHZ0LVR0MUVQQkdkbGtSRUhqMzFtNmJjbWc?oc=5",
-   "date": "2026-09-11",
-   "source": "iranintl.com",
-   "title_ko": "호르무즈 해운 교통이 목요일에 7척의 선박으로 떨어짐 - 로이터"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Saudi Arabia Shuts Down Pipeline That Was a Crucial Hormuz Bypass",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1NjdWJTUm9QQ1h1RGVVWEY5ZTQ2ODJIMHJ1bENvcVpURFZCVHU0dUphTlUtM19OdW1ManZxaUlHLTBNTWlERDZ3cXNTM0Y5Nk1GcnFXazQyenc3dm0zT0lvcjFwY2FEdHNqOHB2YU11RjlfdUdyeUs4dDJXbUlmN2Y4d3RaV0s1YnZDRklhRXV4OVp0SnlTdnpKOTN0X0ROcEh1UFB2eVF1aEd1TDFuQWFR?oc=5",
-   "date": "2026-09-11",
-   "source": "WSJ",
-   "title_ko": "사우디아라비아는 결정적인 호르무즈 바이패스였던 파이프라인을 폐쇄합니다"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWZaQ2g1WnljUEw1REVXaWNPd2ZGelZFVWN3N19PUE1RdjFGZ0JacjFsRWhFSldIa04zd0RVVm1mRWU1cFJyZ0xSdXhmUUFyX2hEdzVjVzY5elJvUENUMEFPMjFtbTBvNy1La3Q0OGJ1VmtaTVgwMUZDekxHZjBNSUlfb1QwXzVRQzl5b0tiTTdBUXN2VVp5ZHllRDUyUWgyVkxtMDh0QW9wakp6YjNXdS0xRW9YRXBF?oc=5",
-   "date": "2026-09-11",
-   "source": "WSJ",
-   "title_ko": "이란의 지원을 받는 후티가 주요 홍해 초크포인트를 효과적으로 통제합니다"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Kuwait Petroleum Offers Ship-To-Ship Transfers Outside Strait Of Hormuz To Protect Supply Chains",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFpyemk2ekdFeVAyMXZUaFVxRjdEaDlLWV9jdGZuM3VUejRCV2tRV0NzUHF4bnllN2dxWlBqY0lSVkp0STliNmJVaUthNE1oQ19ZeFUxbWRkUXhuc0ZaWkRIUWJJemEyd1JhNXhKS1ZRYWl2NHBRYmhrcnVkUkZ6aTJHdkxJRGNCVUpQcDV1Y015VzVBOGpVRzM2eUxEYm82YU8xUGM1cjFWTzNyQjMzOXQ4RGd2NUxzQnVQbVVqMGpYRlpUaWc?oc=5",
-   "date": "2026-09-11",
-   "source": "Marine Insight",
-   "title_ko": "쿠웨이트 석유, 공급망 보호를 위해 호르무즈 해협 외부로 선박 이동 제공"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Strikes shut down key Saudi pipeline as Iran-backed Houthis tighten grip on crucial shipping lane",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1ltMThONzFHT21BQW1uY3BGRnNsVUNiVldxOHhpcFhycXR1WmNhVXo5WHptV0k4VDV5U1ZtNXBkbnM4N2VxdldMc0tJRjRqU3NWQ3hnbHBacl9VZmVBYnB6RGt6dFlUVHBlbEh4ajRRYVFfaHhmNXRvT2NQT3dVWDFMSWo4UEc4b1lKT1lQMUR5ZUp1ZFNOdzZ5TG5NNEpTVm9BOHA4YkNsQXdOaFlVTTQ2WEVLdw?oc=5",
-   "date": "2026-09-11",
-   "source": "NBC News",
-   "title_ko": "이란의 지원을 받는 후티 (Houthis) 가 중요한 해운 차선에서 그립을 강화함에 따라 사우디아라비아의 주요 파이프라인을 폐쇄하는 파업"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Strait of Hormuz, Red Sea Disruptions Send BWET ETF to All-Time Highs as Tanker Rates Surge",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVVlKdUNGdlBfRlNBNnp1RHpxdmstYjhFMTl4WkZ1MU0xM3JwREs2M2xUaXV5RHhVc1BuMWxZNVZHMDBkWVFRUVcweVNCYVNIYS1CZ3l4ZzlGZE9XSG90UFlVSnBhM1ZpaEVVTDJLOEV0bWVkS1pTOF91TDVxOUp0bHFlRmxyYldydkpXX1BPU1ladkp0SXB0dF9rM3RQX1hYZ0tnLTFfU0hjcHVZMUlrUGlKcXVpRDRrbGJhbnoxRDN3ZDBBVDVvYUhHWk50TU50YzhwRGtvZ0RJOWd5WkFVNQ?oc=5",
-   "date": "2026-09-11",
-   "source": "Benzinga",
-   "title_ko": "호르무즈 해협, 홍해 교란 유조선 요금 급등으로 BWET ETF를 모든 시간 최고치로 보냄"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNUtUUkVTY2pGUHNtdWNvWkdycXhzbjUxczFmTVQ2V0JQUnE4bzRkei0yTGwxWXFOQndNVThvaWwwT2tBUEszM2RfQWt4OFV6MEZENUxVeEM2SVZ0bERET1hra0hzTWxWWmFER3RXQkJqZHdVbG1yOXN4T2F5X1didHdibVhFVWtDWmdFRVhFV0FsajlqRkt2cTlBcFFXNjZXdTc5ZDZMYzZId3FJQnhfdWszWjMxd2p2Zkh2VS1n0gHDAUFVX3lxTE9GVWxHdWd4TjVsXzh4djNmeHBkdDlvd1JjTS1jb0tnbmNkazFaTXJMNUFST3JpTkdHb216VnNBLXRuU3BvS0l2OXNJU1ZvcW1ja2VCbVZHS19WU0dENERqeHBFd1VXY2hOWUc0REVFX0ctbWkyMV9MTU95UjkwVUs2NmlzanA1TUMtS3J4eHBSeDhTQ2hOMDRFbkVDQkM1NE1SdFh6OUJsemJpWlNaR3AwSUxVeUd3OFphSklma2ZsTWtjRQ?oc=5",
-   "date": "2026-09-11",
-   "source": "PBS",
-   "title_ko": "이란의 지원을 받는 후티족이 중요한 석유 운송 경로를 목표로 정함에 따라 예멘은 내전으로 돌아갈 위험이 있습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil Pulled Back, But The Strait Of Hormuz Still Has Markets On Edge",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVQ5Q1c2NEFSXzVZc1pCNldsLVB6MUF3WHIxa0ZYNkNNUTFJVWdPT3hSS0U3Z0JJTjJ4UGFrSzU5NWp1dDQ0SXQtb3BrR2RkNmdlSmRlRGFEbXJERzRBOEV0bjZRUXY4SmowVzl3UzVMZkI4U2xITl8wOE1EVlhjSlBtb1liOUVPcmhVSmxUREVJc2l1YnozakpCcw?oc=5",
-   "date": "2026-09-11",
-   "source": "Finimize",
-   "title_ko": "석유는 철수했지만, 호르무즈 해협은 여전히 시장이 가장자리에 있습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Shipping traffic through Strait of Hormuz falls to single digits, data shows",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONEttUEl6aWlBaU5mS0ltYTdDNy16QzlIek9fMjRzWW9SVkF1ZGpRV19HR1hURW4tYXRZMTVKZUgtX1NoazNDZWQ3a1N5MklRMUdOSnRrQllXR2tqZDVqWUl1Ri1PaTFacU9uR0I2dHZ3S0pqMnJRQ3cxVXcweE9yalVzSjRiRXNnU2oyYzRZUXpuWWlfUkpwUDlLa1RHSnZla0hPTVNiTlROTGhyaWF5SzMyUGZSRS1KLU45RDNEVGVtbVVwQkU2ZzlwZVAyX180REFMLWw0eHAxTkt6SWdmUjliN2Y5TDNZTXZPSVlQQUrSAfYBQVVfeXFMUEFLRVFleDF1YjBKeFZpVHZYcmpSdkgwMFBHOE5ldzBwVXFEZ0hKWmNTT1RMTTJuaEJ0eUJkZ3U5cmpIWU1aUXQtOGtUNWpUSExkTmp0MWdrNlU2RHdJQ2w1M0U5U1Z2UkJ5allTa1RGSXhFdVAxem83a1JrUjVtZENqWmVrNGc1TWhyYm91Sk1xZzN2NkYySWdPSFVXSmtzX0JEZVNiLW1xb096aTl3OEp3ZmV6YWt2ZVN1UnFzRUJmYmxxVnJxeFBubkJoa3VXZkVNZU9GeU5kWkdUV19QMmNiUVV5YWFRYy1YczBsc0FXaU5xM2tn?oc=5",
-   "date": "2026-09-11",
-   "source": "The Economic Times",
-   "title_ko": "호르무즈 해협을 통한 운송 트래픽이 한 자릿수로 떨어짐, 데이터 쇼"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Strait of Hormuz in focus as South Korea holds direct talks with Iran",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTVOMnF6cEdoLVlwT25jVWkxSDFYNXdJbHlBTmNGYkVZVjIyaHF1ZTRGWnREQ1d1N3pRYXJzZDZQZTd6X2o1eWR4X1VQUktBNU9ocy1GbEZxUEhfREF2by1BMGZzTDZOc2w0MFc1VFhUUlpjTzJEd1VudldqRzA3SjNFN2tqUVZtUHRBdnNJZzN4dUZKc0FrTjdmbGR0bU51RUZDOUtGdjZmQW9H0gG6AUFVX3lxTE9qdW1FbURmUWwwczF3ejB2djFJdF9HSEtrYVc0RjFnZXN4SWZVQ2l0RWJjSGVnNFgydUFLSjAtMXY4Y3Bzc3hTV1RPWldxWUJXVDZlT24zZlNGdHZrMW5VRXhicmZyd3owS0dnV1JkN2pYU2REa3g2Q0VURFZWR0dZN0FIM1pOOUdoek1rSFpyTUl2a0ZCaGtKS1dhUVlGWDVTcEpzTndvMndvUG9ZQ1hFaFV5V1RVcXBrdw?oc=5",
-   "date": "2026-09-11",
-   "source": "Baird Maritime",
-   "title_ko": "한국이 이란과 직접 회담을 개최함에 따라 호르무즈 해협의 초점"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "UAE shares gain as regional conflict fuels oil supply concerns",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFZqSkZWYzU5a0MtUVB6M1FocURieVI2YVRoWmxJTzN4Q003R3FNZkJwQTFtRjZMRHlpU3REZWJxR3hGZDlaUEhXYXY5ZkhrcC1DblhPYzJhcEM0X2ZJQWdLc0hTYTc1WmFyZ0VBR3pwY0Flc3ZQMFNGeU5mV3MzZlNaUW43NHBGdk1PSV9PcE4tUVB1ajlkbGhiSE1TYTFiaG16dTY0VTFhQ09BaThBcVRSZw?oc=5",
-   "date": "2026-09-11",
-   "source": "Reuters",
-   "title_ko": "UAE 주식은 지역 분쟁으로 인해 석유 공급 우려가 커짐에 따라 증가합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran and Gulf states will meet to secure deal for Strait of Hormuz shipping — FT",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHBMbUxGWC1kdEVDNHJLV3M4bDgydVl1SlQ5eXlReXlJZDdRQTI2dENlVFdUQlNMODNhOEdmVm9STXIxeHFZVy1PSDBVWEc0UVl4LTJlUkpTdHlPeWJ0eWIwcDVDTkh1cGZnY1RVV2p1TGxxZ0xBZTlkSk81bjBybkNleV8wejJZS2FfV1FHdUNwOFE0b2dhOHZ3WFhPR2JNbXlZbE5ZZjZ3OVJIdzgtYTVpaWp0TEg5NmJHQ2tR?oc=5",
-   "date": "2026-09-11",
-   "source": "FXStreet",
-   "title_ko": "이란과 걸프 국가들이 만나 호르무즈 해협 해운에 대한 거래를 확보할 것입니다 — FT"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil set for weekly gain of over 7% on supply disruptions; U.S. diesel hits record high",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcW5RNGVGeWo0T19LVUdObW9wOVVYVy15TktwaFVMMVRpUHFOa1dGOWlQOU5nQ3pNMG5EcnpRcWs2eEktbFpDZ0Y1Unc1VGVaSjZSQVB0ZVhTalJRcEd1V1hESllLV3d3WHl0VkNobDRadG44NTJqOUhKSEduWnFUd19hQUxFbXFSQ3NNaWowb3RVM1UyclF1bFJZdjZ5UnhRTmJnUGpaMTNMY0XSAbABQVVfeXFMTlV1MzA1RlFmNkFXZWZaTTR3c1dzZUJvYmZRcFFXaGlFbjk3cTNFZjVHX1V4NG5Sb2Q0NGVyckotTmFWVE4tbGcxaUh5eEIzYTlrVi1NaUhxNW0zR0xscnNVa0FtcEVHb2I2Rzlpd1FfbTZUNGhyUVA5UzhEaTVDZnpBOTNlTm9pMXRmd2FWeHppSGNmLU0yVGpRakRZSE5BSlNtYm9STWdEQVE3aWRZOF8?oc=5",
-   "date": "2026-09-11",
-   "source": "CNBC",
-   "title_ko": "공급 중단 시 주간 7% 이상의 이득을 위한 오일 세트, 미국 디젤 히트 기록"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran and Persian Gulf states to discuss navigation in Strait of Hormuz on September 14",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91d01wT2J4WHZhVlJXbE5PX25WYm01ZFRZM3pQT2RsNjEwcXZ5UlhwUVRtUlBCdWpzT1JyRGhNdWtvUEh5emNkbGR6eC1iVWFyUkHSAVdBVV95cUxNc29Hc3pVbE1GeE9DWThxRm9Gd2FHTGNjLWtFUjdCYjNQOXJQWDBEN0VKOFk5cjRoMndvN0h3UEhOMWZWVGdtMDh2ZHFvOUpmRDRsd0dEWVE?oc=5",
-   "date": "2026-09-11",
-   "source": "Armenpress",
-   "title_ko": "이란과 페르시아만, 9월 14일 호르무즈 해협에서 항해 논의 예정"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran, regional states to meet on temporary Hormuz shipping deal - FT",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2S09ra1RqZGlhWklLZkpGUVd6UEk1bEZxVFJhNzJQd25HR21kYnh0eGpwR19vR0ZVbnd3Y084eUp1M0Z3NXZZYWVUOGNieWxyMGc?oc=5",
-   "date": "2026-09-11",
-   "source": "iranintl.com",
-   "title_ko": "이란, 임시 호르무즈 배송 거래에서 만날 지역 국가 - FT"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Houthis seize key Red Sea islands, complete takeover of vital Bab el-Mandeb shipping lane",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmJJMVJ0eXlNWkNmSk5ibk9vemQ1YkxmQ0NvVU9GV0Vjb25xSnFuWXlTVGJ4WmpvcGtDX19Wd2lISzVHOE1fSTNhWVFWblJFN1ZKVDZFRkptTW1sYWNKdDNaLXpZVjd4ZFdPOG44Nlo2ZlVmTnhwWGRheUh1cTZZd3pieklfTVpEakpYTzJQX3BzUDFncngyMldaVi13TVFJTWZrSzNWdEo4RFo1MmZHOEtvVXJZdVE3QXfSAb8BQVVfeXFMT25VSWN3VkNiUEtzWEpmMjZBUmpFbEdGbDc4aUtPZTVYbnpaU0REdU8xdnA4em1YRDNkOV9PQnhUV3hna2lwREFlTEtNU2JFNU1HSFFoNVJBTEhJUDg3S3FqM0s2c1lpY29UNWl3ZTk2X0RFQzRQU1RyTWoxUDByUEhjX1VadXJVc1o0RjZtX2NCbjNtdUJfVENKX09BUnF2RTFFeVd3eXFfSlUtTWZLQ0lVZGJaOUI4S3FzTWFsMlk?oc=5",
-   "date": "2026-09-11",
-   "source": "The Times of Israel",
-   "title_ko": "Houthis는 주요 홍해 섬을 점령하고 중요한 Bab el-Mandeb 선적로를 완전히 장악합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Shipping through the Strait of Hormuz between Iran and Oman fell to seven vessels",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGNSTDFQQVl5Z3gyX1BUVzZzUVRCaVZ1cnNXSnFVY01ON2VNelVIczVwNkZTTTBHeF9iNXBQNWFmSTQwWVJkUDFPYVM1ckNRVGJmUzhNODVxY0pKakp6X013VFJWQmZFeUVOdnpjNVE5OWhpeDBqT0pxRmRVcWN0bWdIajhEQkJqTVp2MnVXREhwVmJaR1ZCOHJYU3JzdWZrQkxGQURpbWNwWG9jcTE4?oc=5",
-   "date": "2026-09-11",
-   "source": "UA.NEWS",
-   "title_ko": "이란과 오만 사이의 호르무즈 해협을 통한 선적은 7척의 선박으로 추락했습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil prices set to end the week above $100 as Houthis seize key port city",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMlVWQ2tyT2UwMmhkbnFxX3pNblQ1OGlkTFZXMmVtSWd0eW12cWFDZk1FNlQ0dUVFb3FLM1FyUXZFODJ4andpcmo2YUhYMHpDYW9HRHo1eWUwdXlJZnhzaWoyWkZrOEJJSmxKVTA3S0JjdmNCQ1JMZWtiazFYMm9wcV9CbXdMZjJleUdwbTNxMWRJRHMtYmhUc2RtazJ5SjI2aU94d3RFaF9mUW1BMy1RTHBja2ZtX0lCdFQxVkNrS3liUmFzYjk5N3RvMA?oc=5",
-   "date": "2026-09-11",
-   "source": "thenationalnews.com",
-   "title_ko": "Houthis가 주요 항구 도시를 점령함에 따라 유가가 $ 100를 초과하는 주를 종료하도록 설정됨"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWpmd1pWTm5oNmdERno5dWlNc3ZDME11c2FNMmFTNzIwZUs1MU4xSG1JVk52UFJvRTVpMlFYRDQzUXhQTlNfUUZrY2RaS1hRSmhSTTk3aFBGVklvQzJNS3U0QXQ2SkdMTGowbzEzUU5hQnc1VnFlXzQ0RnNFUjJ2cDV3bjFVQU1hUTVyZHhidzZoNW1zS1BQU3h0cUlqTEg5Z1JyZHRaOFlraXFITkUw?oc=5",
-   "date": "2026-09-11",
-   "source": "The Guardian",
-   "title_ko": "이란의 후티 동맹국은 중요한 석유 운송 경로에서 전략적 섬을 점령합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Yemen's Houthis Capture a Red Sea Island in a Threat to Shipping, and Other Mideast Developments",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVi0zWFA4bUpLMWsyVmxVU09XRGx2ZUVNUmNrSU1uQnJJN3FkS011U28zQ2RNZnRZQ2RFc3Itb2RORVRHUFkwZmZ0VkQtc0RaVXBua1Jic1B3ekFUODJkU3F3OERBZkt6RFNKeDJndzE5YXlpYWN0N1lrUVZSMi1aOVlzVkdhY0l4VW1oMXlpMmNzaW1TaDJKeFc2UmM0MkkxaW1rZC02blRISVFGbDRLc21wZDlRYndTR19MOVpHamtYc3Q0dERyVDlEOU1oRENHVENz?oc=5",
-   "date": "2026-09-11",
-   "source": "U.S. News & World Report",
-   "title_ko": "예멘의 후티족, 해운 및 기타 중동 개발에 위협이 되는 홍해 섬 포획"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran-backed Houthis advance near key Red Sea shipping route as Yemeni forces retreat",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xeVdCNXRpOUFxRzI4bDF2SnBPZDg5YW5uR095Wmh1OFZrQ2xQZFpnNlhybFV4Z21VTUlBZTJDSDRxQ3dlNVl6SVMwUURxYW9LSFE?oc=5",
-   "date": "2026-09-11",
-   "source": "iranintl.com",
-   "title_ko": "예멘군이 후퇴함에 따라 주요 홍해 항로 근처에서 이란의 지원을 받는 후티족의 진격"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Yemen: Houthis tighten control of strategic Red Sea towns",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREZCcE5vaEZGc2h2YUdxWkRaMzhyUXdGTXFJWDVTTFlWNmZteVRyYlR5WUpFeGlILUZRamVxcTRWMU5fV3lYSHY4YTJWQmxCSzZVcWhPUjJRUHd1VEtibTJ2X3NBWTBJVmlETFZ1eGUwbzZuR0FlZWhNelRWM012MWNORE5mdzlaX2ZGRkJSeVZ6bW_SAZMBQVVfeXFMTmVNdFJaVDVENVc4NDBLR1pRR2hvTk1zaTdQRkhxRFpPVWZxaDV2aUk3MTZIMzF3RXh6cEpiN0hrZEEySEdnLXV5dlJQMXRTbHBHdHRfdmd1dW1aZi1oaWc2WXE3MHZleG1jdlhrRWJXNjFra005ZDdqandMeUxWY21faGh6YUoyQlA3bWl4TDV2Sy04?oc=5",
-   "date": "2026-09-11",
-   "source": "DW.com",
-   "title_ko": "예멘: Houthis, 전략적 홍해 마을에 대한 통제 강화"
+   "source": "AP News",
+   "title_ko": "The Houthi advance in Yemen raises concerns about a key shipping choke point"
   },
   {
    "cat": "항만·물류",
@@ -595,43 +803,11 @@
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq's prime minister fires military commander after drone attack on Saudis",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYlBTMFVnaVBac2lPUEY2X045YWdrT3piUkNUTWZ1WGxhRE04U3VQNWduLTBEcVpFREVzUjUzRVdyclZNdnhpQlJpR2FSRzZ4UXhIbHlSdWxfeUMz?oc=5",
-   "date": "2026-09-11",
-   "source": "The Jerusalem Post",
-   "title_ko": "Iraq's prime minister fires military commander after drone attack on Saudis"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Saudi Arabia Condemns Iraq-Launched Drone Strikes on Its Oil Pipeline",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0VPWEhvSUhTbTdVWTcyUldaWm0ySlVVaDJSc0c5RkN5cFpVRWlGY1ZfTENqSk5pd1VUeG55LV9uNk56M3g1V1lQM0d3dXBwdElPc01OeW9mdDQxTTc1VjIzS2N2SVoyd1NnWkM1NGc3XzlvM205Sm0xM0ZEREhaM0FkeXE3RkNHUzFEWVdwN3QtaHcxQktwTU9FcjBUUnJ0dFREQXdmOXVla0lnT0Fyal9RUQ?oc=5",
-   "date": "2026-09-11",
-   "source": "Kurdistan24",
-   "title_ko": "Saudi Arabia Condemns Iraq-Launched Drone Strikes on Its Oil Pipeline"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Saudi Arabia shuts East-West Pipeline after drone attacks from Iraq, injuries reported",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHlTVV9fSFlRbHVFQnEwanJ0d19TdGRfWEVQZU95aHcySGRZQmkyQ2FnQUU5OU54R0c2WEJ1SFB5UnpRVzRZMlFZV1FUTnFLalhLUUJ3aXlwSTJ1WVdxNHpLZzhMZGlsZEV3SkgwVDNucnJ1VnVrT1U5Ry10ZVJPb284dzFPTDlSalR3aXFKOUVCeUlMVWVzXzR5MElSLTBRTzBtRkphNE1IdDkxamFMTXVWWndseGhsRjluRHB1MTFxQi1WMkNnb1Z3?oc=5",
-   "date": "2026-09-11",
-   "source": "Anadolu Ajansı",
-   "title_ko": "Saudi Arabia shuts East-West Pipeline after drone attacks from Iraq, injuries reported"
-  },
-  {
-   "cat": "정세·보안",
    "title": "Deep Dive: To shield weapons, Iraqi armed factions ‘regroup into cells’",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVgxSVZ0ZXpmQm1wcXg1U0tVdmVXN193aEQwV3pSRTdZV0ZuaHNlWFQ5bFZwSHJJZ2E0Ung3M29KUnJLMUNXc0JHYlFvOTdnbE54WmNaUFpUSnAyQVlNcHhISUd0eGt4NVFLeFBhNE1hMTZWZFRxVXdGSnVJOFRRaHNJTHg0OF9fUlE4RFlta2RiQURURVlsZUNJU1VXd0k?oc=5",
    "date": "2026-09-11",
    "source": "Amwaj.media",
    "title_ko": "심층 사고: 무기를 방어하기 위해 이라크 무장 진영은 ‘세포로 재편성’"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Saudi Arabia squeezed from Iraq and Yemen ahead of GCC talks with Iran",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oZWRkZlRRc21sc1hjUV9HNHBrYno4MFd5QVNwT1hxTnlQU0IyRnd4NWlXQWVfcUV3MnJFdTZtSkMzX0hSLUhjTlJUTDJrcU1TeWc?oc=5",
-   "date": "2026-09-11",
-   "source": "iranintl.com",
-   "title_ko": "Saudi Arabia squeezed from Iraq and Yemen ahead of GCC talks with Iran"
   },
   {
    "cat": "정세·보안",
@@ -643,19 +819,11 @@
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq Condemns Drone Attacks on Saudi Arabia and Orders Urgent Investigation to Identify Perpetrators",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGQ1OWxuYVBEN2xGZXpYVThHWnJ4YUk5aWJyQXhIWUZfemV2R1AwYjFhQ3RqV1k0STNtUWNGS3Nhc1BmZGMxM2Z2SzBsUFRLNEN4SHdKb2FxY0ZoZjhjRlRGR1dGNkZRdlJpMnF1UXhqSF9NV2FOTGUzMHlHUUVCS2hWSnRxc3VreVBFV0JBYmx4WjhmYS1xYWFvYlIyTXpxOWt3MUJFRS0xVEtDUzlvZjRFMmNrOWNId3dSU2JQRDZKa2d1WGJrdGh6TXdXU3dOeGZNZmpOTEF6Vmwy?oc=5",
+   "title": "Iraq's prime minister fires military commander after drone attack on Saudis",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RYlBTMFVnaVBac2lPUEY2X045YWdrT3piUkNUTWZ1WGxhRE04U3VQNWduLTBEcVpFREVzUjUzRVdyclZNdnhpQlJpR2FSRzZ4UXhIbHlSdWxfeUMz?oc=5",
    "date": "2026-09-11",
-   "source": "Kurdistan24",
-   "title_ko": "Iraq Condemns Drone Attacks on Saudi Arabia and Orders Urgent Investigation to Identify Perpetrators"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Saudi Arabia says drones fired from Iraq hit oil pipeline; Baghdad orders probe",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnclBGbTE4S09OMEgxTVdkMVBhNDdoR0NleWkxUmIyNldBbzJBME5UNWpta1pnb2EzeFdVTFhiNlp0Tm9KT25KMS01WGE2SG9lRmNISmNQLXU?oc=5",
-   "date": "2026-09-11",
-   "source": "TRT World",
-   "title_ko": "Saudi Arabia says drones fired from Iraq hit oil pipeline; Baghdad orders probe"
+   "source": "The Jerusalem Post",
+   "title_ko": "Iraq's prime minister fires military commander after drone attack on Saudis"
   },
   {
    "cat": "정세·보안",
@@ -667,35 +835,19 @@
   },
   {
    "cat": "정세·보안",
-   "title": "From Afghanistan to Iraq: The World Shaped by 25 Years of 9/11",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS25mUlVCVXoyZThOWjFYY0hMYWNDWHg3SHh5c3hKUEd4V3lyZ2ZSUnM5YU9KOHBCZHFlVFJvVlhDd0Q5aW16MnVOYzJqaUIwbm9BRk8wcXdLMktkRGpBR1QxSjU1REI5WlRZV1FSRk9wZ05MX3JwM1duN2JBNTZxSmRCN1pDRDA2MlozdklZcFpCZzM2bWZzb3k1RVJhYTRWa2J4dm9aMA?oc=5",
+   "title": "Saudi Arabia squeezed from Iraq and Yemen ahead of GCC talks with Iran",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oZWRkZlRRc21sc1hjUV9HNHBrYno4MFd5QVNwT1hxTnlQU0IyRnd4NWlXQWVfcUV3MnJFdTZtSkMzX0hSLUhjTlJUTDJrcU1TeWc?oc=5",
    "date": "2026-09-11",
-   "source": "Kurdistan24",
-   "title_ko": "From Afghanistan to Iraq: The World Shaped by 25 Years of 9/11"
+   "source": "Iran International",
+   "title_ko": "Saudi Arabia squeezed from Iraq and Yemen ahead of GCC talks with Iran"
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq: Restricting Weapons to the State to End Plurality of Security Decision-Making",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREFsUkRib3BhRXZEVlFkWkU0c25NVlpyX3RYVDJFMzRDUVFRX2FiTWFzbGpwMVBmYjdWZVZxLTZ6Ti1CSjZnUnU2d2oxNjc2NDZKZEtOUS1MUnczb0FNb0tyckZ1UFhYTnVTaWJsWTAwa1hnUTJES2luazd3VkJmRDI4OWV4Mm96M2hWMU05TW1fYlREbndKUkJSbFFnSWxEZWxKSU1oV2E3cmNRcGVUcXhPYWRYUHlVWDJhbHIxdEhmeFBsdG96OFlmNUhRazQ?oc=5",
+   "title": "Saudi Arabia shuts East-West Pipeline after drone attacks from Iraq, injuries reported",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHlTVV9fSFlRbHVFQnEwanJ0d19TdGRfWEVQZU95aHcySGRZQmkyQ2FnQUU5OU54R0c2WEJ1SFB5UnpRVzRZMlFZV1FUTnFLalhLUUJ3aXlwSTJ1WVdxNHpLZzhMZGlsZEV3SkgwVDNucnJ1VnVrT1U5Ry10ZVJPb284dzFPTDlSalR3aXFKOUVCeUlMVWVzXzR5MElSLTBRTzBtRkphNE1IdDkxamFMTXVWWndseGhsRjluRHB1MTFxQi1WMkNnb1Z3?oc=5",
    "date": "2026-09-11",
-   "source": "صوت الإمارات",
-   "title_ko": "Iraq: Restricting Weapons to the State to End Plurality of Security Decision-Making"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Iraq condemns Saudi attacks, orders urgent probe",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2Ujhkd0cwLTBuODE2aERZZlYtcGJWMUxlMnJRV2tXaHI1U1kzZG5KUGRHMjhPUHM4TWxkeTRsRmpfOER3bHc3QUdISjZIY2xOSHdobGZDZVBxbjlUQlpPSHhFRjE3eE96UWpMTjZMOFlHZw?oc=5",
-   "date": "2026-09-11",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News..Iraq condemns Saudi attacks, orders urgent probe"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "US sanctions Iraqi figures, including brothers of Muhsin al-Mandalawi",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZG56Sk56cEJMSVJ4bnZ0aDZ3c1VCN3J0OV9lRVFKcncwZVJWQkJMVE5DRm05elZ6UGhRMThPTmhOUDVwS0JLeHM3UjFwanl1b1J2SUo5WFUzbFNZaHloYkFpZ0JuUndROFpRdURNd3ZlSVlDWEhNZGtsWldRbHF6WXE5eThOSVNqMnZMT2prQW5kT2JnZURWcWR1YTVXV05wTnc?oc=5",
-   "date": "2026-09-11",
-   "source": "IraqiNews",
-   "title_ko": "무신 알만달라위의 형제를 포함한 미국의 이라크 인사 제재"
+   "source": "Anadolu Ajansı",
+   "title_ko": "Saudi Arabia shuts East-West Pipeline after drone attacks from Iraq, injuries reported"
   },
   {
    "cat": "정세·보안",
@@ -707,11 +859,11 @@
   },
   {
    "cat": "정세·보안",
-   "title": "Shafaq News..45+ drones uncovered in Iraq’s Al-Anbar",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xay00NnVfblMtSWlMNkRaUDBBX3BFWlNURlNUMmdKU1Q3cldWN0kzN0tMRDFCTzVIMXMzS1UtMDVxcUFzTC14NmF4anU5SUZQOVZ4MXJmRksyMndCNW1HUnJfS2o5VGZXX0dsOF9MTDRlcVc2SmxIVg?oc=5",
+   "title": "Iraq: Restricting Weapons to the State to End Plurality of Security Decision-Making",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREFsUkRib3BhRXZEVlFkWkU0c25NVlpyX3RYVDJFMzRDUVFRX2FiTWFzbGpwMVBmYjdWZVZxLTZ6Ti1CSjZnUnU2d2oxNjc2NDZKZEtOUS1MUnczb0FNb0tyckZ1UFhYTnVTaWJsWTAwa1hnUTJES2luazd3VkJmRDI4OWV4Mm96M2hWMU05TW1fYlREbndKUkJSbFFnSWxEZWxKSU1oV2E3cmNRcGVUcXhPYWRYUHlVWDJhbHIxdEhmeFBsdG96OFlmNUhRazQ?oc=5",
    "date": "2026-09-11",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News..45+ drones uncovered in Iraq’s Al-Anbar"
+   "source": "صوت الإمارات",
+   "title_ko": "Iraq: Restricting Weapons to the State to End Plurality of Security Decision-Making"
   },
   {
    "cat": "정세·보안",
@@ -723,67 +875,27 @@
   },
   {
    "cat": "정세·보안",
-   "title": "‘Trade with Iraq requires unity of command’",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGk4NXFNN2JLNlZuQXM0UGlxZUZkV2E5Q1RreS1TcmVxVUVVb1VhcG8tLWVTbF9NMVE5ZGZ5S09jQTQyMGVSWW92M0Jobk1vOEFOMUJMQ292TEdNVFZvU2lUUDZWcVJ3VkozMl91akxhWHZsSE1sV3M1blVCY3Z2LWt0U0ZNR0l0?oc=5",
-   "date": "2026-09-11",
-   "source": "Tehran Times",
-   "title_ko": "‘이라크와의 교역을 위해서는 단합된 지휘권이 필요합니다.’"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Saudi-Iraq Tensions: A Call for Diplomacy",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGtLbzdhSmp0X2hTTDJ6ZElkMUQwSFRFblVQWGtRTGlxNUJTNy1LVVJCWnlCU2xBVWRPSTc0QTIwYjVHUzNoSi1XM2I5dGh3LUlaa1ZtMElsUkVPUTdsLXZHM21pMGlFZUJPUC1CTEtMOHczVmhZOE10S25PYjd6dGpBYjhpdlJzQXY2TV9SWHBrUjB3dFNua19n0gGfAUFVX3lxTE1ScFc4MEZheVdBR2Y1Y2xyRHR6U3RXRVEtYUNiby05SUMzcHplbTIyMnZlNjkySzR6bW5ZbjNCU0lxcHVBX1pNXzNCd3BGWlctek50R2FBUE1uYUFtT0VWeVR2VE9yN05jbFBRYTZrQlpkMkZaZlhvZlBlc0RrWm10ck0yekFsRy12MXVVaG81aDJna2pMR3dnYXFaNjNXMA?oc=5",
-   "date": "2026-09-11",
-   "source": "Devdiscourse",
-   "title_ko": "Saudi-Iraq Tensions: A Call for Diplomacy"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq to continue disarmament talks with armed groups after September 30 — Asharq Al-Awsat",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3hmNlF5ZkQ5TWpuSEdNdVE3Rm01S0RCWFgzTzRjcV9mS0U4U05nckxXX2Y0djQ2bEJKR3RVb3hvR1o1YVlIVzEzRlVfTHVzSnRSMW5xZnZUVmVPbElKXzc5MFhjRFFoWDNqNzlyZk1EbHFZYXdxclNsQ09kSEN5ZnhxWmJ1UGFQbnFDemdIUzU4Vy1QQzdSUHlSVkpHejZlUHBzaXJTQ2dBNDA1c2J5bFdKU1g?oc=5",
-   "date": "2026-09-11",
-   "source": "UA.NEWS",
-   "title_ko": "이라크, 9월 30일 이후 무장 단체와 군축 협상 계속 — Asharq Al-Awsat"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq removes Maysan operations commander after attacks on Saudi Arabia",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rQ3pMaXBjMTRwRmc2MzJrU1YyLVEtd2hTLXo3RTlxNEVra0VVZi1ReE9zalZKNU1vbWx1WHItc1NPa3M2TzJWWkZzN1Q4Rjl1WDVMMg?oc=5",
-   "date": "2026-09-11",
-   "source": "Saudi Gazette",
-   "title_ko": "Iraq removes Maysan operations commander after attacks on Saudi Arabia"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Sinjar Resistance Units set to disarm",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TRWxReS1qc0pCQ29aN0V2Rzd1MU9iMUVFaWVtdUt3M1RBaE11OWZhUUUweGkxQU5SS21QZVB4YVJ6LUE5RERvREVLRlE3SHNzdzYtOEM0V1JfOS1BOXc4UUo2NGx2OTB5WmpSTVBMZWJDZw?oc=5",
+   "title": "Shafaq News..Iraq condemns Saudi attacks, orders urgent probe",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2Ujhkd0cwLTBuODE2aERZZlYtcGJWMUxlMnJRV2tXaHI1U1kzZG5KUGRHMjhPUHM4TWxkeTRsRmpfOER3bHc3QUdISjZIY2xOSHdobGZDZVBxbjlUQlpPSHhFRjE3eE96UWpMTjZMOFlHZw?oc=5",
    "date": "2026-09-11",
    "source": "شفق نيوز",
-   "title_ko": "Shafaq News..Sinjar Resistance Units set to disarm"
+   "title_ko": "Shafaq News..Iraq condemns Saudi attacks, orders urgent probe"
   },
   {
    "cat": "정세·보안",
-   "title": "Yazidi armed group to hand over weapons to Baghdad, integrate into state forces: PM",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMnpJSU5fMVdJS3NfSVhKM3RvMWE0OXFwdE9xODd0bzh6dTFXLUdfbWo5MDc4MkN3V1JNUFVPYU0xTlhmOGluSVVueDhhVVZqX2plcWkxU1VoRnJOUVE?oc=5",
+   "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tNGxGMjZZUlRmcGdDNzVZRk9sTkRfZE5Tdm0tY2ZCUHFpV2FDX05JZ2daVkVtaExSXzhiZlFhMFExRnBHZUEwRDhheFMzbi1tNlBBbkhrd1k2MDgyYkFwVmlfb2dQMWY3UkZyeVUwYUd6cGZNZFNsNGtiX3ZmRjQ?oc=5",
    "date": "2026-09-11",
-   "source": "Rudaw",
-   "title_ko": "Yazidi armed group to hand over weapons to Baghdad, integrate into state forces: PM"
+   "source": "The Jerusalem Post",
+   "title_ko": "실시간 업데이트: 이스라엘, 이란, 중동의 최신 소식"
   },
   {
    "cat": "정세·보안",
-   "title": "Saudi Arabia says Iraq-launched drones hit pipeline, Baghdad opens probe",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sXzdSUTU3QzRPUjZrd0tIbTBlNktNWmwtaGplci1DQkt5R1JncmVyUF9RVHpLOEVDRkg5RDNHd1NtNzc1bmt6b2tPbVRpMl9SRTY2UEh0dHpXYnBDSTBNTVlKa1NJUQ?oc=5",
+   "title": "Shafaq News..45+ drones uncovered in Iraq’s Al-Anbar",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xay00NnVfblMtSWlMNkRaUDBBX3BFWlNURlNUMmdKU1Q3cldWN0kzN0tMRDFCTzVIMXMzS1UtMDVxcUFzTC14NmF4anU5SUZQOVZ4MXJmRksyMndCNW1HUnJfS2o5VGZXX0dsOF9MTDRlcVc2SmxIVg?oc=5",
    "date": "2026-09-11",
-   "source": "Rudaw",
-   "title_ko": "Saudi Arabia says Iraq-launched drones hit pipeline, Baghdad opens probe"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraqi forces kill two ISIS militants in airstrikes near Kirkuk",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnbFFyWURMMDduREZtRnRqaHJJV3B1SGxkLUZKZUpxNU9sN3FrcldxZ19YeHZWVUM2QVdmMHp4UTA5YTZ2U2l4QnE4MUFvM0ZkV2NPTEdvV19Zd1B4d2tkSTY3Zw?oc=5",
-   "date": "2026-09-11",
-   "source": "Rudaw",
-   "title_ko": "Iraqi forces kill two ISIS militants in airstrikes near Kirkuk"
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News..45+ drones uncovered in Iraq’s Al-Anbar"
   },
   {
    "cat": "종합",
@@ -826,60 +938,12 @@
    "title_ko": "Hormuz 배송 트래픽 한 자릿수, 데이터 표시"
   },
   {
-   "cat": "항만·물류",
-   "title": "Iran strikes ships, expands no-go zone outside Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzRYYTlOdFhEQnA4X2RyblFGTUtDbFR6N0ZKM1hkS1dsWjNDeVdNaU1zaWl0aGEzNkk3M0VVVkxGNWVGRWx3aUhFTE5NQW94RWhKbWV4cWR1dEVrd3ZFSXphRGR5WDYtMVBMaVpDalFRekt0eS1ibkN6My1RQlJJQ1h4cXVac0tWWk1wUVhySkFYOWZrZW9VSjhPbTdPWHlXMUlnaFRn0gGrAUFVX3lxTE1xZVowQkZ2WWRaSy1PU1lZWTg4dTBRR05mZFA5endCcWxibEpwbmpVZFY1V01WX0MyVnFxQzF3eVlFSWdXSHdQSUxhdG5wQml5QTVrTFBORHQ5bG1maEg3Q3N4c0hZVEdfSzNkbXFFUnNlRFJuWEVRMElaLTljMnNEQ255R1RtekZIdUxJM3VXQnZZWWNYaDR5S3JVU005QkJnOE9pT192X09Gcw?oc=5",
-   "date": "2026-09-10",
-   "source": "Inquirer.net",
-   "title_ko": "이란은 선박을 공격하고 호르무즈 해협 외부로 이동 금지 구역을 확장합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil shipments through Strait of Hormuz rise with US military assistance",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSG9fUkYzZ19veEx6UHdROThjOUcyX3hwdGdqd0hic2t1ZUpFbzVFU2Voc3pKY0RraVEtc0p4MUJxcFI0dzFlaWFMbGRVeFV1UFpFTk5IbGZDU0xJbjdWY0JqTkJBSUhXZTR4NEpJSnVEQ0ZxZkx5V0RiSkE4dGN3SVl2Z3d3ZWotNXczMUhaczBtNHZkRC13WloyUWpDWXdOSUJIQ2dkWFRVZw?oc=5",
-   "date": "2026-09-10",
-   "source": "stripes.com",
-   "title_ko": "Oil shipments through Strait of Hormuz rise with US military assistance"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iranian allies captured a strategic Red Sea island in a vital waterway. Here’s what to know",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEhpT3Roakh4QTBSRmE5Q3NsS3hIcS12MWEzMXRhZHRaNjZPRjJuXzJ6T0RtdDJwQnpTWmlWaGlKZjhhWFU5b2RpQ1ZqaVl4clNHeEN6ZFJUc0szOXRXVGhnZkI2MmRjUHNibmRsTVpUald4RHducEhETkpoUzR1RXZWWVFwUVZ5bkdZ?oc=5",
-   "date": "2026-09-10",
-   "source": "CNN",
-   "title_ko": "Iranian allies captured a strategic Red Sea island in a vital waterway. Here’s what to know"
-  },
-  {
-   "cat": "경제·환율",
-   "title": "Shafaq News..Banking without trust: Why Iraqis still keep their money in cash",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWk1YUVWZWpUUTJ1T1U2MzNCQzhMXy1rZHJCSmhUWm0xcDdmdjNseENjYUxpSkFQQkdET3EzRmxzT3dXSFpDd1FIQm15NFF5dEMtdWtvVGlZS1BlNkgtVHJIX044X0U3RmMtNE9XenZZSXByLU5LY2ZWNHIyWXIycjhReXowQ3FUOVF1UlV5cm5VczMxTjZr?oc=5",
-   "date": "2026-09-10",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. 신뢰 없는 은행 업무: 이라크인들이 여전히 현금으로 돈을 보관하는 이유"
-  },
-  {
    "cat": "정세·보안",
    "title": "The End of Saudi Restraint in Iraq",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tbEEyUFU5NGMyakZ3N3d1Zk84YnB4cUs5LTQyVlNSQ2RjTGJhQU9NLUhMRVZZZ2NQM0k1RVFnLWl6UzR5anl3bGw3YXZLanVHRjl3WUdvMG9nMW1SNTQ0Z0Nnam0wbzd4TmNJa01oMTk1a0xfTU1r?oc=5",
    "date": "2026-09-10",
    "source": "Middle East Council on Global Affairs",
    "title_ko": "사우디아라비아의 이라크 봉쇄 종식"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "David Petraeus: George W. Bush, Political Courage, and the Surge in Iraq",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2J1Z0VxSEI1ZGMzNlBtQWJ5RU5BUHNndUUtQmx4YVhMejFJYjFkdGlvN2Vic05vLXY4Tkd5TTNidGZLSVNPbGZoTmljMkZXR2k5cFFpeS1pQmlLUjI2bFc5U1RjUzNlNVVGekhDZWZfeldoWTVZNEYwS3pkYnlMdEhxNlJobW1KUU8tag?oc=5",
-   "date": "2026-09-10",
-   "source": "thefp.com",
-   "title_ko": "데이비드 페트레이우스 (David Petraeus): 조지 W. 부시, 정치적 용기, 이라크의 급증"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "US slaps new sanctions on networks aiding Iran's proxies in Middle East",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2p0aERlM3VXMFFWMkg4ZUtIejRIWDdUNUtlbnkwLWlyTWFBNGMyUzBUVnczaGdsNGIxcjJNT3BIekZrQXhOVEdwY0ZaQ0RZVmE2SW5RWTdLN1F6M01vbXZyMXF1OE9XbHphN1dnRWxwWmNyV2V2WDg3dGVOTDR3TXd5dDFwcEl6X2pxd05LRmc4d2NkUzFMS3piTFg1eWppdW8xNWNHd0VYZ3EwOFM4a19SMmNkeE9TZlE?oc=5",
-   "date": "2026-09-10",
-   "source": "Reuters",
-   "title_ko": "미국은 중동에서 이란의 대리인을 돕는 네트워크에 새로운 제재를 가한다."
   },
   {
    "cat": "정세·보안",
@@ -891,83 +955,19 @@
   },
   {
    "cat": "정세·보안",
+   "title": "David Petraeus: George W. Bush, Political Courage, and the Surge in Iraq",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2J1Z0VxSEI1ZGMzNlBtQWJ5RU5BUHNndUUtQmx4YVhMejFJYjFkdGlvN2Vic05vLXY4Tkd5TTNidGZLSVNPbGZoTmljMkZXR2k5cFFpeS1pQmlLUjI2bFc5U1RjUzNlNVVGekhDZWZfeldoWTVZNEYwS3pkYnlMdEhxNlJobW1KUU8tag?oc=5",
+   "date": "2026-09-10",
+   "source": "The Free Press",
+   "title_ko": "데이비드 페트레이우스 (David Petraeus): 조지 W. 부시, 정치적 용기, 이라크의 급증"
+  },
+  {
+   "cat": "정세·보안",
    "title": "Türkiye, Iraq discuss security and economic cooperation in Ankara",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OQnBaMm5jcnJramt3MU4xSEtuOFNSbWJIdngxdEhBaDhRZFFCSDlVeEtTamRZNTNxX3lOOERadE5GSXFOVUpVdDc0QXRZQ013M2UtSFZGelI?oc=5",
    "date": "2026-09-10",
    "source": "TRT World",
    "title_ko": "이라크 튀르키예, 앙카라에서 안보 및 경제 협력 논의"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "US targets Iran-linked networks as sanctions campaign expands",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yNWF6WUp1SXlKMU4wOEswckd3bGVjWWFCTXlmbERZdmhyYmFGd2VLdmROOUNYejVpZTZTT3dCZzF6eDE0emxBQlZ1THNtSXN0M0E?oc=5",
-   "date": "2026-09-10",
-   "source": "iranintl.com",
-   "title_ko": "미국은 제재 캠페인이 확대됨에 따라 이란과 연계된 네트워크를 표적으로 삼고 있습니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..US sanctions 11 Iraqi targets over Iran links",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNG9ITWlzUEthYUJkS1k4czNPOTN2M1Q5QmFJVjBBLWc1SlhfRkUxRVFwX1Jpc05qT09WQzJHVExPa0J4VGVBTXRUcU9MYUthNkhDWGl0czdOakRrdDZQcm1PV2JWVGpJM0ZrcHZwRU1RcFdTQmxyMUZ4eUQ?oc=5",
-   "date": "2026-09-10",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. 미국의 제재 11 이란에 대한 이라크의 목표 링크"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "US-led coalition taking ‘serious steps’ toward Kurdistan Region withdrawal: Minister",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaaHRSX2pUczdTdmlKSTRTWl91YUo5U1VLOXhiVk1NV1FoelFVbklON3NHTXdfM0NyNFFRdDQwVzYwVkVyTzU3clBVYw?oc=5",
-   "date": "2026-09-10",
-   "source": "The New Region",
-   "title_ko": "쿠르드 지역 철수를 향해 ‘심각한 조치’ 를 취하는 미국 주도의 연합: 장관"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Explosions heard near US base at Erbil airport in Iraq",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSktnR0FWeTFCOWhsbXJ0ZlA1YkRCOE5xTHFfQUtQTUh5bUI1MUFGdE1zMjBhNWN6eThsY2RjdVVhc0hnWVVDTlZBOTk3VWh4VDQ5dndCVGdsRHZxVmFoNWVfc1F3YllnRDRQVExWb0tudGo3NU54LVpfbkN2MU1vdHJMcUgtR21CT1luTmF3?oc=5",
-   "date": "2026-09-10",
-   "source": "Yeni Safak English",
-   "title_ko": "이라크 에르빌 공항의 미군 기지 근처에서 들리는 폭발음"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Kuwait hosts Iraq-US talks",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeUdjUGZtRGdwbGlIbWh6NEpaTDVxRUNSaHc0eFdOMkZTeUZpQkJWV2ZLU0xoYnlBQnJ1eXlPS0NwNE0zSGpHT0owbmttWUxvclBzOW5kQUlsTFhDUnlpVHdFRmVkMTNYLW16d0lScEZSdXl6Qkx5QjlveWdjS29qRDAtMUc3SXZGa3c00gGPAUFVX3lxTE9ySjJLTHhNVUpzWmVOZ1pKaHc4OTJ1RFpBLTJZamxOMWE2aTNuTERtemo3ZDJIQWgzQ0pnSmVoaXBhaVhFMVZucXV0RDZLakFVdThlUEtPSUxYdHExZlRGNzVCSFFQaXlPYjFhekM0U3FhQTBkcHBXSVVCb0FkaGhmRUZFYWRQaVliMTNfdjJv?oc=5",
-   "date": "2026-09-10",
-   "source": "Kuwait Times",
-   "title_ko": "쿠웨이트, 이라크-미국 간 회담 개최"
-  },
-  {
-   "cat": "종합",
-   "title": "Transit Cable Deal Links Gulf to Europe via Iraq",
-   "url": "https://www.iraq-businessnews.com/2026/09/11/transit-cable-deal-links-gulf-to-europe-via-iraq/",
-   "date": "2026-09-10",
-   "source": "iraq-businessnews.com",
-   "title_ko": "Transit Cable Deal Links Gulf to Europe via Iraq"
-  },
-  {
-   "cat": "종합",
-   "title": "Water Deal with Turkey to Include Oil Exports up to 33,000 bpd",
-   "url": "https://www.iraq-businessnews.com/2026/09/11/water-deal-with-turkey-to-include-oil-exports-up-to-33000-bpd/",
-   "date": "2026-09-10",
-   "source": "iraq-businessnews.com",
-   "title_ko": "Water Deal with Turkey to Include Oil Exports up to 33,000 bpd"
-  },
-  {
-   "cat": "종합",
-   "title": "Baghdad Film Institute Signs Deal with Qatari Studio",
-   "url": "https://www.iraq-businessnews.com/2026/09/11/baghdad-film-institute-signs-deal-with-qatari-studio/",
-   "date": "2026-09-10",
-   "source": "iraq-businessnews.com",
-   "title_ko": "Baghdad Film Institute Signs Deal with Qatari Studio"
-  },
-  {
-   "cat": "종합",
-   "title": "Meeting Between Iraqi Ambassador and IBBC MD",
-   "url": "https://www.iraq-businessnews.com/2026/09/11/meeting-between-iraqi-ambassador-and-ibbc-md/",
-   "date": "2026-09-10",
-   "source": "iraq-businessnews.com",
-   "title_ko": "Meeting Between Iraqi Ambassador and IBBC MD"
   }
  ]
 }
