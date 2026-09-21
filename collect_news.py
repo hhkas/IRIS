@@ -236,7 +236,7 @@ def main():
         seen.add(k)
         uniq.append(it)
 
-    # 최근 30일 이내만, 날짜 내림차순
+    # 최근 30일 이내만
     today = datetime.date.today()
     def keep(it):
         if not it['date']:
@@ -246,8 +246,22 @@ def main():
         except ValueError:
             return True
     uniq = [i for i in uniq if keep(i)]
-    uniq.sort(key=lambda x: x['date'] or '0000-00-00', reverse=True)
-    uniq = uniq[:120]
+
+    # 카테고리별 최대 건수 제한 (다건 카테고리가 소건 카테고리를 밀어내는 것 방지)
+    # 항만·물류/정세·보안처럼 기사량이 많은 카테고리가 최종 120건을 독식하면
+    # 자재·건설/투자·면세/에너지·전력처럼 기사량이 적은 카테고리는 0건이 되어버린다.
+    PER_CAT_CAP = 15
+    by_cat = {}
+    for it in uniq:
+        by_cat.setdefault(it['cat'], []).append(it)
+    capped = []
+    for cat, lst in by_cat.items():
+        lst.sort(key=lambda x: x['date'] or '0000-00-00', reverse=True)
+        capped += lst[:PER_CAT_CAP]
+
+    # 날짜 내림차순으로 최종 정렬 후 전체 상한 적용
+    capped.sort(key=lambda x: x['date'] or '0000-00-00', reverse=True)
+    uniq = capped[:120]
 
     # 한글 번역 (실패해도 수집 결과는 반드시 저장)
     try:
