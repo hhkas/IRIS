@@ -1,117 +1,301 @@
 {
- "updated": "2026-09-25 08:41 UTC",
+ "updated": "2026-09-26 08:27 UTC",
  "count": 76,
  "errors": [],
  "translated": {
-  "new": 50,
-  "chars": 3328,
+  "new": 39,
+  "chars": 2465,
   "stopped": "",
   "mode": "anonymous"
  },
  "items": [
   {
    "cat": "항만·물류",
-   "title": "Shafaq News..Shipping traffic through Strait of Hormuz falls again",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1VWMW03ZkV6MzZkUHF5RlJ1ZDhkcTIzT0Vpa1FmZjZlWjBiN3ZqcGJBRl9tMEtjVUJESTF3eG1NUkpUQlppU2tFclI4bDlvSERJZ1RfUXNXckVnanNrcXZObS1KaXo4VGtvWjF5cFh0R2dJYnAtNnJucHVEajZpeERheEdDNVlS?oc=5",
-   "date": "2026-09-25",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. 호르무즈 해협을 통한 운송 트래픽이 다시 떨어집니다."
+   "title": "Trump reportedly rejects Iran’s 7-day plan to reopen Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNW9YdEtZcG9ReWVxNnR0Y2dFM200Zi1QSjVLOTVWWjhTbWZBS25ONzBZSy1qOHdsOHpPZG9UUGp6blRpOUVkY1B2M2EyYUVIaUwtazRtNWJObzc0WHBfZXJESEFDQ2U1TTV3cmU1VWlGOERFZDd5Z2pqc3F2bEpCVDMxTkV0Nml2djdyUjR5MVZLTkNrVjFQNWQ4VENGZXloVUZTb3JUTHc4U1JPcnppd3VnaU5iQnl3M3c?oc=5",
+   "date": "2026-09-26",
+   "source": "France 24",
+   "title_ko": "트럼프 대통령은 7일 이란의 호르무즈 해협 재개 계획을 거부한 것으로 알려졌다."
   },
   {
    "cat": "항만·물류",
-   "title": "Crude oil exports via Hormuz at 33.7 million barrels this week, data shows",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXFDTzBxRUNwS0tCV0ZKaDI2Wm5RRXdCLVBYLW12YVdIeDZCX09tV3RKcEhHQ0xEM0JVMXZ1UWpiVW9wMDlkU2Y0b2ozbmZyX1I4RHhyUWphREs3NDFhaTJhcTRTbFRiY2lTV0RVMEo3RlM4X2pBRlB2Y1AtSENKSGs1VUNKZXJTSnVfLUZWMjdYZTgzOTdMenZ1bFhjejRoQXBYUWowN05OeWZ4ZGloS09GLU1aTFZtSE51Qk9hVTBlX2VwSUE?oc=5",
-   "date": "2026-09-25",
-   "source": "reuters.com",
-   "title_ko": "데이터에 따르면 이번 주 호르무즈를 통한 원유 수출은 3,370만 배럴로"
+   "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45Z0pMeUNRaTNfWUlMQmJEWE1mcW04c09tZERDRTR0aFRicWJ0b1pLczlhQ2lYMGZDTFlBMXMya3ZrOHdwcmRqTk5PQzZiODFFNndGTm1iT1NBc1U?oc=5",
+   "date": "2026-09-26",
+   "source": "bbc.com",
+   "title_ko": "이란은 7일 안에 호르무즈 해협을 재개하겠다는 미국 제안"
   },
   {
    "cat": "항만·물류",
-   "title": "Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnM1c0Z0QTV6OGk4SHFpVFo0SzhUU0ZkWF90VUJ3clpmVTNOWHVrVENzM09WalZmRGZ2azZTaUVOdDFWQ29xQWtIOU5vS0FsWDRoWUdzSEE2eTVFVTFCOFcyVjhuVlpBUEVUSzlwNHl0WEJnblFFb1ZRUmpPYWpnems0ZDJPY0NOVmhCNkVfR3pESDZ0SUx3emI5ME5PQy1SRHZ6RTA3R0tfcVp0a1hCQzRQdzRVd2RWR3Vz?oc=5",
-   "date": "2026-09-25",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "title_ko": "위기가 심화됨에 따라 호르무즈 유조선이 한 자릿수로 추락"
+   "title": "Iran Says It Offered the US a New Proposal to Open the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFltT1ptTDJVeEppV3dMTFh4bWF1Y0E0RExYOGszc19HM1NuamNUaWJsR2N5RFQxeEt5ZWhMRTI5LWJFYVlpaG9ZQXRab2RLWFY3UDdjbmpuU3p2bXVQVXBSeFdBTGxqX2ZONFpJaTJTX0JVTkIydmFoM3MwQXNxUEFBelB6NFlvSkNwZmgzcVFIT2xaMFEyUUNRcC10YWMzVGtBZmJpanhPUGVMcFdz?oc=5",
+   "date": "2026-09-26",
+   "source": "The Maritime Executive",
+   "title_ko": "이란은 미국에 호르무즈 해협 개방을 위한 새로운 제안을 제안했다고 밝혔습니다."
   },
   {
    "cat": "항만·물류",
-   "title": "Gulf of Oman ship-to-ship oil transfers reach limit as Saudi exports surge",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1ZsVjdXUnd0YTMwaFNYdmNKNUlGMXM0akkyMFpHN2N1MHdlOVR6RU1vVDVxaFAxSnBseFJha3dSVVF1U0d4RmpwSWozQlBVXy04Um1RekxfMHhDbEc1cF9kOWNTeXNWVkwxOXRjVGxLT2dMM3lTUzdmUmhraXh0a2V6c3RVVXNFdGlsY1hpamxXTEJvMmVDQldBeVlWOVl4QW9Wd3ZLZlMxQ1FjTnlFazRzYTEwUWkyRENtRA?oc=5",
-   "date": "2026-09-25",
-   "source": "reuters.com",
-   "title_ko": "사우디 수출이 급증함에 따라 오만만 선박-선박 간 석유 운송이 한계에 도달했습니다."
+   "title": "Hormuz Tanker Transits Fall to Single Digits as Shipping Costs Surge",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeV95TUlaaHJ2NklraXhwNDVrenJWVU5hSGttRkJrUjJmcmdFeE5KU3dLRnp3d0ppdlBkVjNSb0xPOTBvNURIaEUwQXBzMmxKSGtQUGdBSW1yTGVPQ1BkUHV2MGIwb1pSWHYteTRuY290ZFNFczhpbFlxQTFVMjY3SFRqeC1OUG5PcC0xT0x1bGo3bkw5bnJ4Yk4yYzlhRGtWRHc?oc=5",
+   "date": "2026-09-26",
+   "source": "Global Trade Magazine",
+   "title_ko": "호르무즈 유조선 운송은 배송비가 급증함에 따라 한 자릿수로 떨어집니다."
   },
   {
    "cat": "항만·물류",
-   "title": "Saudi Arabia, UAE urge Trump to maintain pressure on Iran - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFc1o3czBLMHpZRl9SM0hUMzEwUEJIOUxzX3U0eHVKX01abzRrMUlKblVZazlDS2NIRFNTVDhCOXg5S3dLUWdhVzhLWEdhNVRPOEE?oc=5",
-   "date": "2026-09-25",
+   "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTllIc2pWOEk1SEpnQVJFMFdrNDhTMW5vTk8tdjFaamZwa1lSaHRJVnljcGdmVmxnQlhRNWV5cW16V2NLX25zLWYxS1FmTndBU2wwckN6dTMzTUFpMm40TEJfR2tLM0I5VVhKeUhIcHhQaW5sbGZuNEVmZC1oOGVNT0ZUR2YtazBxLUZfV2JxZl9KbGs5UnRqQlFaNA?oc=5",
+   "date": "2026-09-26",
+   "source": "WKZO",
+   "title_ko": "WSJ 보고서에 따르면 트럼프가 평화 계획을 거부 한 후 이란은 미국의 움직임을 기다리고있다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Live - Trump rejected Iran Hormuz plan, expects strikes after midterms",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00SFhOZE1Ianp1LU5DX1dHamFfQ3k3dFptZGNNdHFSSkRvT29nQ0IzMm4zYllYWW5yUm5ES05KM2otN19XMERhZ0l0d1FyR3VyM2QxWE01WDhYWEdEX2c?oc=5",
+   "date": "2026-09-26",
    "source": "Iran International",
-   "title_ko": "사우디아라비아, UAE, 트럼프에게 이란에 대한 압박 유지 촉구 - WSJ"
+   "title_ko": "라이브 - 트럼프가 이란의 호르무즈 계획을 거부했고, 중간고사 이후 파업이 예상됨"
   },
   {
    "cat": "항만·물류",
-   "title": "Middle Eastern maritime chokepoints: no windfall for Southern Africa",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWdqVS1ZaGNpM3hvZWgyV2tRUFFUTFNNNU50OXlCSEU0MkNPTFVuMm85Tnh4d1ZBOEwyT0RVRjUyOEUxeDdNUjBmUHdPa0Mwdmo4TlV1U3JkczVIUFlMVXduZkM3bC1INTdhd2xKeko4YkRQVGdQVkVoRExlejFVZ0lqODlIWnotOVBQeHpRcE0xZFZwUHR3VHlTY1RSOGVf?oc=5",
-   "date": "2026-09-25",
-   "source": "ISS Africa",
-   "title_ko": "중동 해상 초크포인트: 남부 아프리카의 횡단보도 없음"
+   "title": "Iran Sends US Seven-Day Plan to Reopen Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84a1lFLU1OYldqUVFDbHpfYTJzUk9CMFJmalZpbmdYdW9jUjhsWENycGxUUVhzNi0yN3BtNjlSdm11NXM0UGpTQzRiS1h1UEF4M19lR0h5b19UQ2YzLTEw?oc=5",
+   "date": "2026-09-26",
+   "source": "Межа. Новини України.",
+   "title_ko": "이란, 미국에 호르무즈 해협 재개 계획 7일 발송"
   },
   {
    "cat": "항만·물류",
-   "title": "Revival of Safe Shipping in Hormuz Requires End to US Actions: Araqchi",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPckRmakRkVTJaT3dacVUzd2NiaUJpZDRrTldKblI4N3BVTWR0cU1MQVd4UWVudjN4U1EwUldTam5GUExXcFctTElmWGxkS2RuLXNwdk1nV0NBU3lTWlR6b2RXSkFXNndzMFhrMjB4UDdycXJjamREU2k1RTZoa0tPUGFUQ3BaNW00TVFYZ1dHV1NRa1drM0RDOEZoOU9yTGZDYy1sWEpvTDktLTVUU2hBSjc5UWYxZXVfWWxPcURKa9IBxAFBVV95cUxPLVZBMHRfeE1KNnV4MkxzLU1xSmpETDkwdHU2V2g5eC0yQnE0cnFSSmhLZnRIakNjTVplVWZ5S0dzM1VRRktGN0NkbjR0OVI5OVFRVDZhUzlxN0h1ajNadXpkZGZxVmQ4aE9iVC1zY2Zpb1FtVEw2M1Y1Q3poTTVDdmhxVWQtX2ltcTQ4cmZtaFNpemFBSHRRb2p5U0ExVVZ0M0xmZUF3Tk1pZzgxZHZZaFFPVXBwSEMyR2dIZUVIcXk2cUVL?oc=5",
-   "date": "2026-09-25",
-   "source": "تسنیم",
-   "title_ko": "호르무즈에서 안전한 배송의 부활은 미국의 조치가 필요합니다: 아라크치"
+   "title": "‘Trump Strait’: US President shares new map of Hormuz after rejecting 7-day ceasefire offer",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQektELU1XY2RlTVNGUXliR2VGRE0yQjF0QVpTNWowN0NHRUxzck9IU2lKMEQ3OXJwSl90UUcxWjVEMkFCaXRrRWM2Q2N2bG1ubkV1cE84bTlPZWdScFVhZDZiRWhGSkVuUFVwS08yX3ZSSFFCeXpiSXhvYTdkTnpfN18yYjZPaEl0T19wMHpmZTYzeFJHYktWTXVtQ2Q4RFdmN3plQlpTNVhDVWZONHI3YWRPSWZwX3FScWJIU1NIcjhuVVhVa1pCLW1jWVIxdUFFQUVzVjFSSnRGVmhTN0FndHNlcVF2RklEeFFvUnY2WELSAfYBQVVfeXFMUE1oSU1QSzdSTFZySFNEWGl2VS1zbTBKQVhSQTRmeV85cExqTDZqMDJqV1JvakVzcHlQdm5mWUtqM1d1a3FOQTFaaHpUMFdJR1ZwclVpeDR6MWpRRHVtV0JRdHhYQVFYNlF2LWV6cEdDbmdZWUVadnVoZk9PM3FTOFlDOTJzMFpjVjZpYWtUUGFSTWQ5bVF4NXJtV2hHejl1dFMxLW4zTENkV3AtT2F2NUZ6aUd0Z01MN3dLS0pXT0NKVW9WWlUzYVhXYVpWM211bDFJQWZCc1VGRTAzTWU3ZUNJS0ZBcEo0Rmp2RDFNQmFTaFliejRB?oc=5",
+   "date": "2026-09-26",
+   "source": "The Times of India",
+   "title_ko": "‘트럼프 해협’: 미국 대통령이 7일간의 휴전 제안을 거부한 후 새로운 호르무즈 지도를 공유합니다."
   },
   {
    "cat": "항만·물류",
-   "title": "80 countries condemn Iranian attacks on neighboring countries at UN",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjZrQVo4ZW9ublZ4MV9icHA3QnBxUjFnNUdMZE9XU3B6SGFpeDRHYlJfV2piNjUxcy1VUlV4Y0dNNXBrTHVGMWVhZjJscEZicFF3OG1VWlBhZll0TE82X2hYUGN6S2ljMUo2RDRLaHJsam1EM2lrbGFLSHNmZWZaQUhlZGFCZnhTZDZ5RnNNLU54VDJHTzRLVWlrMU9fTmJSdU1GNjktQ0xTZmdyZnBBRjdpNVU?oc=5",
-   "date": "2026-09-25",
-   "source": "arabnews.jp",
-   "title_ko": "유엔에서 이웃 국가들에 대한 이란의 공격을 규탄하는 80개국"
+   "title": "Iran Briefs India on Hormuz Strait Talks",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjNrUjVNQUZSaVYtRE9rcUN4U21xMVRNeHg5RFgxREJhRjdBbVF2X0JHYkZyWWh5YXZpVnpCU2Jld29iR0NPWS1WODRkNnhPaWFjNVJrV3g5MXo2cmxsSUJwM01JaGpiOXhTcTdUTFMtSTJQWDZzS2lTWWtmUHUySkVSNG5uZXNPeFZjUFpPOUpWNnpQdlE0RtIBngFBVV95cUxOaW9rcFhSZmNEZWhCeU05WXdlQ1lQckFFdHlvVXk0T3VNRzMwWndHQ1B1eHlnZjVIMk1well0cldzTjZKTEZ2M243OUNLRTYyTFkzMnJBWlRCck4wdHNpX2NVYVd3cWR1Y0ZMMFhzazFQM0YtQmRtUUlYV0UtOF9QZTIxcU9QSWJaa0dtcUx6YlROX2F1SzFaVGIwYkxpZw?oc=5",
+   "date": "2026-09-26",
+   "source": "tasnimnews.ir",
+   "title_ko": "이란, 호르무즈 해협 회담에서 인도에 브리핑"
   },
   {
    "cat": "항만·물류",
-   "title": "Iran hardens Strait of Hormuz stance as New York diplomacy struggles for breakthrough",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXU3UzVlTmRxNEUyRHo4NzR5YndERjJtTERydTluMGNuU24tVnBDVFl3SVAxWlVDbDlvV0Y5c1RxYjJNRkZEVGZ4SFhfVmJYTE5lT1VCb0ZZYllrMm1tb180MVc1d1ZmS3Y3WVdqS2xtaU5JYWEwd3cycEk4cEhaNzRpVWFuUC1VdzJWaUZnd3c5dkkzNUt2UF9ad2FDZ0czSWJJcGlkdmctanUweHEtcmg2ak5SeW0tU29SaFFPbzlSNTRzQU52Xw?oc=5",
-   "date": "2026-09-25",
+   "title": "Tony Blair: Europe must step up to help reopen the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFlfNnB1eE5CYzJWSkhrLW4yWEh0NDE1eWt1bThBNEdLXzYxRDNZV1JpUnl0cGZVQlZkRmlab2pINDdQY0JQUHBzWjNreXdKQWF3cHdRdmdMdENEVHc3eDc2Vk01SXhQeVdfYmI3bTh3TzRoS1RuWk9vSzJFbk5wS04zRk1ieGM3ZGtzNEZfVQ?oc=5",
+   "date": "2026-09-26",
+   "source": "The Times",
+   "title_ko": "토니 블레어: 호르무즈 해협 재개를 위해 유럽이 나서야 합니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Bahrain rejects permit, fee regime for Strait of Hormuz passage",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWZfdkk3Nk5hN2pCaDdhOW83QUZzajUtUWx2b04yR180U3NzLXhmTFFqclI1enp0enVhU0dOeTdQeXc4WngwcVFPOWdTV1BGcExUWmdUQjdwb0NaRGRpQTUwSE00ODcyOXRvdE1TU2NiWnBINHVRTUdhaVhhaUxtbEJIcWI4Sm9qOWtnRFFnTFVYeG85bkJHTWszU09mUnY0eXhjQUZZZFlqQ1E?oc=5",
+   "date": "2026-09-26",
+   "source": "Anadolu Ajansı",
+   "title_ko": "바레인은 호르무즈 해협 통과에 대한 허가, 수수료 체제를 거부합니다"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Omani, Iranian foreign ministers discuss Strait of Hormuz shipping",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM19HZlN3UHd3SnFrcVpwNjByRGp0SXJOSVlfeXdvWUNacjFvLVV3RkNONXc0Z3pTdms5Q19zNFVaT1k4QUtBTy1GUzB0WjFwQkVjYTJJQ01yeDRma0VBdUF6dHh5Y1ZnQjlVQ0JnT3BVWU5Cdl8wWUdUQllWSUUxLWkxel9janJtcG9tSzdsbjlFZ0EzQVhN?oc=5",
+   "date": "2026-09-26",
+   "source": "Caliber.Az",
+   "title_ko": "이란 오만 외무장관, 호르무즈 해협 해운에 대해 논의"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Oil Stocks Retail Investors Are Watching As Strait Of Hormuz Risk Returns",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUm5sYmZfd3hNMTROLXlLcm9mNHFYb3VuUzlHOUdXWjNvbUFWYld4SV8teGdSOEliRVRTd0dFVlF1OC1ubU9STV9QNnRtVDA2SjZramV0cTJqQkZ4dmE1ZDlsT1ljM0V6cmF5c3ktelFvX3l6NnhlNVJXSjVtOUxGSkRFejlscjVxRElOTUVNajN1UGh2akExQ29EMWJtYjdSZ1FmdnRad0JaYXFSYlpLUFZrOTg0UGhncWYxMUthaHFpVnVLYUZ2VUFn0gHPAUFVX3lxTE9PQVJqRUpnT3UxeTR2ZWJHS1pMSzVyZlZlMDlaOUtpaUxnSlJNOEtfcS1hVVBIT3VOeThpei1HUTVpaEZJMi1USzlCdzBndGJjdzB1WGxyM2JMRWRVWU41bUlPbDFpV0NvOGdSek5sZlFIaTBnc1JIRVczZ2Q3dWxtdjR4UF9PTnh4TzJqbWVKLXZsX1JLWXlWNDFBMjZJQmJucmpOd05LUC1BWllHSXRBcDA4bXdiT2pXc3h3YU4zckpJeDVqa3FNOWh1ZS1zaw?oc=5",
+   "date": "2026-09-26",
+   "source": "simplywall.st",
+   "title_ko": "석유 주식 소매 투자자들이 호르무즈 해협의 위험 수익을 지켜보고 있습니다"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran proposes deal with US to reopen Strait of Hormuz within a week",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTREMTl2c29FT2Y3NXJrdUp6UlFKejBNVkE2SnpGNkFLWERrQmdma0VNUUloV010SHJ3QWtiQWhWZkRkQi1CVmwyaHdrQjVoMlRoQTFmZnYyZVNzVElzbU5IUldoaUVvN24wYUlMSXRneldzX0pFNWtxOVNFcWNVUUxqc3diLU0wYWRZRGRQRzNoREN4Ty15Smk2c2RiQlljQ2lwb1NwNmVzbGpWX0w5Nldadw?oc=5",
+   "date": "2026-09-26",
+   "source": "SBS",
+   "title_ko": "이란은 1주일 안에 호르무즈 해협을 재개하겠다는 미국과의 협상을 제안한다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran proposes plan to reopen Strait of Hormuz within seven days",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWJWNGY5ZjEyZThtSlNybHR3b2xYcC04eWZtTFczOC00YnptbzE1UWVWc0IxWklKWGJ6T1QxLU1uNURNZVQwaTRGdktFREJmbEZEX3lMOWtETDJlUnc3OHpheDZSa09weTNnODIwNFZuLVdISnJwYlV3bWQ1UnRjZ3g4R2FlVjRjTmk4cldtSVhqTnhQTnJvZ2lCeU01ejBQLUFWNmFGZlU3a1lRWGF2N3BFQ0dmY21aQjk1cg?oc=5",
+   "date": "2026-09-26",
+   "source": "NZ Herald",
+   "title_ko": "이란, 7일 이내에 호르무즈 해협 재개 계획 제안"
+  },
+  {
+   "cat": "경제·환율",
+   "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVVhxMGJ0YUNGaW9FdmNIeDQzYllNZm9Mdi1DREhRNVdWQ3IyYUdObWdoWHFZMi1MRDVTLTBxY1dSdldIcV93NWlKeTFkT040UTA3TmllRTRCUzJFUHI3MjhBSHNKQkVzanQtWW1BRTVqYldqQjhwMnRyR2xKMjZzLTdDcmd5cFVoUURKVV9IaFBuTmdkbURvMDZPTUdQaGdnUXI4RERfWGM3eFpPSFHSAbMBQVVfeXFMTzgxM3VvTmJ4QlhOSmlSRlI5WVEyOXhmdkNQOV9kN2g1SkJMN0w1LVBVOVl3UVM0VG93NU94NEprbjlwTTlmVDFIVlhqVkNvVHpfS1VNWHkxdjNfUmI1VVNMNVN0WHNoNHF4MWVoT0VrakV3SG1oMnNmZDZDV0pMbzM5d01rLWpfOHA3aExUQ183YWFzLXJvMkRaT2wxUjREZzBrNFFpWHl5ODc5WFNpdGlNZWM?oc=5",
+   "date": "2026-09-26",
+   "source": "aljazeera.com",
+   "title_ko": "이란 전쟁은 석유 수입이 감소하고 가격이 상승함에 따라 이라크 경제를 압박합니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iran fumes as US sanctions stop flights to holy city in Iraq",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVBFenJZZk5rbVAzdllISEtfeldGVjZ1djBMZmNJN1ZSSmpOVWxmQVdSakRCYnRyWDA0TWdBT0VrWldfeGtWY3JVekQ4RFdURXJjaVBQNHhvUHRBa3F2d1hfWjRDSlZ6QmJ5LUNMMHdUWFNvWmxPeUhTNVJwV0htREU1M05ZNlNncnNsVHpiTjdSeGQ2dG0tOWs4TG1lbUQxTldnaURlNVRqVnZIdkRQbVN3?oc=5",
+   "date": "2026-09-26",
    "source": "thenationalnews.com",
-   "title_ko": "이란은 뉴욕 외교가 돌파구를 찾기 위해 고군분투하면서 호르무즈 해협의 입장을 굳힌다."
+   "title_ko": "미국의 제재로 이란의 매연으로 이라크의 신성한 도시로의 비행이 중단됨"
   },
   {
-   "cat": "항만·물류",
-   "title": "Eighty countries call for restoration of maritime navigation in Arabian Gulf",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb0hndC03YjR5MUZtVkpYVkpkUWF0WHRsNjhjVkcyaHRZYkljemJzVHF1N3RTYkpOaXRvNUFxRVFudkVWbm0xeTd0N3R3QTQ0bDN4R0RnWTlHUS1ySU1xd25tSVZxRWJ6VzVUb1VMamhGNUt2NTNkVXNSck9XRExEa082R081V0k0ZWoyR0FFRC14cVM5SlZkOGtWNnNfdG5fWElJLWZmbXRISzhNYXN0QzExSGE3QU5zTHpPSV9nZllLWWYxcUNn?oc=5",
-   "date": "2026-09-25",
-   "source": "thenationalnews.com",
-   "title_ko": "80개국, 아라비아만 해상 항법 복원 촉구"
+   "cat": "정세·보안",
+   "title": "Iraq seeks US sanctions exemption for Iranian airline flights — The National",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcG92SDJGenRLZmFnUEVjbm5hanhubGZoV1ZaSldwbDhWRjVVY3RrdlhoZThFOWotWGlqaXVpYmgxR1dseG5GYW9QZkUyZGlUVDMwTm9PNzgwYVBxN0pYRjFhNU4xNzQ2RXVSeDBVNEpFelJRb3d6NEx0cWdLYlE4ZzR0OVh2bEo1N0RDbGVjNmFWR0tEVEFwV2MxZ09MbGFYOHZlNVJ0bFF4d3ZJMUxqYg?oc=5",
+   "date": "2026-09-26",
+   "source": "UA.NEWS",
+   "title_ko": "이라크, 이란 항공 항공편에 대한 미국 제재 면제 요청 — The National"
   },
   {
-   "cat": "항만·물류",
-   "title": "Miliband presses Iran on threats, cyber activity and Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wUjlDTWRqUndpaklwZ2FETDRNUHA0SFdpVkVMb3NYaDR4WUlYTFZRdTllcGxSQ1ZUWDViYU1JR1Bhd2pTbldlNHo0Vm5VMGV6WXlxaENlWVZ1aVhlZTM0?oc=5",
-   "date": "2026-09-25",
-   "source": "The Jerusalem Post",
-   "title_ko": "밀리밴드, 이란에 위협, 사이버 활동 및 호르무즈 해협 압박"
+   "cat": "정세·보안",
+   "title": "Iraq seeks US sanctions exemption for Iranian flights",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBId3VWVy1mVElhQWgtNHFGUmZ4a0tkbk5KTTdUb19XMHltam1YaVlrWmx4RzVQOWx6elVCLUQwcC0ycnNBeUFCV1ZCQ3M3dThjLTM5Y0JmU0txRGZVdFFXcmMxSnJhTnJfMnJHU3BHeE82enM4SnEzNFU4TEQ3QWs?oc=5",
+   "date": "2026-09-26",
+   "source": "Latest news from Azerbaijan",
+   "title_ko": "이라크, 이란 항공편에 대한 미국 제재 면제 요청"
   },
   {
-   "cat": "항만·물류",
-   "title": "Just nine ships cross Hormuz as Cyprus joins UN pressure",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjNLb1k5dU9vN2VJT2E5WDlaZmFvdDFRbU1sendGRUtMSGl1SEdPbmhPeU5aNHB6b2dBNDRrei1peF9POHh5S01BbE9pcHZwRXlEa05MU0QxVUZlc3N3a2JJZXl4SEtSY21fRnZXMHJDSDJtTXEycnJpblZmSHl0YnhGWFl4cWpGU2Z0bXN5bGhlMnFWaGc?oc=5",
-   "date": "2026-09-25",
-   "source": "Cyprus Mail",
-   "title_ko": "키프로스가 유엔의 압력에 합류함에 따라 9척의 배가 호르무즈를 건넌다."
+   "cat": "정세·보안",
+   "title": "Iraq seeks US exemptions from Iran airline sanctions",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzJTU0VsTVVQdXlzYVN0N2s1VGcxdk1ZbEdHNGE0cWlSTmhyc2JCbllScmdxOW43WnRfSHVIQjBFMzdfQlhvWXZnTWdCUWVBbWl0aTZPcFJ2UDBZUEZxZWYtczBXY3MxWWpwVV9jYjJWV0x5cDNFMHhLT0l4b3M5RnBVR0t1Q0JFcnpYN1ByVEdBSzNNdURQdlcyeHo0Zw?oc=5",
+   "date": "2026-09-26",
+   "source": "Breakingthenews.net",
+   "title_ko": "이라크는 미국이 이란 항공사 제재를 면제받기를 원합니다."
   },
   {
-   "cat": "항만·물류",
-   "title": "Hormuz commodity ship transits fall to nine, ship tracking data shows",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekhrVFFUVDN2VzVZZXlrOVdrVm5kS3I0dEpYZTNxdTE1RnVEdW9aSlloU3lLRFp3RTZSb092RE8yOUtmYmQ5V0RoaUhwZk03TU9YTGROV1cyOG5MNDU1Z3pJZzFmcXU2UzlsZElaclcybm1wMzlzUW45c2tLNFVEbTZZNVhsTk96T29leEhEOU5Fa0N0YkIxWmhJaW81M1hvZ1J0dVhMWnhxNWRpcGhieWpzRVpsdHBSaEo1SmxCY1ZRUVVrbzFyS1l5VQ?oc=5",
+   "cat": "정세·보안",
+   "title": "Iraq seeks US sanctions exemption for Iranian airlines’ flights",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY3FhZHBfTGlfbm1oZThPWDNCVENnMnZNMmR3MHo2V2p1Q0NJOGVzbEpBS3c5V1dHeDlCeFBwb2ROc1g1WmdNQXZzYWFnOGlzUjJpM0Q5RFlzRnl3OEs4VUNVaHRMbHVwY1dvVXUyVUQ0TGsxUnMxQTFUelhXQW1vVnA0N3MyMW83ZG9uQVlMellWd19CUkVfZUJB?oc=5",
+   "date": "2026-09-26",
+   "source": "Pajhwok Afghan News",
+   "title_ko": "이라크, 이란 항공사 항공편에 대한 미국 제재 면제 요청"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq seeks humanitarian and religious exemptions from US sanctions on Iranian aviation",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNVUydFZKR2lERmhCVFhYa0Y2dl9DX3dxY3FOM3hELUM1ZFB4dG9aVXVhOEpXaHZjZ3dtMU0xM2FiRW45UjRyc21RYVZVaUJqNFQ5aEFRbWxMOXpQa3Y4RVpwZ0dzVzlyNlRVaVZFb3FTcVZHRUFHRXlvU2dQOERLOV9tVlZTUWNoa3RhQ194NUFuSEVFdnpCMXh4QTRCYnNxN1lmajZlcTFJSU1tbHpISkJoZ2E2RFY1TkZuTndjM1NkQVJ2bkpNSGQ5eEZRaFFZeVFvZ0pyWV9XUQ?oc=5",
+   "date": "2026-09-26",
+   "source": "صوت الإمارات",
+   "title_ko": "이라크는 이란 항공에 대한 미국의 제재로부터 인도주의적 및 종교적 면제를 추구한다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq seeks exemption from US ban on Iran airlines",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWN2OXRhWUdaMk44cjlhcTA3YTVEWkRXbnQ3UlpBaE5wS0N2ODRFN2MzcHNsanR1UnExdWJXRW1jdHZmQUU2aXV1My1wRG9ZX3BFZXRBbU51Z29XRXlpN3NNVWhWZFRrazhpZUd6R0pRTVBRbXRYLXFFY2RwTHRqbGVqcmpCOWp3cXVjQWUyZzVRZmlvTmlKamtVaDhBWW9nU3dpTXA5YXlSR19xbFpiMXhpaTRDTWt3SlJSWVRaTUVLMk04UHV0Rk9va0Jjd9IB0wFBVV95cUxQZnRIMHBDTzY2ZXZnZHUxN3NGblRTRUhGX1RjVkNueGlTY2RoVHZNdlV6VlJOaUQ1VnRGVGFoR1E2VS00MzB4SE80Y1JSYll1eEI1cHdyT0Z0RkZaZXp1b0xGb0dYVE5idm5hTmQ5ejNFZzVRNktGUHh1NTlINFFmdTJSVVJ2dUQ3YWlNdG9uVEhUVW9TaGE4bUNrcUlfc1VEbzRpU0hQMzcxMENGbmxKbU5yQ3lwQVdpSjZZb1BxanZaSEdtNzYyZmRhcW43MElueDVj?oc=5",
+   "date": "2026-09-26",
+   "source": "The Economic Times",
+   "title_ko": "이라크는 이란 항공에 대한 미국 금지의 면제를 요청합니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Trump reportedly rejects Iran’s Hormuz proposal; Iraq seeks sanctions exemption for flights",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOay04Ty1hUEE2MkxvRW1UWWM1cG1GcmtmZ1FkQVFUc2VCNXdvZGU2NmZwZmdkZ0EyRWxZQmZndmtTYUw4MlI2bmVSbi1vU2NiZTVSMmUwX1lqVmxDc2NMejJxNWdFdWl0OTNWZkVLSUhlVXFSRTYwMnM0T3lfTmRyQzR6ZVgwdlBSemgzTy1RbFVTa0xmVnR4OENQejl2amc3Nk53ZGFkcnFoU19oQ2FKSTN6NUdtUQ?oc=5",
+   "date": "2026-09-26",
+   "source": "DD News",
+   "title_ko": "트럼프 대통령은 이란의 호르무즈 제안을 거부한 것으로 알려졌다. 이라크는 항공편에 대한 제재 면제를 요구하고 있다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraqi Holy City Suspends Iranian Airlines, Enforcing US Sanctions",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3k5d2ZHSlJINFRLNmFpVlBnSkFPbzhiZnAyZ29ZdWpXei1sT0lPVlVuR2dHbHR6RFFkazFzNWRmU0hZUkdXRHZ3N1BlT0U3NzB1dGxUMnpkbHZJOXRGeUdYYWN3ZnlDSVVHMVVRRjhSYzdUdmJ4bm1xbk05Sll0V0pjeUhTM2xUV2ZfYkpkdmU1N2VFcGVjT2dqWVBQVGotcG9xV3V3?oc=5",
+   "date": "2026-09-26",
+   "source": "Channels Television",
+   "title_ko": "이라크 신성 도시, 이란 항공 일시 중지, 미국 제재 시행"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq seeks US exemptions to resume Iranian flights",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NU9NSFZaWGh6RDJ1Tk1WSEVkVktZQldZaXdTb1B6V09CX1MtcmdfNUhKMF9vY1FEZzRxbXRDamJzYmFhYVBnVEF1cXNMR0pqSXMyb3FWcmhxMXljdXc?oc=5",
+   "date": "2026-09-26",
+   "source": "Rudaw",
+   "title_ko": "이라크는 이란 항공편을 재개하기 위해 미국 면제를 요청합니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iran-backed Iraqi militia threatens airport sit-ins over Iranian flight ban",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3B3YndMUG93TXNHWlB2TDJtNVR5TkMzbldPOTRsN05CbTlYQWpTa0dMT24tOWFHSjdfZ3U5c0Y4M2dXY2FvMmxnajc3RWxlbEdnUDZBbFJNa2NJYjh6SkpTUkliXy1KTEVCa0hHa29zb2o0aXV4U1J4UGI5d2xYbWVvVGNPaTU5akdINVZmd1JOYUV5SkxfWkl3NFVIMEVLeUh5VFhDUkcxUUdQc3Yta0RLcw?oc=5",
+   "date": "2026-09-26",
+   "source": "Arab Times Kuwait News",
+   "title_ko": "이란의 지원을 받는 이라크 민병대가 이란의 비행 금지에 대해 공항 연좌 농성을 위협하고 있다."
+  },
+  {
+   "cat": "종합",
+   "title": "Iraq in Talks with Germany's Schlegel on Urban Development",
+   "url": "https://www.iraq-businessnews.com/2026/09/26/iraq-in-talks-with-germanys-schlegel-on-urban-development/",
+   "date": "2026-09-26",
+   "source": "iraq-businessnews.com",
+   "title_ko": "도시 개발에 관한 독일의 슐레겔과 대화하는 이라크"
+  },
+  {
+   "cat": "종합",
+   "title": "Population Distribution Report Launched in Baghdad",
+   "url": "https://www.iraq-businessnews.com/2026/09/26/population-distribution-report-launched-in-baghdad/",
+   "date": "2026-09-26",
+   "source": "iraq-businessnews.com",
+   "title_ko": "바그다드에서 시작된 인구 분포 보고서"
+  },
+  {
+   "cat": "종합",
+   "title": "The Green Era in Project Management: Is Iraqi Business Ready?",
+   "url": "https://www.iraq-businessnews.com/2026/09/26/the-green-era-in-project-management-is-iraqi-business-ready/",
+   "date": "2026-09-26",
+   "source": "iraq-businessnews.com",
+   "title_ko": "프로젝트 관리의 녹색 시대: 이라크 비즈니스가 준비되었나요?"
+  },
+  {
+   "cat": "관세·통관",
+   "title": "“الكمارك” تضبط 7 حاويات لإطارات مستعملة ممنوعة من الاستيراد في أم قصر#",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPNE40ZFlqY2ZtNlhqRTZ6SGE5LWhTakE0bGVJNUlUQldBQnJvb21WMndPM1FyWFZxajFtcmg5SFhKRFV1QngyNnZTWF9TdDFBTkFJQVpXSEtpREpCQ1FnSVVkdERwZWtYYlhaYnJrRmJlRlpSbS1GM1Z3WVZfejJXb2k5NVdzenlLMnRuVXNkRUxtSlNtaHJuZHdvck1neDdxSUV3OFA2WGdmOE1vZVptWEtEUHJRcXZka1NQTThwUWM4VEFKSVYwazU4OFVvcWdwbUhMVVVhalZselloUUZRbkgxbl8xc2xxQXlJS2NtT1RYMTRKSGVBRVhReE9JX3RHM09mLU1RakR6MFpnbHFGTUVpWjE3cDBRVjNLOUpaZmVKSFNRSWJ4RTZyLUsxQnJuTXFXTTlYOTdLMkNScnM4?oc=5",
    "date": "2026-09-25",
-   "source": "Free Malaysia Today",
-   "title_ko": "Hormuz 원자재 선박 운송이 9로 떨어지면 선박 추적 데이터가 표시됩니다."
+   "source": "عراق اوبزيرفر",
+   "title_ko": "\"세관\" 은 Umm Qasr # 에서 수입이 금지된 중고 타이어 용기 7개를 압수합니다."
+  },
+  {
+   "cat": "관세·통관",
+   "title": "الكمارك تضبط سبع حاويات مخالفة للضوابط في ميناء أم قصر",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uUS1mQWRrYmtjVXZJQjk5ajdQUU1YYldaaTNVSVEySC1VODl2SllRbGVLVkZxZmlFaHg2c2Q3eXdRY1hrQmZaWjYwVVk?oc=5",
+   "date": "2026-09-25",
+   "source": "ina.iq",
+   "title_ko": "세관은 움카스르 항구의 통제를 위반하여 7개의 컨테이너를 압류합니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3ppekJpMXdyaFhhWE40RGNyVFV6U2hYdFlLRXlwNVRnS1JHSHdQWnZfWFhydWdhLWFXY0RZOWlSdTFSZlJPdVFRRjBUWWZJaHpsUm5UckpBUlZHMG5HR3E5cXBYTnhtZHktcExqMVlVTmZmQ2xvOVRabTJDWE5wVjJpY2Q1VVkwUkI2MFdRTEFqdzVhcDRuc3JCOXJ6SWd0ZTBDcFlJR2d1TUg50gGyAUFVX3lxTFBGZDNrM25DNmMzWTNGdVVDbmFSZG5lU0FhNXhHczRwSUZoNl9VaDYxb1Rua2RScjFWYUFSTmNTTUJkRmhXNmpHTXBIVEZSbGhjSTlrdGxyQTMzcjl2eFpuc0VIZ2NoZWVPb3RoQzJCaDBrd2piM3ZLbnlQQ2xhSGZEVGhHMlBXVG0yb1Q2OWtzQk4wSFhHWnVNSW1QTC00MkxVVlozMFNwWWV4VC1SSFhhc1E?oc=5",
+   "date": "2026-09-25",
+   "source": "aljazeera.com",
+   "title_ko": "이라크 공항, 미국의 새로운 항공 제재로 이란 항공편 중단"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq agrees to Turkish base deal as militia disarmament timeline debated",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRmlaQmlYeG14Vmd0SGlMRjFka1RNNHVzejRjWDh6WUVsYUUtUDYtX0RMNU81aFZIT1VqTUctZ3ptbjEyNnFIYTV6QUt5dUlMc2VrdjhaU1gwVUFudmsxeG9JdlBYQkRRcEFkbFdFdHU2MUR5QldQRnd0NXRpSGktRE5PYlJZeFdJMGxEWHB5NEFmRVNKVmVwdnBna3hGWGg5MFdCNHRWU21vOHREazRhZHF0aWlLcnRfTl83VnVPZnQxQQ?oc=5",
+   "date": "2026-09-25",
+   "source": "The Long War Journal",
+   "title_ko": "이라크는 민병대 군축 일정이 논의됨에 따라 터키 기지 거래에 동의한다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DUFB4ZFR6THpSVmxtVmk3aTVGa0d4NDU5ZzFfc2c3eWRtek91N1NCNm50ekhfWHZ3amI5VXNHYXByZUpVTTA5UWN3?oc=5",
+   "date": "2026-09-25",
+   "source": "General Debate",
+   "title_ko": "이라크"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraqi airports suspend Iran flights as US sanctions deepen Tehran’s isolation",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDQtMktjMXF5ME1yd2lhTjUtLUt4Wm5mRkdSb2swbE9lc2FaUHZiQkNVb3lGVjQzNlNRcGpucjhLSjF4bXprUEtvU01wdzY1QnFVaFcxY0JTalUwRzROZGw3Q2RQUHRtcWdxTmxrYll4dmdoSmZTekNVYW0tMXlBbHE4UGNMSUdXYlZrUXN1TEZnRzRQN0FYNUZNbGRWUEww?oc=5",
+   "date": "2026-09-25",
+   "source": "The Arab Weekly",
+   "title_ko": "이라크 공항은 미국의 제재로 테헤란의 고립이 심화됨에 따라 이란 항공편 운항을 중단한다."
   },
   {
    "cat": "종합",
@@ -154,30 +338,6 @@
    "title_ko": "‘이라크 경유 국제 도로 운송(TIR) 이용으로 운송 기간이 단축됐다’고 IRU가 발표"
   },
   {
-   "cat": "관세·통관",
-   "title": "مستشار الأمن القومي: أمن العراق ومنع استخدام أراضيه للاعتداء أولوية حكومية",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zbUktN0lTWlVEdkluTXhlSXRoQUNpekNQQ2F3VTc5Wk9sY1ZxSURsUUt4SUYyYnQxZGFjM1lFYnNvQUZiakNKUlp1a2JqTlk?oc=5",
-   "date": "2026-09-24",
-   "source": "وكالة اليوم الإخبارية",
-   "title_ko": "국가안보보좌관: 이라크의 안보와 침략을 위한 이라크 영토 사용 방지는 정부의 최우선 과제입니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Shipping traffic via Strait of Hormuz stays lower than 10-day average, data shows",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNklscWtES21ucjBWM3pFTEtlWFJxQy0wSGZid3RYUUQ5OHVyNTZINXJBTENHb0FWUGZoVElaUzBVTksxVnRLd0VyMWJJYlZqX2RNWHc3dXhObzMtNHhwT3BGeTU2VHhwRjFmcHlLd0kxbTJDUU5BWjd5c1NSdk9EZEJkUmg0U3JjZWJSamNxX3paWGN5NjNBOHBycUhDdWNSbzVFNEs0cUZTUVVnY3lxRUdQejVOVmpwbWg2RF9VdnI1UG1YRm1kODdpbw?oc=5",
-   "date": "2026-09-24",
-   "source": "reuters.com",
-   "title_ko": "호르무즈 해협을 통한 배송 트래픽은 10일 평균보다 낮게 유지됩니다. 데이터에 따르면"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Tracking ship traffic through the Strait of Hormuz. Updated regularly.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdJWTU0VkQwQ1ZGMTlhS2ZoY0ExeXo4X25UX1k2NnFwdXgybTFtNEtoNlVMSHRlUFExVVZIX1FFelBMMk9jZkEzWmprZEktcTByZUJVcWsxVVE1WG92QjZ3dkhjX25DNFlqS3ZTRXFLSUVjRWpGNHhtdmtlMVdJWEFFZXJoM1RYU2JLS2F5emRFX0w2cVlmRWFZOGlzUQ?oc=5",
-   "date": "2026-09-24",
-   "source": "NBC News",
-   "title_ko": "호르무즈 해협을 통해 선박 교통을 추적합니다. 정기적으로 업데이트됩니다."
-  },
-  {
    "cat": "투자·면세",
    "title": "Iraqi PM calls on US firms to seize investment opportunities",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0g0Z3JPblFGTGdOVllXMkNRVlZsSTd6VFZ4LXI3clZlakJKTmVSYkxtMHBGMU5wc0VPYzhJRkJocXR6aWZUSnU1Um5FNm1LWW84U0lUYkJEOGFHR3o0QmJqbnBsbDJIemQ1ME5tS01tQ1Voa2tFcGpmdmFwQUV5dVhDSVVadXdIekZzTnJyX2JDNGRXMFdZ?oc=5",
@@ -192,126 +352,6 @@
    "date": "2026-09-24",
    "source": "964media",
    "title_ko": "자이디는 미국 기업에 토지 소유권 및 10년 세금 공제 혜택을 제공합니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHprU0dmbmFHdTUyLTBSdmw2dzlGN1dFRnlfMk1qY04xZTRPdmlOWnV5MzFheWFvR2x6bjJvdlVObmFwSnpBWkszS3J0NkNBLTJQNmVZdkw5NUVBNEVfWHphWE5BVEhpSW1nbWJmOGNYYW1RTkI0R2ZhZUd3N1pnUTR2SGQwdmRQYzdOa2wySUhPWVB6SUpVUm5Fd0fSAaIBQVVfeXFMTnhieTl4eTRXc25SYkRLd3Z0M0xCUTE1ZDZEeTN4dVlyRHBMUnVqLW4zV1BoNlVSOXFxcmdxU24yZWhxcXZxZGVhMjAybEtoZGRzUTVKWUlwMGdSeUxyMEYzRVljSFZaMm1zTWxDdnZ3QlhpckR6QUZmUFktTjA2WmtQVGRpd3o1SXh0cVFLTGhrbVZlWlhhYTJQWjB0OU9DaHBR?oc=5",
-   "date": "2026-09-24",
-   "source": "Al Jazeera",
-   "title_ko": "루비오, 이라크 ‘발칸화’ 경고: 그것이 진정한 위협인가?"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraqi PM pitches new plan to integrate ‘resistance’ fighters",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWZ5dkE2VkpMRE9tOTF1bFZfU1lyNnlDWEotNkZzOGVZTm5tX3NHemR0WUNCREcyVkNSTGpHNGVIZHBCRGVVbEVsVnlOY3VPc0FaeTFPR1NCZUkyUU5QcEJZTmlqWThWOThoYjdoZF91aEFMZW1DdjJoSVkwVDFXWFRYQzlYTmtkSDRVd3VqdnVBdWJGdkpTSU1VSQ?oc=5",
-   "date": "2026-09-24",
-   "source": "Amwaj.media",
-   "title_ko": "이라크 PM은 ‘저항군‘ 전사들을 통합하기 위한 새로운 계획을 추진한다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq Delays Militia Disarmament, But Doesn’t Give Up — For Now",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDNvS3pfUXBrYlkxUVkzNnhkMnExX09QTzhaR08tSWhrbHQ1M2dKN2VkejczQlZhcExhTW9oTjZ0V0ZJc0hTSFp4TDZkMWhrUzVkMFVzLUpNOTRQOWszdk5KWnl2dTA0T1l6dzEwR1FuS2kwNzdjMmRIbk1QcHFNLWIyNGd0eWduak5BNTZFa1dYb0UtamVleHMyRFR2VEtx?oc=5",
-   "date": "2026-09-24",
-   "source": "Foundation for Defense of Democracies",
-   "title_ko": "이라크는 민병대 군축을 지연시키지만, 지금은 포기하지 않습니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Sisi Stresses Egypt’s Support for Iraq’s Security, Stability",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWQzZk5FOUlBRlNCd2NuMWw1SWdDa21mUVBRS0hVTzFXc2tVVk5SOHZOMTNkNGJkdUgxYUphd285WHp5WTAwVUlyNTZNOWxFdFJCUUJpdXJNaW9UeUF2bVF6QmlNbE9zeHRwbzN3blUxODhEZ1paMUQ1ZVFaai01dkNLWFZzVjB4Z3NhNE85V2kxNG56MF90UV9VbHhGM3JhclpKVkdpbkhob0pIR08ydGlEZ255dFpI?oc=5",
-   "date": "2026-09-24",
-   "source": "ASHARQ AL-AWSAT English",
-   "title_ko": "시시는 이라크의 안보와 안정에 대한 이집트의 지원을 강조한다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Turkey will hand over key base in Iraq in a gradual troop withdrawal deal - ABC News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUl3bkZiQkxfc3hydV9DQnEtUFRxUm5Jc0luMzd4ajY4ZXVYMzQxMTNDWFlkNmFJek45LWtEcjZ1Yl82RkF4WWt1SHFaaHRWQWdJSjBPMnBtUkdaempEU3o0UUJnT1o0ZkxhSGtBN0NGVzFKc3V5RUYyWDFCbFdSalBrMHFJZ2MxanhqLXZuSjZSTmk2YWU1bTBWYVhPTkRCWFVkNi1BONIBrAFBVV95cUxNd1lOdk9tczdzckNMTnBBYW10UDBTMUJWb1Q3V25mZk9NUzRybHowRWJPOWxCd0dPYzFtU1JkSXlRblFMMW9ucmVEcHR4VG10RFBZRUpZdmllaFVpMWNiSEFwOU8xLU91Uy11ME1ad2dTRHpxSkM2MVBXUU1aWWcyWWViSEVJbUU1cjZrQ09kb3hBajhUV01ETllCTUktZ1dab295b0FtbDdTV1Mt?oc=5",
-   "date": "2026-09-24",
-   "source": "ABC News - Breaking News, Latest News an",
-   "title_ko": "터키는 점진적인 병력 철수 협상에서 이라크의 주요 기지를 넘겨줄 것입니다 - ABC 뉴스"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq’s Kata’ib Hezbollah Calls for Support for Iran Against US Sanctions",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzFzRXBXNGt0a1BNWll1ZmFTVmhxMU9HNGNzVm43dG42cmxZRDZWMFRJYy05OFYybUczRVZ2SnRwMjNucTdYUjY4dmRPczM0TTFfTHVCdkJlNTlYWTFxWGFoRGxYemFDcVJkNXRpY1M3Y0RTeUI2dkdjWkhQOVZRZW52UzNfSFVWOVhVZmJxY0VQa2F3?oc=5",
-   "date": "2026-09-24",
-   "source": "WANA News Agency",
-   "title_ko": "이라크의 카타이브 헤즈볼라, 미국의 제재에 맞서 이란에 대한 지원을 촉구하다"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq has important role in strengthening collective Arab security: Egyptian president",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlRzRGlDelNTTXB5ZUpoWFRHUzdqdlJjOFItVzV0MVNnX25IMWVucDUzTW9IZG5WWmdFMXp5aUFaVXFUbElyYlBBMVdqNFcwQWZYSjJ2NjBWWWNzTXF4M3kxWFV2QWt3QVo2U1lEYkxnZnpwbXlUbWZGajZlc0dOZm9HRTljVTNvRDYwUjdjUjdpb2pnM1E5XzRRZHk5bk9BUUVLTENYVXpMenNLUFpKX3puV2I0X2dwYTlSUVNKcFRZaXczWlZEYjR3?oc=5",
-   "date": "2026-09-24",
-   "source": "Anadolu Ajansı",
-   "title_ko": "이라크는 아랍의 집단 안보를 강화하는 데 중요한 역할을 하고 있습니다: 이집트 대통령"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Turkey to withdraw from Bashiqa base as Iraq moves to restore state control",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBa1ZKR2xYa0FaeVAwWXRyb2JFNEI0QnJObm9UdGI1Y084SlBTM2k1WV9qV1RVSXh2RTQzNzdSdlhtRkR0Ym5LNDkzQmRKUlo0MFlnUlB3YXduVXRl?oc=5",
-   "date": "2026-09-24",
-   "source": "The Jerusalem Post",
-   "title_ko": "터키, 이라크가 국가 통제를 회복하기 위해 움직이면서 바시카 기지에서 철수"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Ammar Al-Hakim hails Egypt’s role in supporting regional security and Iraq",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU5uMFBzWlVTUlUzVkZvT3lZekRVQUo3MG5DR1ZhUVFwcmwtc0hEdWROMy15c0hWTnRsOU04eDhKTmFTSzFfTXFHWC1rTTFRekVzdHFKTTVkOEJZQ0JPWlJGNVZhYXBBYzJfYVIzM0ZDckRvTWxSR3U5SVlPLWtUUUtZTHB3cWNwZFB1c0VPUkt0U1JYbjRjbHpHNXhSa3A1SENUWC1pZ1d6LURmX2JGNVNCSEw1LVZn?oc=5",
-   "date": "2026-09-24",
-   "source": "Egypt Today",
-   "title_ko": "암마르 알-하킴 (Ammar Al-Hakim) 은 지역 안보와 이라크를 지원하는 이집트의 역할을 환영한다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Turkey to hand over military base in northern Iraq to Baghdad",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdE1TWEYxZnBHSEtrbENCWkg5NmtYOURHQWFkTlAxTThRUHBFeTJQVGozbUxsQ3RreThhZ3JzRlpkMUh4cHN5YzJJeG5rTjZhLWF2Ykh4R2ExTXI5WHJFQ1NPNXhlTnZUQ1BrVWdKNHN4ZnBoQjlGa3JGdzlfRzg1d3RwZGZQOFduM21DTHkxRlV0Z0xEVkluQ2REOS1sMDBzVlE1UzEzUldrY3RRUjB3?oc=5",
-   "date": "2026-09-24",
-   "source": "france24.com",
-   "title_ko": "터키, 이라크 북부 군사 기지 바그다드 넘겨"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Turkiye agrees to gradual handover of Bashiqa base to Iraq",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUIyaXRITmpLRXNHRkE3SHhkZDVPWmhTWDZfNFdiOW1OTjZQeXc1clRhMTZVV1RPLVVRMlhNcWJrOExJR3M0dm5QX3hZZnhhQ2lVT1E2R3E3SFhKNlREd28wMnBsUVBkM2VLM1Q3LU9zV3dQSmZtWWtQYl8yUTlUVVdNZVY2MW00Ynk3MDFFVGZ6LTJkbHprV0JlWEVHT3BS0gGmAUFVX3lxTFBGZHBsdE9BZ1ZkMnRibjlfWlJPb3NFVFFVNVk5U1EtRWFwVE9ac1pzbm91a09JeDhpZTB3V2Ruc1pab3lQdjVQQnQ3Z2FHdkZwUkZwRWFPSjlaVjVCbVVZeGF0WDlKakhlMlJra1pkQVZZUks0cXRzanlOaUZKcnR5czVfeEo5Y2F2am9iQll3eVhoZmFFRGhzWkVkVERQWkxZVmtwZFE?oc=5",
-   "date": "2026-09-24",
-   "source": "Al Jazeera",
-   "title_ko": "Turkiye는 Bashiqa 기지를 점진적으로 이라크에 인계하는 데 동의합니다"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq controls its northern exports, but Ankara sets the timetable",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWlTd3QwaWc3UXNUSklXZTUwcEVHYTFjQmRVcFZJdk9Qd2NYVDF5d2hYZXBDNC1TUlBPVnVXQVVlY1dBUm5mZ1JicTJsbXlnODJmVmpNR2JVTHZndVhVVnZzWlVlWlVpdUQ4QlFEYW05WGdPUWx1amphQ3dUbF91bUtyT1RHaFZ1SFFHZzFlSEVLVkRKc2Q0Umt5QQ?oc=5",
-   "date": "2026-09-24",
-   "source": "Amwaj.media",
-   "title_ko": "이라크는 북부 수출을 통제하지만 앙카라가 시간표를 설정합니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Deal, not departure: Türkiye's troops aren't fully leaving Iraq",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdW1sSG1tQ190MmpMUzZsZUJCRV9IUzc2akpIeVFONTJoaDk2c1pUVXZKVXN3b3RMR1VKNmJlM1ZqZ09pbFh0Z0dTTnhsSU9pczF1ZTNfZS1lakI1WkdvTFpIc2xfQnlDNHpNOTRnZU15eVp0cEhNcjYtZVBtUXRZMU9na2ZseXRFdllXT1ZIN2VPQ21WTGVSTF9MNGIweEJaZE0wNW1B?oc=5",
-   "date": "2026-09-24",
-   "source": "Türkiye Today",
-   "title_ko": "출발이 아닌 거래: 튀르키예 군대가 이라크를 완전히 떠나지 않고 있습니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Turkey to hand over military base to enhance Iraqi sovereignty",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOER6YlRaVFRWc3JsZWNGbDYwdlN4dVRMbHk0NU1SZGl4bDU5amEtMi1rN0xNMlFzekhDSktMTklmZk52QUZjYzB5SGhCSzJYVmZfRnhQbmlsMGZfMFp3Q2xxUU5oX1NhQnNRaWR3OHZEa0NreW1qNkpyZXB4bWQ2RU55eldlLTZCTk5SVnBRZEdjU1MzRWtXbVl3?oc=5",
-   "date": "2026-09-24",
-   "source": "IraqiNews",
-   "title_ko": "터키, 이라크 주권 강화를 위한 군사 기지 인계"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Türkiye, Iraq agree to clear Sinjar of PKK",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmgzMnJobHBlQU9jVVFIX2o5a2doUVl6QS1YUXJRWVo4b21EZkZic0ZPVElFbWFBc0lKS2dmYnk2MXZ2OGVyQzJsWlk1STJFc2oxMmJGcFQ3bEtRbmg1UWN6NHBTYk1FQVFVYXlBRVJpeHRRdjlnUXE3bWlPdHJlaUFYOHNkZzdHWVE?oc=5",
-   "date": "2026-09-24",
-   "source": "Hürriyet Daily News",
-   "title_ko": "이라크 튀르키예, PKK의 신자르 청산에 동의"
   },
   {
    "cat": "종합",
@@ -355,18 +395,10 @@
   },
   {
    "cat": "경제·환율",
-   "title": "US dollar drops to 157,000 IQD range across Baghdad, Erbil, and Basra",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2NsN0dJN0pMVFpQRVRpX3RZR2RYRjRoby1Nc0FxaENKV1lXRmcyRnNhRURFNjlrX2hmLVZTbldNa2hmanJWQjhud0EtanVySlpXWi1vTFZack5LRVdVZTkwRDJOSjFtZ2FXdlRHMGZXcnMyQk45R0d3SWo4WGgzSzRDbTNtS2d5VDNwYzJEaTVVUjlwbzJpNlpB?oc=5",
-   "date": "2026-09-23",
-   "source": "IraqiNews",
-   "title_ko": "바그다드, 에르빌, 바스라 전역에서 157,000 IQD 범위로 미국 달러 하락"
-  },
-  {
-   "cat": "경제·환율",
    "title": "Iraqi forces dismantle illegal currency trading ring in Baghdad",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEY255VVViU0pDblFCR0RzVWtMaDVPM3BZSzNncmVEcEh1czQ3VGVGNXpaa1R2SjlZWG56eGV1d2tJV1lMZUwzY1piemZoNTZsUWQyV0d0T28yU2xqMDhtSWlYYw?oc=5",
    "date": "2026-09-23",
-   "source": "rudaw.net",
+   "source": "Rudaw",
    "title_ko": "이라크군은 바그다드에서 불법 통화 거래 반지를 해체합니다."
   },
   {
@@ -390,7 +422,7 @@
    "title": "CBI limits traveler access to official-rate dollars twice yearly",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDlPZG1JWm9JRkdSRW1aVDJBa3NRMTBaRnN0NThudEluNmt3ZnVST1hvQ0p6SWcxOUJYYnpiNUtHUGFZV3pMak5ya0xJb25qRnVkLTg4VFpPWmw4NjJ1cXZtZnFURDZQ?oc=5",
    "date": "2026-09-22",
-   "source": "rudaw.net",
+   "source": "Rudaw",
    "title_ko": "CBI는 연간 2회 공식 요금 달러로 여행객의 접근을 제한합니다."
   },
   {
@@ -402,44 +434,12 @@
    "title_ko": "이스트 바그다드 사우스 필드에 가스 처리 장치 개설"
   },
   {
-   "cat": "종합",
-   "title": "Fraud Network Hid Ownership of 170 Properties",
-   "url": "https://www.iraq-businessnews.com/2026/09/23/fraud-network-hid-ownership-of-170-properties/",
-   "date": "2026-09-22",
-   "source": "iraq-businessnews.com",
-   "title_ko": "170개 부동산의 소유권을 숨긴 사기 네트워크"
-  },
-  {
-   "cat": "종합",
-   "title": "New Wave Offshore Energy Wins Contract for AGUP Phase 2",
-   "url": "https://www.iraq-businessnews.com/2026/09/23/new-wave-offshore-energy-wins-contract-for-agup-phase-2/",
-   "date": "2026-09-22",
-   "source": "iraq-businessnews.com",
-   "title_ko": "New Wave Offshore Energy, AGUP Phase 2 계약 수주"
-  },
-  {
-   "cat": "종합",
-   "title": "Private Banks League discusses Banking Reform with Parliament",
-   "url": "https://www.iraq-businessnews.com/2026/09/23/private-banks-league-discusses-banking-reform-with-parliament/",
-   "date": "2026-09-22",
-   "source": "iraq-businessnews.com",
-   "title_ko": "프라이빗 뱅크스 리그, 의회와 은행 개혁 논의"
-  },
-  {
    "cat": "경제·환율",
    "title": "Central Bank Says Iraq Has Sufficient Dollar Reserves as Dinar Weakens",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWRkUk9waFJkWjFhYUtoSlBJeTZpYTJ6eVdiMEVvNEZ5SC1tVDYtVGRJM1p2eEY0QWl2Z19FUkg2MmZfUTllVElKNGJQVjlfaWFWZTlUeHotYVVrOXc5dmJCYlFtNU9takZjNUtJSXEtQU0zcDdpM1VIX0FYaEJ5ZTVPOFRXd0RYX0pSRy14Y3FZdEplSUY4T0lGMWNKSks5M1dteXRDSFA3U3M4WjFTM1ZMT1A?oc=5",
    "date": "2026-09-21",
    "source": "کوردستان 24",
    "title_ko": "중앙 은행은 이라크가 디나르가 약화됨에 따라 충분한 달러 준비금을 가지고 있다고 말합니다."
-  },
-  {
-   "cat": "경제·환율",
-   "title": "US dollar slips below 159,000 IQD across Baghdad, Erbil, and Basra",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObzM3WldsNE1TWXJZNnZXZTNSUGV2U2VBbWlJdTFSTEdjWnNLRllvakdMMzY3aVlXSjVtbzFVaDhZakpaT0JBam5PN01hX1NMY3NHQXVQTDRpRXNoWXhMSS1EZktsc0pfeENzLTlaVWt6MVJRT09GWjd3MGRKQjVBUUc0QWdSWjBKeThUcURjaUROcEg3QkVWc3dB?oc=5",
-   "date": "2026-09-21",
-   "source": "IraqiNews",
-   "title_ko": "미국 달러화가 바그다드, 에르빌, 바스라 전역에서 159,000 IQD 이하로 하락"
   },
   {
    "cat": "경제·환율",
@@ -459,18 +459,10 @@
   },
   {
    "cat": "경제·환율",
-   "title": "Iraq confirms foreign reserves enough to meet demand",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFNEQTZULV81S1IxS3A1a1djN1NYSzhwTmdlQXdydHM0a29tS0wwbjRnZ291aWNBOTVTX2JWSTJpcTdBREZQNzdPakxGYW1nRUxDVl9vMUFrMTJKd1QtYjB2em9rS0M4Z095SHBPTGNzY2E4UEJVSWtlQWZobE1pYU0wMEE5LXNlQmoyVw?oc=5",
-   "date": "2026-09-20",
-   "source": "IraqiNews",
-   "title_ko": "이라크는 수요를 충족시킬 수 있을 만큼 충분한 외환보유고를 확보하고 있다."
-  },
-  {
-   "cat": "경제·환율",
    "title": "Echo Iraq: Concerns about US sanctions and increased demand have made the dollar more expensive in Iraq",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRzYtM29oYXN1NVBnbEQzdmY0SWRkVmd6ODFpLXNaaEJKY1lNMXVGQWFyTndOeE9uZHhZaGZ3QWZfY0VETDJOYWRjdHpldTRGS1N4V3lTSHRtTE56T0stLWloeUJJV1RUb2dVcWNDbnBPTm15RGtVTnN5clROMy1XMlRZRkFEdkdYM0tfd1NRNG82S2xQNG1haUg4N0NtS3hFaWdxT3NjeWE0MnhGREl4aEVoTjFVVlRFQ0kzVlFWNGpHMjNUaVFSSi1vOEpoZ1VjVGpHS3VZaUo?oc=5",
    "date": "2026-09-20",
-   "source": "kurdpress.com",
+   "source": "کردپرس",
    "title_ko": "에코 이라크: 미국의 제재와 수요 증가에 대한 우려로 인해 이라크에서 달러가 더 비싸졌습니다."
   },
   {
@@ -515,16 +507,8 @@
   },
   {
    "cat": "경제·환율",
-   "title": "CBI says it has enough reserves as Iraqi dinar falls to nearly 1,600 per dollar",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1NjhSZ0wtU0VUZWw1NjdKaFU5NU5PU2xwa0F3QThzZXhNaThVcUo4bUdDUjF4UzloOGlXQS05ZEhTTFdmd2w5eFV1T0hkbTZBQ19UeUNZdVREYjNYSXFYa3A3VQ?oc=5",
-   "date": "2026-09-19",
-   "source": "rudaw.net",
-   "title_ko": "CBI는 이라크 디나르가 달러당 거의 1,600 달러로 떨어지면서 충분한 준비금을 보유하고 있다고 말합니다."
-  },
-  {
-   "cat": "경제·환율",
    "title": "Dollar Climbs Against Iraqi Dinar as Baghdad Rate Tops 160,000",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Cd2tza2RWQzJHYWV4MmZRS2tFOVh5X2FLVFdZel9lcGwzMGU5Rm5hUlF0QU9xVUpBeXhMSVpRZmItMDFMWHMzbTYyYk5DVm1aUnJpR09n?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWpZaUd1bHJvQVVxRGJXQXBhZ0lzYzVLYzZYai1RN0xoWjhtcG9zVEk5bXhlQWNGQjJNdnNzSTNQUEJOU3dYcW9PYXZyalE4SVM2VDM0T1U3LUppZTdib2FNeWhyRVJFa0RjZUxaRnZGMXpxc1dzeEhKZjlpOExORW9vQzZ1d20tbGZuT200dHc1NUhXQ3QyNVZ3VnJuaWh3QU5MOC1UOGk?oc=5",
    "date": "2026-09-19",
    "source": "کوردستان 24",
    "title_ko": "이라크 디나르에 대한 달러 등반, 바그다드 금리 상위 160,000"
@@ -536,6 +520,30 @@
    "date": "2026-09-19",
    "source": "کوردستان 24",
    "title_ko": "이라크 의원, 디나르 슬라이드를 달러 화물 감소로 연결"
+  },
+  {
+   "cat": "경제·환율",
+   "title": "Iraqi MP Warns of US Sanctions Over Failure to Disarm Armed Groups",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVVsX09FVXdZWFk0dTUwOFpkd2VCbkI2SWlUUVZkcnNNU3gzSGpVMkNURXhKdnRVdmxnaFJkSFFxSjJyUUdxTHZZUXVhUUFVSmRLM0cyMVNnNzdrZUUxWWgzN0J3aGQ4MEE0UC0wUnV5Wl9MVFphc3R0Q1J3T2luTVFQVno4M0lTN182TmUzamN0cHNWZXMzdG01V0cwMVJWYWxLLVh0YXpKczY1TFNr?oc=5",
+   "date": "2026-09-19",
+   "source": "کوردستان 24",
+   "title_ko": "이라크 국회의원, 무장단체 무장해제 실패에 대한 미국의 제재 경고"
+  },
+  {
+   "cat": "경제·환율",
+   "title": "CBI says it has enough reserves as Iraqi dinar falls to nearly 1,600 per dollar",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1NjhSZ0wtU0VUZWw1NjdKaFU5NU5PU2xwa0F3QThzZXhNaThVcUo4bUdDUjF4UzloOGlXQS05ZEhTTFdmd2w5eFV1T0hkbTZBQ19UeUNZdVREYjNYSXFYa3A3VQ?oc=5",
+   "date": "2026-09-19",
+   "source": "Rudaw",
+   "title_ko": "CBI는 이라크 디나르가 달러당 거의 1,600 달러로 떨어지면서 충분한 준비금을 보유하고 있다고 말합니다."
+  },
+  {
+   "cat": "경제·환율",
+   "title": "Economic Factors Drive Dollar Surge in Iraq’s Parallel Market: Report",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12UWNWdHpMbGpjMkRIUXFHbWVuWEdBV1lnZzgxZkFVZHZrd1BEY0d6TDI5WFVrS0VFblVmQVVXam5pS0RjR3J4OVhQS1VkY1Yx?oc=5",
+   "date": "2026-09-19",
+   "source": "باسنیوز",
+   "title_ko": "이라크 병행 시장의 달러 급등을 이끄는 경제적 요인: 보고서"
   },
   {
    "cat": "관세·통관",
@@ -554,11 +562,19 @@
    "title_ko": "세관은 수족구병에 감염된 양을 이란으로 반송합니다."
   },
   {
+   "cat": "에너지·전력",
+   "title": "Iraq may import LNG from French company",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wSlc0YkNwdlVDNGtqdWd0ZTA1bzFfWnUwQ0luMFVUMHhHNGVwbU51X0FsZmR3LUM5d2g0WTBGNFN4WDJUd1Z0Z0lYanpOdUxyaU9YMzlyQzB6NTQ5S0pHYkw3UU56eTNDa0xCNXNxelpob0xyQ2R1RngzRQ?oc=5",
+   "date": "2026-09-15",
+   "source": "IraqiNews",
+   "title_ko": "이라크는 프랑스 회사로부터 LNG를 수입할 수 있다."
+  },
+  {
    "cat": "관세·통관",
    "title": "الكمارك: الأدوية تخضع لرسم 0.5% والفيتامينات والمكملات لـ5% أو 10%",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRnoxMmdCQWZHZFVKc0ZwNDZXN3lQeXhOUzNvZk11Y045S3ExVE9rUVJVeVRCblIxUFZXczIwVk44LVFFV1dUM2VHQWs5VVNkaEd4Q2lB?oc=5",
    "date": "2026-09-14",
-   "source": "وكالة الانباء العراقية (واع)",
+   "source": "ina.iq",
    "title_ko": "세관: 의약품에는 0.5% 의 수수료와 비타민 및 5% 또는 10% 의 보충제가 부과됩니다."
   },
   {
@@ -566,7 +582,7 @@
    "title": "الكمارك: ضبط شحنة من الأدوية والصابون مخالفة للضوابط في طريبيل",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNWXhrZlJId3J4Qi14Y19rTDFodUpabFFOM242cmhPbUtYbTZZaWtZMk5IMGRxOWFtcDBteTI2cjVxV2o5aU1OYXV0OFc?oc=5",
    "date": "2026-09-14",
-   "source": "وكالة الانباء العراقية (واع)",
+   "source": "ina.iq",
    "title_ko": "세관: 트레빌 규정에 위배되는 의약품 및 비누 발송물 압수"
   },
   {
@@ -578,19 +594,11 @@
    "title_ko": "이라크에서 논란이 되고 있는 주류 세관 경매: 주정부는 법으로 금지된 것을 어떻게 판매하나요?"
   },
   {
-   "cat": "투자·면세",
-   "title": "Kurdistan Is a Leading Investment Destination",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTE0Y1NWOElhbVhtRUZoYTc4WVBrZnJSZE9hd25sXzJZUURnQmtCVnAtNmE3OWFvUmJya0liZHlkS3pYZUgxXzJMYzg4eThCX2NyWXpkQVRHdklkb09BVGpiLTJocVY1MmJwVTZZTTV6VmdtbWxMc1BpbWJTU1NvWmdLVFYxZFZCNW5QdzRuUTBRVFk?oc=5",
-   "date": "2026-09-12",
-   "source": "کوردستان 24",
-   "title_ko": "쿠르디스탄은 최고의 투자 목적지입니다"
-  },
-  {
    "cat": "관세·통관",
    "title": "الكمارك: نتوقع وصول الإيرادات إلى 4 تريليونات دينار نهاية العام الحالي",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XdTJsYTc0dWtNVVIxd3k1MHhhYWJ5MzdyeUx1ZHFBbjNhMExjTWVPdGZKM0ZiZEFDaGs3ZE11SExyaFpPd20xTHBSWkNINXlfWkE?oc=5",
    "date": "2026-09-06",
-   "source": "وكالة الانباء العراقية (واع)",
+   "source": "ina.iq",
    "title_ko": "관세: 올해 말까지 매출이 4조 디나르에 이를 것으로 예상됩니다."
   },
   {
@@ -598,7 +606,7 @@
    "title": "What is the average US tariff rate for Iraq?",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUM3QWh6WDRxODd5ZTZEbm43ZzJ3S1Q4Nzc1empmVWktZzhlVGxBRlA1Wm1xeTRBSHFGSVgxbk1NVGNacXZJV1FxRkVEZzRacGhwNDh0Mm5TMk5pLTI1cnptRmlIRUpfbGdyMUhvcVVsc2pVR1EwdVRhbHRLYUJ0c3Rhc1ZWNGdGOWhFc1o1bW8?oc=5",
    "date": "2026-09-02",
-   "source": "USAFacts",
+   "source": "usafacts.org",
    "title_ko": "이라크에 대한 미국의 평균 관세율은 얼마입니까?"
   },
   {
@@ -608,14 +616,6 @@
    "date": "2026-08-31",
    "source": "شفق نيوز",
    "title_ko": "Shafaq News.. KRI 사업 담당자: 바그다드 관세 분쟁 해결되지 않음"
-  },
-  {
-   "cat": "에너지·전력",
-   "title": "US Iran sanctions threaten to deepen Iraq’s power crisis",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55QXdGVnNwOXBfWGhJdkoxYWZzY0JBUEdiYXNQNTNqX0lHU2VUcm1qRWxibThUVlZSUi02eHlNM2JYRk13WW5GU2xVRjZfVFZqZUt4U2hMVEE4NWtuOG1pOWxLNi0xS1ZiUUxNZEF0a29Vb3g1b2N3?oc=5",
-   "date": "2026-08-26",
-   "source": "Utilities Middle East",
-   "title_ko": "미국의 이란 제재는 이라크의 권력 위기를 심화시키겠다고 위협하고 있다."
   }
  ]
 }
