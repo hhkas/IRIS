@@ -1,29 +1,173 @@
 {
- "updated": "2026-10-14 08:32 UTC",
- "count": 87,
+ "updated": "2026-10-15 08:07 UTC",
+ "count": 83,
  "errors": [],
  "translated": {
-  "new": 45,
-  "chars": 3309,
+  "new": 42,
+  "chars": 2925,
   "stopped": "",
   "mode": "anonymous"
  },
  "items": [
   {
+   "cat": "항만·물류",
+   "title": "Two cargo ships sunk in Strait of Hormuz as Iran ramps up attacks in run-up to midterms",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWt5dWE5MFQwOFNCVHdMb3Z2ZHRnMHczOG1QMEIyeW1ycXlFWTJnNUxOT0FTYzhwdTFMMmZhYjN4ZFVJbkNmS0NsdTJieWFLZ1RwQzU4WDg1MmxpdXlNLTNwV3BBZS1Gbk5wUDZ4Qy1mUG9uYU1FNEFyM0V5WlFISVE2a0IzX3U2N29z?oc=5",
+   "date": "2026-10-15",
+   "source": "CNN",
+   "title_ko": "두 척의 화물선이 호르무즈 해협에서 침몰했고, 이란은 중간 기한까지 공격을 강화했다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iranian attacks sink two ships in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5",
+   "date": "2026-10-15",
+   "source": "The Washington Post",
+   "title_ko": "이란의 공격은 호르무즈 해협에서 두 척의 배를 침몰시킵니다"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
+   "date": "2026-10-15",
+   "source": "AP News",
+   "title_ko": "이란은 호르무즈 해협에서 광산을 공격한 후 선박이 침몰했으며 다른 중동 개발이 진행 중이라고 말했습니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran ramps up attacks on ships in Strait of Hormuz with 12 struck in past four days",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWmJMSjMtSzk2WTBqQlRBekkxLWxKdzd2a0FrdUNId0pKb1dCOUxJSXRySmlCNWFTNEFVX0hZc1N0VGU1UGNLMU9MQlVqY2tzT2toNjg1cE1vczM1bXZGeHMwYUZNdDNkdEd0aC1tUGJiT2tPUk1aMk02Z0IwRE9PNXR3clY0TUY0dGN3eXQ5dUEyUGx0THZ2a3ZfNHYxemhRTkptbEtEcDRWOVppdWNLZjVLUjd6OEczNDVrUEtaLWUxaExWLXZLSW8ycVRMU3pyeWZZMGlkVWlaenZrTnNMcg?oc=5",
+   "date": "2026-10-15",
+   "source": "ICIS",
+   "title_ko": "이란은 지난 4일 동안 12번의 공격을 받아 호르무즈 해협의 선박에 대한 공격을 강화합니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Two ships sink near Strait of Hormuz as attacks on commercial vessels intensify",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnhGS25zZ1YteWlkNVQ4Y0xmbUpPZjc5bFoyelRSSFdVN3N4ZjhDNkRWaDE5M3RwZURlRU5QZW0xMnVGdzJGdkRXbFVwN0RQR1hRSEFNUGIwWXBPc20xZ184cGpfNlFaNG5ZQ2tibGd1cmNBdFZtSHVrMWk5MElndGZGb2FPS0NVY1JrQUszdjEyRFJLQUtvUlY5a2JIZjd4SmE5MVpGTDM2Tjh6NnBZT0JOaGVsVnZBbEk3Zzl3bm1nVlVNSFQtd3BaUjY4V2llWHZISEM4T0xrbjdQTUgwRWtUOTNTM3RPYUNmNzZZbGjSAfYBQVVfeXFMT3J2UklHc25CbVNqSFE1OWpGbjIwYXp2c1c3VFF1anA3YTVVTTVhU3Z5VzJZYXJqQTF0OXI3VW9LSjFEZENsMlRJNUlybmpwSWhrV0FwWlZNbTFIenZ6cVhZdHAtM0duSjdEdjlqWU9ZeXQyTlFGbVFvaXZoeUd5OGtTUjNjdDBVd3MzMXN4cW50MlBTMGxzd3oxRkhCU3FncXpwWVk3SWxuaG1FaFQxdU1RaVdSWGluVXpPS1B1YjhKaDNsc19zYmM3Tm5NRmc5MkZEZlRPWW5qY0R4YWxMYzFfeHFaMXZIcERYaXdvakVnUFFnQmJB?oc=5",
+   "date": "2026-10-15",
+   "source": "The Times of India",
+   "title_ko": "상업용 선박에 대한 공격이 강화됨에 따라 두 척의 선박이 호르무즈 해협 근처에서 침몰하고 있습니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Container ship sinks after attack in the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmx0VFoxa0lRenc5b0dxa2JteHhtVzl6TjUwQzUzbTk4dTZReExsZlNoUm1ERmtHUm55V0RvZElDaVg2LWx0R19JVDZsSVRzOFo1QzdHY1BhWHRyRjIxR2x4amlDWWdMNVZ6ejR2SHd3NkZUSGlOWlhKbzNScjdPeFNpV1FYdnYzcHBhU0lOWU9QVzA5eWhISA?oc=5",
+   "date": "2026-10-15",
+   "source": "CNN",
+   "title_ko": "호르무즈 해협 공격 후 컨테이너선 침몰"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Iran Says Cargo Ship Hit Naval Mine and Sank in Strait of Hormuz, Tehran Broadcasts Images of Tilted Cont",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZWdOSEFMeWJ3VVVQOUNMVUxydkxyMFZna1Q3TEd0RERrNGF1a0dnT0NvbGJlOW5TcVFMemxqN1Njc21GekdpQ1dUMW84aTdKTUYyU3FGZnU0aEtPNW4xTVRjeElPdll4UGxGVDh2eXlpZ25JX1pzU3hMRlJqUmhDNkJZZlBNd2JTVVZfdlpjb3hOdEZkSC04cTVYSy0tNDJhaHFuYVdaaFB2UldpMlNhWGZHWmpiVGJqRFQzVDdRTWY1cmRKcmp5WWRWR3dkOHZsZl9nZnRYRFZ2UkdoejVRb0R2eUVvRFloTmZ0elhOX0x0b09kdkhDalptbThrY2s?oc=5",
+   "date": "2026-10-15",
+   "source": "Benzinga",
+   "title_ko": "이란은 화물선이 호르무즈 해협에서 해군 광산을 강타하고 침몰했다고 말하며, 테헤란은 기울어진 해협의 이미지를 방송한다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Container Ship Sinks in Strait of Hormuz After Projectile Strike as Iran Steps Up Attacks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkotb0I2aEV5Z2tmS0FtMFNra3U0ZG5hdHBsS2JsRmVoWTNER01mNE51WVVFcl9taHRQc2pSSXNrSGFqNTJIU2dtOEh5d04wN1VZNDlIbXAtX2gyRkZ2WUlIRHVYbjhQdWdkT0JRdGFJUkJNdklLUnFGOWZoLVVvSXhPY1FrM1FkQjFuVm50RzRUMkpBcjJIOU0ydnNiajJXMkkwZFpEU0RocnZsV0dQLQ?oc=5",
+   "date": "2026-10-15",
+   "source": "The SOFX Report",
+   "title_ko": "이란이 공격을 강화함에 따라 호르무즈 해협에서 컨테이너선이 발사체 공격 후 침몰합니다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Singapore-Flagged Container Ship Carrying Over 2,500 Containers Sinks In Strait Of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHE5S01IcGlOVko3UU95N0JGcXNwMFl0azZyTzRFQnI5eVkxTUJLNi13LXV6Y1ZqZTFkRlBSandXSGswaERTam5uam5uN2xPb1JLSkwyQVFUMHRRVDFHUTV1akw1Z1R3aDg0ZlZRSHlwQTBKVFJkM0ZFaTNfQmNhN1ViNGRYZGxXOHlQMjVrSGc0a1liOXNIQ1RrYUpDNUljeUpr?oc=5",
+   "date": "2026-10-15",
+   "source": "Marine Insight",
+   "title_ko": "호르무즈 해협에서 2,500개 이상의 컨테이너를 운반하는 싱가포르발 컨테이너 선박"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "CNBC Daily Open: A Singapore ship goes down as Hormuz risks rise",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0NVeDk4b0lqVEI2VU95RTRfVFF5SmV6aW9nMFZCdTFiQTFWZTRRSjl4R3d5YXRDRlUyeHNwR1dlcjV4NmZOTGVXWUJjQkJXMmxpVlNIQjhQVVN0RktqMlFOaWpVcEZWbTJBVGFWSkJ2VVh3Zk9RSDVNQTRrR1NPbThNckR0cF9BYi1Ud052TTV2SmNORU11ZEhWeERtak9qNmfSAacBQVVfeXFMT1d4Qm1DVkN0Sm95Xzd0N2RjWE92QVVLczItNm9KbzRlTVAtS1BaNmw1OUdLaDF6cElwZjVScGN3enFyRFBSU2lFY3Z4b3lxSGJXODRkX0s0OXdfNWVRTWZfbmtwZnFzWjVKbUVvTFJrTHlicDNDZDNObkN3ei1sZjhmTmJvaW9IdWt0MW9ZZ0tyY0h2MVBsVnpHN3dRSmdzTlVOMmxzRlk?oc=5",
+   "date": "2026-10-15",
+   "source": "CNBC",
+   "title_ko": "CNBC 데일리 오픈: 호르무즈의 위험이 증가함에 따라 싱가포르 선박이 함락됨"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "US, Iran must agree to Hormuz fertilizer plan",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dzB0THY5UFdwTk1EMksyLUdQak1fa2xiSE5WbkJwb2Y5clVzanE2cFZYVmRPb3pVNi1BT3ZDWVBtU1BrU1dscmpXblN6YzNHYldTVGQxNkFrYnFsckZZ?oc=5",
+   "date": "2026-10-15",
+   "source": "The Jerusalem Post",
+   "title_ko": "미국, 이란은 호르무즈 비료 계획에 동의해야 합니다"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Fire, sinking and reported scramble for cargo: what we know about ship lost in Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS2dmbjRMUzJKY3hINE41N1dkUmhxR0k3UGxqM3JnTnVYMnBOZmFRdmotT1FUaWw1NmxORVh0Y2RialVqR05YSVpMa1E0NnVXM3d0V1N5cjFZeDBZN3R5eEJzbXVEN3Q2V2RvV282VnQxZm1WZVdac3dXLXFpQURnbi0xdVVnU2M4U2hxT1JNM1VsYW1lTGdlbmpyNUFITHRHMEJXeU9lZmZyZmRCSHQtal9JcExTbkh2TFNlZkd0V01Wa0k1eTNENE9Dcjc3bG9Hd2lyNVpaM2dKUzFZOXpBWg?oc=5",
+   "date": "2026-10-15",
+   "source": "The National",
+   "title_ko": "화재, 침몰 및 화물 출하 보고: 호르무즈 해협에서 분실된 선박에 대해 우리가 알고 있는 것"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5",
+   "date": "2026-10-15",
+   "source": "CNBC",
+   "title_ko": "국제에너지기구 (International Energy Agency) 의 보고서에 따르면 투자자들이 중동의 긴장을 평가할 때 석유가 떨어진다."
+  },
+  {
+   "cat": "항만·물류",
+   "title": "US-Iran tensions surge in Strait of Hormuz amid ship sinking, opposing claims of control",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHl1NF9xa3E0Rm1YT1YxWkM5ZFNOZlMxdkUyTmZiVnFGSkNRU0wyOWQ1cDdMdjdULWFZMldhSFVnc2JScVZuLXcxdkJiaUF6aFZjaWNjZ2dzcnM0LTVRN21pbm9paHZpVFpHUmlRa1E0ZGphSjF5OE1YQW5xbFUybW5sYWpobXdsSl93NGoxOTlaZkVIVUlXNnRhdmttVm1uY0k0YlRudTlnR3hheG1paDVHQXM2UTR5Zk1USXlkMUo2d1dXVXJjZ25ZaHVZRENVTGlNdVJB?oc=5",
+   "date": "2026-10-15",
+   "source": "巴士的報",
+   "title_ko": "호르무즈 해협에서 미국-이란의 긴장이 고조되고 있는 가운데 선박 침몰, 통제권 주장 반대"
+  },
+  {
+   "cat": "항만·물류",
+   "title": "AUDIO: Attacks in Strait of Hormuz reach highest daily level since US-Iran war began - ABC News & Headlines – Australian Broadcasting Corporation",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS21PWUs4ZDN1Skkyak4zN0lVY1kzNVROb1JOUFE4bk9DZmpmNlktRXNUeFd4aEZmcmY5eTJCVG5QX1hiWnVWbEc0RUF5M3FwdDhOUVFVM1hJbzFBaUttN3JQV29ZRy1fQjNsTy0ta0xPSGJkSnZSanlySkxKUktfWF81R3psYnl3ak9jMkJTbU1CNHo2SHg5S2g1SndmdHp5azl6Yw?oc=5",
+   "date": "2026-10-15",
+   "source": "ABC News & Headlines – Australian Broadc",
+   "title_ko": "오디오: 미국-이란 전쟁이 시작된 이후 호르무즈 해협 공격이 일일 최고 수준에 도달함 - ABC News & Headlines – Australian Broadcasting Corporation"
+  },
+  {
+   "cat": "경제·환율",
+   "title": "Shafaq News..Iraqi traders count losses after dinar devaluation",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUtkOGZMM2w2MkZPenRiWVJ2VGVvS091RWFtcE9aZ0x3azBaLUJQdU9tYVBxUTJBcE9wWlU3M0NvTDNYOEpEbWlQbW9TMl9aQWtlano0cnBReHpldFpKcTdlSU1KNVU3YkN4SFR0OVFPQ2oycWFTR2NFd2VzZkJkR1NkcEtKQQ?oc=5",
+   "date": "2026-10-15",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News.. 이라크 상인들은 디나르 평가 절하 후 손실을 계산합니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "In Iraq, court rules Kurdistan state security law is unconstitutional",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcElZa3dnMzJaMGdLb1ItSWRHd1VfOFpFSGk0QTNaWXgyYXVaMFF1NXFpckVyd0xBUjdfMFJiUXlHZFAxYkNwSlBSV1pvcVpqaDlXUGd6b2ZVekZuRFUzckl5ZDZfQ0VIbkZpSFlycjdSOGc2c2hCbWl4cUJ4eEhUNUx5ODB2OUFvbHdPUmxJZlV5MHFySUNoOTdQSQ?oc=5",
+   "date": "2026-10-15",
+   "source": "ConstitutionNet",
+   "title_ko": "이라크에서는 쿠르드 국가 보안법이 위헌이라는 법원의 판결이 내려집니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "5 challenges and opportunities for Iraq after the US troop withdrawal.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdVBKOXVkbzl0d0xxQy11RTI3QnhIYXlkTnBEQmNPV2x1VFUwMU1lS0pkdmxkVXRpRkpLYjNHd2F6b2VNVjdibENBU2NwbDFRRXFqQzE0X2dRTmd3cVlUWHFYUEpsNnZ0MXBfeFpxR1BIUHg3TEllemZYTVpCVGNQOXprN1ZqT1pHLUhZ?oc=5",
+   "date": "2026-10-15",
+   "source": "Vietnam.vn",
+   "title_ko": "미군 철수 이후 이라크를 위한 5가지 도전과 기회."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Pro-Iran armed group says Iraq weapons agreement still at 'square one'",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MdlJxNVFBRTVCb2Q0Y1cwRUFsOU8wS1E0LWVPN3N1U1FtUTdfYUhGNlNuYy1vTzgwSU1WdXpaQ0FsWjFHU1RRaGpKdlQwdnpkNk5Va2F5Z1J5NzNWeEctMFpKaw?oc=5",
+   "date": "2026-10-15",
+   "source": "Rudaw",
+   "title_ko": "친 이란 무장 단체는 이라크 무기 협정이 여전히 '광장 1' 에 있다고 말합니다."
+  },
+  {
    "cat": "관세·통관",
    "title": "Iraq waives customs duties on food and medicines",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWRKbHM4V3dqY2Fma3o5VGZrMGprOTdxWkZwN3kwN3B4alh6MWUtR0w1eDdaSl9kdXI5bVhkUEplVzA2Y1BMNHB5UVF2Mk41TXFjV0pCS19TVDc0SGhvLVVKUFRrUml2VjZxT0FzSGd2a0hmN1U2MDZoRGxIM1Yxa3BrSXZiWXNkNkJldG1kOE1USmY0RnhFWVdrcEItMHgyN3Y2b0Zwdw?oc=5",
    "date": "2026-10-14",
-   "source": "IraqiNews",
+   "source": "Iraqi News",
    "title_ko": "이라크는 식품 및 의약품에 대한 관세를 면제합니다."
-  },
-  {
-   "cat": "관세·통관",
-   "title": "الكمارك تضبط حقيبتين من الأدوية البشرية بحوزة مسافر قادم من الهند في مطار البصرة الدولي",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOM0tiOGVaSWFGVzRTdW1EVFVmejRSUHlSZGZHbmstVS15UmtMa3lKSG9vQnh0X0E4ekJtbml3SGZfQ3MwTUU2TmpIMjQ3Q3BucENVU1VBeEZhZW5HWTF3WW9WaHgwLWZrUXpvb0pSVWkzbFN5QzRwckxJaE0tcDdQRThNSmVTMDVDVEZJcHhEOE9VN1FBTG5oYXZjSkJhWGdwR2YzSUc3RXB3VnZ0SlFYeEprLWstT3hJbHdSOXE3aHNVdU5KWWNNRXlkM2lWU3hTcDFCVFNKYlFueEJLemlHQVFWek9SXzRIbmRWekRqUDRLN1JPWC1Dd29URXUtLWZJZ3pVSWJPd0h6MHVqWUpESmZleEQ2UVlFY0h2c1BuQzBLaFRTdl9XLUZ1SXBPVUVXaUQ3ZExSNHNVR1NGTjVqRXk5Rl9oUjE2dmI2WFNrcGxudw?oc=5",
-   "date": "2026-10-14",
-   "source": "ارض اشور",
-   "title_ko": "세관은 바스라 국제공항에서 인도에서 오는 승객이 소지한 인체의약품 2봉지를 압수합니다."
   },
   {
    "cat": "관세·통관",
@@ -34,164 +178,172 @@
    "title_ko": "\"세관\" 은 인도에서 바스라 공항으로 오는 승객이 소유한 침해 의약품 2봉지를 압수합니다. #"
   },
   {
-   "cat": "항만·물류",
-   "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
-   "date": "2026-10-14",
-   "source": "Reuters",
-   "title_ko": "이란은 미국 투표 전에 해운에 대한 공격을 강화하기 위해 전술을 바꾸고 있다고 관리들은 말한다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Two More Ship Strikes Reported in the Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3Q1elZLLXlMWmRiUXpFb3FvV1I0dWlOeVgwQlI0UnpnT2pfenh6VmVHTmxfWWV1LTU4NkZQZTdxVGZVeDd5S0dVM25JVUt1aFhGSTU3WTlGaDU4U2V5cG1jdUxmRG9IckJFZFEzY3F4ZVpjb1hZajRpVFNiU3JVNG5fMFZIT0s3V2ZJQ0ozaEd4S2RVampjQg?oc=5",
-   "date": "2026-10-14",
-   "source": "The Maritime Executive",
-   "title_ko": "호르무즈 해협에서 2건의 추가 선박 파업이 보고되었습니다"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil prices rise after reported attacks on ships in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU9vRWR5S19Bbi1PQzJTMW5nYkozVWU3MHFuQ3ZiMzhjN1FkMEF6MUN2bkEyRWc1Y0VtYWFnRzFMQmUtb25BbXd3emFoUUNlWm5vOGd3QmdVODlBYi1KVm9qYXNubDFFSmllRzQ2dllIRVJkRTFJM0RHUFpKdzAzY3pCY0Y2dVZHaWFIcklndWVVbU5QTVlkcHdYMGpraVdQbHIyQUR3?oc=5",
-   "date": "2026-10-14",
-   "source": "Euronews.com",
-   "title_ko": "호르무즈 해협에서 선박 공격이 보고된 후 유가 상승"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3?oc=5",
-   "date": "2026-10-14",
-   "source": "WSJ",
-   "title_ko": "트레이더가 사우디 아람코 공격 보고서, 호르무즈 배송 위험에 무게를 두면서 유가 상승"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iranian attacks on Hormuz shipping reach highest pace since war began",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXhydXZ6TGc2aXJTMk1YbWs2SjdpQmFmeDBRbWNFMVkxLXBjV1ZxcjNPa2w3Zm00M1dEZXN5MGV1T3MxWVFiUTZ6aUFMUC1rSlNIYlVWYmtGUC1DZnJweEpXblZqRUFScjhRM1VyMGRNQWxHeENpbWxJaDUySjNRSTltMmt0YkRpaks2cmtPb0syNlZwdU9Ia0VOVU5aNGlMSW9ZaHVtNDhkWFRRUG81UG9VSQ?oc=5",
-   "date": "2026-10-14",
-   "source": "Türkiye Today",
-   "title_ko": "호르무즈 해운에 대한 이란의 공격은 전쟁이 시작된 이후 가장 높은 속도에 도달했습니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Another Tanker Reportedly Hit by Unknown Projectile in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1ViTkxRMTR3OGJ6eWdRSm9mR1pWOXlLV2VPZFJrUzc0MVMyS0Q0QlpmTDRMUHcyRUZ6NmxVaUZ2ZHJYTGo4ejRHcU1ObHg5aVAzeVJ4SlVRMnI2QVl3Sm5mTnVRMzUxMnl2LUEwUEpScXFyUTFyWTAwdUxudHc3dVVkbi10NDBIMmJKVzJQX1hEem15dEE?oc=5",
-   "date": "2026-10-14",
-   "source": "WANA News Agency",
-   "title_ko": "호르무즈 해협에서 알려지지 않은 발사체에 부딪힌 또 다른 유조선"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran expanding attacks on ships beyond Hormuz to keep oil prices high; official says full closure coming - report",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTDJ2aU5qczhjVGpIWjk0ZTN1dzBJbVNlZWF5VEFhR3ItMlRBVXZtMDE0RFBUbHRpbHU1M1JxczdHem5ZOXZIcnkxZ2E2UWR4T3EyZTlOaWppYnpjeUdaQ0JKcUd2bmZGM2hmOWpmM0pnbzJQRE9BWk5TVHd0WVpQZWJRbmdkcF9UTkdOcHEyWDcwdDNCT3luSlVNTjFIV0hLN2FZUXJSSEx5bTZ0b0I4cy11TmxVcGZDWTdSdGE5YTNvVksxMG53am5uWkhlYkJoWDVIX0d3VGRzVS1tOEZSX2FndGRuOTJFdFc4QzhCdFNQS2YwUUREcEFXY0xmLW13UnJpM3JsLUNxdw?oc=5",
-   "date": "2026-10-14",
-   "source": "i24NEWS",
-   "title_ko": "이란은 유가를 높게 유지하기 위해 호르무즈 이외의 선박에 대한 공격을 확대하고 있습니다. 관리는 완전한 폐쇄가 다가오고 있다고 말합니다 - 보고서"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Oil prices rise as Iran deploys new tactics to target ships transiting Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
-   "date": "2026-10-14",
-   "source": "Reuters",
-   "title_ko": "이란이 호르무즈를 통과하는 선박을 대상으로 새로운 전술을 전개함에 따라 유가가 상승합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran escalates Hormuz tanker attacks in gamble ahead of US midterms",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wQmxYOERIOGlCRFkyM3FMWjg3eVp1UVpCQm5MdENQdUNBRHBrOVJlU3FzNGR2czNHZzdXd3NjbnVlR204Qkp0TE56Tzk5UVpHcEE?oc=5",
-   "date": "2026-10-14",
-   "source": "Iran International",
-   "title_ko": "이란, 미국 중기 앞두고 도박으로 호르무즈 탱커 공격 격상"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "'We're going to hit them hard': Trump threatens Iran as Tehran escalates shipping attacks",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUVJBSVpMSmRlT0ZIb29BaDdwUVdIQk1qMzBPNWdjSVFCZTdYMVpmTDBUR3dpVDM2R0RDYU02VnY4SHBNQzVzX21fWUxuenNJNExsbHl1N01RTnBoSXcw?oc=5",
-   "date": "2026-10-14",
-   "source": "The Jerusalem Post",
-   "title_ko": "'우리는 그들에게 큰 타격을 가할 것입니다': 테헤란이 해운 공격을 확대함에 따라 트럼프는 이란을 위협합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran Changes Tactics, Targets Shipping to Keep Oil Prices High and Hurt Trump’s Midterm Prospects",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXQ5M2lhajJtVF9nVVpZZTJfZk0wZ3BheHA2RlQtSFFFM1hmbkttZnpQaV9ISW5wVEx1RXhJWW5EZFgxTkIzSndmUG1MU01ETjhjcWM4VzBDanJ4TWJCUHpwTTA1eDRCNVVUOHlYbzZtRDBDM3J2V05oZDhDLXpTenpfOC1MR096bWRYXzFZcVRyTnJQeEhoLU90Y2FQVjRBYkxuNnVpNGo?oc=5",
-   "date": "2026-10-14",
-   "source": "Benzinga",
-   "title_ko": "이란은 유가를 높게 유지하고 트럼프의 중기 전망을 해치기 위해 전술, 목표 배송을 변경합니다."
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Live Updates: Latest from Israel, Iran, and the Middle East",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdlB1WXhFSnRRWkh0VHpkbURzTDFjU1d6bG84UnhRTE9YTE8wcUtwQU4wakxIN3I5aXdUakxvOHBnam9SUkNIb2htZTBrYU84c3JxNDgxVmRmRzZma3M4aWpaSlVxOFFzRTlWZnJERGNkOHNDTm5WejRXSWE4ZXc?oc=5",
-   "date": "2026-10-14",
-   "source": "The Jerusalem Post",
-   "title_ko": "실시간 업데이트: 이스라엘, 이란, 중동의 최신 소식"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "'Aim to frustrate US efforts': Iran's new tactics to target ships in Hormuz; trigger Trump's fuel price worries ahead of midterms | Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQVWxuNlY5VHp4cjVWekVNbjNQQV9GckVUeFVGSktfcUl1T0h6TGQxZ1pBcGZXUnM3WUxsWWx3X1l2Wl9MQVdyVkhVbE4ycldMcGZmWERJbGYwOXNFbjR0WnUtcm01UW1WZ0prN2RJZDB5ZmxjUWdnNWY5bkVOcjNJNjlrelNHcFFBVmNRQkZOLUhPQnV2eG44VktHbmY0N21Eb0hncUQyS0lMcU5TUDlidW9QdWFKZmYxeDVnc0R0bHNmRzdYOXoza1J1WDdQR0xCT2YzX09wTS1HcmwtR2tURVNXbmdDUXVhZ1I5V0pjaFlVWDgwUlQwamxTbVpMTGdZY0M5UE5VRVRmbE1hQUhVeFkybTlFeEh5QXJMaGdSc9IBpAJBVV95cUxNRUxMZG5JVzFXUUN2dDRxVzFXUm0zN2N4RWVKNjdId1l0czJRek9wVW1Dd3h1N2MtNmtGRzBicXZtTFZGWVJmb29nV0Y0ZDlxVHctblpTM2pUeF9uNXhqcERDdlVPbl82Qkl4aFlka0wtQ0Q4TGIzYkkzNmZWQVNPRnRvRkhLa1UwTTNIQ0t0VnpPVVZSS3Q1bG1tV3AzaVBrYS1MemVQejBLUXp0SUZFVVJvOUl3OGI0MGlOSkpyZmtsdjBwQUFLY01lMXlEMWxaTG1iSWloMXQzMVZYSjVxRF9ReHpINUpreGt5c0llSUc3clZwMFAxcGxhSnYzd1BlaldibWJwYllYNHZOanZ2U2dYZHBTWm5RM19TaWt6azFyMFBN?oc=5",
-   "date": "2026-10-14",
-   "source": "Hindustan Times",
-   "title_ko": "'미국의 노력을 좌절시키는 것을 목표로': 호르무즈의 선박을 겨냥한 이란의 새로운 전술; 중간 고비를 앞두고 트럼프의 연료 가격 걱정을 촉발 | 힌두스탄 타임스"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Brent rises to $106 after attacks on vessels in the Strait of Hormuz — Cyprus Mail",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT09pakRNMXVfcHdTczd1cmJKcTRQMmp6Zm05Q0RxS1BGa3R2Q2JvUWgyUDZ6NGJ0UUowMHlQVjRUN1pFcVQ4NXFLMmt5QkxiVWdWOVBFQzJad2RyckIyZUVyalRqVkhmT0RvUF9GU21BOUEyUzk4ZVlfUmtzUy1kdzFNSmhXMlo1eGFCMzV3TkZuc3JFTHF4Wml4MFVZeWJfQ3c?oc=5",
-   "date": "2026-10-14",
-   "source": "UA.NEWS",
-   "title_ko": "브렌트가 호르무즈 해협에서 선박을 공격한 후 $ 106까지 상승 — 키프로스 우편"
-  },
-  {
-   "cat": "항만·물류",
-   "title": "Iran changes tactics for attacks on vessels, officials say — The Japan Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3lyOTVoVVM4ZWJtX0FaZU5ReUV2WmNVMFpqSGRlaGR3MkJxMlZxOEw3NDJHUU1na0o5cHUzcHhoZzFXTUQ1bGJtVnR3TUxuSi1JS1RQaWFwZFB0cWdOckVmSXVheHNHTmE4OTdicVNIS2ZRZHAzTjVlZTFEdy1QZFU2ZVlPLVREZkRBamNaNFMzdGdPcmhOMmJn?oc=5",
-   "date": "2026-10-14",
-   "source": "UA.NEWS",
-   "title_ko": "관리들은 이란이 선박에 대한 공격 전술을 변경한다고 말합니다 — The Japan Times"
-  },
-  {
    "cat": "경제·환율",
    "title": "US dollar surges across Baghdad and Erbil exchanges to 167,000 IQD",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRG1LYzZJVlJxZWFXLVo5Q0dpY05QT2NSQkhWZll2aGcyYkE4cmpVYUpSaXhNeWNqaGpMeTZyZU81RFlXSU9xSDdXcmNrZGtrMjRJaTNMc1RpMnFOV19kWnpxcUVMbURRaE9rdUZGTlR6bWhqZDR4TDZjSm1IUzBpRGg2TjNfbmt3dHJneVBqNjUzRHh0TWVF?oc=5",
    "date": "2026-10-14",
-   "source": "IraqiNews",
+   "source": "Iraqi News",
    "title_ko": "바그다드와 에르빌 거래소에서 미국 달러가 167,000 IQD로 급등"
   },
   {
-   "cat": "정세·보안",
-   "title": "Iraqi Army Brigadier, Soldier Killed in Bomb Blast During Operation in Kirkuk",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUUdzNUJWZlU4QjRvNU90VHlOSk51UEY2aUVHWXF1V2tiY21ZbElwdHRlclFNSUlJOGhFemlKSW04Tl9hdnZodU5VVkFjb1hDdDZrclBUYWdtV1NzREI2cUtUMEZXbXpDNHhhUlRNMTJMSkFZeXdlUjluZl84YVlrUGxpcTI2Z0VFZlQzMHdfaVo2WUYxR1V3b2lCS3NQNkNodm4za1M3WkdXWldWVWJUeU5VXzAyOHZhY1A5T3IzZVhFUHNuYkE0Zw?oc=5",
+   "cat": "투자·면세",
+   "title": "Iraq",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wSTAxNzZYMUJWYmpTVmpaQ1hDN2V6dGlwdWpnSE8yUWtmOU5CTDBLX0g1QTFkMFF6Qm5OcDNxRVdnS2dmZXJLcXpocWdnZWJVSDFCa3RQRjh4bThHd0s2b0JTdHYtS1JvQ2tFZkNuNXpta3NUNTVRUw?oc=5",
    "date": "2026-10-14",
-   "source": "Kurdistan24",
-   "title_ko": "이라크 육군 준장, 키르쿠크 작전 중 폭탄 테러로 사망한 병사"
+   "source": "U.S. Department of State (.gov)",
+   "title_ko": "이라크"
+  },
+  {
+   "cat": "투자·면세",
+   "title": "Iraq exempts food and medicine from customs duties after dinar devaluation",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fVzNWOThsVU10cmQ4Tk5KQU9ranZPZUU3YzBreEY2b2pfVlR0SE52N3A0TmNLSFh6Z2o4Um1FTFVYNkdn?oc=5",
+   "date": "2026-10-14",
+   "source": "964media",
+   "title_ko": "이라크는 디나르 평가 절하 후 식품 및 의약품에 대한 관세를 면제합니다."
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq and US Discuss Judicial Cooperation Following End of Coalition Mission",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEdYeWxUbjZxWnpNNUZ1UDE4RUdobmQ2WlcwMW03MXJwR2JYZ1NhemhqNTZ5RmFnZ0NrYmlGMmFHZlg0V0dlNVgwZmQzbkJiYV9BallqdTVYYTVqb3pEaXZFb1Jfd3ZscUhTN2xtY2xOVzJyNlZkNkZobTJWeEZka2JPYWg0VXNqd1R2Yw?oc=5",
+   "title": "Iraq’s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1ZNUmRkT2VrbHFocU9PMFdSeGNZbThYdnNFUTdWRG9FQS1XWGxSbk11MW11bmFTTjRlelVvVU13MXhXOGpuQ2JlVTRLcjVTeXZiUVlGeTB2eW5ENnpQYWdQd3FVS3g0WmtpUFhlSzZvSDY1dDVKNU50Zi16SGttMDhsX290RVdKZWRpSVVleWRMeEJGLVhyVW9YdmJNVlp0RERaRUd5bV85Zlo3dXJaZDJPSFB0Z9IBuwFBVV95cUxPVTlRWXJDYUUyUS1nZXRvNHdNUXBtMnFZSG5qNWRuZXFDbkxBOG5YMV9uOE03dldfVGdoUXUwdTh3RlNtZVltODVMSWpOWXd4MGViU19VaGpyUGdtZ0hqZEROM1hIVW5sSDZWUngySi1ybHRNWEZJT0FsVGRLVWZURVJOYUZVU3BwUC10N0JqcGFGV2haTURWNXJwSnNOcDJXLVVpeGVLcjNGOElsN1VMMjRQWVFZOFhDX2w0?oc=5",
    "date": "2026-10-14",
-   "source": "The Diplomatic Insight",
-   "title_ko": "이라크와 미국, 연합 임무 종료 후 사법 협력 논의"
+   "source": "Al Jazeera",
+   "title_ko": "이라크의 PM은 사우디 왕세자 이라크 영토가 공격에 사용되지 않을 것이라고 말합니다."
   },
   {
    "cat": "정세·보안",
-   "title": "Iraq and Iran Foreign Ministers confer on regional de-escalation and OIC Baghdad Summit",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXpDN1c0QWM3ZGlObTBQTk5vamZ3bTR2MDJwcU5jYTdDOVlpUVNqXzZUOHFucWZVQ0Nic295a0JpOWtOV1p0a1VyMHNhZ1NJNUY3eTlIM2RKdWk1NnI1dzczUjdQOUFyVmdXYXA5SnRsM18wc054aFN6bm9WVFNHcU85R3h0Si1xM0VxYXgtajZaZXFwaWFiS0VR?oc=5",
+   "title": "Iraq’s Zaidi, Saudi crown prince discuss security as Houthi attacks escalate",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjBSRWF6aG1ucHh1LUEtRWlmRUlPYmprSVlPTVNPQ0E3SW1EUGhsUUtWbnRwLVEyeUJVczNjcHYtXzNoR2lhdUFkM2JPOHVabmlvM0JQclQ4TWk4N3lVWDFraVV0bVVNM3hmbkRNeG42clNwQjB4aFA2N1JNcDlxNWRmSTdrNThTb29Lb3lRZ3NEbmMyNTdoOEZhQ1M0bkhEdnVzV3lxcGd3eVRJRzBwSjQ5VDdzYkk?oc=5",
    "date": "2026-10-14",
-   "source": "IraqiNews",
-   "title_ko": "이라크와 이란 외무장관이 지역 탈핵과 OIC 바그다드 정상회담에 대해 협의합니다."
+   "source": "Al-Monitor",
+   "title_ko": "이라크의 자이디, 사우디 왕세자는 후티의 공격이 확대됨에 따라 보안에 대해 논의합니다."
   },
   {
    "cat": "정세·보안",
-   "title": "Shafaq News..Kirkuk blast kills two Iraqi soldiers, injures two",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTJ6OHhmYlFRS2hvZzA2VDJTQ2JEYnRxeWsxbkh5dDU1dF9jTmtFcmt6b2JpcjEzUVdwOTJwTlNPWWtESlAyYzhKY3Zhd1pqdkt6WmRfZmhOdGRLbVlOcS00THlLTURMcU4zclVSeFg2UWRkYTVSUUF0VWNObnBpUXZCNlgtUjl2?oc=5",
+   "title": "Iraq will not become a launchpad for attacks on Saudi Arabia, vows prime minister",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnBZWlR6bHBHUTcxYUJ3WFBIVUxUOTV5eUlwdGo4OGJJUzEzN05sd1U4NFNzbUNlUGFYSFY0VEptR05YcjYwOTcwQkZIaHdYVTZJakFHdVlpRXdMM2I0QjBZcW5DMU9SdTZhelZDZjg2b2p2U0ZsdUtxS1l4c3NFQ1RPTG9icHhkeDZQd0lhbW1XQ1U3dFg4MHczNmVXMVV1QmN6VGllR0dLZmRpYl9ES2N2UUpKOTdOYm5qMlhwQTNHQ0tYSnR3?oc=5",
+   "date": "2026-10-14",
+   "source": "アラブニュース",
+   "title_ko": "이라크는 사우디아라비아에 대한 공격의 발판이 되지 않을 것이다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq After the US Military Withdrawal: Militia Disarmament Will Decide the Outcome",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVJuSFdXRmhxc0FTamtUODU5TDZoTGZOamg4SzVIVnhSMnFiTFdyLWQ5bEcwZzB5Q2lCeFNKZFEtS3o3ZTFXN1cxUHRQNjB1VGItXy1uUnozRVpyTzhvaW05bkwzUl93UGlIVTlFRDFvWElYb0doZzh3OG9udFVFNXRlX2hGNm1DLWhTU0s1bjQ4TTFNMXY4Y3B2a2JaTjFIMVBkSVVNTGJSdmFvbmg3ZEtobEJycTMzTXc?oc=5",
+   "date": "2026-10-14",
+   "source": "19FortyFive",
+   "title_ko": "미군 철수 후 이라크: 민병대 군축이 결과를 결정할 것입니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq vows to prevent attacks on Saudi Arabia from its territory",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzNCLXo5bnV2czQ5cFc0SC1OX3pPUk5WaXhCcU5USTIyN2lFOTg2R1JpYk5wal9HQUZsU3J2UnJhYzMzZWp1WElwTTJjczRBNzNwaXhFSWJaLXphWlZzaTZkR1NsbzRJNHRDMmFjQ1l5T3c1N1E4dTIzQWRDZjRYNkg5cThfWGVLVE1uOUpyZw?oc=5",
+   "date": "2026-10-14",
+   "source": "Middle East Online",
+   "title_ko": "이라크는 사우디아라비아에 대한 자국 영토 공격을 막겠다고 맹세했다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq vows not to allow attacks on Saudi Arabia from its territory: Prime minister",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckNiN0FhN0FLNW1BNEl2VU5SNkJSaEZ4SlJVMzZPZldrYUZHdXFLTExoZ3BjVVYyWkRjMVktdzFFUTFSVm1ScjF1LUpwaVpqbVd5Tm5rZGkwU3E0OW5uRlB2QnppdjFLeDJfczMxbTByLWozSUh6WGxDcm0yN2hRTVVfbzVhbHBkMVFtZmVqQXlaYVdIMzZCS1l3V2p4dk16aUh5UzBqXzNfRjkxMGR0b0Fpb05vOGRjMlp1TFdXRGlMV00?oc=5",
+   "date": "2026-10-14",
+   "source": "Anadolu Ajansı",
+   "title_ko": "이라크는 자국 영토에서 사우디아라비아에 대한 공격을 허용하지 않겠다고 서약: 총리"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraqi PM condemns Riyadh airport attack",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbU54dW9oakcyOUFmNkJHSnZMUmliVFZqa3pqYzdnd2l4V3NMdVEzUUJPMGFvRG9nM0pKaGhNdlUxRGt3UDF3U3Vmd20xQTA1a1RRYURBcUJwWE5VckZTM0w4djVUcXVGWFZRcFJQTC0wYWRoUVRDTTRyV2ZiOS1ZLQ?oc=5",
+   "date": "2026-10-14",
+   "source": "Iraqi News",
+   "title_ko": "이라크 총리, 리야드 공항 공격 규탄"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Barrack, al-Zaidi Discuss Iraq’s Difficult Path to Stability",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTXB2ZTBIV0hPd1BfYURHWWE2dXFKdl9vRVZLSmxLYnU1cUlxOVVNMXVmMEVuNVIwX0xQNGVrUzRLV1gzdEhTOHZqQnV4RzVMaXlLSndac2JtRzBTUlhXYVkya29XcHpTd2lNSFh3MnBHWFRYNXMtQ2thQ1ZtbFpMdGtKYjc5NHBoV3RSdjA5UTlmRUpNaWJQNE5yc0ZKdC0wcVZhNl9lczBZMVVBVksw?oc=5",
+   "date": "2026-10-14",
+   "source": "ASHARQ AL-AWSAT English",
+   "title_ko": "배럭, 알자이디, 이라크의 안정으로 가는 어려운 길에 대해 논의하다"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Two Iraqi army officers killed after explosive device left by ISIS detonated",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3JOTG1DTmk1X1huQ2RLVnV5dE5FRVJlVFJyNHRVUmx6WHh4WUh3NnRodXJtY005WXdxVWpGamNBSm12VnRCOXpoQk9TMDktMHZqTlRRMklkcTRUSE42RnczMU01cjVYUlIwVl83QXpQM0JTOXFUQVVWSWlCSHhDeTdQNERrMFduNzRCLUkxeEM0dy1jbDhtaTV0WW5xMElVakI1Qk5odlE5QzY1?oc=5",
+   "date": "2026-10-14",
+   "source": "Iraqi News",
+   "title_ko": "ISIS가 방치한 폭발 장치가 폭발한 후 이라크 육군 장교 2명 사망"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq’s Prime Minister arrives in Riyadh for major Saudi visit amid escalating regional war",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTlWNUNPUVI2QkNKelJGTTZRd3FlTUJiMU93NmMzaVVhVE1xOXV5UzBjSFJDczF6YkhMZmwzanFBanVMdHJyclUzLVRzdHNtTDJ0VmFkaENOTVJxNFE2dUtZV1Q5SUZWU284aHVfVjd2Mjh6eDhjelkwRlhlNmJ5c0VqUzBIQzV0Qm9fN1RrdHZfazBVUEZYZ1lmeGhobEZjTkdiN2JpRExtSWxXMjdfNTJvMTNLNTJkMFg3Y2xB?oc=5",
+   "date": "2026-10-14",
+   "source": "Iraqi News",
+   "title_ko": "이라크 총리가 지역 전쟁이 격화되는 가운데 주요 사우디 방문을 위해 리야드에 도착했습니다."
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Iraq’s Oil Minister joins OPEC+ and global energy talks in Riyadh",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXNmb2M5RWhRbzlkbVEwaWdYRHhrWkgxZEFMazhMekFjY3U5RC1kTE5tTWtTNk05Z29Ea0dhcGFpemFJRHY0U3gwNjR3NGkzdUUzX2xDdGhHeVRULU5Tb3BNeHFabEo4YlNyRUxHQXdjcWFWdFUtRGduTHM2VnBpYWFLanNoM21rU3Vpc3RLRUc2eFVGNDB2b0hfOA?oc=5",
+   "date": "2026-10-14",
+   "source": "Iraqi News",
+   "title_ko": "이라크 석유부 장관, 리야드에서 OPEC + 및 글로벌 에너지 회담에 참여"
+  },
+  {
+   "cat": "정세·보안",
+   "title": "Shafaq News..Kirkuk roadside bomb kills three Iraqi soldiers",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOGR3dnh4ZzZlVlpSWGlvT1g4M1VxNzRaQ0VELVVpN1o4QXpjU1M5dmtrMGNqM01DTEUxZ2JKSDlpYTFzWmZ3SVowQVBZQXlGbFlOTFJwTTItWExiallNSXlqTmd3Rzd2NHJSRF85b0lhSmg3dkN4UWVHRjhIcFFJeDgyQ0M?oc=5",
    "date": "2026-10-14",
    "source": "شفق نيوز",
-   "title_ko": "샤파크 뉴스.. 키르쿠크 폭파로 이라크 군인 2명 사망, 2명 부상"
+   "title_ko": "Shafaq News.. 키르쿠크 도로변 폭탄, 이라크 군인 3명 사망"
+  },
+  {
+   "cat": "종합",
+   "title": "$250m Kempinski Hotel Complex Proposed for Iraq",
+   "url": "https://www.iraq-businessnews.com/2026/10/15/250m-kempinski-hotel-complex-proposed-for-iraq/",
+   "date": "2026-10-14",
+   "source": "iraq-businessnews.com",
+   "title_ko": "이라크를 위해 제안된 $ 250M 켐핀스키 호텔 단지"
+  },
+  {
+   "cat": "종합",
+   "title": "Iraq-China Investment and Trade Talks",
+   "url": "https://www.iraq-businessnews.com/2026/10/15/iraq-china-investment-and-trade-talks/",
+   "date": "2026-10-14",
+   "source": "iraq-businessnews.com",
+   "title_ko": "이라크-중국 투자 및 무역 회담"
+  },
+  {
+   "cat": "종합",
+   "title": "IBBC Appoints Two New Advisory Council Members",
+   "url": "https://www.iraq-businessnews.com/2026/10/15/ibbc-appoints-two-new-advisory-council-members/",
+   "date": "2026-10-14",
+   "source": "iraq-businessnews.com",
+   "title_ko": "IBBC, 두 명의 새로운 자문 위원회 위원 임명"
+  },
+  {
+   "cat": "종합",
+   "title": "JICA in Talks with Iraq on Solar Projects",
+   "url": "https://www.iraq-businessnews.com/2026/10/15/jica-in-talks-with-iraq-on-solar-projects/",
+   "date": "2026-10-14",
+   "source": "iraq-businessnews.com",
+   "title_ko": "이라크와 태양광 프로젝트에 대한 JICA의 대화"
+  },
+  {
+   "cat": "종합",
+   "title": "Customs Duty Waiver on Food and Drug Imports",
+   "url": "https://www.iraq-businessnews.com/2026/10/15/customs-duty-waiver-on-food-and-drug-imports/",
+   "date": "2026-10-14",
+   "source": "iraq-businessnews.com",
+   "title_ko": "식품 및 의약품 수입에 대한 관세 면제"
+  },
+  {
+   "cat": "종합",
+   "title": "NEOM-CEVA MoU Targets Europe-Iraq Corridor",
+   "url": "https://www.iraq-businessnews.com/2026/10/15/neom-ceva-mou-targets-europe-iraq-corridor/",
+   "date": "2026-10-14",
+   "source": "iraq-businessnews.com",
+   "title_ko": "NEOM-CEVA MoU, 유럽-이라크 회랑 공략"
   },
   {
    "cat": "종합",
@@ -243,14 +395,6 @@
   },
   {
    "cat": "경제·환율",
-   "title": "Iraq changes bank card limitations for use overseas",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHJMM2xxZXBIXzdsTThBYkRUN3o4SlBsNTV6MlA2S0xLRmdTV1lJVUszenN6U2VieXBORC1SbXB4bnlZTERGRS1WandhekZKWjU2UkVmbmdwNTNnS2MwWW5odjVETERHcUV2bVl4WWhHQ0RIYlVKTmZXUkhTVFpydG05Sk9NZTFzSWNv?oc=5",
-   "date": "2026-10-13",
-   "source": "IraqiNews",
-   "title_ko": "이라크는 해외에서 사용할 수 있도록 은행 카드 한도를 변경합니다."
-  },
-  {
-   "cat": "경제·환율",
    "title": "CBI: Our responsibility is to maintain the value of the dinar against foreign currencies » Iraqi News Agency",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVk2Vk1QdXdhZXRQZm5mTENiWVpONWt6ODhpZXVMa0h6bDJpZkVrdlpYV1g2UmhDVWVkNExiclJKNE1mOGhyZ3lGbVNrclcxcmtDck9GdFVnbkxFZk54dko3djhJdVM5b1htOGxLQTZLR3h0aXowVEtuYTl2NGp1NUVOVklFaWlXdGgtQWxyS0gydktseFpXQW8yNUNiV21PYmI3aDJqbElxU3VvQ1pHalgtVWE3bmV6cm9NZm5xZW9RQQ?oc=5",
    "date": "2026-10-13",
@@ -274,108 +418,12 @@
    "title_ko": "Shafaq News.. PM Adviser: 이라크는 평가 절하를 완화하기 위해 연료 보조금을 유지합니다."
   },
   {
-   "cat": "경제·환율",
-   "title": "Iraq on edge after the US exit - World - Al-Ahram Weekly",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlM3cTFBazlTcXJEdEFlOFd4VWkyYkJ6eVNZQjJQQjVkcHZoWFZXWTRpaTk2d1hLQnFsZllIYk9ocW9yVmtuVmNDWUtraXFTejZRXzFuMFB1M3JLWUVEbUY2M2ZjWERxZmFpamF3OVNWS0tuUG1LaTdJTDRlX1BURmpaWWhaUEhzZU1zd2Q5SlBvUHl5TG9hd0NEbTNTYnlSM25vazRoeFBzV1ExaDJIZEh3?oc=5",
-   "date": "2026-10-13",
-   "source": "Ahram Online",
-   "title_ko": "미국 탈퇴 후 가장자리에 선 이라크 - World - Al-Ahram Weekly"
-  },
-  {
    "cat": "투자·면세",
    "title": "Shafaq News..Customs exemption covers food and medicines in Iraq",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbXBjbkhqQW5RR3duWXFfNGw5c1ZiZGYtRDZ0ck9ialA4eFF3c3p3WDViRWVqWGVrRlhOSTdrd3YzNWpZblN0c2ZTRTNrWE9sM0R1YmFnaVZXWWZpQjBEbkg4ZDVxUk1CSHQ3VHQ3ZmJPMUh6d255Y1l0cldQdlFwQVp5eUs?oc=5",
    "date": "2026-10-13",
    "source": "شفق نيوز",
    "title_ko": "Shafaq News.. 이라크의 식품 및 의약품에 대한 관세 면제"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraqi National Security Advisor outlines strategic neutrality at MERI 2026",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXZLTUloNHFpeUJMMUtPTVlhbWZzeFMwaG5rODBEenJKVTNkczlOb2FIVVBSa0RNNldmM0M0Xy1BeHJWTTNmcEdEQ1ZSZDlrTV90ZTJzQU13NE9OaWJFUi1Id1c2eEJYWG5yY3psRGNzdm1GVmZiREZxNWVVQXN6X2hsbGpZQTFCQ09OMmEwQmFYcEdOUUx2ZDVwcw?oc=5",
-   "date": "2026-10-13",
-   "source": "IraqiNews",
-   "title_ko": "이라크 국가안보보좌관, MERI 2026에서 전략적 중립성 설명"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq faces six-month air defence gap after US-led coalition exit",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmlpTXRRdU5jcFJhLTdSaDFhUExWUU9jd2dxUjVTdm1IR1liazlpQ1BhbXNIWEF2V0FGRG1GOHFLSDY3ZkZ3Q3JyTVRfUnVNVlhTdVROdXVfVHJBQlFtNXJSN1dKSzB6bWpfeFJwTWVIYWxNcVBBTGtoWHJRdTNlLWVuanBEbTJYRzFrUFgwXzlsdTkzZkdsUA?oc=5",
-   "date": "2026-10-13",
-   "source": "The New Arab",
-   "title_ko": "이라크는 미국 주도의 연합군이 퇴각한 후 6개월간의 방공 격차에 직면해 있습니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq’s supreme court rules Kurdistan state security law ‘unconstitutional’",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pZjdBSnpSajZaRF9aWGJVcGNPcE00M0N4SGpTb3g0SzJpTjFVbHhrZGRWMHhvbDhGOUFOajZVSm9KR3hCbXQyVGhYMA?oc=5",
-   "date": "2026-10-13",
-   "source": "The New Region",
-   "title_ko": "이라크 대법원, 쿠르드 국가 보안법 ‘위헌‘ 판결"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraqi PM prioritizes national sovereignty, regional stability in Iraqi-Saudi ties",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFlTC1nUm5NZHo3UnUyelI0S0RQcnlSeTZUTXpUZC1rUkVDWlFWSmUxaF9QRVQ4MjBsbHY4T0M0Sm5xYmtCOUs4Ql9NM0gzNTlmSW5ubHBQSGY4dzdMTzYzandyZlhMejlkcnlGNnB6bjR3NmpVdExKaGdKVFFKM095V056S1hScmxXaUhKdlZFUXFIS2c0dGV0QnhIUHNWX0s1b1RJOXBDWWhYcG0zbVRB?oc=5",
-   "date": "2026-10-13",
-   "source": "IraqiNews",
-   "title_ko": "이라크 정부 관리는 이라크-사우디 관계의 국가 주권과 지역 안정을 우선시합니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraq and Saudi Arabia: Toward a stable regional order",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc191YVI5dU1SeHpVc3M4UzdENS14RlFKb3l0bjZCWC1TMTU3RjV4Z3hOd1BIVUExQ0xSckk2eDh3NllCenFNWjh4S3F0ZmEyeUNNQVE5UFQwQTFIODUySnhvdWNydXF2Q2Zpd1VBcnVham5sRDg1aXI1UEY1dFVXSkNpVWJlemZUem5sZU56Qmk0cW1RMnVsbg?oc=5",
-   "date": "2026-10-13",
-   "source": "Arab News",
-   "title_ko": "이라크와 사우디아라비아: 안정적인 지역 질서를 향해"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Iraq detains 74 border infiltrators, advances security wall",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjg4LW9RVFVLY2UtUFpiNVRLbkU4bHQ1WlNFcllrQWZCcWdxWmdIM2s5S3NpbXgweDVpeXY3WTVwWEZFbVVaclcyWjZmSmZlbW9kSnZJSnU5ZHRBUkFfeGJGZTZqWjdCNnc1Vm5kU2pRU3NrU2c2eVI3SVQ1b0NsSUtUclBFcW5RM1pFWUJBWUphWGM?oc=5",
-   "date": "2026-10-13",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. 이라크, 74명의 국경 침입자 억류, 보안 장벽 강화"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..MERI 2026: Iraqi officials warn of ISIS threat after Coalition mission ends",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzg3OWhheV8xYVloc1NwQkdXNkRWNWpRVExVSG1mYUZ6eU5ab0Nxa2hCYjhVbE0zUS1IQnppeGJBTVNkNkNlTUtkVjZ6NWk1d2s3SkZJMGk0NDVCcEl3NHFvRzFsNHhjU0ZJd21sREdPMW9fTW4wQm52YWxpSXNraDNLMmVFcXFtM1NSX0Q5LUJTWEFKMHF4ZFBZbjJrTjh2VkV3c0FJZjk?oc=5",
-   "date": "2026-10-13",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. MERI 2026: 연합군 임무 종료 후 이라크 관리들이 ISIS 위협에 대해 경고"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..Iraqi warplanes strike ISIS hideout in Kirkuk",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcThSZ21od0ZrQS0yYTk3eXBFWGpQWkMtcnhJMURUTDB4U3FkSVNTNnJhRUtEeVhoeC1nX0o5RUxVdGtURFZjSjVkVzhSNG5ZbmhFWDJ2Y2g5MFBFRGhFY056azBFYnJwMDEwMndtaXctQXZadDVEaDhFdTNKdVB0MXdn?oc=5",
-   "date": "2026-10-13",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. 이라크 전투기, 키르쿠크의 ISIS 은신처 공격"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Shafaq News..MERI 2026: Iraqi military vows to bring arms under state control",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbzBLRnBNV3ZlMjdCdXRyemEyNHdBQlRibHMyYTREUUhLSURrWnVNNFlUQXVFTU1oS0hsMlhyTW94U3pUTTEwWTgtNjI3WVZOVkZ1aFBFN1VTZjJoSXpLOG1lMHJVSHlhOWltSVM3MUZiVHRVcFZuTzlWcFVqaG1UWmtIckpwd0YtTFp6UjRITlo3ZUNLcmZwZlB3?oc=5",
-   "date": "2026-10-13",
-   "source": "شفق نيوز",
-   "title_ko": "Shafaq News.. MERI 2026: 이라크 군은 무기를 국가 통제하에 두기로 서약했습니다."
-  },
-  {
-   "cat": "정세·보안",
-   "title": "Iraqi prime minister, U.S. envoy discuss bilateral ties and regional stability",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BZERVMl83ekJ3elU0R2d4THJ5VTVOa1lPbEpnVFhiSmY2cjByZUNSOElGakc2cjEwYWt0V0JQbzZIdHRWMkVlbS0tLS0xeHJa?oc=5",
-   "date": "2026-10-13",
-   "source": "سانا",
-   "title_ko": "이라크 총리, 미국 특사, 양국 관계 및 지역 안정 논의"
-  },
-  {
-   "cat": "정세·보안",
-   "title": "US envoy Barrack hails ‘productive’ meeting with Iraqi PM",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04RHZIb2pqOHZITUhuODZVU29EdW0yR0Y5UnlwYzFfOUVac2J6UjFoTUlqSHVseUpFbUZmSVNRcVVzV0duckdaSlZnYw?oc=5",
-   "date": "2026-10-13",
-   "source": "The New Region",
-   "title_ko": "배럭 미 대사, 이라크 PM과 ‘생산적’ 면담"
   },
   {
    "cat": "종합",
@@ -412,7 +460,7 @@
   {
    "cat": "관세·통관",
    "title": "Shafaq News..Iraq's customs revenue rises 32% in September",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlVDbDN5VW1seVVLdnhQMW1xSllBTXhuQXo0S3hxOW9YSV9NUkRyRDQ0V2F2cUJXSU8xX2ZFS2oyVGd1LWJUdmV2N1dKQTUzNzFjNnlNc0xmQ01haHYwaXVoY0JTS1A1bjBBbFZoSjFOS1l3ZTR5UTJtQ3RtTGswQXZfN1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ed18wQ2FiajNsZk1YNld6UmZET3RZcVBkMW1NZEJZNEp0YVh1Q3dLaVFsLU40Z3RrVkNYYzNQU3lFMEplX2I3WUJuVzIzSzBPYkNrZC1NM1gxWU5Ed2x5ZTN3M1d1SGlFZ01hQ29tVUxhUkZYN1lDekVEUTFNcDA?oc=5",
    "date": "2026-10-12",
    "source": "شفق نيوز",
    "title_ko": "Shafaq News.. 9월 이라크 관세수입 32% 증가"
@@ -450,14 +498,6 @@
    "title_ko": "이라크, 이란이 호르무즈 수출 요청에 응답하지 않았다고 말함"
   },
   {
-   "cat": "에너지·전력",
-   "title": "Iraq to increase electricity imports from Turkey to 2,000 megawatts",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1JEcVBjdUpoZ1NIM1RCdmJtMjI3OFY2VENWTHMyLW5rN1p1NVF2S0dCcWE3Q25sLXZSY2U5bWw5WkdLZFlqU2lGdHJZbjVEcXh0Q0dLUjM4dUdGRUNMcDJOU1BLTW1NaUJyallMalZOYmxuLTFpWjJCMktjREFJX3gwZXMyOVZQcmZuUkhfb3lFeHo3aHI2VjVsVXBRNWc?oc=5",
-   "date": "2026-10-12",
-   "source": "Iraqi News",
-   "title_ko": "이라크, 터키에서 2,000 메가와트로 전기 수입 증대"
-  },
-  {
    "cat": "종합",
    "title": "Australian Businessman Freed After Five Years in Iraq",
    "url": "https://www.iraq-businessnews.com/2026/10/12/australian-businessman-freed-after-five-years-in-iraq/",
@@ -474,30 +514,6 @@
    "title_ko": "이라크 투자법 변경안 제안"
   },
   {
-   "cat": "종합",
-   "title": "Iraq and World Bank in Talks on Procurement Reforms",
-   "url": "https://www.iraq-businessnews.com/2026/10/12/iraq-and-world-bank-in-talks-on-procurement-reforms/",
-   "date": "2026-10-12",
-   "source": "iraq-businessnews.com",
-   "title_ko": "조달 개혁에 관한 이라크와 세계은행의 회담"
-  },
-  {
-   "cat": "종합",
-   "title": "World Bank Discusses Support for Iraq's Electricity Sector",
-   "url": "https://www.iraq-businessnews.com/2026/10/12/world-bank-discusses-support-for-iraqs-electricity-sector/",
-   "date": "2026-10-12",
-   "source": "iraq-businessnews.com",
-   "title_ko": "세계은행, 이라크 전력 부문 지원 논의"
-  },
-  {
-   "cat": "종합",
-   "title": "Russian Business Council \"eyes Kurdistan as Gateway to Iraq\"",
-   "url": "https://www.iraq-businessnews.com/2026/10/12/russian-business-council-eyes-kurdistan-as-gateway-to-iraq/",
-   "date": "2026-10-12",
-   "source": "iraq-businessnews.com",
-   "title_ko": "러시아 기업위원회 \"쿠르디스탄을 이라크로 가는 관문으로 본다\""
-  },
-  {
    "cat": "경제·환율",
    "title": "US dollar stabilizes near 164,000 IQD across Iraqi exchanges",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2dCTmstYmFOd0ZpVHdXSVhvd1RLLWZpOWRHeVVzNHU2Nm0wR0pZN2NObGhBUXJua19JSU41N2ltczA1Y1EwRkdBbEJlOTl0dG50WHFJZEdhNW5JNGZ2Q1JVODZDdXpMcl9mLU1LUTdtWXBVVElIc0hkZ3lQODg2M1E0WkFDa3FQZnVUT3l3SVNhejlFN3NF?oc=5",
@@ -510,7 +526,7 @@
    "title": "Iraq’s 2027 budget faces 50 trillion dinar deficit amid ballooning payroll",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzM1T2VqYzQyYWU5UWJLU0wydG9sNkhJSTI3dGNTTjdnYm4yZzg3MU9iMW5kc3lOQjBWVHBYRDJiQWJ3TUk3bktabEZBOWtFTEdmc2hWSURhU01WTllfNmFFQy1oWXY0MWJmbG8zeUZYS1hpbDktNTZwbUlmSmZMZV80SzlZUjRfaE1kMlR3bEZYZUFXaVU1bERJeWFJdlhKSFUwNUtBTlp1VzExMjI0?oc=5",
    "date": "2026-10-11",
-   "source": "Iraqi News",
+   "source": "IraqiNews",
    "title_ko": "이라크의 2027년 예산은 급여가 풍선처럼 불어나는 가운데 50조 디나르 적자에 직면해 있습니다."
   },
   {
@@ -530,6 +546,14 @@
    "title_ko": "Shafaq News.. 이라크 국회의원이 연방법원에서 달러 인상에 도전하다"
   },
   {
+   "cat": "경제·환율",
+   "title": "Shafaq News..Baghdad bars security forces from currency market interventions",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT211YjRZSzJpZ0NCV0F5OXA1UGVTX2JHY21YU0FxTFI3SVFlUHVSMkJXeWl4ZFBvR1ZpVlZ1YlRxTlJMUTRPZUFHNmx2VVpUNFJySHFUTXFHUDU1MWh3YmJNbHN4VlJ4Ykc5d1RVQnZnb3YwNGp2Vl9hcnFoWndWd2ZGZDVaM29ENU5CVjk5cDFCWW16aTVtQw?oc=5",
+   "date": "2026-10-11",
+   "source": "شفق نيوز",
+   "title_ko": "Shafaq News.. 바그다드는 통화 시장 개입으로부터 보안군을 막습니다"
+  },
+  {
    "cat": "에너지·전력",
    "title": "TotalEnergies CEO visits Baghdad to meet Iraq PM for oil and gas investment talks",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW9IS3hFbTVvdjVrXzBCYndjN3ljZUVFcS0wMlhBOTJady0ycWhVZmVKTl9iSzNLZThxeVhOSkRnbTNPOV9odGhnUEhLMHQ0cEdHTEZrQ2pXV2IzSE1PbzRIa012UjdkeXJGdWI5ZHNIU2JtU0xFM3VSM0V6WnY1VXhwLVpNamR5UDdscTBmM1dtMnJ6MHhJN0txb0NpVldxLWVWMy1tTWxZaTJmMEFOYWctcw?oc=5",
@@ -538,52 +562,12 @@
    "title_ko": "TotalEnergies CEO, 석유 및 가스 투자 회담을 위해 이라크 PM을 만나기 위해 바그다드를 방문"
   },
   {
-   "cat": "종합",
-   "title": "Contract for New Residential Complex Signed in Baghdad",
-   "url": "https://www.iraq-businessnews.com/2026/10/11/contract-for-new-residential-complex-signed-in-baghdad/",
-   "date": "2026-10-11",
-   "source": "iraq-businessnews.com",
-   "title_ko": "바그다드 신주거단지 계약 체결"
-  },
-  {
-   "cat": "종합",
-   "title": "Seismic Survey Contract for Sasan and Alan Fields",
-   "url": "https://www.iraq-businessnews.com/2026/10/11/seismic-survey-contract-for-sasan-and-alan-fields/",
-   "date": "2026-10-11",
-   "source": "iraq-businessnews.com",
-   "title_ko": "Sasan 및 Alan Fields에 대한 지진 조사 계약"
-  },
-  {
-   "cat": "종합",
-   "title": "New Initiative to Strengthen Farm Management in Iraq",
-   "url": "https://www.iraq-businessnews.com/2026/10/11/new-initiative-to-strengthen-farm-management-in-iraq/",
-   "date": "2026-10-11",
-   "source": "iraq-businessnews.com",
-   "title_ko": "이라크의 농장 경영 강화를 위한 새로운 이니셔티브"
-  },
-  {
    "cat": "관세·통관",
    "title": "ASYCUDA significantly boosted customs revenues: Iraqi official",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnpWcUFybUVzbWZ0cXRwQUsxVzJ5WXRRYkZQMVg5MUJpcXRfWGpOYjR5cm9BWW5mWjJKZjUyVVM0R0h4UURtWXJ6dHhyRGlkbUxjSXZkbkpjem4zTm9vWllfOTRTdEotNW9UOTEyOVBiUVhXWkRhNlp6d3J1cFUzMDc4U25UZGlFYVNReDZvYTNIYzBDdlhJRl9iTXJ1QQ?oc=5",
    "date": "2026-10-08",
    "source": "The New Region",
    "title_ko": "ASYCUDA, 관세 수입 대폭 증대: 이라크 공무원"
-  },
-  {
-   "cat": "자재·건설",
-   "title": "Cement and steel prices rise in the Kurdistan Region after Baghdad ends cheap fuel for factories",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUJFM3VIRFhHc1pSdGduQmpDRUVldjVWdWFLalJaZGpaR3FBN25sYmVfTFh2M20zVEVVakNVRGFfR0c3ay1iNW5DODFvRE5BZERSY0dkeEk0NFBrZThUQW1vWGtja3JoYWlaSWZKSkpWam53WERickdkWWFQWnV2R3F0RG4wQ2NWdVpJanowVHpzeWhnSUVMRTNJMVRLN3VmMVVDSXFaN0hod0E?oc=5",
-   "date": "2026-10-08",
-   "source": "The Insight International",
-   "title_ko": "바그다드가 공장을 위한 값싼 연료를 끝낸 후 쿠르드 지역에서 시멘트 및 철강 가격이 상승합니다."
-  },
-  {
-   "cat": "관세·통관",
-   "title": "Iraq officially devalues the dinar to 1,500 per USD",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3UyemMxTzF4U2I1OWlKeXdRd3ZuZHNVM2FLeWU3cUktTThmb05PLXNDWWtrd25mTGxyaUtxMzh4ZUw3X0o5OFROU3N0U2RmcHNZdjhrM0I0Rldnck9QdkNJVGpOWHBqcWRINnlGcF96UEtzZHFCNWF3S1B6UjhOT3lTaGd6T2xYVFNBa2IxU1B1aGpZLUNzVmIydzAwTC1zTms1SWZGbw?oc=5",
-   "date": "2026-10-07",
-   "source": "IraqiNews",
-   "title_ko": "이라크는 공식적으로 디나르를 미화 1달러당 1,500원으로 평가 절하한다."
   },
   {
    "cat": "관세·통관",
@@ -602,44 +586,12 @@
    "title_ko": "세관: 2026년 동안 매출을 3조 디나르로 올리기 위한 ASYCUDA 신청"
   },
   {
-   "cat": "관세·통관",
-   "title": "Customs: ASYCUDA System Raises Revenues to IQD 3 Trillion in 2026 » Iraqi News Agency",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzdxYVpqX3NoQnRUeURJbEFmWDh1UjZueGJPVklTMktHcC1ERnBVNmI5QnVSMmtvNldLV1lmUXlGeE9EOVVaald0VUxLWHZPZEVRVEcxbHl6YktCenhVYnMzTzZJOExJRmQ2OTlFUS1FQnViWHJCenFSN0tYaFM4QzJQenJ0cUViN2g1WHdXTlAzcU8zQXM2VENkampubzlH?oc=5",
-   "date": "2026-10-02",
-   "source": "وكالة الانباء العراقية (واع)",
-   "title_ko": "관세: ASYCUDA 시스템은 2026년 IQD 3조로 수익을 올립니다 »이라크 통신사"
-  },
-  {
-   "cat": "관세·통관",
-   "title": "هيئة الجمارك توضح آلية العمل الخاصة بالتحويلات المالية لأغراض استيراد البضائع",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHTVdWdFFVN0l2WHZDTnh0MndQTUNpdHBXdWlfRzlMU1l1T3FHYjA0RkFkQ3lmcWxNYm5lQjltbHRiOURZUi16dFdMY0U?oc=5",
-   "date": "2026-10-01",
-   "source": "وكالة الانباء العراقية (واع)",
-   "title_ko": "관세청은 물품 수입을 목적으로 금융 송금을 위한 작업 메커니즘을 명확히 하고 있습니다."
-  },
-  {
    "cat": "자재·건설",
    "title": "ORA Developers awards construction contract for Iraq’s Madinat Al Ward project",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWUdzc1puN3BwUTJ1aDB4d1JjUjdlOVVnLXhvbHBqX2E5VU43TXdpVlNsZG0tQk9oSldienBrSjF6bzZBU1RRYnJCbzRnc0V4a3BmcDBya2ZBRGxCS2dDVEpuQkQweXp0Z0NTTzdjU3J5MG9vaXZGcGtNdXk5ekQtQ1pJVXE1NnZpOEV2SGx4S3JEOE9OY3VaQWw4UGJjN24yZGNGeGUzVXYwSFFvYmZnVmdJRjQ3SUlQRU1GVEttRXFmN1g0YUtnQmllQ0V2Um5rNEVkbzNLYXNJY3lkLTNpMmRkY1ItN01rTVE?oc=5",
    "date": "2026-09-30",
    "source": "TradingView",
    "title_ko": "ORA Developers, 이라크 Madinat Al Ward 프로젝트 건설 계약 시상"
-  },
-  {
-   "cat": "투자·면세",
-   "title": "2026 Investment Climate Statements: Iraq",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aS0dIT2hnT0hBR25hMFNVLXYtV3R2M25aQkJvbFNjdkVEbHczUlYwdGg5OVlScWdoUW5rQ0xyTnZabnAwUm5vbEoyN1c2bmNuNG9FTkhLRXVnVlpWWWNDbmJId1BBU2NyaVNfNVNtMGtlN3FhSzlDUURR?oc=5",
-   "date": "2026-09-29",
-   "source": "U.S. Department of State (.gov)",
-   "title_ko": "2026년 투자 기후 보고서: 이라크"
-  },
-  {
-   "cat": "관세·통관",
-   "title": "فيديو | هيئة الكمارك: العراق يصدر إلى الخارج نحو 90 مادة من بينها أدوية الى سوريا والاردن",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GblNkSHZYcDJjY2IwOW9vVEE4WmprS1QwRzlLUXFzeDI3UXNjTEExZWQyUnNTVnh0Zll3ek5Id19XaUVlQmxpVHpPcks3RjVC0gFKQVVfeXFMUERaN0xOMlVqdkhMbl95Q0dESWlYZGFyR0ZEN2NOeWFaNXdEQ05GTVZYWDN0N1NYajVUTXFUN1lRd2VfelNLckF1NWc?oc=5",
-   "date": "2026-09-28",
-   "source": "هذا اليوم",
-   "title_ko": "동영상 | 관세청: 이라크, 시리아와 요르단에 의약품 등 약 90개 품목 수출"
   },
   {
    "cat": "자재·건설",
@@ -664,6 +616,14 @@
    "date": "2026-09-26",
    "source": "وكالة الانباء العراقية (واع)",
    "title_ko": "이라크의 투자 환경은 국내외 자본 간의 긍정적인 균형을 보여주고 있다고 이라크 뉴스 통신(NIC)이 보도했습니다."
+  },
+  {
+   "cat": "관세·통관",
+   "title": "What is the average US tariff rate for Iraq?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUM3QWh6WDRxODd5ZTZEbm43ZzJ3S1Q4Nzc1empmVWktZzhlVGxBRlA1Wm1xeTRBSHFGSVgxbk1NVGNacXZJV1FxRkVEZzRacGhwNDh0Mm5TMk5pLTI1cnptRmlIRUpfbGdyMUhvcVVsc2pVR1EwdVRhbHRLYUJ0c3Rhc1ZWNGdGOWhFc1o1bW8?oc=5",
+   "date": "2026-09-25",
+   "source": "USAFacts",
+   "title_ko": "이라크에 대한 미국의 평균 관세율은 얼마입니까?"
   },
   {
    "cat": "관세·통관",
@@ -704,6 +664,14 @@
    "date": "2026-09-18",
    "source": "شفق نيوز",
    "title_ko": "Shafaq News.. 이라크는 의약품에 대한 관세율을 설정합니다."
+  },
+  {
+   "cat": "관세·통관",
+   "title": "بعد اكتشاف انها مصابة بالحمى القلاعية.. العراق يعيد إلى ايران إرسالية من الأغنام الحية#",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRlRBUHJwNC00eW9YY2U2aFV4b28zc1RjcjJtN0pHMDJoenJQaGVRNTBCNDV6UDAtOFFkT1JCSTBEVFNwajlVbUd6U1AyQnhKWnlVWlhGVVVTbFhSNlZRWHl1bDN2RkNxdjZFRUhyNWlxeU80TDB3c0lfSDc2XzU4TWowczFyU1A4OGJSblN3VzQ1XzVhUml2aHp2RHNRQ2llVElFdXE1bURvakpVdHNmb2hwTEFNaEpDbkNwMWk5U2tLVDBfRXRhNXJ4MUpVNW5zS0VKMUZlMm0zZmFjUWg0UnV1VkJRd21mYWVRMTFzeHNmbWJWWjVSLVJobEZIQnJtTVlnTGJGY3NkbC05VEthbGU5ajQySzE3NUxnNXlmS2pCQlNueWg2RTlmNkY1R3ZHdTk2MkNta05aNVNsTjBqZmZaUlRNQQ?oc=5",
+   "date": "2026-09-18",
+   "source": "عراق اوبزيرفر",
+   "title_ko": "그녀가 수족구병에 감염된 것을 발견한 후, 이라크는 살아있는 양을 위탁하여 이란으로 돌아간다. #"
   }
  ]
 }
