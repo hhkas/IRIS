@@ -171,6 +171,9 @@
   .blist.compact .item h3{font-size:13.8px;line-height:1.45}
   .blist.compact .detail{display:none}
   .item.hide{display:none!important}
+  .bdiv{grid-column:1/-1;display:flex;align-items:center;gap:10px;margin:14px 0 4px;font-size:12px;font-weight:700;color:var(--muted)}
+  .bdiv::before,.bdiv::after{content:"";flex:1;height:1px;background:var(--line)}
+  .blist.full .bdiv{margin:6px 0 16px}
   details.hist{margin-top:9px;font-size:12.5px}
   details.hist summary{cursor:pointer;color:var(--steel);font-weight:700;font-size:12px}
   details.hist p{font-size:12.8px;color:#555;margin-top:8px}
@@ -230,7 +233,7 @@
       <div class="bchips" id="bchips"><button class="nf on" data-bc="전체">전체 21</button><button class="nf nf-upd" data-bc="__upd">🆕 이번 갱신 13</button><button class="nf" data-bc="관세·통관">관세·통관 5</button><button class="nf" data-bc="환율·금융">환율·금융 3</button><button class="nf" data-bc="물류·국경">물류·국경 6</button><button class="nf" data-bc="정세·보안">정세·보안 3</button><button class="nf" data-bc="재정·경제">재정·경제 1</button><button class="nf" data-bc="자재·에너지">자재·에너지 1</button><button class="nf" data-bc="제도·투자">제도·투자 2</button></div>
       <div class="bctl">
         <div class="seg" id="bview"><button data-v="compact" class="on">요약 카드</button><button data-v="full">전체 펼침</button></div>
-        <select id="bsort" aria-label="정렬"><option value="ord">주제순</option><option value="rank">중요도순</option><option value="date">최신 출처순</option></select>
+        <select id="bsort" aria-label="정렬"><option value="recent">최신 갱신순</option><option value="ord">주제순</option><option value="rank">중요도순</option><option value="date">최신 출처순</option></select>
       </div>
     </div>
     <div class="blist compact" id="blist">
@@ -888,15 +891,29 @@ function applyBrief(){
     const show = BCAT==='전체' || (BCAT==='__upd' ? it.dataset.upd==='1' : it.dataset.cat===BCAT);
     it.classList.toggle('hide', !show);
   });
+  const dv=document.querySelector('#blist .bdiv');
+  if(dv){ const anyOld=[...document.querySelectorAll('#blist .item')].some(x=>x.dataset.upd!=='1'&&!x.classList.contains('hide'));
+    const anyNew=[...document.querySelectorAll('#blist .item')].some(x=>x.dataset.upd==='1'&&!x.classList.contains('hide'));
+    dv.style.display=(anyOld&&anyNew)?'':'none'; }
   document.querySelectorAll('#bchips .nf').forEach(b=>b.classList.toggle('on', b.dataset.bc===BCAT));
 }
 function sortBrief(mode){
   const box=document.getElementById('blist');
   const arr=[...box.querySelectorAll('.item')];
-  arr.sort((a,b)=> mode==='ord' ? (+a.dataset.ord)-(+b.dataset.ord) : mode==='date'
+  box.querySelectorAll('.bdiv').forEach(d=>d.remove());
+  arr.sort((a,b)=> mode==='recent'
+    ? (+b.dataset.upd)-(+a.dataset.upd) || (b.dataset.asof||'').localeCompare(a.dataset.asof||'') || (+a.dataset.rank)-(+b.dataset.rank)
+    : mode==='ord' ? (+a.dataset.ord)-(+b.dataset.ord) : mode==='date'
     ? (b.dataset.asof||'').localeCompare(a.dataset.asof||'') || (+a.dataset.rank)-(+b.dataset.rank)
     : (+a.dataset.rank)-(+b.dataset.rank) || (+b.dataset.upd)-(+a.dataset.upd) || (b.dataset.asof||'').localeCompare(a.dataset.asof||''));
   arr.forEach(x=>box.appendChild(x));
+  if(mode==='recent'){
+    const first=arr.find(x=>x.dataset.upd!=='1');
+    if(first){ const d=document.createElement('div'); d.className='bdiv';
+      d.innerHTML='<span>이번 갱신('+BRIEF_DATE.slice(5).replace('-','/')+')에서 바뀌지 않은 항목 — 최신 출처일 순</span>';
+      box.insertBefore(d, first); }
+  }
+  applyBrief();
 }
 function setView(v){
   const box=document.getElementById('blist');
@@ -909,7 +926,7 @@ document.querySelectorAll('#bview button').forEach(b=>b.onclick=()=>setView(b.da
 document.getElementById('bsort').onchange=ev=>{ sortBrief(ev.target.value); lsSet('iris_bsort', ev.target.value); };
 (function(){
   const v=lsGet('iris_bview'); if(v==='full'||v==='compact') setView(v);
-  const so=lsGet('iris_bsort'); if(so==='date'||so==='rank'){ document.getElementById('bsort').value=so; }
+  const so=lsGet('iris_bsort'); if(so==='date'||so==='rank'||so==='ord'||so==='recent'){ document.getElementById('bsort').value=so; }
   sortBrief(document.getElementById('bsort').value);
 })();
 
