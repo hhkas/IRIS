@@ -2,6 +2,28 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
+<script>
+/* 외부 사이트에서 링크·임베드로 들어오는 것 차단 (주소 직접 입력, 즐겨찾기, 같은 hhkas.github.io 툴 링크는 허용) */
+(function () {
+  function block(msg) {
+    window.stop();
+    document.documentElement.innerHTML =
+      '<body style="font:16px sans-serif;padding:40px;color:#333;line-height:1.6">' + msg + '</body>';
+  }
+  // ① 다른 사이트 화면 안에 끼워 넣어진 경우
+  if (window.top !== window.self) {
+    block('이 페이지는 다른 사이트 안에서 열 수 없습니다.');
+    return;
+  }
+  // ② 다른 사이트의 링크를 눌러 들어온 경우
+  var ref = document.referrer;
+  try {
+    if (ref && new URL(ref).origin !== location.origin) {
+      block('주소창에 <b>' + location.origin + location.pathname + '</b> 를 직접 입력해 접속해 주세요.');
+    }
+  } catch (e) {}
+})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
 <title>IRIS · 이라크 규제·수입·조달시장 모니터</title>
