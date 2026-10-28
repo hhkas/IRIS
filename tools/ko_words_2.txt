@@ -1,0 +1,796 @@
+centrifugal	원심
+three	삼
+processing	가공
+program	프로그램
+monitor	모니터
+peatmoss	피트모스 상토
+hinges	경첩
+irrigation	관개 살수
+phase	상
+signalman	신호수
+blue	청색 파랑
+flask	플라스크
+column	기둥
+auxiliary	보조
+counter	카운터
+throttle	스로틀
+synchronizer	싱크로나이저
+dispenser	디스펜서 정수기
+shrinkage	수축
+grip	그립
+winding	권선
+geotextile	부직포 지오텍스타일
+face	면
+bump	범프
+trap	트랩
+portable	휴대용 이동식
+fiber	섬유
+life	구명
+flush	플러시
+washing	세척 세탁
+external	외부
+dustpan	쓰레받기
+convoluted
+knuckle	너클
+stamp	도장 스탬프
+aluminized	알루미늄
+cowl	카울
+amplifier	앰프 증폭기
+pinion	피니언
+cosmetic	보수
+reversing	후진
+bettery	배터리
+nylon	나일론
+trailing	트레일링
+stand	스탠드 받침
+barb	가시
+lnb
+staples	스테이플 심
+checker	체커
+junction	정션 접속
+masking	마스킹
+chipping	치핑
+tricycle	삼륜차
+gen	발전기
+bermuda	버뮤다
+tapered	테이퍼
+stopper	스토퍼 마개
+made
+japan	일본
+cord	코드 줄
+field	필드
+needle	니들 바늘
+bed	침대 베드
+tilt	틸트
+degree	도
+bench	벤치 작업대
+reinforcement	보강 철근
+clothes	옷 작업복
+town
+septic	정화조
+bending	벤딩 절곡
+leg	다리
+crucible	도가니
+erlenmeyer	삼각플라스크
+galan	갤런
+spider	스파이더
+separator	분리기 세퍼레이터
+impeller	임펠러
+flag	깃발
+polymer	폴리머
+chalk	분필 초크
+current	전류
+reserve	예비
+kerosene	등유
+cogged
+couping	커플링
+vibration	진동
+propel	추진
+sponge	스펀지
+scuff
+mic	마이크
+class	등급
+balance	밸런스
+converter	컨버터
+mortal	몰탈
+speaker	스피커
+stiff	강성
+sbr
+washbasin	세면대
+slipper	슬리퍼
+line	라인
+chamber	챔버
+rammer	램머
+rechargeable	충전식
+bowl	볼 그릇
+firefinghting	소방
+small	소형
+plasma	플라즈마
+cat
+carburator	기화기 카뷰레터
+sprocket	스프로킷
+waterstopping	지수
+ultrasonic	초음파
+buffer	버퍼
+crushed	쇄석
+bender	벤더 절곡기
+polish	광택 폴리싱
+system	시스템
+heavybattery	배터리
+radio	무전기 라디오
+avr	자동전압조정기
+reversible	가역
+vernier	버니어
+calipers	캘리퍼스
+king	킹
+perforated	타공
+duty
+all
+piping	배관
+diaphragm	다이어프램
+gps	지피에스
+iran	이란
+wdo	창문
+hydrochloric	염산
+hci	염산
+caburetor	기화기
+pipette	피펫
+plain	평
+smooth	스무스
+vibratory	진동
+lifter	리프터
+bead	비드
+electrode	용접봉 전극
+beaker	비커
+accessory	액세서리 부속
+armature	아마추어
+pilot	파일럿
+insulaterd	절연
+mainentrance	정문
+tongs	집게
+fertilizer	비료
+mastic	마스틱
+burner	버너
+pass
+stabilzer	안정기
+mouse	마우스
+bullet	총알
+swivel	스위블
+ventilator	환풍기
+rectifier	정류기
+zenon	제논
+lsd
+rox
+calanshu
+conditioning	공조
+urinal	소변기
+rocket
+pre
+pull	풀
+lens	렌즈
+chlorine	염소
+aluminium	알루미늄
+limit	리미트
+stifener	보강재
+wool	울 솜
+claw	클로
+reagent	시약
+crowbar	빠루 쇠지렛대
+lantern	랜턴
+broach
+duo
+nipper	니퍼
+lifting	인양
+grout	그라우트
+microwave	전자레인지
+interplate
+clean	청소
+gardening	원예 조경
+gland	그랜드
+upoper
+cylindr	실린더
+remover	제거제
+patch	패치
+damper	댐퍼
+pickaxe	곡괭이
+hollow	중공
+drier	건조기
+soldering	납땜
+thred	나사
+trolley	트롤리 손수레
+microphone	마이크
+recording	녹음
+wooden	목재
+relief	릴리프
+instrument	계기
+sliding	슬라이딩
+jigsaw	직소
+lawn	잔디
+strength	강도
+goggle	고글
+pillar	기둥
+school	학교
+electronic	전자
+driven
+dowel	다웰
+lift	리프트
+boom	붐
+solinoid	솔레노이드
+turbocharger	터보차저
+metering	계량
+wristle
+chair	의자
+meeting	회의
+registration	등록
+press	프레스
+accumulator	어큐뮬레이터
+diff	차동
+cabel	케이블
+busbar	부스바
+satelite	위성
+nitoproof	방수
+deformed	이형
+earthing	접지
+gloss	유광
+acacia	아카시아
+sikacrete
+cooking	식용 조리
+zer
+refrigeration	냉동
+entraining
+charge	충전
+kettle	주전자 커피포트
+talc	탈크
+weatherstrip	문풍지
+shroud
+food	식품
+sandpaper	사포
+pcs
+leveling	레벨링 평탄
+kicker
+flash	플래시
+padle
+compactor	다짐기 콤팩터
+devices	장치
+flooring	바닥재
+firefighting	소방
+lumber	각재 목재
+mini	미니
+backer	백업재
+dpd
+free
+peace
+amp	암페어
+cutters	커터
+cast	주철
+active
+carborn	카본
+joystick	조이스틱
+rtv	실리콘
+selector	셀렉터
+copy	복사
+polyaluminium	폴리염화알루미늄 응집제
+chloride	염화
+synchron	싱크로
+caul	코킹
+flaring
+economy
+elevator	엘리베이터
+solder	납땜
+strument
+stator	스테이터
+connect	연결
+measuring	측정
+enhence
+weranch	렌치
+oven	오븐
+handele	손잡이
+polishing	연마 광택
+military
+scissor	가위
+ladle	국자
+spoon	숟가락
+stering	조향
+exhast	배기
+sanitizers	소독제
+nitrile	니트릴
+blanket	담요
+linear	선형
+striker	스트라이커
+fiting	피팅
+work	작업
+dry	건식
+planetary	유성
+cont
+bituproof
+aac	경량기포콘크리트
+flywheel	플라이휠
+sikadur
+cooper	구리
+feed	피드
+mater
+straight	직선
+position
+tower	타워
+headbanc
+earmuffs	귀덮개
+collet	콜렛
+blind	블라인드
+condencer	콘덴서
+styrofoam	스티로폼
+aggregate	골재
+stay
+includes
+agc
+spool	스풀
+sbw
+jig	지그
+royal
+poinciana	봉황목
+grind	연마
+nitrogen	질소
+thermal	열
+dark
+exh	배기
+wearing	착용
+drainage	배수
+register
+escutcheon
+streering	조향
+filling	충전
+vlv	밸브
+gunny	마대
+normal	일반
+rip
+coaxial	동축
+atm
+hedge	울타리 생울타리
+shears	전정가위
+airconditioner	에어컨
+fence	펜스 울타리
+barrier	바리케이드 방호벽
+melt
+skirt
+winch	윈치
+resonator	레조네이터
+ajr
+stripper	박리기
+checking	점검
+multiswitch
+blocks	블록
+contaper
+domestic	가정용
+expanssion	신축
+electronics	전자
+ribbon	리본
+silicon	실리콘
+repairing	보수
+sweeper	청소기
+blance	밸런스
+hardner	경화제
+ready	레미콘
+foodgrade	식품용
+nontoxic	무독성
+wind	바람
+speedmeter	속도계
+orifice	오리피스
+nsk
+impulse
+groove	그루브 홈
+windshiled	앞유리
+transistor	트랜지스터
+bellow	벨로우즈
+kitchen	주방
+section
+dis
+play
+dioxide	이산화
+silencer	소음기
+fighting
+fast	속
+operating
+clever
+rice	쌀
+scoop	스쿱
+sauce	소스
+spatula	주걱 헤라
+cool
+madacascar
+periwinkle	빈카
+hmu
+poston	피스톤
+pick	곡괭이
+coller	칼라
+repelicone
+mower	예초기
+impella	임펠러
+covering
+staple	스테이플
+pein
+sika
+reemat
+sikagard
+console	콘솔
+ton	톤
+pitting
+friction	마찰
+middle	중간
+tea	차
+reflector	반사판
+carton	박스
+blood
+port
+umbrella	우산
+hasp	걸쇠
+mops	대걸레
+ele
+tappet	태핏
+bws
+ganish
+seperator	분리기
+pitch
+jet	제트
+shrewd
+senser	센서
+supt
+temprature	온도
+extention	연장
+hazard	위험
+braker	브레이크
+wate	물
+boot	부츠
+triple
+silocone	실리콘
+tensionar	텐셔너
+carpenter	목수
+demolition	해체 철거
+book	장부 책
+graduated	눈금
+rollar	롤러
+condition
+hid
+sink	싱크대
+pipeline	배관
+indicating
+toggle	토글
+setseal
+aqueous
+ammonia	암모니아
+caustic	가성
+soda	소다
+naoh	가성소다
+trisodium
+phosphate	인산
+desk	책상
+ampere	암페어
+polysulfide	폴리설파이드
+eucalyptus	유칼립투스
+funnel	깔대기
+laundry	세탁
+plotter	플로터
+cabinet	캐비닛 함
+ruber	고무
+triangular	삼각
+flex
+nitobond
+slow
+renedroc
+hsxtra
+reel	릴
+stickers	스티커
+pollyselnor
+refiner
+outsade	외부
+conrod	커넥팅로드
+sump	섬프
+professional
+detergents	세제
+propellar	프로펠러
+reducing	레듀샤
+tix
+dipper
+incandescent	백열
+tools	공구
+tab
+special	특수
+horizontal	수평
+stopwatch	스톱워치
+consumable	소모품
+shaped
+floodlight	투광등
+fungicides	살균제
+rooting	발근
+stimulant	촉진제
+grating	그레이팅
+louver	루버
+vice	바이스
+respirator	방독면
+sakr
+hyundai	현대
+triangle	삼각대
+tumbuckle	턴버클
+mat	매트
+trash	쓰레기
+foil	호일
+disconnect	단로
+bike	자전거
+integrated
+maker
+axial	축류
+street	가로
+killer	살충제
+refil	리필
+elect	전기
+fue	연료
+synchroni	싱크로
+whee	휠
+presure	압력
+evaporation	증발
+course
+mixed	혼합
+freon	프레온 냉매
+protector	보호대
+time
+steelwire	강선
+curtain	커튼
+brade	날
+varistor
+colant	냉각수
+abrasive	연마
+culture
+spoid	스포이드
+loewr	하부
+sheield	실드
+spc
+based
+covered
+burr
+thru
+pnl	패널
+furniture	가구
+utp	랜선
+icm
+autometic	자동
+waterstop	지수판
+terrazzo	테라조
+retchet	라쳇
+pack	팩
+plunger	플런저
+fly
+suspention	서스펜션
+dsr
+wax	왁스
+input	입력
+serving
+garbage	쓰레기
+smart
+lube	윤활
+sep
+magnectic	마그네틱
+narrow
+dse
+bracker	브라켓
+camshaft	캠축
+bult	볼트
+residual	잔류
+stk
+swich	스위치
+photocontrol	광센서
+tent	천막 텐트
+buff	버프
+strapping	결속
+asst
+premium
+bosch	보쉬
+emulsified	유화
+bell	벨
+puc
+apc
+imapct	임팩트
+wedge	쐐기
+crawler	크롤러
+planer	대패
+attachment	어태치먼트
+mgt
+crash
+carrying
+locker	사물함
+mattress	매트리스
+corrugated	주름
+group
+conect	연결
+length	길이
+output	출력
+steam	스팀
+laminator	코팅기
+drain	배수
+delivery	운송
+lagging	보온
+halide	메탈할라이드
+asbestos	석면
+plc
+urethan	우레탄
+barrow	손수레
+uper	상부
+shiled	실드
+crown	크라운
+holesaw	홀쏘
+bent	벤딩
+nersery	묘목
+pro
+pitman	피트먼
+sprinkling	살수
+reinf	보강
+universial	유니버셜
+timming	타이밍
+accerator	가속
+gage	게이지
+handel	손잡이
+finging
+cuct	덕트
+butt
+cylender	실린더
+asy	어셈블리
+quality
+rgulator	조정기
+meshf	메쉬
+infrared	적외선
+warehouse	창고
+trimmer	트리머
+jar	병
+cirkit	회로
+reefer	냉동컨테이너
+wireless	무선
+vaccum	진공
+mix	혼합
+megaphone	확성기
+tapper	탭
+jaw	조
+electromagnatic	전자
+separation	분리
+scrub
+bander	밴딩기
+bottom	하부
+drag
+torque	토크
+advance
+only
+attached
+hrs	시간
+point
+frication	마찰
+fascia
+manhole	맨홀
+reinstallation	재설치
+unequal	부등
+insid	내부
+scaffolding	비계
+works	공사
+total	토탈
+station	스테이션
+sewage	하수 오수
+tosot
+vise	바이스
+setting
+canteen	식당
+priming
+holes
+filer	필터
+wrecking
+syncronizer	싱크로나이저
+palm	야자
+turbine	터빈
+albizzia	자귀나무
+lebbeck
+idly
+jerry	말통
+turf	잔디
+finishing	마감
+cvv
+soundness	안정성
+machines
+insluation	절연
+brusher
+rds
+sanitizer	소독제
+compaction	다짐
+density	밀도
+antigen	항원
+thermocouple	열전대
+solar	태양광
+detergent	세제
+clener	클리너
+change
+lsa
+rawedge
+citric	구연산
+transmitter	송신기
+diap	다이어프램
+soccerball	축구공
+volleyball	배구공
+search
+leaking	누수
+steamy
+recoil	리코일
+oring	오링
+bal	볼
+gearbox	기어박스
+tempered	강화
+evacuation	대피
+wallfan	벽걸이선풍기
+star
+camera	카메라
+trukish	터키
+hexagonal	육각
+tread
+geared
+enblem	엠블럼
+symbol
+ground	접지
+blank
+drop
+galvanizing	도금
+reinforcing	보강
+baterry	배터리
+jumper	점퍼
+package
+salt	소금
+barricading	바리케이드
+striper
+towel	수건
+sds
+antivibration	방진
+lighte	조명
+ram	램
+spherical	구면
+strg	조향
+exposed	노출
+kia	기아
+enclosed
+megnetic	마그네틱
+sludge	슬러지
+supprot	지지
+valvesolenoid	솔레노이드밸브
+floatless	플로트리스
+signle	단일
+electircal	전기
+measurement	측정
+closer	도어클로저
+reinforced	보강
+smoke	연기
+windw	창문
+ventilation	환기
+noise	소음
+exchanger	열교환기
+armfrt
+machanical	기계식
+braring	베어링
+stabiliszer	안정기
+retaine	리테이너
+paste	페이스트
+final
+magnietic	마그네틱
+starer	스타터
+runing
+injetor	인젝터
+cork	코르크
+eyedropper	스포이드
+vsi
+transmiter	송신기
+mash	메쉬
+plange	플랜지
+hifi
+tooth	투스
+reciver	리시버
+radiatr	라디에이터
+aircleaner	에어클리너
+third
+dripper	점적기
+scratch
+looking
+sqare	사각
+threadlocker	나사고정제
+loctite	록타이트
+crimp	압착
+elec	전기
+koken

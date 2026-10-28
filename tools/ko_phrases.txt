@@ -1,0 +1,275 @@
+ordinary portland cement	보통포틀랜드시멘트 일반시멘트 OPC
+safety shoes	안전화
+sulfate resistant portland cement	내황산염시멘트 SRC 시멘트
+diesel	경유 디젤 기름
+lpg	엘피지 프로판가스 가스
+oil paint	유성페인트
+oxygen	산소 산소통
+pp rope	피피로프 밧줄
+ㅁshape steel - square pipe	각관 사각파이프 각파이프
+steel plate	철판 강판
+cutting disk	절단석 컷팅석 절단날
+paint roller	페인트롤러 로라
+v-belt	브이벨트 V벨트
+hand glove	장갑 목장갑
+gasoline	휘발유 가솔린
+oil seal	오일씰
+paint brush	페인트붓 붓
+cable tie	케이블타이 타이
+coated plywood	코팅합판 거푸집합판
+ball bearing	볼베어링
+waterproof cover (local)	방수포 갑바 천막
+rain boots	장화
+lacquer spray paint	락카스프레이 스프레이락카
+air conditioner gas	에어컨가스 냉매
+warning tape	경고테이프 바리케이드테이프
+raw stone	원석 잡석
+rain coat	우의 비옷
+road marking paint	차선도색페인트 노면표시페인트
+safety goggles	보안경 고글
+hammer drill bit	함마드릴비트 드릴날
+indoor broom+stick	빗자루
+self drilling screw	피스 직결나사
+rebar	철근
+electric cable	전선 케이블
+circuit breaker	차단기
+water pump	양수기 워터펌프
+pp bag	마대 포대
+tape measure	줄자
+transportation fee	운반비 운송비
+l shape steel - angle	앵글 ㄱ형강
+butane gas	부탄가스
+hand grinder	그라인더 핸드그라인더
+galvanized steel plate	아연도강판 함석
+quick lime	생석회
+fluorescent lamp	형광등
+wd-40	WD40 방청윤활제
+hexagon bolt	육각볼트
+general grease	구리스 그리스
+sling belt	슬링벨트 줄걸이
+dust mask	방진마스크 마스크
+enamel paint	에나멜페인트
+diesel engine oil	엔진오일 디젤엔진오일
+asphalt primer	아스팔트프라이머
+fuel filter	연료필터
+ㅁshape steel - rectangle pipe	각관 직사각파이프
+ball valve	볼밸브
+water paint	수성페인트
+ring type anchor bolt	앙카볼트 앵커볼트
+submersible water pump	수중펌프
+welding rod	용접봉
+concrete bonding additive	접착증강제 본드
+set anchor bolt	세트앙카 앵커볼트
+excavator(wheel) rental	굴삭기임대 포크레인임대 장비임대
+acetylene	아세틸렌 가스
+wire brush	와이어브러시 쇠솔
+air conditioner	에어컨
+hose clamp	호스밴드 호스클램프
+hydraulic oil	유압유 작동유
+anticorrosive paint	방청페인트 녹막이
+safety helmet	안전모
+air filter	에어필터 공기필터
+oil filter	오일필터
+washer head drilling screws	와샤피스
+motorcycle	오토바이
+o-ring	오링
+hdpe electric socket	전기융착소켓
+polyurethane foam	우레탄폼
+water truck rental	살수차임대 물차임대
+clear glass	투명유리
+silicone sealant	실리콘
+cup brush	컵브러시
+bolt cutter	볼트커터 클리퍼
+metal drill bits	철기리 드릴날
+concent(outlet)	콘센트
+plywood	합판
+glue for pvc	PVC본드
+energy lamp(white)	절전형전구 전구
+welding leather gloves	용접장갑 가죽장갑
+wire rope	와이어로프 와이어
+dump truck rental	덤프임대 덤프트럭임대
+chemical anchor	케미컬앙카
+fuel tank rental	연료탱크임대
+scaffold pipe	비계파이프 아시바
+gear oil	기어오일
+motorcycle tire	오토바이타이어
+engine coolant	부동액 냉각수
+binding wire	결속선
+hose band	호스밴드
+shovel	삽
+wire mesh	와이어메쉬
+ice water box	아이스박스
+mccb	배선용차단기 MCCB
+radiator assy	라디에이터
+carbon brush	카본브러시
+freight cost	운임 운송비
+air impact wrench	에어임팩 임팩렌치
+a/c compressor	에어컨컴프레서
+ratchet wrench	라쳇렌치 깔깔이
+earplug	귀마개
+fire hose	소방호스
+magnetic contactor	마그네트 전자접촉기
+skid loader rental	스키드로더임대 밥캣임대
+hammer drill	함마드릴
+water hose	물호스
+ballast stabilizer	안정기
+diamond cutting disk	다이아몬드날 절단날
+lighting fixture	등기구 조명기구
+pest control material	방역약품 살충제
+paint marker	페인트마카
+alternator	제너레이터 발전기
+flood light lamp(white)	투광등램프
+wall fan	벽걸이선풍기
+check plate	체크플레이트 줄무늬강판
+white cement	백시멘트
+concrete finisher blade	피니셔날
+mcb	소형차단기
+nail	못
+safety glasses	보안경
+drinking water bottle	생수
+zinc paint	징크페인트
+anti-termite	흰개미방지제
+acrylic sheet	아크릴판
+silicone gun	실리콘건
+elb(rcb)	누전차단기
+polysulphide sealant	폴리설파이드실란트
+date plam	대추야자
+flood light	투광등
+generator	발전기
+disk wheel paper	샌딩페이퍼 페이퍼디스크
+snatch hook	스내치후크 견인고리
+tack coat	택코트
+spark plug	점화플러그
+cloth duct tape	청테이프 덕트테이프
+angle valve	앵글밸브
+welding glass	용접유리
+pe water tank	물탱크
+steel rake + wood stick	갈퀴 레이크
+alkaline battery	건전지 알카라인건전지
+traffic signal wand	경광봉 신호봉
+grease nipple	구리스니플
+vib' roller rental	진동롤러임대
+air hose	에어호스
+head gasket	헤드가스켓
+monkey spanner(adjustable wrench)	몽키스패너 몽키
+padfoot roller rental	패드풋롤러임대
+high tension bolt	고장력볼트
+wheel loader rental	로더임대 페이로더임대
+mechanical seal	메카니컬씰
+lubricant spray	윤활스프레이
+one touch fitting	원터치피팅
+glass beads	유리알 글라스비드
+hdpe pipe	PE관 고밀도PE관
+half coated gloves	반코팅장갑 코팅장갑
+iron scrubber	쇠수세미
+single wire	단선
+combination wrench	콤비네이션렌치 스패너
+traffic signal vest	안전조끼 형광조끼
+floor water wiper	물밀대 스퀴지
+container house (caravan)	컨테이너하우스 카라반 사무실컨테이너
+rag	걸레 웨스
+gate valve	게이트밸브
+fire extinguisher	소화기
+flexible hose	자바라호스 플렉시블호스
+starter motor	스타트모터 셀모터
+grinding disk	연마석 그라인더날
+floor mop(wet)	대걸레 마대걸레
+steel door hinge	경첩
+extinguisher(powder)	분말소화기
+shade net	차광막 그늘막
+insulating tape	절연테이프 전기테이프
+anchor bolt	앵커볼트 앙카
+hand grinder disk	그라인더날
+fuel pump	연료펌프
+u bolt	유볼트
+sprayer	분무기
+trowel	흙손 고데
+injector	인젝터
+bleach clorox	락스
+electric drill driver	전동드릴
+dust proof clothing	방진복
+electric fan	선풍기
+door lock	도어락 문손잡이
+fiberglass cloth	유리섬유천
+electric plug	플러그 전기플러그
+concrete finisher	피니셔
+fan belt	팬벨트
+screwdriver bits	드라이버비트
+mortar	몰탈 시멘트몰탈
+transparency tape	투명테이프 스카치테이프
+cutter blade	커터날 칼날
+ultra brake fluid	브레이크오일
+radiator	라디에이터
+charging flashlight	충전식손전등 후레쉬
+lever block	레버블록 체인블록
+form release agent	박리제 거푸집박리제
+admixture	혼화제
+frp water tank	FRP물탱크
+stainless steel barbed wire	철조망
+cutter knife	커터칼
+protective goggles	보안경
+spray gun	스프레이건
+ㄷ shape steel - channel	찬넬 ㄷ형강
+pe film	비닐 PE필름
+fuse	퓨즈
+natural gypsum	석고
+teflon tape	테프론테이프 실테이프
+switch	스위치
+electrical extension cable	연장선 릴선 전기릴
+plastic bag	비닐봉투
+pp band	PP밴드 포장끈
+concrete vibrator	바이브레이터 진동기
+paper tape	종이테이프 마스킹테이프
+taper roller bearing	테이퍼베어링
+mould oil	박리제 몰드오일
+sandwich panel - wall	샌드위치판넬
+level ruler	수평자 수평계
+conveyor belt	컨베이어벨트
+split pin	분할핀
+electric wire	전선
+distilled water	증류수 배터리물
+welding foot cover	용접각반
+watering hose	물호스 살수호스
+gas torch	토치
+long nose pliers	롱노즈 라디오펜치
+feather duster	먼지떨이
+stud bolt	스터드볼트
+wire clip	와이어클립
+n2	질소
+high pressure hose	고압호스
+print paper	복사용지 A4
+butterfly valve	버터플라이밸브
+grinding stone	연마석 숫돌
+plaster mesh	미장메쉬
+sodium hypochlorite	차아염소산나트륨 락스
+rubber corn	라바콘 안전콘
+solenoid valve	솔레노이드밸브
+inverter dc arc welding machine	용접기 인버터용접기
+wire rope sling	와이어슬링
+sand paper	사포 샌드페이퍼
+wash basin faucet	세면대수전 수도꼭지
+electric impact wrench	전동임팩
+vacuum cleaner	청소기
+saw	톱
+pile cushion	파일쿠션
+ratchet tie down strap	화물바 라쳇바
+co2	이산화탄소 탄산가스
+sand	모래
+timber	각재 목재
+bitumen	아스팔트 역청
+padlock	자물쇠
+vinyl	비닐
+thinner	시너 신나
+battery	배터리 밧데리
+tire	타이어
+tube	튜브
+bearing	베어링
+seal	씰
+grease	구리스
+toner of printer(black)	토너 프린터토너
+toner of printer(cyan)	토너 프린터토너
+toner of printer(magenta)	토너 프린터토너
+toner of printer(yellow)	토너 프린터토너
+fluorescent lamp	형광등
+evaporator	에바 증발기
+condenser	콘덴서
